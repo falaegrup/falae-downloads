@@ -1,0 +1,9 @@
+staging/
+node_modules/
+.env*
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.pem
+
