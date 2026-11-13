@@ -1,0 +1,4974 @@
+{
+  "source": "https://avatardecoration.com/pt#decoration",
+  "collectedAt": "2026-11-13T15:01:13.066Z",
+  "items": [
+    {
+      "kind": "decoration",
+      "name": "I'm a Clown",
+      "url": "https://img.avatardecoration.com/decorations/im_a_clown.png",
+      "path": "molduras/im_a_clown.png",
+      "bytes": 95649,
+      "sha256": "1fd3c63746c6637930c70d45cbf8bef5ae20a80247dcaeacbd64d12bb381bc13"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mokoko",
+      "url": "https://img.avatardecoration.com/decorations/mokoko.png",
+      "path": "molduras/mokoko.png",
+      "bytes": 143378,
+      "sha256": "6c23e5adc03b6afc8eddac37427b9188f89a8935b3f81dc92d1f19ec1347fa0c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Gyoiko Sakura",
+      "url": "https://img.avatardecoration.com/decorations/sakura_gyoiko.png",
+      "path": "molduras/sakura_gyoiko.png",
+      "bytes": 1118487,
+      "sha256": "5a28a04e2a6a5172a06ec297db837fcc8bb776e75f7cf9184b5453a7206aef5f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Warp Helmet",
+      "url": "https://img.avatardecoration.com/decorations/warp_helmet.png",
+      "path": "molduras/warp_helmet.png",
+      "bytes": 60233,
+      "sha256": "240fee6edb34dd7d6f7c827c93e27e304a343dbc8bdab191e565ade345af134c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fortnite Victory Crown",
+      "url": "https://img.avatardecoration.com/decorations/victory_crown.png",
+      "path": "molduras/victory_crown.png",
+      "bytes": 731138,
+      "sha256": "58f5da651b27cfa8a29562aa9761fe586ffb4267ede19d8be930092693397f7f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Freezer Bunny Lovebug",
+      "url": "https://img.avatardecoration.com/decorations/freezer_bunny_lovebug.png",
+      "path": "molduras/freezer_bunny_lovebug.png",
+      "bytes": 183770,
+      "sha256": "8fc71bb996017252cfdebe47a76ba579b53390a0b2198997851ad5771c0335e9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Wingman Boba",
+      "url": "https://img.avatardecoration.com/decorations/wingman_boba.png",
+      "path": "molduras/wingman_boba.png",
+      "bytes": 731575,
+      "sha256": "c72cc9621a5a523edb3ce8344d64a310892ff6c1857496eaa1e44a68d14f6ed2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Los Santos",
+      "url": "https://img.avatardecoration.com/decorations/los_santos.png",
+      "path": "molduras/los_santos.png",
+      "bytes": 1237747,
+      "sha256": "f720b7d8ef61430967621774bfde793bb01bedd43f02a01c7cd4799dfe5930e3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Hailey",
+      "url": "https://img.avatardecoration.com/decorations/hailey.png",
+      "path": "molduras/hailey.png",
+      "bytes": 1565647,
+      "sha256": "a59915bc0650b1e428c7f3e5be5f0b296b7ae0f22be1fdba366e69e36d232b91"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bunny",
+      "url": "https://img.avatardecoration.com/decorations/bunny.png",
+      "path": "molduras/bunny.png",
+      "bytes": 1369360,
+      "sha256": "cd43600760c4987023a6c57455ca0df3e2fd8b3f7dddaab67f3bb19c81947f33"
+    },
+    {
+      "kind": "decoration",
+      "name": "Torgal Puppy",
+      "url": "https://img.avatardecoration.com/decorations/torgal_puppy.png",
+      "path": "molduras/torgal_puppy.png",
+      "bytes": 310467,
+      "sha256": "ff6207b91d09522414a71e761b739bd90003672cd1c117355b907518ba38b332"
+    },
+    {
+      "kind": "decoration",
+      "name": "Street Fighter 6 Battle Field",
+      "url": "https://img.avatardecoration.com/decorations/street_fighter_6_battle_field.png",
+      "path": "molduras/street_fighter_6_battle_field.png",
+      "bytes": 432995,
+      "sha256": "cbd2d992286cc45e1922e5497c9bdac0887bfb01e2c78e9ef1088459172da797"
+    },
+    {
+      "kind": "decoration",
+      "name": "Wolf Morph",
+      "url": "https://img.avatardecoration.com/decorations/wolf_morph.png",
+      "path": "molduras/wolf_morph.png",
+      "bytes": 1095748,
+      "sha256": "d5973059672e0c1d69bf7632fef169478d0dcf76a71810dc10876a3c433bf4b3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Wallach IX Spaceport",
+      "url": "https://img.avatardecoration.com/decorations/wallach_spaceport.png",
+      "path": "molduras/wallach_spaceport.png",
+      "bytes": 6201098,
+      "sha256": "a75aa00f6ad84a6696ce61a95c2674e443907f50d2948700a6bf15d4b29885dc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Batarang",
+      "url": "https://img.avatardecoration.com/decorations/batarang.png",
+      "path": "molduras/batarang.png",
+      "bytes": 737547,
+      "sha256": "a2569c08318a9243271f3df8bbc6f92d66f2e91e2890dc8d474e3dab28312327"
+    },
+    {
+      "kind": "decoration",
+      "name": "Rift Butterfly",
+      "url": "https://img.avatardecoration.com/decorations/rift_butterfly.png",
+      "path": "molduras/rift_butterfly.png",
+      "bytes": 4077282,
+      "sha256": "cb46bc76c53fd520ad126e04bb1223b6d178de54e8b6d0b94880a7b96b2c3654"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bush Camper",
+      "url": "https://img.avatardecoration.com/decorations/bush_camper.png",
+      "path": "molduras/bush_camper.png",
+      "bytes": 1259203,
+      "sha256": "81bb7f6fd6f4c79e1d50838e201a193aad1432c2c8bf2cd80267c05fedf8271d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Shield Potion",
+      "url": "https://img.avatardecoration.com/decorations/shield_potion.png",
+      "path": "molduras/shield_potion.png",
+      "bytes": 630165,
+      "sha256": "ec9b52c5fbafd76ac1866d26ac9bd6cb7f4454e7d6da2508b1536a205404b163"
+    },
+    {
+      "kind": "decoration",
+      "name": "TGA Controller",
+      "url": "https://img.avatardecoration.com/decorations/tga_controller.png",
+      "path": "molduras/tga_controller.png",
+      "bytes": 712137,
+      "sha256": "bb6da75e7ac94f73774471a27f26828924a859ddd28b635c1d09b7b28ddb70d3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Shadow",
+      "url": "https://img.avatardecoration.com/decorations/shadow.png",
+      "path": "molduras/shadow.png",
+      "bytes": 449125,
+      "sha256": "3a379bb42760351a681fca621c139eb5ccab955fc202b50c38ed94ce3319daf8"
+    },
+    {
+      "kind": "decoration",
+      "name": "2025 Balloons",
+      "url": "https://img.avatardecoration.com/decorations/new_year_2025.png",
+      "path": "molduras/new_year_2025.png",
+      "bytes": 893907,
+      "sha256": "4fb0f7b3cb3eee6882a1ce5531e7627efc34106a4f98a8c1f3cafd2239dd0d2a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Holiday Cat Ears",
+      "url": "https://img.avatardecoration.com/decorations/santa_cat_ears.png",
+      "path": "molduras/santa_cat_ears.png",
+      "bytes": 3286252,
+      "sha256": "abd0d15db44b749f8d41f1642ae62162291c4f4871d7c98826731a3dddd91d6d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowfall",
+      "url": "https://img.avatardecoration.com/decorations/snowfall.png",
+      "path": "molduras/snowfall.png",
+      "bytes": 1969003,
+      "sha256": "a4317b8d678278d56faea55ff216485675176cf46c7cc1f281aefb20f6b284ea"
+    },
+    {
+      "kind": "decoration",
+      "name": "Rec Room Lightning",
+      "url": "https://img.avatardecoration.com/decorations/rec_room_lightning.png",
+      "path": "molduras/rec_room_lightning.png",
+      "bytes": 3412084,
+      "sha256": "1bc0ccb2b1e228103f2c78e6ead701fa639231055395c829d54609355acb7d9d"
+    },
+    {
+      "kind": "decoration",
+      "name": "WINGMAN'S GOT IT",
+      "url": "https://img.avatardecoration.com/decorations/wingmans_got_it.png",
+      "path": "molduras/wingmans_got_it.png",
+      "bytes": 894423,
+      "sha256": "0b2fc7ab38f66bf3a673addcbdebb608ee93af508ba5841a2608e58ef9a4202e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Jeff the Land Shark",
+      "url": "https://img.avatardecoration.com/decorations/jeff_the_land_shark.png",
+      "path": "molduras/jeff_the_land_shark.png",
+      "bytes": 663363,
+      "sha256": "3a67fd12356d4d520357086ce1b0032251518b1ead4132ba627a9a2412f18514"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fuchsia Agent",
+      "url": "https://img.avatardecoration.com/decorations/fuchsia_agent.png",
+      "path": "molduras/fuchsia_agent.png",
+      "bytes": 1191612,
+      "sha256": "ec6483ef1d82be48b200129e00b903b2346b5486efb757252c72472d3cec7f75"
+    },
+    {
+      "kind": "decoration",
+      "name": "Heart-to-Heart",
+      "url": "https://img.avatardecoration.com/decorations/heart_to_heart.png",
+      "path": "molduras/heart_to_heart.png",
+      "bytes": 241381,
+      "sha256": "44ed98929be5e918b7249c14aa47db29f4f8d8e7aa8a4957c8abcccab3de0bd2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snake's Hug",
+      "url": "https://img.avatardecoration.com/decorations/snakes_hug.png",
+      "path": "molduras/snakes_hug.png",
+      "bytes": 907961,
+      "sha256": "c5558a66e63befe041dd8da08a842786b78564bac7607718cdc3e60024b55051"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lotus Flower",
+      "url": "https://img.avatardecoration.com/decorations/lotus_flower.png",
+      "path": "molduras/lotus_flower.png",
+      "bytes": 645582,
+      "sha256": "87dd1ac193c5edca11820bf7aafc1c329a41936c04440d5571c9464384dba476"
+    },
+    {
+      "kind": "decoration",
+      "name": "Red Lantern",
+      "url": "https://img.avatardecoration.com/decorations/red_lantern.png",
+      "path": "molduras/red_lantern.png",
+      "bytes": 1767201,
+      "sha256": "2d12c3344db89697f9ad528e7d183979dff4e3071af233aff19b1f31d916f8a6"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fan Flourish",
+      "url": "https://img.avatardecoration.com/decorations/fan_flourish.png",
+      "path": "molduras/fan_flourish.png",
+      "bytes": 775059,
+      "sha256": "30c5d5c1259e48cf318626aeb82ab9f4a4ef9608aa342bd368e9f62e9a7e6ac9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lunar Lanterns",
+      "url": "https://img.avatardecoration.com/decorations/lunar_lanterns.png",
+      "path": "molduras/lunar_lanterns.png",
+      "bytes": 915546,
+      "sha256": "b9fa53871195b9599b5e8e4d628bd5fc41b269b1d7f24951ebf7446f30c487e6"
+    },
+    {
+      "kind": "decoration",
+      "name": "Firecrackers",
+      "url": "https://img.avatardecoration.com/decorations/firecrackers.png",
+      "path": "molduras/firecrackers.png",
+      "bytes": 510841,
+      "sha256": "f354eb8cb91a0ca563007369291eea3c912bb4574967826555663aab93a138e5"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dragon's Smile",
+      "url": "https://img.avatardecoration.com/decorations/dragons_smile.png",
+      "path": "molduras/dragons_smile.png",
+      "bytes": 965137,
+      "sha256": "a87e6afa86ae19037320ba9d7601be0bc6222e6696272a9b857bc546210abffa"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lucky Envelopes",
+      "url": "https://img.avatardecoration.com/decorations/lucky_envelopes.png",
+      "path": "molduras/lucky_envelopes.png",
+      "bytes": 569985,
+      "sha256": "f11cc36393405cbde3e2886123d89ff7f65e85c533fff13ba1ea972b03c5c751"
+    },
+    {
+      "kind": "decoration",
+      "name": "Koi Pond",
+      "url": "https://img.avatardecoration.com/decorations/koi_pond.png",
+      "path": "molduras/koi_pond.png",
+      "bytes": 962810,
+      "sha256": "4009a2bc35c1152ed6841f9a0e04890af5c579e703817e860a34781978ae382b"
+    },
+    {
+      "kind": "decoration",
+      "name": "Steampunk Cat Ears",
+      "url": "https://img.avatardecoration.com/decorations/steampunk_cat_ears.png",
+      "path": "molduras/steampunk_cat_ears.png",
+      "bytes": 1139846,
+      "sha256": "91e6cb3e265452f2fb1ce8eee1f9f3e85c7f9d0b671507936df54f09c0061dd7"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mech Flora",
+      "url": "https://img.avatardecoration.com/decorations/mech_flora.png",
+      "path": "molduras/mech_flora.png",
+      "bytes": 890454,
+      "sha256": "1c4058d170b1f5d9a1060dcaa300eb9615349942471453aa4e27eeef2ac4079f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bowler Hat",
+      "url": "https://img.avatardecoration.com/decorations/bowler_hat.png",
+      "path": "molduras/bowler_hat.png",
+      "bytes": 250865,
+      "sha256": "385451eabe177bee7cb95b47294d0e9ba5803b1224a891f11d2040cad7a172f4"
+    },
+    {
+      "kind": "decoration",
+      "name": "Brass Beats",
+      "url": "https://img.avatardecoration.com/decorations/brass_beats.png",
+      "path": "molduras/brass_beats.png",
+      "bytes": 1010540,
+      "sha256": "27ea6a375b854b85adf530779601de5b6307d41c138c8fedf93cc41f786c52f0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Timekeeper's Clock",
+      "url": "https://img.avatardecoration.com/decorations/timekeepers_clock.png",
+      "path": "molduras/timekeepers_clock.png",
+      "bytes": 1190796,
+      "sha256": "e46863643b6cf6edf403d6239d22f3e9a98ed0dd49cc466b331eabc87e943d47"
+    },
+    {
+      "kind": "decoration",
+      "name": "Flux Alchemy",
+      "url": "https://img.avatardecoration.com/decorations/flux_alchemy.png",
+      "path": "molduras/flux_alchemy.png",
+      "bytes": 1660751,
+      "sha256": "9ea9f7ea65e9f5e6db61ca50cd059c345ba270d962c4ef9d0a82e02e208fac06"
+    },
+    {
+      "kind": "decoration",
+      "name": "Magic Portal (Purple)",
+      "url": "https://img.avatardecoration.com/decorations/magic_portal_purple.png",
+      "path": "molduras/magic_portal_purple.png",
+      "bytes": 1640066,
+      "sha256": "d5a8ed553a267dac4c4ce6f3bf035ff5f56b94acf03fc6e8097545fba1586df2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Magic Portal (Blue)",
+      "url": "https://img.avatardecoration.com/decorations/magic_portal_blue.png",
+      "path": "molduras/magic_portal_blue.png",
+      "bytes": 1682992,
+      "sha256": "8dc1e020854bf750672f6261a02d15f05bd31f149bfcc37350ad9f606e88d8eb"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fairy Sprites (Pink)",
+      "url": "https://img.avatardecoration.com/decorations/fairy_sprites_pink.png",
+      "path": "molduras/fairy_sprites_pink.png",
+      "bytes": 2960598,
+      "sha256": "6e32d3b9b81ad9e42f9b1ccec665b8266256ada497b95b16f19e069be26f5f13"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fairy Sprites (Blue)",
+      "url": "https://img.avatardecoration.com/decorations/fairy_sprites_blue.png",
+      "path": "molduras/fairy_sprites_blue.png",
+      "bytes": 2408009,
+      "sha256": "c212c9e8f8ac81e2b31d901d4b3d76f2d4a02659a5a249a81fceb0eed2494e62"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fairy Sprites",
+      "url": "https://img.avatardecoration.com/decorations/fairy_sprites.png",
+      "path": "molduras/fairy_sprites.png",
+      "bytes": 1986649,
+      "sha256": "de4c4a34a05453c941d15f5a425c15d0a6ba62d2cafe87bc7ee4252c245fc875"
+    },
+    {
+      "kind": "decoration",
+      "name": "Crystal Ball (Purple)",
+      "url": "https://img.avatardecoration.com/decorations/crystal_ball_purple.png",
+      "path": "molduras/crystal_ball_purple.png",
+      "bytes": 1333178,
+      "sha256": "5e993c6a366819db45131845a5504b108d7056a84a940f5ccf26f7e2106086c7"
+    },
+    {
+      "kind": "decoration",
+      "name": "Crystal Ball (Blue)",
+      "url": "https://img.avatardecoration.com/decorations/crystal_ball_blue.png",
+      "path": "molduras/crystal_ball_blue.png",
+      "bytes": 1292058,
+      "sha256": "82dbd57aa8a4c9318f6685bff29cc360069e4e06a93539be25181863d469b83e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Wizard Hat (Purple)",
+      "url": "https://img.avatardecoration.com/decorations/wizard_hat_purple.png",
+      "path": "molduras/wizard_hat_purple.png",
+      "bytes": 510880,
+      "sha256": "5ac9c150063612c5541449d580372a7c3535c91b843ec756ac1f482ab4df8f30"
+    },
+    {
+      "kind": "decoration",
+      "name": "Wizard Hat (Blue)",
+      "url": "https://img.avatardecoration.com/decorations/wizard_hat_blue.png",
+      "path": "molduras/wizard_hat_blue.png",
+      "bytes": 508153,
+      "sha256": "16e1bd5efe46a7d4af6268dbc40143ab77a6ff4b232cc80c36b5fbd65c781e16"
+    },
+    {
+      "kind": "decoration",
+      "name": "Magical Wand (Purple)",
+      "url": "https://img.avatardecoration.com/decorations/magical_wand_purple.png",
+      "path": "molduras/magical_wand_purple.png",
+      "bytes": 764887,
+      "sha256": "10429778f68a1cc95b8fb7471030fd1c4f5df9c44507de02ca6c14f7ee5fa5a2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Magical Wand (Green)",
+      "url": "https://img.avatardecoration.com/decorations/magical_wand_green.png",
+      "path": "molduras/magical_wand_green.png",
+      "bytes": 670340,
+      "sha256": "8b5a28fa5ca6e1bdc5569369e2a727a9383932142c4c8b83ff58b892de50eae8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mooncaps (Pink)",
+      "url": "https://img.avatardecoration.com/decorations/mooncaps_pink.png",
+      "path": "molduras/mooncaps_pink.png",
+      "bytes": 847208,
+      "sha256": "0479c99b1e77530f03d39b7abe50bb75022e5e3462235c1b64d5828b45247788"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mooncaps (Blue)",
+      "url": "https://img.avatardecoration.com/decorations/mooncaps_blue.png",
+      "path": "molduras/mooncaps_blue.png",
+      "bytes": 856076,
+      "sha256": "c32c0b8983a71fb3bd9b281b187ff466daabca97b4e5d67c8b5777f56bee94d0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cottage Home",
+      "url": "https://img.avatardecoration.com/decorations/cottage_home.png",
+      "path": "molduras/cottage_home.png",
+      "bytes": 1518468,
+      "sha256": "2ced744e8fa6e09fef95f1978ed0ed422046c350645ef7b32d3c250293da8286"
+    },
+    {
+      "kind": "decoration",
+      "name": "Flaming Sword",
+      "url": "https://img.avatardecoration.com/decorations/flaming_sword.png",
+      "path": "molduras/flaming_sword.png",
+      "bytes": 2843359,
+      "sha256": "b78c4188196533bbdd3609b016782c2232aa5f1d05bc1430be3c4bdf39cffa24"
+    },
+    {
+      "kind": "decoration",
+      "name": "Magical Potion",
+      "url": "https://img.avatardecoration.com/decorations/magical_potion.png",
+      "path": "molduras/magical_potion.png",
+      "bytes": 2195126,
+      "sha256": "8456bd4c343f43b2ace570c62e6647ae77446e76175a6ed57d7ec72bbad99c89"
+    },
+    {
+      "kind": "decoration",
+      "name": "Wizard's Staff",
+      "url": "https://img.avatardecoration.com/decorations/wizards_staff.png",
+      "path": "molduras/wizards_staff.png",
+      "bytes": 1583239,
+      "sha256": "4fccb0504740f5d6a86718764d236df05a10c9d10defd5b20197059fb094f1fc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Glowing Runes",
+      "url": "https://img.avatardecoration.com/decorations/glowing_runes.png",
+      "path": "molduras/glowing_runes.png",
+      "bytes": 2685089,
+      "sha256": "448e2ea529c588a6129b3247715d149a581004a270b62308da4838ce762427b2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Defensive Shield",
+      "url": "https://img.avatardecoration.com/decorations/defensive_shield.png",
+      "path": "molduras/defensive_shield.png",
+      "bytes": 1967565,
+      "sha256": "02a5eadff672616d8b0770432416807a85f1afb325b47a04acf0758e7c409544"
+    },
+    {
+      "kind": "decoration",
+      "name": "Skull Medallion",
+      "url": "https://img.avatardecoration.com/decorations/skull_medallion.png",
+      "path": "molduras/skull_medallion.png",
+      "bytes": 1801444,
+      "sha256": "7ebf8b08f3b27b83accc0f2e784466e4aab1b298e62ae21274b4a31c429371a1"
+    },
+    {
+      "kind": "decoration",
+      "name": "Treasure and Key",
+      "url": "https://img.avatardecoration.com/decorations/treasure_and_key.png",
+      "path": "molduras/treasure_and_key.png",
+      "bytes": 1535152,
+      "sha256": "2cc5d2103c971952d3661a16cafb369aba9204efbd82e26b74fc4bc0692bdcf0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Aurora",
+      "url": "https://img.avatardecoration.com/decorations/aurora.png",
+      "path": "molduras/aurora.png",
+      "bytes": 1608184,
+      "sha256": "ebab1534d8d725dd26734e2c653fe43b2108962a6685fa8185ed2c1337b64a71"
+    },
+    {
+      "kind": "decoration",
+      "name": "Polar Bear Hat",
+      "url": "https://img.avatardecoration.com/decorations/polar_bear_hat.png",
+      "path": "molduras/polar_bear_hat.png",
+      "bytes": 837348,
+      "sha256": "c0ef616ae2bb8b5c71fb16816e33654c722bf052896a0c78232c5153e0daff24"
+    },
+    {
+      "kind": "decoration",
+      "name": "String Lights",
+      "url": "https://img.avatardecoration.com/decorations/string_lights.png",
+      "path": "molduras/string_lights.png",
+      "bytes": 262002,
+      "sha256": "278c207af87bfbae9c2f958b703aa989101c428c35bb729d415d708daf9298c3"
+    },
+    {
+      "kind": "decoration",
+      "name": "String Lights (Aurora)",
+      "url": "https://img.avatardecoration.com/decorations/string_lights_aurora.png",
+      "path": "molduras/string_lights_aurora.png",
+      "bytes": 143565,
+      "sha256": "6b8b818d01c02dd0da8c8ebae6fb841d768824e5d522b12f6eaea6a89fdd1f65"
+    },
+    {
+      "kind": "decoration",
+      "name": "String Lights (Ember)",
+      "url": "https://img.avatardecoration.com/decorations/string_lights_ember.png",
+      "path": "molduras/string_lights_ember.png",
+      "bytes": 149482,
+      "sha256": "3381421df086c4ae9957a380a699d882c10de866c84052f273880e3cc3923bc3"
+    },
+    {
+      "kind": "decoration",
+      "name": "String Lights (Dusk)",
+      "url": "https://img.avatardecoration.com/decorations/string_lights_dusk.png",
+      "path": "molduras/string_lights_dusk.png",
+      "bytes": 142064,
+      "sha256": "67c6ae373d9fabf4166b718576c126d8256932a908ed4594954eb5b708096b40"
+    },
+    {
+      "kind": "decoration",
+      "name": "String Lights (Mix)",
+      "url": "https://img.avatardecoration.com/decorations/string_lights_mix.png",
+      "path": "molduras/string_lights_mix.png",
+      "bytes": 158560,
+      "sha256": "7ea499ec88c97ebf6393ce3b77a671e692617298c506755f3c8afd53186f421e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowglobe",
+      "url": "https://img.avatardecoration.com/decorations/snowglobe.png",
+      "path": "molduras/snowglobe.png",
+      "bytes": 1361810,
+      "sha256": "710ac12085eb448fffdeb2ec8790b637b60a7374351cd0958755981678576e23"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowglobe (Wood)",
+      "url": "https://img.avatardecoration.com/decorations/snowglobe_wood.png",
+      "path": "molduras/snowglobe_wood.png",
+      "bytes": 1170354,
+      "sha256": "634f71a451c561e6fe0a99408882cb2f68129dcfe2d1b039127d0087c932095a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowglobe (Pink)",
+      "url": "https://img.avatardecoration.com/decorations/snowglobe_pink.png",
+      "path": "molduras/snowglobe_pink.png",
+      "bytes": 1041833,
+      "sha256": "3b4daa1b4932694d186760cd17d2b3d5ef3606e11a939f73f0d0a6da6f2a0caf"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowglobe (Blue)",
+      "url": "https://img.avatardecoration.com/decorations/snowglobe_blue.png",
+      "path": "molduras/snowglobe_blue.png",
+      "bytes": 1135194,
+      "sha256": "cf3fa27c11c024279f7b7a7e1a77c2d730d5af1464958932aefa1f695bedbbdf"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowglobe (Green)",
+      "url": "https://img.avatardecoration.com/decorations/snowglobe_green.png",
+      "path": "molduras/snowglobe_green.png",
+      "bytes": 1304479,
+      "sha256": "b5900bbead79023e29265f72d9a76f9bb753756c558c4249d2d759b6fac3d89b"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fresh Pine",
+      "url": "https://img.avatardecoration.com/decorations/fresh_pine.png",
+      "path": "molduras/fresh_pine.png",
+      "bytes": 653439,
+      "sha256": "a7d1d525ad204dbd394ef233d968d31d44aa70f48fb2fac7343d00b983fa07d7"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fresh Pine (Cinnamon)",
+      "url": "https://img.avatardecoration.com/decorations/fresh_pine_cinnamon.png",
+      "path": "molduras/fresh_pine_cinnamon.png",
+      "bytes": 652636,
+      "sha256": "ef690b53c6a11ce93cfe4775fe774615d6d3932ff5e71dce6c64d6f5dd690c66"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fresh Pine (Ribbon)",
+      "url": "https://img.avatardecoration.com/decorations/fresh_pine_ribbon.png",
+      "path": "molduras/fresh_pine_ribbon.png",
+      "bytes": 637176,
+      "sha256": "fc217950df9a7448073a222f5e88abb8c1634c3023675b3327a7a408805abdf5"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lofi Girl Outfit",
+      "url": "https://img.avatardecoration.com/decorations/lofi_girl_outfit.png",
+      "path": "molduras/lofi_girl_outfit.png",
+      "bytes": 569187,
+      "sha256": "5df29ec84f74720ccb5f2695b2f4f22ebc8db9fd0f2e21dbc18be4bfd2e9d1ad"
+    },
+    {
+      "kind": "decoration",
+      "name": "Playful Lofi Cat",
+      "url": "https://img.avatardecoration.com/decorations/playful_lofi_cat.png",
+      "path": "molduras/playful_lofi_cat.png",
+      "bytes": 408680,
+      "sha256": "afd78dd46633d309e8beb5c43a11b89f90307c801741a3a2a93a20dc502c00eb"
+    },
+    {
+      "kind": "decoration",
+      "name": "Sleepy ChilledCow",
+      "url": "https://img.avatardecoration.com/decorations/sleepy_chilledcow.png",
+      "path": "molduras/sleepy_chilledcow.png",
+      "bytes": 307535,
+      "sha256": "bb4041f68684ce789e96c6324a4e9b53911077f93089a4c5cc1ba8b18fc459ec"
+    },
+    {
+      "kind": "decoration",
+      "name": "Study Session",
+      "url": "https://img.avatardecoration.com/decorations/study_session.png",
+      "path": "molduras/study_session.png",
+      "bytes": 849463,
+      "sha256": "23b870656897a93ff83882fb0f71007ce1afe5c3a11ba47aa30eb07a1da53fb3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Group Hug",
+      "url": "https://img.avatardecoration.com/decorations/group_hug.png",
+      "path": "molduras/group_hug.png",
+      "bytes": 374502,
+      "sha256": "85954ab4a66f9563fa2a26c4dc8cb8358930159be927202226267e6910225637"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cozy Post-It",
+      "url": "https://img.avatardecoration.com/decorations/cozy_post_it.png",
+      "path": "molduras/cozy_post_it.png",
+      "bytes": 778591,
+      "sha256": "683af0f59c12728aec98aa4f262d6a7b18b7c20a245530adcee2ab5f1d210887"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cozy Post-It (Festive)",
+      "url": "https://img.avatardecoration.com/decorations/cozy_post_it_festive.png",
+      "path": "molduras/cozy_post_it_festive.png",
+      "bytes": 802862,
+      "sha256": "0ca7694ac5f7c437b1e1038fcbadb275bd11bbbb4ee09aca17f2aaeb76e60697"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cat Ear Headset",
+      "url": "https://img.avatardecoration.com/decorations/cat_ear_headset.png",
+      "path": "molduras/cat_ear_headset.png",
+      "bytes": 1154132,
+      "sha256": "dad277206a6fcc616d32a3106d073c816602dc73dca3b3d81cc0f4d7bcfb7313"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bubble Tea",
+      "url": "https://img.avatardecoration.com/decorations/bubble_tea.png",
+      "path": "molduras/bubble_tea.png",
+      "bytes": 1820076,
+      "sha256": "88fb88316fc7cc35437f9fbb64907f913af83ebdc0800f3b78d22c2fe954d7ed"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bunny Zzzs",
+      "url": "https://img.avatardecoration.com/decorations/bunny_zzzs.png",
+      "path": "molduras/bunny_zzzs.png",
+      "bytes": 1225164,
+      "sha256": "9b435038aa50193417a1ee308d8ef2f2ef247499aebd56c1be3920b02e3a3c5e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Sproutling",
+      "url": "https://img.avatardecoration.com/decorations/sproutling.png",
+      "path": "molduras/sproutling.png",
+      "bytes": 206407,
+      "sha256": "2697d9830d5c1009b3a6a0071cb18775ecef156f8a7bb66293cd955ed727323f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bloomling",
+      "url": "https://img.avatardecoration.com/decorations/bloomling.png",
+      "path": "molduras/bloomling.png",
+      "bytes": 208436,
+      "sha256": "a3910e1ae2e72714e386e6d621838b36e424d11674f4afcb24801ca00d0e827c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Neon Nibbles",
+      "url": "https://img.avatardecoration.com/decorations/neon_nibbles.png",
+      "path": "molduras/neon_nibbles.png",
+      "bytes": 1014733,
+      "sha256": "02c8c77c7799cf15e40c7a52f80d9518e5fa44f85e2252cd6e24a8b8b7904778"
+    },
+    {
+      "kind": "decoration",
+      "name": "UwU XP",
+      "url": "https://img.avatardecoration.com/decorations/uwu_xp.png",
+      "path": "molduras/uwu_xp.png",
+      "bytes": 1469300,
+      "sha256": "f4b09281f28c736aa3d36f2b3220a7136fc96b273e2190b12bbc0261543aec70"
+    },
+    {
+      "kind": "decoration",
+      "name": "Hex Lights",
+      "url": "https://img.avatardecoration.com/decorations/hex_lights.png",
+      "path": "molduras/hex_lights.png",
+      "bytes": 2501780,
+      "sha256": "5f7d0a233c6be005c9049e197eded9fa6864b644d73f39f119cc5fd9e58ec5cd"
+    },
+    {
+      "kind": "decoration",
+      "name": "The Anomaly",
+      "url": "https://img.avatardecoration.com/decorations/the_anomaly.png",
+      "path": "molduras/the_anomaly.png",
+      "bytes": 1611279,
+      "sha256": "36de2dc9187cc23a5014e0b23a859e67674c2c6caf694e89106193f65fcacfbe"
+    },
+    {
+      "kind": "decoration",
+      "name": "The Mark",
+      "url": "https://img.avatardecoration.com/decorations/the_mark.png",
+      "path": "molduras/the_mark.png",
+      "bytes": 928375,
+      "sha256": "9eba0e72ded8d42cd0e3b99979e1dde2a5f89ea87b268bd2186579f844801f1f"
+    },
+    {
+      "kind": "decoration",
+      "name": "The Monster You Created",
+      "url": "https://img.avatardecoration.com/decorations/the_monster_you_created.png",
+      "path": "molduras/the_monster_you_created.png",
+      "bytes": 409376,
+      "sha256": "5976a46f8805935fac69905406153be94d21881ddaa7d1e71e23c58b2de95936"
+    },
+    {
+      "kind": "decoration",
+      "name": "The Atlas Gauntlets",
+      "url": "https://img.avatardecoration.com/decorations/the_atlas_gauntlets.png",
+      "path": "molduras/the_atlas_gauntlets.png",
+      "bytes": 918763,
+      "sha256": "bf6a1781bd2195fa6436b5a5de028bb9a926e2fd3e94cd91ebb71d49ac10f3a0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Flame Chompers",
+      "url": "https://img.avatardecoration.com/decorations/flame_chompers.png",
+      "path": "molduras/flame_chompers.png",
+      "bytes": 896759,
+      "sha256": "85ccc9a31cbc19ae5d8e11bc5400c58a5eb2ca211348f4eaec4e2a6025c275ad"
+    },
+    {
+      "kind": "decoration",
+      "name": "FISHBONES!",
+      "url": "https://img.avatardecoration.com/decorations/fishbones.png",
+      "path": "molduras/fishbones.png",
+      "bytes": 1001522,
+      "sha256": "dc3bc4f7b9468e05a4656e46308ab478fa97a1c17b3c98ccdd87759b0ea04d0e"
+    },
+    {
+      "kind": "decoration",
+      "name": "The Hexcore",
+      "url": "https://img.avatardecoration.com/decorations/the_hexcore.png",
+      "path": "molduras/the_hexcore.png",
+      "bytes": 1707186,
+      "sha256": "c3ff6628792f810c61a0f4bec2eccbd184907727455745c34ef59f4970f50546"
+    },
+    {
+      "kind": "decoration",
+      "name": "Powered by Shimmer",
+      "url": "https://img.avatardecoration.com/decorations/powered_by_shimmer.png",
+      "path": "molduras/powered_by_shimmer.png",
+      "bytes": 944456,
+      "sha256": "e29b4a6a4c509375ac936cf10c0d05b825324aaaadec965b0043decb425aba65"
+    },
+    {
+      "kind": "decoration",
+      "name": "Kitsune",
+      "url": "https://img.avatardecoration.com/decorations/kitsune.png",
+      "path": "molduras/kitsune.png",
+      "bytes": 3387865,
+      "sha256": "62f311db3e68fa6e30d0e3e20751865c06b114c51fd8369f54cae14a6a069f2a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Unicorn",
+      "url": "https://img.avatardecoration.com/decorations/unicorn.png",
+      "path": "molduras/unicorn.png",
+      "bytes": 2055221,
+      "sha256": "76bf55bcfc90431dce762b0c97d36bd2e5628a20e521b523c4cf34c954697f3c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Phoenix",
+      "url": "https://img.avatardecoration.com/decorations/phoenix.png",
+      "path": "molduras/phoenix.png",
+      "bytes": 453206,
+      "sha256": "a7118a579ba15cd699db3c4740d9b534ef94bce9fb80a0843c5a8a66eba7cd2a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dancing Fairies",
+      "url": "https://img.avatardecoration.com/decorations/dancing_fairies.png",
+      "path": "molduras/dancing_fairies.png",
+      "bytes": 406918,
+      "sha256": "27e597545f6328f47b47d5db0f75b36adfcbde81edb77d813c88a1c1aea3279f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Crystal Elk",
+      "url": "https://img.avatardecoration.com/decorations/crystal_elk.png",
+      "path": "molduras/crystal_elk.png",
+      "bytes": 250575,
+      "sha256": "8d21b0c22dfccf686a6098e808bfced824ce5af680cfaf2168906caee157ef50"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mermaid Serenade",
+      "url": "https://img.avatardecoration.com/decorations/mermaid_serenade.png",
+      "path": "molduras/mermaid_serenade.png",
+      "bytes": 2759470,
+      "sha256": "c6641acc39712b0ba3152478e1c612d642aa1bd2a508d6e80d5d75b3cf3ecf45"
+    },
+    {
+      "kind": "decoration",
+      "name": "Violet Dice",
+      "url": "https://img.avatardecoration.com/decorations/dice_violet.png",
+      "path": "molduras/dice_violet.png",
+      "bytes": 937449,
+      "sha256": "670ddb6cdd1feca9df012aaa8bf7c1044fe7a64c1fbf2c4b995bfcba1c1d15db"
+    },
+    {
+      "kind": "decoration",
+      "name": "Azure Dice",
+      "url": "https://img.avatardecoration.com/decorations/dice_azure.png",
+      "path": "molduras/dice_azure.png",
+      "bytes": 912066,
+      "sha256": "0dfcd87b2297d227a0805d8a0aedc4cb59ba65711d31a1619aa52e322252e69f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Gelatinous Cube",
+      "url": "https://img.avatardecoration.com/decorations/gelatinous_cube_green.png",
+      "path": "molduras/gelatinous_cube_green.png",
+      "bytes": 1404537,
+      "sha256": "667ee6555b80270f8842ab33cf2c8a4bcad606e1b7182d9be234871815f8a899"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Gelatinous Cube",
+      "url": "https://img.avatardecoration.com/decorations/gelatinous_cube_blue.png",
+      "path": "molduras/gelatinous_cube_blue.png",
+      "bytes": 1368314,
+      "sha256": "4553f45d22c18727b7fcc8960e0328211f45f4b2b88321ccab233d375a613729"
+    },
+    {
+      "kind": "decoration",
+      "name": "Owlbear Cub",
+      "url": "https://img.avatardecoration.com/decorations/owlbear_cub.png",
+      "path": "molduras/owlbear_cub.png",
+      "bytes": 342013,
+      "sha256": "6c51bdf39fb01adbd6767aa176d8425dc5d06edf6bed68062847c979f075e410"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowy Owlbear Cub",
+      "url": "https://img.avatardecoration.com/decorations/owlbear_cub_snowy.png",
+      "path": "molduras/owlbear_cub_snowy.png",
+      "bytes": 389741,
+      "sha256": "131844b952a10a6dd14a747bcbf331220bb14ccaf501ab89bc1b191257c0abdc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Baby Displacer Beast",
+      "url": "https://img.avatardecoration.com/decorations/baby_displacer_beast.png",
+      "path": "molduras/baby_displacer_beast.png",
+      "bytes": 1035304,
+      "sha256": "1a2da3af6429b44f6c060fe3a1fdd8ebefebea983f5d7e77a1a47e76ea762727"
+    },
+    {
+      "kind": "decoration",
+      "name": "Spooky Cat Ears",
+      "url": "https://img.avatardecoration.com/decorations/spooky_cat_ears.png",
+      "path": "molduras/spooky_cat_ears.png",
+      "bytes": 482384,
+      "sha256": "b14f29a307688869dd6393cc7f2ce4a04aec5fa286db2e6114cd8194ad64f22a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Spooky Cat Ears (Midnight)",
+      "url": "https://img.avatardecoration.com/decorations/spooky_cat_ears_midnight.png",
+      "path": "molduras/spooky_cat_ears_midnight.png",
+      "bytes": 683259,
+      "sha256": "d15f7b3f803636462124c33edc563c0d6a5835f51166864f8bb82fc38e8d3d5b"
+    },
+    {
+      "kind": "decoration",
+      "name": "Candlelight",
+      "url": "https://img.avatardecoration.com/decorations/candlelight.png",
+      "path": "molduras/candlelight.png",
+      "bytes": 728045,
+      "sha256": "c5827abad34ce53d2bb74d7c48f6f17afe21e9bb4e2936ba59b56417ebcb4a4f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Crimson Candlelight",
+      "url": "https://img.avatardecoration.com/decorations/candlelight_crimson.png",
+      "path": "molduras/candlelight_crimson.png",
+      "bytes": 2761706,
+      "sha256": "4eab2368667955a148c35ac4d18d9b3175ccbb8c206dac1e5de43a5e044b7bd9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dark Candlelight",
+      "url": "https://img.avatardecoration.com/decorations/candlelight_dark.png",
+      "path": "molduras/candlelight_dark.png",
+      "bytes": 2737728,
+      "sha256": "e5051d3600ce7a5f81c7101f0a4759e01f4fc2ddd8e6e07b0c917b58f31b9be4"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dark Hood",
+      "url": "https://img.avatardecoration.com/decorations/hood_dark.png",
+      "path": "molduras/hood_dark.png",
+      "bytes": 873435,
+      "sha256": "bf4f61a94c1465c74dd6813826fa0a8c1af1ea4ba7639b336a195d98235476c3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Crimson Hood",
+      "url": "https://img.avatardecoration.com/decorations/hood_crimson.png",
+      "path": "molduras/hood_crimson.png",
+      "bytes": 854839,
+      "sha256": "2913aecfdd376eab7ee94c815448ce4ed2ae4b58dbd2d3c68b42fe6540868139"
+    },
+    {
+      "kind": "decoration",
+      "name": "Plum Witch Hat",
+      "url": "https://img.avatardecoration.com/decorations/witch_hat_plum.png",
+      "path": "molduras/witch_hat_plum.png",
+      "bytes": 677073,
+      "sha256": "034173a839c704cd741e6a1a2f248244399fad7a5d081dfdf7a47340dea61583"
+    },
+    {
+      "kind": "decoration",
+      "name": "Midnight Witch Hat",
+      "url": "https://img.avatardecoration.com/decorations/witch_hat_midnight.png",
+      "path": "molduras/witch_hat_midnight.png",
+      "bytes": 668759,
+      "sha256": "d086230f3e34d99570cd631f6a2da507aa9d6cadcd7761bc483307d3887d441f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Zombie Food",
+      "url": "https://img.avatardecoration.com/decorations/zombie_food.png",
+      "path": "molduras/zombie_food.png",
+      "bytes": 367608,
+      "sha256": "9137a9a35d03b1bfac524cf67ac6bbed773c11cc2596b10a413248544d323f10"
+    },
+    {
+      "kind": "decoration",
+      "name": "Zombie Food (Purple)",
+      "url": "https://img.avatardecoration.com/decorations/zombie_food_purple.png",
+      "path": "molduras/zombie_food_purple.png",
+      "bytes": 374073,
+      "sha256": "b97e90c67bbdbb43a209fba493e5a2ee1e48396fce4a48104311cb1418cc584a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bloodthirsty",
+      "url": "https://img.avatardecoration.com/decorations/bloodthirsty.png",
+      "path": "molduras/bloodthirsty.png",
+      "bytes": 1107985,
+      "sha256": "080c1ef09d5cd00f30887685feb71f0c0f193de342b12c4222190e330d1c1552"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bloodthirsty (Green)",
+      "url": "https://img.avatardecoration.com/decorations/bloodthirsty_green.png",
+      "path": "molduras/bloodthirsty_green.png",
+      "bytes": 1591028,
+      "sha256": "53863bb33f59597641a68d928dab672df1552082fa0511d9b85307a96b42ef3e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Bloodthirsty (Gold)",
+      "url": "https://img.avatardecoration.com/decorations/bloodthirsty_gold.png",
+      "path": "molduras/bloodthirsty_gold.png",
+      "bytes": 106590,
+      "sha256": "f927eea38d7baae5c16ad3eabf5c39c870dbb18aef418ac12e54f7ccb62ed55e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Ryu",
+      "url": "https://img.avatardecoration.com/decorations/ryu.png",
+      "path": "molduras/ryu.png",
+      "bytes": 943469,
+      "sha256": "461ba88c389bb8980a2bbadc9227512a71d47d3868d73b735a0f1a849c9d0c1f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Chun-Li",
+      "url": "https://img.avatardecoration.com/decorations/chun_li.png",
+      "path": "molduras/chun_li.png",
+      "bytes": 760595,
+      "sha256": "ec54efbb9608b49a25410b944b37b58992fa92d4cbebf4c8b5ac624d0423faca"
+    },
+    {
+      "kind": "decoration",
+      "name": "Ken",
+      "url": "https://img.avatardecoration.com/decorations/ken.png",
+      "path": "molduras/ken.png",
+      "bytes": 1240246,
+      "sha256": "0852d02abaee2bdae83aacef78bf4e45fffbf294b8cdd120eeaf4e64de03e7a9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Akuma",
+      "url": "https://img.avatardecoration.com/decorations/akuma.png",
+      "path": "molduras/akuma.png",
+      "bytes": 1348424,
+      "sha256": "d261ec3632ed45de34b46e21213e6936ac422cf78a897f1c156ba5498e448725"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cammy",
+      "url": "https://img.avatardecoration.com/decorations/cammy.png",
+      "path": "molduras/cammy.png",
+      "bytes": 937449,
+      "sha256": "c76846a081eeb1d2b83d61f04a3aac18d4b51cd4207d694b1e725ebe33d8ac4a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Guile",
+      "url": "https://img.avatardecoration.com/decorations/guile.png",
+      "path": "molduras/guile.png",
+      "bytes": 637638,
+      "sha256": "85f2b80cca2274212a54b0a4f674379051f5698993ae210b0f2ea792f783a615"
+    },
+    {
+      "kind": "decoration",
+      "name": "Juri",
+      "url": "https://img.avatardecoration.com/decorations/juri.png",
+      "path": "molduras/juri.png",
+      "bytes": 1083110,
+      "sha256": "fecb16e395e8e4752fb8c1f6845ed8b3b6d08fea47ff4f4daa985d7414302aa2"
+    },
+    {
+      "kind": "decoration",
+      "name": "M. Bison",
+      "url": "https://img.avatardecoration.com/decorations/m_bison.png",
+      "path": "molduras/m_bison.png",
+      "bytes": 786924,
+      "sha256": "4c64f23905bda66358e3cbb46a662f364b086ad3031fce9eef0fdaf520048f5d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Twilight Chrysanthemums",
+      "url": "https://img.avatardecoration.com/decorations/chrysanthemums_twilight.png",
+      "path": "molduras/chrysanthemums_twilight.png",
+      "bytes": 920710,
+      "sha256": "97e419ef96e91e309d9e89102998fd0352d39bdd744fcca6a5665565d98c3b27"
+    },
+    {
+      "kind": "decoration",
+      "name": "Morning Chrysanthemums",
+      "url": "https://img.avatardecoration.com/decorations/chrysanthemums_morning.png",
+      "path": "molduras/chrysanthemums_morning.png",
+      "bytes": 998355,
+      "sha256": "aec6b22fbe2279868304fede1f935df9f1663a35d0e41dd8a3faefcfa906c5fd"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dusk and Dawn",
+      "url": "https://img.avatardecoration.com/decorations/dusk_and_dawn.png",
+      "path": "molduras/dusk_and_dawn.png",
+      "bytes": 698145,
+      "sha256": "84a3e5a9535b3e6bd029c72d2d0866a40e9be76d2299fa75886ad4f0f38aa59d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Floral Harmony",
+      "url": "https://img.avatardecoration.com/decorations/floral_harmony.png",
+      "path": "molduras/floral_harmony.png",
+      "bytes": 963073,
+      "sha256": "49eb0831fe5b45537ad88139022136a5d1479f4a5835f66915088b505c7dd534"
+    },
+    {
+      "kind": "decoration",
+      "name": "Floral Harmony (Sunburst)",
+      "url": "https://img.avatardecoration.com/decorations/floral_harmony_sunburst.png",
+      "path": "molduras/floral_harmony_sunburst.png",
+      "bytes": 1027120,
+      "sha256": "253f8b0a001b63a7733a9996d2bcfc9629d331a1fd14c0a1117b99d926355de5"
+    },
+    {
+      "kind": "decoration",
+      "name": "Autumn's Arbor",
+      "url": "https://img.avatardecoration.com/decorations/autumns_arbor.png",
+      "path": "molduras/autumns_arbor.png",
+      "bytes": 1267260,
+      "sha256": "d106d42f7335bca98f765ac8e9e469ab3ebb95a7ca55ddbe05ca5562fcdf8bdc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Autumn's Arbor (Aurora)",
+      "url": "https://img.avatardecoration.com/decorations/autumns_arbor_aurora.png",
+      "path": "molduras/autumns_arbor_aurora.png",
+      "bytes": 1359400,
+      "sha256": "a37f41c6d1d5c2317f550fd2bce351f97a5440490c39dcded50e7f8aec4a5f66"
+    },
+    {
+      "kind": "decoration",
+      "name": "Autumn Crown",
+      "url": "https://img.avatardecoration.com/decorations/autumn_crown.png",
+      "path": "molduras/autumn_crown.png",
+      "bytes": 1178278,
+      "sha256": "d8a5842d92b7de0f7146d224bf1c16cd5e7c93ae7cc4ebbebbbbda77b54eb226"
+    },
+    {
+      "kind": "decoration",
+      "name": "Faces of the Moon",
+      "url": "https://img.avatardecoration.com/decorations/faces_of_the_moon.png",
+      "path": "molduras/faces_of_the_moon.png",
+      "bytes": 998085,
+      "sha256": "e43a7aea46e236aa579e8b807928d2ca49d6e92ddb614b7f03f39de41f2609a1"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fox Hat",
+      "url": "https://img.avatardecoration.com/decorations/fox_hat.png",
+      "path": "molduras/fox_hat.png",
+      "bytes": 952901,
+      "sha256": "5ba1de0b5802948a01e92edcefdfe48fd66986e9bb305b221f90d61443a152a7"
+    },
+    {
+      "kind": "decoration",
+      "name": "Chestnut Fox Hat",
+      "url": "https://img.avatardecoration.com/decorations/fox_hat_chestnut.png",
+      "path": "molduras/fox_hat_chestnut.png",
+      "bytes": 576325,
+      "sha256": "0ebc560d34b680b74df2ccabaeba982e1d7b3d8ebbcb76ee6281103e42e097ae"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snow Fox Hat",
+      "url": "https://img.avatardecoration.com/decorations/fox_hat_snow.png",
+      "path": "molduras/fox_hat_snow.png",
+      "bytes": 652323,
+      "sha256": "e954c4bdd324fd2373a57f5b4d4ce7db058646875393432d83646fe406301eef"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fall Leaves",
+      "url": "https://img.avatardecoration.com/decorations/fall_leaves.png",
+      "path": "molduras/fall_leaves.png",
+      "bytes": 922481,
+      "sha256": "ff39466eaebe48e28b7b466f5d2d72336d0e6dc6dd16faf9880a05cc33b3567a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Scarlet Leaves",
+      "url": "https://img.avatardecoration.com/decorations/fall_leaves_scarlet.png",
+      "path": "molduras/fall_leaves_scarlet.png",
+      "bytes": 519622,
+      "sha256": "7781da9e568bc3884af9ffa9dfdd852cfed954693e18fd587e685e65e36f6024"
+    },
+    {
+      "kind": "decoration",
+      "name": "Woodland Leaves",
+      "url": "https://img.avatardecoration.com/decorations/fall_leaves_woodland.png",
+      "path": "molduras/fall_leaves_woodland.png",
+      "bytes": 509922,
+      "sha256": "b9c2768c8cdc565eb04b2f6e3754e3bf1245be885714d1df227dfcda09df9e99"
+    },
+    {
+      "kind": "decoration",
+      "name": "Sakura",
+      "url": "https://img.avatardecoration.com/decorations/sakura.png",
+      "path": "molduras/sakura.png",
+      "bytes": 992576,
+      "sha256": "5de7d64a768bafa472d7748ba568c91393838b915be169e5783a02e3adb28694"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Sakura",
+      "url": "https://img.avatardecoration.com/decorations/sakura_pink.png",
+      "path": "molduras/sakura_pink.png",
+      "bytes": 967719,
+      "sha256": "7350248576186c181438888ece65f571626b5988d4d9ceaafe8f2b49e63e0c2c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Ukon Sakura",
+      "url": "https://img.avatardecoration.com/decorations/sakura_ukon.png",
+      "path": "molduras/sakura_ukon.png",
+      "bytes": 1074109,
+      "sha256": "6f57015380e68dfbea5786f1cb00da6c3dfda3881d3635a89d722a0dcedb2ad0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Frog #4",
+      "url": "https://img.avatardecoration.com/decorations/frog_angry.png",
+      "path": "molduras/frog_angry.png",
+      "bytes": 500351,
+      "sha256": "c011639a09d48b5945fca94ef18c6b139d2c1f738ec23b4e356c03f7191caf8c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Frog #2",
+      "url": "https://img.avatardecoration.com/decorations/frog_derpy.png",
+      "path": "molduras/frog_derpy.png",
+      "bytes": 347753,
+      "sha256": "aec322471de1efdae7aadfbf693f1ad5864bc36f75466cb0f908c80dde086e5d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fried Egg",
+      "url": "https://img.avatardecoration.com/decorations/fried_egg.png",
+      "path": "molduras/fried_egg.png",
+      "bytes": 83779,
+      "sha256": "f8e4239a7f533848b7bba846148bd6447cc70bb98542eda1dfd91161da03c9b0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Fried Egg",
+      "url": "https://img.avatardecoration.com/decorations/green_fried_egg.png",
+      "path": "molduras/green_fried_egg.png",
+      "bytes": 174110,
+      "sha256": "e4b81c31aa1575eb5f307dab36e4dac8dc70bb42b6a3e45fbb81e6d4eaa22d0d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Morning Coffee",
+      "url": "https://img.avatardecoration.com/decorations/morning_coffee.png",
+      "path": "molduras/morning_coffee.png",
+      "bytes": 126763,
+      "sha256": "a4e97527c5ba63057d6411e5df01f82d2942fb72f50fa4a4e191643380f68637"
+    },
+    {
+      "kind": "decoration",
+      "name": "Toast",
+      "url": "https://img.avatardecoration.com/decorations/toast.png",
+      "path": "molduras/toast.png",
+      "bytes": 62939,
+      "sha256": "f68e7782d2afa6e93f4821ae8a0c63d8cf06f52067d2be2fc82982ac84913fc3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Burnt Toast",
+      "url": "https://img.avatardecoration.com/decorations/burnt_toast.png",
+      "path": "molduras/burnt_toast.png",
+      "bytes": 53836,
+      "sha256": "7686202a61bc9d4114f6b8e226e966226ce44098b72564f1dd2b535e4e434fea"
+    },
+    {
+      "kind": "decoration",
+      "name": "Stinkums",
+      "url": "https://img.avatardecoration.com/decorations/stinkums.png",
+      "path": "molduras/stinkums.png",
+      "bytes": 162307,
+      "sha256": "cf439e64071e7c7055ec1b7fff0d5e2ba3ad7a4a84a443d29afc9a46d1107733"
+    },
+    {
+      "kind": "decoration",
+      "name": "Goblin Stinkums",
+      "url": "https://img.avatardecoration.com/decorations/goblin_stinkums.png",
+      "path": "molduras/goblin_stinkums.png",
+      "bytes": 155999,
+      "sha256": "354a59d87f11cd7ec5b913fe7df58bf76c90bb40438dc2e09dbd9c0586bcd24c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Kabuto",
+      "url": "https://img.avatardecoration.com/decorations/kabuto.png",
+      "path": "molduras/kabuto.png",
+      "bytes": 574540,
+      "sha256": "bd0b1c7af020c0d5cb7eab18bf1fc079f716dcd0c1fc3be33d9ed03fddee648c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Oni Mask",
+      "url": "https://img.avatardecoration.com/decorations/oni_mask.png",
+      "path": "molduras/oni_mask.png",
+      "bytes": 804991,
+      "sha256": "d17d1e582e2a1ab81b472ff887a751c8de19547854069aa858b5de9dc2a46066"
+    },
+    {
+      "kind": "decoration",
+      "name": "Straw Hat",
+      "url": "https://img.avatardecoration.com/decorations/straw_hat.png",
+      "path": "molduras/straw_hat.png",
+      "bytes": 409675,
+      "sha256": "1c52856f9547999ea46b052d87bce8c9477faf10a57fc591723ac939a7868477"
+    },
+    {
+      "kind": "decoration",
+      "name": "Sakura Ink",
+      "url": "https://img.avatardecoration.com/decorations/sakura_ink.png",
+      "path": "molduras/sakura_ink.png",
+      "bytes": 953779,
+      "sha256": "9fd289ab5082a14f189b0333d38ef32082a97502ac6e72a09ace2a13a7b47724"
+    },
+    {
+      "kind": "decoration",
+      "name": "Sakura Warrior",
+      "url": "https://img.avatardecoration.com/decorations/sakura_warrior.png",
+      "path": "molduras/sakura_warrior.png",
+      "bytes": 533562,
+      "sha256": "290c4608d9bde5a0dfa51335e69a66f4d46bf30e7afb49bc97bbca69e7bc7311"
+    },
+    {
+      "kind": "decoration",
+      "name": "Shuriken's Mask",
+      "url": "https://img.avatardecoration.com/decorations/shurikens_mask.png",
+      "path": "molduras/shurikens_mask.png",
+      "bytes": 168785,
+      "sha256": "1f797b0d58e5b324b3edeeaf612c7ef0f04b15e762fc85b4738353136d688c0f"
+    },
+    {
+      "kind": "decoration",
+      "name": "VALORANT Champions 2024",
+      "url": "https://img.avatardecoration.com/decorations/valorant_champions_2024.png",
+      "path": "molduras/valorant_champions_2024.png",
+      "bytes": 1483026,
+      "sha256": "fdf2120c41d52ac59baf80e33726ad9347e390bd7e0b80190d0bbc05562fe82e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Yoru Dimensional Drift",
+      "url": "https://img.avatardecoration.com/decorations/yoru_dimensional_drift.png",
+      "path": "molduras/yoru_dimensional_drift.png",
+      "bytes": 858798,
+      "sha256": "12c8c0f0c7ff9274b4a587e499209b6556bec7b7204ff8ef557d70d36ba99946"
+    },
+    {
+      "kind": "decoration",
+      "name": "Viper Poison Cloud",
+      "url": "https://img.avatardecoration.com/decorations/viper_poison_cloud.png",
+      "path": "molduras/viper_poison_cloud.png",
+      "bytes": 784236,
+      "sha256": "03beebcd64df169e204072d73978d37f2ca6ffa1a0ef8e78006a172c1a2804fc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cypher Neural Theft",
+      "url": "https://img.avatardecoration.com/decorations/cypher_neural_theft.png",
+      "path": "molduras/cypher_neural_theft.png",
+      "bytes": 1885608,
+      "sha256": "375a9e45456821e011da234fe6c8909f92e4fe3a0c2ed02303445e754dd10000"
+    },
+    {
+      "kind": "decoration",
+      "name": "A Hint of Clove",
+      "url": "https://img.avatardecoration.com/decorations/a_hint_of_clove.png",
+      "path": "molduras/a_hint_of_clove.png",
+      "bytes": 936107,
+      "sha256": "0fe9f273e451f5c8926e098f8cf07708dc73ac8fb1828d9d7a7496c5812b891d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Omen's Cowl",
+      "url": "https://img.avatardecoration.com/decorations/omens_cowl.png",
+      "path": "molduras/omens_cowl.png",
+      "bytes": 1073911,
+      "sha256": "0c17bfb16601a3d97affa95834100dfba100882b921c6bb68a45c0a13bf84060"
+    },
+    {
+      "kind": "decoration",
+      "name": "Reyna's Leer",
+      "url": "https://img.avatardecoration.com/decorations/reynas_leer.png",
+      "path": "molduras/reynas_leer.png",
+      "bytes": 1881360,
+      "sha256": "6b46f9a147f9b5dea88e9f0123b88e538c1fda74abb4423786ef51871aff46a5"
+    },
+    {
+      "kind": "decoration",
+      "name": "FRAG OUT",
+      "url": "https://img.avatardecoration.com/decorations/frag_out.png",
+      "path": "molduras/frag_out.png",
+      "bytes": 746218,
+      "sha256": "d2ae0a4fc5aa426b9f1a1bf2d699a54397b61be33d52753c07cce3894f4348b8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blade Storm",
+      "url": "https://img.avatardecoration.com/decorations/blade_storm.png",
+      "path": "molduras/blade_storm.png",
+      "bytes": 599489,
+      "sha256": "c1a961503f798d13afbbfac294a5d5505dc8e03a02cf7885d92dbf07a0b8132a"
+    },
+    {
+      "kind": "decoration",
+      "name": "SpongeBob",
+      "url": "https://img.avatardecoration.com/decorations/spongebob.png",
+      "path": "molduras/spongebob.png",
+      "bytes": 1252009,
+      "sha256": "77e1e8bb3d255f9fc84c0bab87f31f41ad599c23709a7dc64b3a03c2978f3578"
+    },
+    {
+      "kind": "decoration",
+      "name": "Imagination",
+      "url": "https://img.avatardecoration.com/decorations/imagination.png",
+      "path": "molduras/imagination.png",
+      "bytes": 524528,
+      "sha256": "38b35346107afa4f1fe90f5dbe3b62370cd539be364c51412d21b9734ef96c43"
+    },
+    {
+      "kind": "decoration",
+      "name": "Patrick Star",
+      "url": "https://img.avatardecoration.com/decorations/patrick_star.png",
+      "path": "molduras/patrick_star.png",
+      "bytes": 1171617,
+      "sha256": "6c38520d835ad01e512de2681c93614da3283d03742dec4bfba3e1d3bc77ffe0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Flower Clouds",
+      "url": "https://img.avatardecoration.com/decorations/flower_clouds.png",
+      "path": "molduras/flower_clouds.png",
+      "bytes": 1064290,
+      "sha256": "c646dfef051ee0ffa572a6658b6e1105f0748ddd963b396e5c449802483915a8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Gary the Snail",
+      "url": "https://img.avatardecoration.com/decorations/gary_the_snail.png",
+      "path": "molduras/gary_the_snail.png",
+      "bytes": 1569397,
+      "sha256": "2c3047b0dbeb331ce57fa6763b52b495111f74b229c19af822641b62de358c14"
+    },
+    {
+      "kind": "decoration",
+      "name": "Sandy Cheeks",
+      "url": "https://img.avatardecoration.com/decorations/sandy_cheeks.png",
+      "path": "molduras/sandy_cheeks.png",
+      "bytes": 684044,
+      "sha256": "44c4a36e9c57ff461a0261e481f3cdb1235130288838b8774f2657c6f33beb00"
+    },
+    {
+      "kind": "decoration",
+      "name": "MuscleBob",
+      "url": "https://img.avatardecoration.com/decorations/musclebob.png",
+      "path": "molduras/musclebob.png",
+      "bytes": 597567,
+      "sha256": "b5d5a7deb9ecbbffac838cdfebcdbb9dda82ee43ab558c63ee77522790cb01bb"
+    },
+    {
+      "kind": "decoration",
+      "name": "Midnight Sorceress",
+      "url": "https://img.avatardecoration.com/decorations/midnight_sorceress.png",
+      "path": "molduras/midnight_sorceress.png",
+      "bytes": 334833,
+      "sha256": "e4bd59e746c450ca1ebe8e9cdd5b3d35c6ea42e4f5410e6a5095dc1d528f62cf"
+    },
+    {
+      "kind": "decoration",
+      "name": "Malefic Crown",
+      "url": "https://img.avatardecoration.com/decorations/malefic_crown.png",
+      "path": "molduras/malefic_crown.png",
+      "bytes": 201693,
+      "sha256": "e788acf1cf0acc6aadaf2c01442e96d4356eed0df097be9a1ff2ce61c8987b7f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Death's Edge",
+      "url": "https://img.avatardecoration.com/decorations/deaths_edge.png",
+      "path": "molduras/deaths_edge.png",
+      "bytes": 689144,
+      "sha256": "930208af39315a28be115f949d7ab7bb54aa54302eae3118f5baa681313d6a71"
+    },
+    {
+      "kind": "decoration",
+      "name": "Spirit Embers",
+      "url": "https://img.avatardecoration.com/decorations/spirit_embers.png",
+      "path": "molduras/spirit_embers.png",
+      "bytes": 222792,
+      "sha256": "eef898eb9ed133621f63c5159b987215b1005caf45db81153e5f7dd8d68c6b97"
+    },
+    {
+      "kind": "decoration",
+      "name": "Eldritch Ring",
+      "url": "https://img.avatardecoration.com/decorations/eldritch_ring.png",
+      "path": "molduras/eldritch_ring.png",
+      "bytes": 1581683,
+      "sha256": "06ffc3b29b8fd42adbfd4c200d52d2488b645925f9cd1752f8ad24dc7f3c17e1"
+    },
+    {
+      "kind": "decoration",
+      "name": "Arcane Sigil",
+      "url": "https://img.avatardecoration.com/decorations/arcane_sigil.png",
+      "path": "molduras/arcane_sigil.png",
+      "bytes": 969355,
+      "sha256": "c58b240b47d58cd06a614b19790e6bb05d20a53dd59b8ad36bcf12ec33974c6f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Chillet",
+      "url": "https://img.avatardecoration.com/decorations/chillet.png",
+      "path": "molduras/chillet.png",
+      "bytes": 655144,
+      "sha256": "d4a966234903204d257cfbdc27e5197d7a49e56ae1b266512b81a1c3cb2c8380"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pal Sphere",
+      "url": "https://img.avatardecoration.com/decorations/pal_sphere.png",
+      "path": "molduras/pal_sphere.png",
+      "bytes": 938443,
+      "sha256": "896ad29082aec785a08511eb61001757fdfafeadd6e7fc2b6fa78fda77c64d6b"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cattiva",
+      "url": "https://img.avatardecoration.com/decorations/cattiva.png",
+      "path": "molduras/cattiva.png",
+      "bytes": 502055,
+      "sha256": "b36f70aff1d37df142acbeee542cd7ea75a63635facd5404f6b71a75aad559c3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lamball",
+      "url": "https://img.avatardecoration.com/decorations/lamball.png",
+      "path": "molduras/lamball.png",
+      "bytes": 697115,
+      "sha256": "63875fc90d456c19e59a3a07368cb2c740bf3f2fc09c9c09ff25973c9f1f47b9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Depresso",
+      "url": "https://img.avatardecoration.com/decorations/depresso.png",
+      "path": "molduras/depresso.png",
+      "bytes": 316985,
+      "sha256": "016d90f946a3e92f869675f133fc44ee16c8c4df7c3c6f565ad6aed3896fb33a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Selyne",
+      "url": "https://img.avatardecoration.com/decorations/selyne.png",
+      "path": "molduras/selyne.png",
+      "bytes": 784463,
+      "sha256": "55d6b2b5fa91693c8a5153870c0e91faa1d00179bf2f14e6252b5010d733a68c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Joystick",
+      "url": "https://img.avatardecoration.com/decorations/joystick.png",
+      "path": "molduras/joystick.png",
+      "bytes": 929453,
+      "sha256": "f7f8284297d48867b055d8355bcdac21554a9236a87e2c50375ff71b941bfab3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Clyde Invaders",
+      "url": "https://img.avatardecoration.com/decorations/clyde_invaders.png",
+      "path": "molduras/clyde_invaders.png",
+      "bytes": 601199,
+      "sha256": "22a17a1378cee2ea4b34978f0197c0c41f13adf8df069760355cb4135bf5f45a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pipedream",
+      "url": "https://img.avatardecoration.com/decorations/pipedream.png",
+      "path": "molduras/pipedream.png",
+      "bytes": 973917,
+      "sha256": "24fe7f08d19eee59020f2d9a842442c756bb1ca9140cb95218e6f5154e37d42e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Hot Shot",
+      "url": "https://img.avatardecoration.com/decorations/hot_shot.png",
+      "path": "molduras/hot_shot.png",
+      "bytes": 701047,
+      "sha256": "08339e467619f5767fa5c198ad4ef33e94468ea23c58fe64b2cebcc0d21a01b2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mallow Jump",
+      "url": "https://img.avatardecoration.com/decorations/mallow_jump.png",
+      "path": "molduras/mallow_jump.png",
+      "bytes": 93050,
+      "sha256": "3d04ca150c57234d7299c194d1d7cf5ad8a0e21417bffd6985f36ca8512d7dcb"
+    },
+    {
+      "kind": "decoration",
+      "name": "Slither 'n Snack",
+      "url": "https://img.avatardecoration.com/decorations/slither_n_snack.png",
+      "path": "molduras/slither_n_snack.png",
+      "bytes": 52141,
+      "sha256": "9e1665d22b43bbdee0b50555782c6ec4012cd3eadcd61924689b79d0a728fd9b"
+    },
+    {
+      "kind": "decoration",
+      "name": "Feelin' Awe",
+      "url": "https://img.avatardecoration.com/decorations/feelin_awe.png",
+      "path": "molduras/feelin_awe.png",
+      "bytes": 299546,
+      "sha256": "33418982fad005186b114a8b074c540c44d8beafde4803e96441943e73f3d677"
+    },
+    {
+      "kind": "decoration",
+      "name": "Feelin' Panic",
+      "url": "https://img.avatardecoration.com/decorations/feelin_panic.png",
+      "path": "molduras/feelin_panic.png",
+      "bytes": 371276,
+      "sha256": "ef93899dddad349fd64e72f754dfaab5f1bea242b8a3fdd5e144e8ade9676247"
+    },
+    {
+      "kind": "decoration",
+      "name": "Feelin' Nervous",
+      "url": "https://img.avatardecoration.com/decorations/feelin_nervous.png",
+      "path": "molduras/feelin_nervous.png",
+      "bytes": 265621,
+      "sha256": "e58c5eae8a54a86e51c3bb3282c694af8bda893c42efe510012c216d246492b9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Feelin' Scrumptious",
+      "url": "https://img.avatardecoration.com/decorations/feelin_scrumptious.png",
+      "path": "molduras/feelin_scrumptious.png",
+      "bytes": 204370,
+      "sha256": "1c897bbffd43986357de30fb8861af8ba369ac5bb7ff70e056e3b3bcb81c5241"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pirate Captain",
+      "url": "https://img.avatardecoration.com/decorations/pirate_captain.png",
+      "path": "molduras/pirate_captain.png",
+      "bytes": 1269941,
+      "sha256": "890572ee9ad00e61488e0eb93ce4cc34baa4885e5ff0c04518fcf75d2eaf5773"
+    },
+    {
+      "kind": "decoration",
+      "name": "Scallywag",
+      "url": "https://img.avatardecoration.com/decorations/scallywag.png",
+      "path": "molduras/scallywag.png",
+      "bytes": 798545,
+      "sha256": "f58ca5b6d1d8893f493f2c75d4578e2a98abbdf132252aafef86331125183188"
+    },
+    {
+      "kind": "decoration",
+      "name": "Good Ol' Pepper",
+      "url": "https://img.avatardecoration.com/decorations/good_ol_pepper.png",
+      "path": "molduras/good_ol_pepper.png",
+      "bytes": 952591,
+      "sha256": "a2ab1a26d367267cba0969f437130e3373a264d50231373fff69e5d783163eb5"
+    },
+    {
+      "kind": "decoration",
+      "name": "Crossbones",
+      "url": "https://img.avatardecoration.com/decorations/crossbones.png",
+      "path": "molduras/crossbones.png",
+      "bytes": 485229,
+      "sha256": "d6a68a9d07e97e7d97d0027d305cdf050892f751e289582949e8c4cc7c5f21fe"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cannon Fire",
+      "url": "https://img.avatardecoration.com/decorations/cannon_fire.png",
+      "path": "molduras/cannon_fire.png",
+      "bytes": 641713,
+      "sha256": "1cd5f4f813d979afec3c573c627f758182ff2eea695afee56eaee16d66e95e50"
+    },
+    {
+      "kind": "decoration",
+      "name": "Helmsman",
+      "url": "https://img.avatardecoration.com/decorations/helmsman.png",
+      "path": "molduras/helmsman.png",
+      "bytes": 1206584,
+      "sha256": "203114e093987dba6c8e5a6b87bf4d21f747ce5d48a27e4757adc9e53241e69b"
+    },
+    {
+      "kind": "decoration",
+      "name": "Stardust",
+      "url": "https://img.avatardecoration.com/decorations/stardust.png",
+      "path": "molduras/stardust.png",
+      "bytes": 1550572,
+      "sha256": "8005d7f7cce386a8a76bca1e303e707f624a787f6c78138f0fac5dc1d1e6f8cc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Black Hole",
+      "url": "https://img.avatardecoration.com/decorations/black_hole.png",
+      "path": "molduras/black_hole.png",
+      "bytes": 2075362,
+      "sha256": "5dc1b31629b768e1cd7e6cb3f487a31552b3562536033b82804368c7c58151a2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Constellations",
+      "url": "https://img.avatardecoration.com/decorations/constellations.png",
+      "path": "molduras/constellations.png",
+      "bytes": 1105235,
+      "sha256": "f15e34c8cab1621dd2d89c2813d449da4e34a714b752a2ed36c0eb81ecc0c00d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Solar Orbit",
+      "url": "https://img.avatardecoration.com/decorations/solar_orbit.png",
+      "path": "molduras/solar_orbit.png",
+      "bytes": 1407090,
+      "sha256": "791766b3ef1c888f8e4e474a7a7f0e24fb30fa355c76d8cc1b86521d6261be3f"
+    },
+    {
+      "kind": "decoration",
+      "name": "UFO",
+      "url": "https://img.avatardecoration.com/decorations/ufo.png",
+      "path": "molduras/ufo.png",
+      "bytes": 354236,
+      "sha256": "d2d884ba235965eb92cc61f4bda5ba1891bd269ef75e60e5aa97bef65cde30ef"
+    },
+    {
+      "kind": "decoration",
+      "name": "Astronaut Helmet",
+      "url": "https://img.avatardecoration.com/decorations/astronaut_helmet.png",
+      "path": "molduras/astronaut_helmet.png",
+      "bytes": 1428253,
+      "sha256": "d02e82acae15086d318a93e89412d6dd5f930811259fcf2e126b468f257e55ed"
+    },
+    {
+      "kind": "decoration",
+      "name": "Chromawave",
+      "url": "https://img.avatardecoration.com/decorations/chromawave.png",
+      "path": "molduras/chromawave.png",
+      "bytes": 666344,
+      "sha256": "2b30b2cd70e0dd1544a2c72c0127daef12f61466dd189fd79714fab2eab2d4bb"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cozy Cat",
+      "url": "https://img.avatardecoration.com/decorations/cozy_cat.png",
+      "path": "molduras/cozy_cat.png",
+      "bytes": 326169,
+      "sha256": "11267829da87dfed68e1b770b95b75379e720edd84eecf417c2290653fdf6a65"
+    },
+    {
+      "kind": "decoration",
+      "name": "Oasis",
+      "url": "https://img.avatardecoration.com/decorations/oasis.png",
+      "path": "molduras/oasis.png",
+      "bytes": 604582,
+      "sha256": "0efd99049ba4422c014dcab8794c21131b10266c2a6b0a779e6c24f8f67849c7"
+    },
+    {
+      "kind": "decoration",
+      "name": "Rainy Mood",
+      "url": "https://img.avatardecoration.com/decorations/rainy_mood.png",
+      "path": "molduras/rainy_mood.png",
+      "bytes": 1181672,
+      "sha256": "fc4c4f4ed5ebb451946cf0ff51513157c951ea1dc548417036112f8fd2b78ec9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cozy Headphones",
+      "url": "https://img.avatardecoration.com/decorations/cozy_headphones.png",
+      "path": "molduras/cozy_headphones.png",
+      "bytes": 378090,
+      "sha256": "843251f97ab7d4c1d9dfe640c45a99d920561a907bf0a58f67874fd66f3d69e7"
+    },
+    {
+      "kind": "decoration",
+      "name": "Doodling",
+      "url": "https://img.avatardecoration.com/decorations/doodling.png",
+      "path": "molduras/doodling.png",
+      "bytes": 596137,
+      "sha256": "53123a5bc0ef64508a6850608e7d37d74fc54181e0a951cd291371e9c69a7949"
+    },
+    {
+      "kind": "decoration",
+      "name": "Honeyblossom",
+      "url": "https://img.avatardecoration.com/decorations/honeyblossom.png",
+      "path": "molduras/honeyblossom.png",
+      "bytes": 569350,
+      "sha256": "8057f2105572d227695047eff2dba2f3f983294eb1788a41ac3d80db6854c29f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dandelion Duo",
+      "url": "https://img.avatardecoration.com/decorations/dandelion_duo.png",
+      "path": "molduras/dandelion_duo.png",
+      "bytes": 531334,
+      "sha256": "d537802812c0cdc7a314f9f464ca357360afc322328bb5034e0a037044de1f1f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Hugh the Rainbow",
+      "url": "https://img.avatardecoration.com/decorations/hugh_the_rainbow.png",
+      "path": "molduras/hugh_the_rainbow.png",
+      "bytes": 229236,
+      "sha256": "9ce8bca0e584f557cf69d6f61deb1a6580eb01eba84c68052de97f773f0ff668"
+    },
+    {
+      "kind": "decoration",
+      "name": "Strawberry Vine",
+      "url": "https://img.avatardecoration.com/decorations/strawberry_vine.png",
+      "path": "molduras/strawberry_vine.png",
+      "bytes": 756144,
+      "sha256": "e10a4004ea95fc6c04cebd5881f3a960d04083433eca2984c11a05c630519bd6"
+    },
+    {
+      "kind": "decoration",
+      "name": "Butterflies",
+      "url": "https://img.avatardecoration.com/decorations/butterflies.png",
+      "path": "molduras/butterflies.png",
+      "bytes": 281237,
+      "sha256": "71d7d2c6f0f751e6dbe0ea5be06116be2fd15f59e8847f96a94d93dea5ce95e3"
+    },
+    {
+      "kind": "decoration",
+      "name": "The Petal Pack",
+      "url": "https://img.avatardecoration.com/decorations/the_petal_pack.png",
+      "path": "molduras/the_petal_pack.png",
+      "bytes": 661375,
+      "sha256": "37503d7fe11ec1f1ad2dea8b26b6bfcead38d0ab9dbf5d2b3e3ceefb454b948e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cat Ears",
+      "url": "https://img.avatardecoration.com/decorations/cat_ears.png",
+      "path": "molduras/cat_ears.png",
+      "bytes": 356762,
+      "sha256": "1cebf6dab91935547839a4ec1710a8dae76b70c8d2e11598a8f474ab6d7e4247"
+    },
+    {
+      "kind": "decoration",
+      "name": "Ki Energy",
+      "url": "https://img.avatardecoration.com/decorations/ki_energy.png",
+      "path": "molduras/ki_energy.png",
+      "bytes": 499851,
+      "sha256": "2b5d111f48750f3d10ec465b9d8f3152b99aff8f894e5b0355d9f53494671ac8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Heartbloom",
+      "url": "https://img.avatardecoration.com/decorations/heartbloom.png",
+      "path": "molduras/heartbloom.png",
+      "bytes": 1041136,
+      "sha256": "e538c04be5653db6b0535092e5b6863252176bfa68659941da5d4b589f5682cf"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dismay",
+      "url": "https://img.avatardecoration.com/decorations/dismay.png",
+      "path": "molduras/dismay.png",
+      "bytes": 468132,
+      "sha256": "2c0178cf95f521040c5ee01e49d3080e7f08e80bbbc1c64bfd80cadba386ee29"
+    },
+    {
+      "kind": "decoration",
+      "name": "Rage",
+      "url": "https://img.avatardecoration.com/decorations/rage.png",
+      "path": "molduras/rage.png",
+      "bytes": 742288,
+      "sha256": "2687af50657822df11a8791340342cf7cc54df3f014b5289256b94771ab3a5be"
+    },
+    {
+      "kind": "decoration",
+      "name": "In Tears",
+      "url": "https://img.avatardecoration.com/decorations/in_tears.png",
+      "path": "molduras/in_tears.png",
+      "bytes": 582279,
+      "sha256": "15307d20261ad239bec3d82c861a171c28ead0815cf855655165f3072883ec44"
+    },
+    {
+      "kind": "decoration",
+      "name": "Radiating Energy",
+      "url": "https://img.avatardecoration.com/decorations/radiating_energy.png",
+      "path": "molduras/radiating_energy.png",
+      "bytes": 481891,
+      "sha256": "b3baa6a72f76f4431a26be9aced763b73bd6258faf4b1def3663609d1d420a30"
+    },
+    {
+      "kind": "decoration",
+      "name": "Soul Leaving Body",
+      "url": "https://img.avatardecoration.com/decorations/soul_leaving_body.png",
+      "path": "molduras/soul_leaving_body.png",
+      "bytes": 596465,
+      "sha256": "9bb1c3b41fe7fc23ed3d3eb7f88f9d5408564574f1d13df15a0eff4f88cf5b3d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Sweat Drops",
+      "url": "https://img.avatardecoration.com/decorations/sweat_drops.png",
+      "path": "molduras/sweat_drops.png",
+      "bytes": 179117,
+      "sha256": "13d4646c785bcfe8b5068ac79c3fda69e90a7df41bbd2e190fc52e1bf9be6432"
+    },
+    {
+      "kind": "decoration",
+      "name": "Starry Eyed",
+      "url": "https://img.avatardecoration.com/decorations/starry_eyed.png",
+      "path": "molduras/starry_eyed.png",
+      "bytes": 528355,
+      "sha256": "c14ea01a74df47ba80de21a6c1036a71d7464e07126e10c37f02686513cb9b43"
+    },
+    {
+      "kind": "decoration",
+      "name": "In Love",
+      "url": "https://img.avatardecoration.com/decorations/in_love.png",
+      "path": "molduras/in_love.png",
+      "bytes": 521391,
+      "sha256": "4d3bb162b077c9383bec60f253858e5cc2a58fa9b917917538d6b65654332bb2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Shocked",
+      "url": "https://img.avatardecoration.com/decorations/shocked.png",
+      "path": "molduras/shocked.png",
+      "bytes": 205292,
+      "sha256": "c593550d988544eeca8cf6aef06cec876e7591a95df1f96a542dfe39ebe3c84e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Angry",
+      "url": "https://img.avatardecoration.com/decorations/angry.png",
+      "path": "molduras/angry.png",
+      "bytes": 468914,
+      "sha256": "efca96107243dcaa0a0494adbeb68ec11936353e788936a85f72adabff13eb1d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fire",
+      "url": "https://img.avatardecoration.com/decorations/fire.png",
+      "path": "molduras/fire.png",
+      "bytes": 942103,
+      "sha256": "39bcb5053b8a4ba9f93844692d8d227ee69d80bbb198f55c75f3db10d8592cee"
+    },
+    {
+      "kind": "decoration",
+      "name": "Water",
+      "url": "https://img.avatardecoration.com/decorations/water.png",
+      "path": "molduras/water.png",
+      "bytes": 716613,
+      "sha256": "764e1c4126ad002a47d531753b8d55509bbd9bb7445c39bd42b144346276d566"
+    },
+    {
+      "kind": "decoration",
+      "name": "Air",
+      "url": "https://img.avatardecoration.com/decorations/air.png",
+      "path": "molduras/air.png",
+      "bytes": 808162,
+      "sha256": "41971fdb34e8bb598b0c96e88a5b62a15312f8342b7fad161f4e896084286ec6"
+    },
+    {
+      "kind": "decoration",
+      "name": "Earth",
+      "url": "https://img.avatardecoration.com/decorations/earth.png",
+      "path": "molduras/earth.png",
+      "bytes": 815029,
+      "sha256": "17ba7f90f963524aeb282cf5f10220dcff17c4f457b8046874d3b2afed5d6c03"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lightning",
+      "url": "https://img.avatardecoration.com/decorations/lightning.png",
+      "path": "molduras/lightning.png",
+      "bytes": 866003,
+      "sha256": "921790c83cee6241402c64bdfe9fff91f1b7b68640f60d0dc8eb2859dc5d5767"
+    },
+    {
+      "kind": "decoration",
+      "name": "Balance",
+      "url": "https://img.avatardecoration.com/decorations/balance.png",
+      "path": "molduras/balance.png",
+      "bytes": 920649,
+      "sha256": "7921f66648461e434fbfa77824401a1e06a0590a5f0e0631bec36e538fb8ab80"
+    },
+    {
+      "kind": "decoration",
+      "name": "Glitch",
+      "url": "https://img.avatardecoration.com/decorations/glitch.png",
+      "path": "molduras/glitch.png",
+      "bytes": 798908,
+      "sha256": "abe0012e32aba41e84d05a50f42c5ce97144db46a6b0613a46ad1a361a25a668"
+    },
+    {
+      "kind": "decoration",
+      "name": "Cybernetic",
+      "url": "https://img.avatardecoration.com/decorations/cybernetic.png",
+      "path": "molduras/cybernetic.png",
+      "bytes": 1373222,
+      "sha256": "2f14d4e1f8bec38bde304fa4032c84d681f9dc90f3404b095b2cecbe7982e3d5"
+    },
+    {
+      "kind": "decoration",
+      "name": "Digital Sunrise",
+      "url": "https://img.avatardecoration.com/decorations/digital_sunrise.png",
+      "path": "molduras/digital_sunrise.png",
+      "bytes": 846770,
+      "sha256": "cf2899ebc15feedc13630f7b69743c704d3ebebdaa4cbc765cf9a2c452fae5a0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Implant",
+      "url": "https://img.avatardecoration.com/decorations/implant.png",
+      "path": "molduras/implant.png",
+      "bytes": 787551,
+      "sha256": "42be6e24cf84b163e15ca0092796e69e2d1e7cb62d1e2ed98a6442d491d2577d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Beamchop",
+      "url": "https://img.avatardecoration.com/decorations/beamchop.png",
+      "path": "molduras/beamchop.png",
+      "bytes": 172842,
+      "sha256": "39e396cfbbb67f68899b3d68b1edd0f60a5078f0bcbde185320b29b57bb67279"
+    },
+    {
+      "kind": "decoration",
+      "name": "Chuck",
+      "url": "https://img.avatardecoration.com/decorations/chuck.png",
+      "path": "molduras/chuck.png",
+      "bytes": 386887,
+      "sha256": "a4bec3c3b65c2afd3f65a43521d26aaea3bb3c430f224463d7f577ea9330501c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Winkle",
+      "url": "https://img.avatardecoration.com/decorations/winkle.png",
+      "path": "molduras/winkle.png",
+      "bytes": 364786,
+      "sha256": "0a9e647aa89b2924788ca3da05d46c14611d9722e1f13d47a876952863e20b69"
+    },
+    {
+      "kind": "decoration",
+      "name": "Chewbert",
+      "url": "https://img.avatardecoration.com/decorations/chewbert.png",
+      "path": "molduras/chewbert.png",
+      "bytes": 289495,
+      "sha256": "7781ecb95114f165040bf7ca5ec8f8115569d35486a224c197b1215b9f5a3562"
+    },
+    {
+      "kind": "decoration",
+      "name": "Doodlezard",
+      "url": "https://img.avatardecoration.com/decorations/doodlezard.png",
+      "path": "molduras/doodlezard.png",
+      "bytes": 305026,
+      "sha256": "a667d2dd789978dc81b078527cca9536df94f5d5a3acd4cd56e43d4b37371720"
+    },
+    {
+      "kind": "decoration",
+      "name": "Glop",
+      "url": "https://img.avatardecoration.com/decorations/glop.png",
+      "path": "molduras/glop.png",
+      "bytes": 328957,
+      "sha256": "9e013d6940952f758a96bc1f787db2e070a4e2aea068ee0d890632a2af63f3cc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Gawblehop",
+      "url": "https://img.avatardecoration.com/decorations/gawblehop.png",
+      "path": "molduras/gawblehop.png",
+      "bytes": 227481,
+      "sha256": "1a6f8a4edb36e5ebb624bb2bd3af666834fce6d9f9afd2fbb7000c41679fb6ee"
+    },
+    {
+      "kind": "decoration",
+      "name": "New Year",
+      "url": "https://img.avatardecoration.com/decorations/new_year_2024.png",
+      "path": "molduras/new_year_2024.png",
+      "bytes": 841191,
+      "sha256": "e216e4274c18b8a78f899ae94b34a67fec274e0fa38553807e8a6a41fb9329e9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Graveyard Cat",
+      "url": "https://img.avatardecoration.com/decorations/graveyard_cat.png",
+      "path": "molduras/graveyard_cat.png",
+      "bytes": 959535,
+      "sha256": "690f9235d327b9b5b77170d189f64f98ac10d5c662c35256d8d01db2963c0bbc"
+    },
+    {
+      "kind": "decoration",
+      "name": "Ghosts",
+      "url": "https://img.avatardecoration.com/decorations/ghosts.png",
+      "path": "molduras/ghosts.png",
+      "bytes": 1136936,
+      "sha256": "ba124dcb35544dbe9592a60b956cd1b51501471076fcf36fdc6d66fca1feaa95"
+    },
+    {
+      "kind": "decoration",
+      "name": "Minions",
+      "url": "https://img.avatardecoration.com/decorations/minions.png",
+      "path": "molduras/minions.png",
+      "bytes": 689849,
+      "sha256": "9274ef35ebf229545160ea942d55b64ecca1a79834e2c8f79b8725718357f8ca"
+    },
+    {
+      "kind": "decoration",
+      "name": "Jack-o'-Lantern",
+      "url": "https://img.avatardecoration.com/decorations/jack_o_lantern.png",
+      "path": "molduras/jack_o_lantern.png",
+      "bytes": 971294,
+      "sha256": "623d21174f4dcf6eb88d7cfb17f1ec8f108a0171caab816ecaba13da55ff6dc8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pumpkin Spice",
+      "url": "https://img.avatardecoration.com/decorations/pumpkin_spice.png",
+      "path": "molduras/pumpkin_spice.png",
+      "bytes": 1417744,
+      "sha256": "b0069a0be0c68e2c71cc7b4701f4445249f6f1768b07726c6b4c6149e2873875"
+    },
+    {
+      "kind": "decoration",
+      "name": "Frog Hat",
+      "url": "https://img.avatardecoration.com/decorations/frog_hat.png",
+      "path": "molduras/frog_hat.png",
+      "bytes": 816275,
+      "sha256": "8bd4b8881e907109486740c9ba9f767127433c3c72e9f2e334107b896f8c87b6"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blueberry Jam",
+      "url": "https://img.avatardecoration.com/decorations/blueberry_jam.png",
+      "path": "molduras/blueberry_jam.png",
+      "bytes": 388709,
+      "sha256": "03dd6cb4ebee8ec6f7f97303a78529edef39b6f2ecf9f279ee68511734235967"
+    },
+    {
+      "kind": "decoration",
+      "name": "Donut",
+      "url": "https://img.avatardecoration.com/decorations/donut.png",
+      "path": "molduras/donut.png",
+      "bytes": 401991,
+      "sha256": "d72bbe72598b1ff2b03771eaebecacf3b9eb035739791d8c80f705456a0d0a3a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pancakes",
+      "url": "https://img.avatardecoration.com/decorations/pancakes.png",
+      "path": "molduras/pancakes.png",
+      "bytes": 158756,
+      "sha256": "fd1cf3b22108ea95b2fb2e4743a04db4291ceb6e5db2d96191842541e46759d8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Headset",
+      "url": "https://img.avatardecoration.com/decorations/disxcore_headset.png",
+      "path": "molduras/disxcore_headset.png",
+      "bytes": 152210,
+      "sha256": "c8de65ee7b29f147b784a04600bfaa21a0515feb783c4e9ca111accf8a78e4e3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Futuristic UI",
+      "url": "https://img.avatardecoration.com/decorations/pink_futuristic_ui.png",
+      "path": "molduras/pink_futuristic_ui.png",
+      "bytes": 54445,
+      "sha256": "2cb4f74f2e7b2bc38b5cc2b7dbdeff7e9f3751459781c3b92a409fd2f906786a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Smoke",
+      "url": "https://img.avatardecoration.com/decorations/green_smoke.png",
+      "path": "molduras/green_smoke.png",
+      "bytes": 234665,
+      "sha256": "52ff5087ef3e5ffe020fee4f35623ba0f18f76232e842cc464772371e4860bac"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Headset",
+      "url": "https://img.avatardecoration.com/decorations/pink_headset.png",
+      "path": "molduras/pink_headset.png",
+      "bytes": 156450,
+      "sha256": "2ab689a17046b67068e770500ea5372491f4b41ba7bcc8d3950435566a1227dd"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Headset",
+      "url": "https://img.avatardecoration.com/decorations/green_headset.png",
+      "path": "molduras/green_headset.png",
+      "bytes": 155729,
+      "sha256": "f534647d9344f2fbde8e04967e6a6f9559cb81993af8f1513047b86b14ef14fe"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Futuristic UI",
+      "url": "https://img.avatardecoration.com/decorations/blue_futuristic_ui.png",
+      "path": "molduras/blue_futuristic_ui.png",
+      "bytes": 55342,
+      "sha256": "ce932404e6d6e219d5b5d7344f3280a1175e73633cdf6e10f872979e6abbf0e2"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Futuristic UI",
+      "url": "https://img.avatardecoration.com/decorations/green_futuristic_ui.png",
+      "path": "molduras/green_futuristic_ui.png",
+      "bytes": 55613,
+      "sha256": "188479d74cf759fc4edbe5ec40088ee759027c1424636c453ef6f56c6183b339"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Smoke",
+      "url": "https://img.avatardecoration.com/decorations/blue_smoke.png",
+      "path": "molduras/blue_smoke.png",
+      "bytes": 228954,
+      "sha256": "996981389ce05f592033b224bb38613cec8bc536c7702ed1af2b77d3d140346e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Smoke",
+      "url": "https://img.avatardecoration.com/decorations/pink_smoke.png",
+      "path": "molduras/pink_smoke.png",
+      "bytes": 228975,
+      "sha256": "af1d55dd7d6be691bbdd2e3fe15227423adfbaadc0b60a5c370f3e57a20c2f01"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Gyroscope",
+      "url": "https://img.avatardecoration.com/decorations/blue_gyroscope.png",
+      "path": "molduras/blue_gyroscope.png",
+      "bytes": 366321,
+      "sha256": "5ed96109e5d6fea8fa48bc8708fbe625bc2cc1f47fa2887c5e9efbc768854a11"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Gyroscope",
+      "url": "https://img.avatardecoration.com/decorations/pink_gyroscope.png",
+      "path": "molduras/pink_gyroscope.png",
+      "bytes": 354293,
+      "sha256": "691e49c812c197553f1b7f1fc7bfcd7319ef5244dbfda6a5d04dc33091a0aba6"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Gyroscope",
+      "url": "https://img.avatardecoration.com/decorations/green_gyroscope.png",
+      "path": "molduras/green_gyroscope.png",
+      "bytes": 376457,
+      "sha256": "4ebcac36c67b6ad4c22c2532666c6e874c2abc8f05ec00761540c3bd6bd8c34d"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Shine Helmet",
+      "url": "https://img.avatardecoration.com/decorations/blue_shine_helmet.png",
+      "path": "molduras/blue_shine_helmet.png",
+      "bytes": 60233,
+      "sha256": "240fee6edb34dd7d6f7c827c93e27e304a343dbc8bdab191e565ade345af134c"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Shine Helmet",
+      "url": "https://img.avatardecoration.com/decorations/pink_shine_helmet.png",
+      "path": "molduras/pink_shine_helmet.png",
+      "bytes": 60199,
+      "sha256": "339bdfa5cd25fdcafb9f174faad53caf798dd9d1e8d357f4851b2a9124203f19"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Shine Helmet",
+      "url": "https://img.avatardecoration.com/decorations/green_shine_helmet.png",
+      "path": "molduras/green_shine_helmet.png",
+      "bytes": 60329,
+      "sha256": "621f875f7107f49b747bc475299a37556fbe640bc24bcfa7e4e50e44edad7754"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Hyper Helmet",
+      "url": "https://img.avatardecoration.com/decorations/blue_hyper_helmet.png",
+      "path": "molduras/blue_hyper_helmet.png",
+      "bytes": 84297,
+      "sha256": "bbfa2fcb0a97cd6c460439ba4c50ebd651985c4606638b43de1062cdd8fe7779"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Hyper Helmet",
+      "url": "https://img.avatardecoration.com/decorations/pink_hyper_helmet.png",
+      "path": "molduras/pink_hyper_helmet.png",
+      "bytes": 87211,
+      "sha256": "c992d1418bd8dd43fa67ed70e18c998365e907df8a03ec4c9d028ab56fb4ce09"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Hyper Helmet",
+      "url": "https://img.avatardecoration.com/decorations/green_hyper_helmet.png",
+      "path": "molduras/green_hyper_helmet.png",
+      "bytes": 86924,
+      "sha256": "17dc005fbc6dff2dda19d8081d0259c8a6308eea52aa4a9d5f422667a97c9c96"
+    },
+    {
+      "kind": "decoration",
+      "name": "Saw",
+      "url": "https://img.avatardecoration.com/decorations/saw.png",
+      "path": "molduras/saw.png",
+      "bytes": 391764,
+      "sha256": "433dbc768763953670ca581a6a6a60c19d4cb01f7ffd11de923edc4d31830abd"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mushroom #1",
+      "url": "https://img.avatardecoration.com/decorations/mushroom_1.png",
+      "path": "molduras/mushroom_1.png",
+      "bytes": 382000,
+      "sha256": "370102f7e63a1f0f073a2afe0a02d67f1d393a6dc5c96b630074238c60e98a1e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mushroom #2",
+      "url": "https://img.avatardecoration.com/decorations/mushroom_2.png",
+      "path": "molduras/mushroom_2.png",
+      "bytes": 383913,
+      "sha256": "c07324d54d1041020d3c9657ca6dcaeb4f36ec8f4014b40cb4cb6bcf257b1cbd"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mushroom #3",
+      "url": "https://img.avatardecoration.com/decorations/mushroom_3.png",
+      "path": "molduras/mushroom_3.png",
+      "bytes": 377285,
+      "sha256": "1222f4d811fb8f7dfd3c2260c4f73a67923f2f3f1d20b32ab78e619ba9869af8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mushroom #4",
+      "url": "https://img.avatardecoration.com/decorations/mushroom_4.png",
+      "path": "molduras/mushroom_4.png",
+      "bytes": 370001,
+      "sha256": "a049d71b91fd3d9d398d1b24771a004aad0156ff4c8aff07e567a414114b6818"
+    },
+    {
+      "kind": "decoration",
+      "name": "Forest",
+      "url": "https://img.avatardecoration.com/decorations/forest.png",
+      "path": "molduras/forest.png",
+      "bytes": 2276091,
+      "sha256": "c9e9949cc325eb8d938bd7a2d519a5a25dc0b8e2bd06593716b58d946e3f6250"
+    },
+    {
+      "kind": "decoration",
+      "name": "Frog #1",
+      "url": "https://img.avatardecoration.com/decorations/frog_1.png",
+      "path": "molduras/frog_1.png",
+      "bytes": 614457,
+      "sha256": "f8934f4b42081ae5e07c384ca9f515b38121f373dd2e8c569ed9a56dc99a00b9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Frog #3",
+      "url": "https://img.avatardecoration.com/decorations/frog_3.png",
+      "path": "molduras/frog_3.png",
+      "bytes": 361121,
+      "sha256": "1dc0354633162ac1ab9b2800902961ec0624cca5325c17c093d7f847265f60b1"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lazy Cat #1",
+      "url": "https://img.avatardecoration.com/decorations/cat_1.png",
+      "path": "molduras/cat_1.png",
+      "bytes": 611189,
+      "sha256": "f9561215d4083952701425a4d6b3f7dd8c543170727e0819828bd84c4d27030e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lazy Cat #2",
+      "url": "https://img.avatardecoration.com/decorations/cat_2.png",
+      "path": "molduras/cat_2.png",
+      "bytes": 784253,
+      "sha256": "a12f4a687d8e2ff6dc2bfaf3a93bda19231e40316fdedab3b6a5e68ee5fc60bb"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lazy Cat #3",
+      "url": "https://img.avatardecoration.com/decorations/cat_3.png",
+      "path": "molduras/cat_3.png",
+      "bytes": 782958,
+      "sha256": "ec62d9de3bdbd296cca7ff34c3ec933b4afcb9cdcb5ce8c76770d1313337dd3e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Lazy Cat #4",
+      "url": "https://img.avatardecoration.com/decorations/cat_4.png",
+      "path": "molduras/cat_4.png",
+      "bytes": 697299,
+      "sha256": "ee7063c20ad5f0532ae0b778bf5dc87a7f84c739b755b4f774c44e877dffda32"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dogs #1",
+      "url": "https://img.avatardecoration.com/decorations/dog_1.png",
+      "path": "molduras/dog_1.png",
+      "bytes": 848604,
+      "sha256": "d357038c10960df0b05631bd852f5a99d198f22d77c22f862dbe58289e4504c9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dogs #2",
+      "url": "https://img.avatardecoration.com/decorations/dog_2.png",
+      "path": "molduras/dog_2.png",
+      "bytes": 880661,
+      "sha256": "013f6bd0df7a36a1b47138f5620c0fe14c300d374d9050986cc3c879c3db82f8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Dogs #3",
+      "url": "https://img.avatardecoration.com/decorations/dog_3.png",
+      "path": "molduras/dog_3.png",
+      "bytes": 871819,
+      "sha256": "8aa16c304badbb01a6506c60225b4524eeee3028a12ee1c01b3ab3b0cf0dcca0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Blanket",
+      "url": "https://img.avatardecoration.com/decorations/blanket_green.png",
+      "path": "molduras/blanket_green.png",
+      "bytes": 30792,
+      "sha256": "647113a6f940a81cdf38d878100ee5cbe0cbcf6ea5e730cf119a9d2f8e094ead"
+    },
+    {
+      "kind": "decoration",
+      "name": "Orange Blanket",
+      "url": "https://img.avatardecoration.com/decorations/blanket_orange.png",
+      "path": "molduras/blanket_orange.png",
+      "bytes": 30016,
+      "sha256": "1c242b38a20616395d0a39da8848ac850329da9180230bca16a32cdf5f30e7aa"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Blanket",
+      "url": "https://img.avatardecoration.com/decorations/blanket_pink.png",
+      "path": "molduras/blanket_pink.png",
+      "bytes": 30220,
+      "sha256": "0ad9252b4383a7bcb1d67f7bf2e52340a5d16853bb135578ba3dd53f83681c41"
+    },
+    {
+      "kind": "decoration",
+      "name": "Purple Blanket",
+      "url": "https://img.avatardecoration.com/decorations/blanket_purple.png",
+      "path": "molduras/blanket_purple.png",
+      "bytes": 30811,
+      "sha256": "8a7d5696749c212457def062ec86b9dc3acf0a364e9eefca8c3a6a88e4867fb5"
+    },
+    {
+      "kind": "decoration",
+      "name": "White Box",
+      "url": "https://img.avatardecoration.com/decorations/box_white_blue.png",
+      "path": "molduras/box_white_blue.png",
+      "bytes": 25437,
+      "sha256": "727bbf8999405dc715d0fe158829eae5b65dff8cb8154008d0f37d4d60a4daf8"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Box",
+      "url": "https://img.avatardecoration.com/decorations/box_blue_yellow.png",
+      "path": "molduras/box_blue_yellow.png",
+      "bytes": 27552,
+      "sha256": "9e6526e8694cf0b188485c5ad56cd73c4406f02f1f69d4f4903dd275291ad504"
+    },
+    {
+      "kind": "decoration",
+      "name": "Green Box",
+      "url": "https://img.avatardecoration.com/decorations/box_green_red.png",
+      "path": "molduras/box_green_red.png",
+      "bytes": 26075,
+      "sha256": "4b1a4483543b6bf23d15239c053afcdf5cecb3f3eea778de037a4a9c2d1a237e"
+    },
+    {
+      "kind": "decoration",
+      "name": "Red Box",
+      "url": "https://img.avatardecoration.com/decorations/box_red_white.png",
+      "path": "molduras/box_red_white.png",
+      "bytes": 26833,
+      "sha256": "a2b39a982d01fbe012c64874e5f60100a8f071fea0dbbb252a527a02c4ddf96f"
+    },
+    {
+      "kind": "decoration",
+      "name": "Red White Box",
+      "url": "https://img.avatardecoration.com/decorations/box_red_white_blue.png",
+      "path": "molduras/box_red_white_blue.png",
+      "bytes": 27075,
+      "sha256": "d0327678f7d8752fdf2d788817480a83fbbfd726495e266267f002d80e6ad072"
+    },
+    {
+      "kind": "decoration",
+      "name": "Festive Confetti",
+      "url": "https://img.avatardecoration.com/decorations/confetti_festive.png",
+      "path": "molduras/confetti_festive.png",
+      "bytes": 4116580,
+      "sha256": "0d5a1d556fceeb9df59347abbac8d49ad4744a4ff53e1bff70d97e9ec1c3d3d1"
+    },
+    {
+      "kind": "decoration",
+      "name": "Fire Confetti",
+      "url": "https://img.avatardecoration.com/decorations/confetti_fire.png",
+      "path": "molduras/confetti_fire.png",
+      "bytes": 3727363,
+      "sha256": "788be7d76672525e3bc1e617cde70a1e0cbfc3256fe565ce2a35838c215f69a0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Ice Confetti",
+      "url": "https://img.avatardecoration.com/decorations/confetti_ice.png",
+      "path": "molduras/confetti_ice.png",
+      "bytes": 4243171,
+      "sha256": "fbd117269c583d72354a3c812dbf6a6eae51ea28dc2d0c6f2a4f3a4e5b451547"
+    },
+    {
+      "kind": "decoration",
+      "name": "Mint Confetti",
+      "url": "https://img.avatardecoration.com/decorations/confetti_mint.png",
+      "path": "molduras/confetti_mint.png",
+      "bytes": 3679489,
+      "sha256": "1b5eaa5d921df92e9563567f92739e05eb40191b1cfc7dcd0ef79d3e67315a08"
+    },
+    {
+      "kind": "decoration",
+      "name": "Star Confetti",
+      "url": "https://img.avatardecoration.com/decorations/confetti_star.png",
+      "path": "molduras/confetti_star.png",
+      "bytes": 5114348,
+      "sha256": "858bb78ac2d6cffa08290d66bef7df684634afb939a124c4a9f62dd3be3f0728"
+    },
+    {
+      "kind": "decoration",
+      "name": "Vaporwave Confetti",
+      "url": "https://img.avatardecoration.com/decorations/confetti_vaporwave.png",
+      "path": "molduras/confetti_vaporwave.png",
+      "bytes": 5344072,
+      "sha256": "6ddd0f6459d484a1b23afe918dc4b74af2af64012317125d18cb64df7dac3e3a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Icecube",
+      "url": "https://img.avatardecoration.com/decorations/ice_cube.png",
+      "path": "molduras/ice_cube.png",
+      "bytes": 1931940,
+      "sha256": "13cfb47300a7be7833027167b6a4268bb6534fe6307d3d1a9e0f42051f4544c0"
+    },
+    {
+      "kind": "decoration",
+      "name": "Gleaming Icicle",
+      "url": "https://img.avatardecoration.com/decorations/icicle_gleaming.png",
+      "path": "molduras/icicle_gleaming.png",
+      "bytes": 1281203,
+      "sha256": "be8d804809b02776cca42df92c5cb8575549d8431b9ba67dc2a1f7ce68467ef3"
+    },
+    {
+      "kind": "decoration",
+      "name": "Snowing Icicle",
+      "url": "https://img.avatardecoration.com/decorations/icicle_snowing.png",
+      "path": "molduras/icicle_snowing.png",
+      "bytes": 2977621,
+      "sha256": "626a569c6ae87834b15178b58d572cc7f1e0a3072d4693c4cdf46f3714bad903"
+    },
+    {
+      "kind": "decoration",
+      "name": "Blue Teacup",
+      "url": "https://img.avatardecoration.com/decorations/teacup_blue.png",
+      "path": "molduras/teacup_blue.png",
+      "bytes": 21872,
+      "sha256": "17b07041504a41569f14fc5df7225f30afc87325f5948e583747c3e5df7e6795"
+    },
+    {
+      "kind": "decoration",
+      "name": "Orange Teacup",
+      "url": "https://img.avatardecoration.com/decorations/teacup_orange.png",
+      "path": "molduras/teacup_orange.png",
+      "bytes": 19962,
+      "sha256": "3c3dc94107de15b119a5246bed8ef003bae55ceeaf154eb1170aaf496efdc82a"
+    },
+    {
+      "kind": "decoration",
+      "name": "Pink Teacup",
+      "url": "https://img.avatardecoration.com/decorations/teacup_pink.png",
+      "path": "molduras/teacup_pink.png",
+      "bytes": 20070,
+      "sha256": "aeac080388b479f77098423b10072da2f93edf796ee9eef4eec010dc8ec5a4e9"
+    },
+    {
+      "kind": "decoration",
+      "name": "Red Teacup",
+      "url": "https://img.avatardecoration.com/decorations/teacup_red.png",
+      "path": "molduras/teacup_red.png",
+      "bytes": 23722,
+      "sha256": "b5f44a8c23349964a57a763147383629b2b98ebab984f1d8e53375eea5416d49"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lunar New Year 2025",
+      "url": "https://img.avatardecoration.com/avatars/lunar_new_year_2025.png",
+      "path": "avatares/lunar_new_year_2025.png",
+      "bytes": 5543,
+      "sha256": "72cc9cf0d6069e3774dd6cd0095f73fce1f700b4f9eacac30ae47c2242c95838"
+    },
+    {
+      "kind": "avatar",
+      "name": "Steampunk",
+      "url": "https://img.avatardecoration.com/avatars/steampunk.png",
+      "path": "avatares/steampunk.png",
+      "bytes": 5342,
+      "sha256": "3ae7ba886659bfb09cf51024d1f64650ba76aa67d0b7dca353154f2a1e2731b3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fantasy",
+      "url": "https://img.avatardecoration.com/avatars/fantasy_2.png",
+      "path": "avatares/fantasy_2.png",
+      "bytes": 5206,
+      "sha256": "0079a06b74b1a08290d48f9b979db682316e4fec3902f128cd86314357aada9d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Winter Wonderland",
+      "url": "https://img.avatardecoration.com/avatars/winter_wonderland_2024.png",
+      "path": "avatares/winter_wonderland_2024.png",
+      "bytes": 4701,
+      "sha256": "057b186324a174201b112de40b171c20142a81b7b1d6384a1543230425ba4a48"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lofi Girl",
+      "url": "https://img.avatardecoration.com/avatars/lofi_girl.png",
+      "path": "avatares/lofi_girl.png",
+      "bytes": 5678,
+      "sha256": "2944979011164b59513d125d03a498be2f5f5cb81f67a08bcafd661c6895bdd0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Kawaii Mode",
+      "url": "https://img.avatardecoration.com/avatars/kawaii_mode.png",
+      "path": "avatares/kawaii_mode.png",
+      "bytes": 5562,
+      "sha256": "631475fead6c1db19440533e265aa5dd5d4549dbe4f0d02d367773dec958f8ec"
+    },
+    {
+      "kind": "avatar",
+      "name": "Arcane",
+      "url": "https://img.avatardecoration.com/avatars/arcane.png",
+      "path": "avatares/arcane.png",
+      "bytes": 5651,
+      "sha256": "02e96e77deb113b1885dff538602811fe89272d55c278f4cfff084c6c48c5643"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dungeons & Dragons",
+      "url": "https://img.avatardecoration.com/avatars/dungeons_and_dragons.png",
+      "path": "avatares/dungeons_and_dragons.png",
+      "bytes": 4187,
+      "sha256": "d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640"
+    },
+    {
+      "kind": "avatar",
+      "name": "Spooky Night",
+      "url": "https://img.avatardecoration.com/avatars/spooky_night.png",
+      "path": "avatares/spooky_night.png",
+      "bytes": 5114,
+      "sha256": "593ecbbcd2f86dd9f4977a2a7aa6269407f5c214fe3a4cf188fa18421000dca0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Street Fighter",
+      "url": "https://img.avatardecoration.com/avatars/street_fighter.png",
+      "path": "avatares/street_fighter.png",
+      "bytes": 18244,
+      "sha256": "7a2ae1ce20142f2bc7f8eeabc1524e03ec54a02fd7acdfc6eafbc596095b82e0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Autumn Equinox",
+      "url": "https://img.avatardecoration.com/avatars/autumn_equinox.png",
+      "path": "avatares/autumn_equinox.png",
+      "bytes": 16482,
+      "sha256": "4eefdc8f547004f73f2a7d2ef659153d5340cd267e3eb0bbfcb013b5d54ecd0d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dojo",
+      "url": "https://img.avatardecoration.com/avatars/dojo.png",
+      "path": "avatares/dojo.png",
+      "bytes": 12480,
+      "sha256": "dcdabd65dbad462f48b38ddd094e9294507a12578566190386ca4d12985ec18c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Palworld",
+      "url": "https://img.avatardecoration.com/avatars/palworld.png",
+      "path": "avatares/palworld.png",
+      "bytes": 11660,
+      "sha256": "fb2e35122ca2f13789ee935bffa634c49f5bb68fa24784dd6dcf46c2528e353d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Arcade",
+      "url": "https://img.avatardecoration.com/avatars/arcade.png",
+      "path": "avatares/arcade.png",
+      "bytes": 19151,
+      "sha256": "ef9e980e31ded8366b5693e9f5e76c93fd0eca4c25a9e16a6826c2cde54cdfe3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Retro",
+      "url": "https://img.avatardecoration.com/avatars/retro.gif",
+      "path": "avatares/retro.gif",
+      "bytes": 359939,
+      "sha256": "e2aa0c716cc181422c8f93ad7d4ac0807c753b188e2e12bb7f435f64f13eddf9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Galaxy",
+      "url": "https://img.avatardecoration.com/avatars/galaxy.png",
+      "path": "avatares/galaxy.png",
+      "bytes": 54872,
+      "sha256": "b012e2e6ba583510379db8bbb75ff4d411618538d251e771fe0f74ffb838bc95"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lofi",
+      "url": "https://img.avatardecoration.com/avatars/lofi.png",
+      "path": "avatares/lofi.png",
+      "bytes": 39331,
+      "sha256": "91c43d431012454cbd32020c9102182d43ac0ca513905c71bc6e9ab10c220180"
+    },
+    {
+      "kind": "avatar",
+      "name": "Valorant",
+      "url": "https://img.avatardecoration.com/avatars/valorant.png",
+      "path": "avatares/valorant.png",
+      "bytes": 58684,
+      "sha256": "40812d77a7a6ed8721b63f0f56c74d5daae835b0b18568c79fdfaaceed7f69c7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blue",
+      "url": "https://img.avatardecoration.com/avatars/blue.png",
+      "path": "avatares/blue.png",
+      "bytes": 1268,
+      "sha256": "2b4a9c8f3fc1e08227a34e42518a289c6b1229bec46b32bd44e32a1038447d3b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gray",
+      "url": "https://img.avatardecoration.com/avatars/gray.png",
+      "path": "avatares/gray.png",
+      "bytes": 1324,
+      "sha256": "ca0dad323eee0d24eb0d75846e3d57fbf76750d8d0f4485a9f68e0fc4498e7d6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Green",
+      "url": "https://img.avatardecoration.com/avatars/green.png",
+      "path": "avatares/green.png",
+      "bytes": 1325,
+      "sha256": "9a013cd568e05ca7eabd6169ca0fbbfaec75ce60e434a9e0e6e5060e54061ec1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Yellow",
+      "url": "https://img.avatardecoration.com/avatars/yellow.png",
+      "path": "avatares/yellow.png",
+      "bytes": 1344,
+      "sha256": "231b4c298ff1c0749744d5cb3ace1dd2149e8a1ecd5febbf87a22aef35938ead"
+    },
+    {
+      "kind": "avatar",
+      "name": "Red",
+      "url": "https://img.avatardecoration.com/avatars/red.png",
+      "path": "avatares/red.png",
+      "bytes": 1334,
+      "sha256": "e3cbf10f4a5715d7b6127922661635516488b3b0d81767402ca86f126cc89d7b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pink",
+      "url": "https://img.avatardecoration.com/avatars/pink.png",
+      "path": "avatares/pink.png",
+      "bytes": 1274,
+      "sha256": "cc09f86501f3b6bb73598a0bab23802b83f31ad6f26c5328810f9ba562460f25"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blurple",
+      "url": "https://img.avatardecoration.com/avatars/blurple.png",
+      "path": "avatares/blurple.png",
+      "bytes": 7336,
+      "sha256": "670525c616c80cac567f7aa14d4b60a110ec86667f93fb5faa25d7d7b6744b38"
+    },
+    {
+      "kind": "avatar",
+      "name": "Goth",
+      "url": "https://img.avatardecoration.com/avatars/goth.png",
+      "path": "avatares/goth.png",
+      "bytes": 1530,
+      "sha256": "1a72389e4389251cb0543688f30ba7ee6f40aa7f0d5d4e02a8d4843e0ce4c37b"
+    },
+    {
+      "kind": "avatar",
+      "name": "WHAM",
+      "url": "https://img.avatardecoration.com/avatars/wham.png",
+      "path": "avatares/wham.png",
+      "bytes": 4991,
+      "sha256": "597891767cbea563062918712be8d39f6dab9753db158812ed2516bd2678cbf5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Charcoal",
+      "url": "https://img.avatardecoration.com/avatars/charcoal.png",
+      "path": "avatares/charcoal.png",
+      "bytes": 2196,
+      "sha256": "3a553aa65bd467d1c43ab89e3fa878176c2f0463d7a594132c425edd5fe24911"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ceramic",
+      "url": "https://img.avatardecoration.com/avatars/ceramic.png",
+      "path": "avatares/ceramic.png",
+      "bytes": 1664,
+      "sha256": "d0c400e67c4e7ca407938943e02e9872fe9499e9d1f74c581821a9a5c234f1c7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pastel",
+      "url": "https://img.avatardecoration.com/avatars/pastel.png",
+      "path": "avatares/pastel.png",
+      "bytes": 4959,
+      "sha256": "9e591adcd02a4df2baa4ee6f8bc5b8c1a775a138af2669111538fc59762d7381"
+    },
+    {
+      "kind": "avatar",
+      "name": "Matey",
+      "url": "https://img.avatardecoration.com/avatars/matey.png",
+      "path": "avatares/matey.png",
+      "bytes": 7454,
+      "sha256": "e08f94b29c23a19ff4e4ab14393bb8f9a4da1a975912f3ae41c17dc5400a3b77"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tactical",
+      "url": "https://img.avatardecoration.com/avatars/tactical.png",
+      "path": "avatares/tactical.png",
+      "bytes": 5584,
+      "sha256": "eb99d4c55a4c00b00857eddab712482f02e8a1c543ceb3bf049b01d801873f8a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sunset Ave",
+      "url": "https://img.avatardecoration.com/avatars/sunset_ave.png",
+      "path": "avatares/sunset_ave.png",
+      "bytes": 3551,
+      "sha256": "d8f402f21d2d7038e80eb62cd11ce8c99eb61240d8031a4c8000a2da3c870b08"
+    },
+    {
+      "kind": "avatar",
+      "name": "Galactic Chrome",
+      "url": "https://img.avatardecoration.com/avatars/galactic_chrome.png",
+      "path": "avatares/galactic_chrome.png",
+      "bytes": 6466,
+      "sha256": "3f1ea718eb71ca90b2eb63f2f35993d51e8f836c03c5bfad50c6f8f38b36f937"
+    },
+    {
+      "kind": "avatar",
+      "name": "Holo",
+      "url": "https://img.avatardecoration.com/avatars/holo.png",
+      "path": "avatares/holo.png",
+      "bytes": 7476,
+      "sha256": "3f6e8fa56feeb2287ee552cecc899b41e5e1231b06ed51be15e68f3e7e1dfac0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sakura",
+      "url": "https://img.avatardecoration.com/avatars/sakura.png",
+      "path": "avatares/sakura.png",
+      "bytes": 14225,
+      "sha256": "248dc5ca66a7bc9ddab0ac6075169029e059991715371fb4d5d45c829a68e204"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sherbet Dreamsicle",
+      "url": "https://img.avatardecoration.com/avatars/sherbet_dreamsicle.png",
+      "path": "avatares/sherbet_dreamsicle.png",
+      "bytes": 7006,
+      "sha256": "d3a9d39eab8136e4dbeb8352961deeda8c7fa53a4dc9d8ab50be81e1a4131bd4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gaming",
+      "url": "https://img.avatardecoration.com/avatars/gaming.png",
+      "path": "avatares/gaming.png",
+      "bytes": 6583,
+      "sha256": "8854b052b812674a675c51e64216efe7787da12419f31a7782ed17a592b18590"
+    },
+    {
+      "kind": "avatar",
+      "name": "Mainframe",
+      "url": "https://img.avatardecoration.com/avatars/mainframe.png",
+      "path": "avatares/mainframe.png",
+      "bytes": 8426,
+      "sha256": "9f464966584c6044736631887f6b0400d6755f50841c2019e778c576faea0db5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Prismatic Waves",
+      "url": "https://img.avatardecoration.com/avatars/prismatic_waves.png",
+      "path": "avatares/prismatic_waves.png",
+      "bytes": 7683,
+      "sha256": "3541933cd4c5d853b66ed2cc1550bc38e003c0d020412af3f7d3f16b566779c0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fuming",
+      "url": "https://img.avatardecoration.com/avatars/fuming.png",
+      "path": "avatares/fuming.png",
+      "bytes": 6252,
+      "sha256": "c7284f48d54b2ae37964b6a91213e146ea7163782f1bab103609c5ecd0c4671d"
+    },
+    {
+      "kind": "avatar",
+      "name": "D64",
+      "url": "https://img.avatardecoration.com/avatars/d64.png",
+      "path": "avatares/d64.png",
+      "bytes": 3882,
+      "sha256": "11555d3e04a2d1d0398c46f6a92cf6d903559528ba0a1bfee88e460b913e0154"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blurple Twilight",
+      "url": "https://img.avatardecoration.com/avatars/blurple_twilight.png",
+      "path": "avatares/blurple_twilight.png",
+      "bytes": 5391,
+      "sha256": "13d5aa99bc92ddf7473d2e13c5659ba824ed7a1486c071e6df0ba319e42d91e8"
+    },
+    {
+      "kind": "avatar",
+      "name": "In Rainbows",
+      "url": "https://img.avatardecoration.com/avatars/in_rainbows.png",
+      "path": "avatares/in_rainbows.png",
+      "bytes": 4634,
+      "sha256": "870fa8ddf1d143e882574f119a978ea901dcd86f80596628e867c0f66f7fee72"
+    },
+    {
+      "kind": "avatar",
+      "name": "Midnight Prism",
+      "url": "https://img.avatardecoration.com/avatars/midnight_prism.png",
+      "path": "avatares/midnight_prism.png",
+      "bytes": 1057,
+      "sha256": "a75e8d865a19ff615fb1fb4f5a242b445ec512fafec7002a3dcce75d0a3ab3ab"
+    },
+    {
+      "kind": "avatar",
+      "name": "Color Wave",
+      "url": "https://img.avatardecoration.com/avatars/color_wave.png",
+      "path": "avatares/color_wave.png",
+      "bytes": 1095,
+      "sha256": "5f7e04c4c918b3db261277e2166b39a5c39ac7e24677184390fcc07e2011f5fe"
+    },
+    {
+      "kind": "avatar",
+      "name": "Classic Blue",
+      "url": "https://img.avatardecoration.com/avatars/classic_blue.png",
+      "path": "avatares/classic_blue.png",
+      "bytes": 2964,
+      "sha256": "a93121b2441b5f443d5a089018f28c189341f8f73df800c2dbedf27e755eae40"
+    },
+    {
+      "kind": "avatar",
+      "name": "Classic Gray",
+      "url": "https://img.avatardecoration.com/avatars/classic_gray.png",
+      "path": "avatares/classic_gray.png",
+      "bytes": 3019,
+      "sha256": "6883c4ed5e4e513346449e494c236b4cb04b8664b4dc4b68917ec46002f1f85d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Classic Green",
+      "url": "https://img.avatardecoration.com/avatars/classic_green.png",
+      "path": "avatares/classic_green.png",
+      "bytes": 3053,
+      "sha256": "180ed5972c07b2d7db5ce4a6d4b20e91bd3aed8c7f907a4527274a3e75d69535"
+    },
+    {
+      "kind": "avatar",
+      "name": "Classic Yellow",
+      "url": "https://img.avatardecoration.com/avatars/classic_yellow.png",
+      "path": "avatares/classic_yellow.png",
+      "bytes": 3116,
+      "sha256": "a73de0a25273ad3096de9c15a408a275eb3e110381c8641c37b0d3969e37cae5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Classic Red",
+      "url": "https://img.avatardecoration.com/avatars/classic_red.png",
+      "path": "avatares/classic_red.png",
+      "bytes": 2895,
+      "sha256": "73cf0d502fd0ced70fac562babe2d19ab529ccb97a7150ff6375d347406a1355"
+    },
+    {
+      "kind": "avatar",
+      "name": "Automod #1",
+      "url": "https://img.avatardecoration.com/avatars/automod_1.png",
+      "path": "avatares/automod_1.png",
+      "bytes": 42657,
+      "sha256": "2da3b42c2c9c41dc978ffd088ff8bb0a7aa4a32e8d5adfb1a626c441d9efb77a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde AI #1",
+      "url": "https://img.avatardecoration.com/avatars/clyde_ai_1.gif",
+      "path": "avatares/clyde_ai_1.gif",
+      "bytes": 849603,
+      "sha256": "3f1a7411cc855fe558e3c4257fdd41553de7b4dbf213d4d509abdfe4739b340a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ander #1",
+      "url": "https://img.avatardecoration.com/avatars/ander_1.png",
+      "path": "avatares/ander_1.png",
+      "bytes": 10897,
+      "sha256": "562c50a8bec9a8e53dcf4f489d537c40185656bf43dd7e32c2ecaba0796cdb38"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ander #2",
+      "url": "https://img.avatardecoration.com/avatars/ander_2.png",
+      "path": "avatares/ander_2.png",
+      "bytes": 23952,
+      "sha256": "b179422eb95bfd5dc3c0550397ff129f23fcc82198ea99ba58c3402434b1599c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ander #3",
+      "url": "https://img.avatardecoration.com/avatars/ander_3.png",
+      "path": "avatares/ander_3.png",
+      "bytes": 9126,
+      "sha256": "54bb05bb4248ddb69aa7f617aee807708ce79aebf2a411b0181ca8a658d85369"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ander #4",
+      "url": "https://img.avatardecoration.com/avatars/ander_4.png",
+      "path": "avatares/ander_4.png",
+      "bytes": 20234,
+      "sha256": "834dec141546984fbc782b002e0e0089032b4ff9f112c7af0ef19f27ce7000d2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Annabel #1",
+      "url": "https://img.avatardecoration.com/avatars/annabel_1.png",
+      "path": "avatares/annabel_1.png",
+      "bytes": 23117,
+      "sha256": "d4b53ceeb4ebda9638e22a0d6d725694beacb6042debf9b741e4479c20614eee"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bartender #1",
+      "url": "https://img.avatardecoration.com/avatars/bartender_1.png",
+      "path": "avatares/bartender_1.png",
+      "bytes": 10679,
+      "sha256": "9348b63f0c4f89b66ac091b27643aaba99e22082a0afb24b4471474aba4c94f2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bento #1",
+      "url": "https://img.avatardecoration.com/avatars/bento_1.png",
+      "path": "avatares/bento_1.png",
+      "bytes": 14470,
+      "sha256": "bb1a8319b6d2723da4d220a3037b44403ab1681c5697850cd03146e721c71f34"
+    },
+    {
+      "kind": "avatar",
+      "name": "Big Bird #1",
+      "url": "https://img.avatardecoration.com/avatars/big_bird_1.png",
+      "path": "avatares/big_bird_1.png",
+      "bytes": 5170,
+      "sha256": "b0e17a4bc8ad685da83007e73774e2dc61c6fb94c4faeaaf75c3fe4f23cd9169"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bill #1",
+      "url": "https://img.avatardecoration.com/avatars/bill_1.png",
+      "path": "avatares/bill_1.png",
+      "bytes": 7755,
+      "sha256": "2b3f10075f01eda4824c38bdc7f064794bfef3023151f5c7b81920229bf55a40"
+    },
+    {
+      "kind": "avatar",
+      "name": "Birb #1",
+      "url": "https://img.avatardecoration.com/avatars/birb_1.png",
+      "path": "avatares/birb_1.png",
+      "bytes": 15949,
+      "sha256": "6613517a8291d8ace041faddd36db69c0db928ae8396813d0debf25d80731222"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bling #1",
+      "url": "https://img.avatardecoration.com/avatars/bling_1.png",
+      "path": "avatares/bling_1.png",
+      "bytes": 12894,
+      "sha256": "28eb6ac8523e18e76bce2dc912526b3cb63abdc225e6f4da13f74762ee374be0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blink #1",
+      "url": "https://img.avatardecoration.com/avatars/blink_1.png",
+      "path": "avatares/blink_1.png",
+      "bytes": 43934,
+      "sha256": "3a191385bd10db70b4b58d1f209c17d633005fe8d823d31cafab285c7a03429c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blip #1",
+      "url": "https://img.avatardecoration.com/avatars/blip_1.png",
+      "path": "avatares/blip_1.png",
+      "bytes": 3760,
+      "sha256": "d2192123e1576558dc1dec2cf3e2b756b979ffde6f694d93395388963d4d5b33"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blip #2",
+      "url": "https://img.avatardecoration.com/avatars/blip_2.png",
+      "path": "avatares/blip_2.png",
+      "bytes": 3122,
+      "sha256": "fb07cf88bba674377200f539ebbde3af1d32e7e15df93c4b3483a3501d737fcc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bonbon #1",
+      "url": "https://img.avatardecoration.com/avatars/bonbon_1.png",
+      "path": "avatares/bonbon_1.png",
+      "bytes": 12953,
+      "sha256": "f16ac3f21150fd9859d53bd85cf9ebb38e9cb22340408ab605fbb0588fe1c3d9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bonbon #2",
+      "url": "https://img.avatardecoration.com/avatars/bonbon_2.png",
+      "path": "avatares/bonbon_2.png",
+      "bytes": 8674,
+      "sha256": "863a11179747c25cef2f2736708a00ec16d7e776558e77a95724818c4f5b9b2f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Boomer #1",
+      "url": "https://img.avatardecoration.com/avatars/boomer_1.png",
+      "path": "avatares/boomer_1.png",
+      "bytes": 24611,
+      "sha256": "c65fc60c3588ca75d503f6258de34344e8d701fef06cefaa79c114a6cdbfd43e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bopper #1",
+      "url": "https://img.avatardecoration.com/avatars/bopper_1.png",
+      "path": "avatares/bopper_1.png",
+      "bytes": 18640,
+      "sha256": "370ff9b6535ec500b451dc49baac1c7c29d4dcfd252b2ffe7032c022ddc79f28"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bopper #2",
+      "url": "https://img.avatardecoration.com/avatars/bopper_2.png",
+      "path": "avatares/bopper_2.png",
+      "bytes": 14326,
+      "sha256": "304d79c971af2aeda57adf0f4e57eea52a2e5e407d4265e03a64fd6632fc013d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bouncer #1",
+      "url": "https://img.avatardecoration.com/avatars/bouncer_1.png",
+      "path": "avatares/bouncer_1.png",
+      "bytes": 21002,
+      "sha256": "090dd0d89cbe390ee8b72c0be3ca5b2ee7ed56419c57206420f20761442618a5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Brainy #1",
+      "url": "https://img.avatardecoration.com/avatars/brainy_1.png",
+      "path": "avatares/brainy_1.png",
+      "bytes": 12801,
+      "sha256": "3d7f33809c3cb2fc8491d7f13b2da3285e13373ca3e0ec9669dca8a0ccc5dd07"
+    },
+    {
+      "kind": "avatar",
+      "name": "Brib #1",
+      "url": "https://img.avatardecoration.com/avatars/brib_1.png",
+      "path": "avatares/brib_1.png",
+      "bytes": 9993,
+      "sha256": "3cf63556a747be50abad3a52135f48c914dee5b227f455d6b3dd16bdafc023dd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bunny Man #1",
+      "url": "https://img.avatardecoration.com/avatars/bunny_man_1.png",
+      "path": "avatares/bunny_man_1.png",
+      "bytes": 8862,
+      "sha256": "ad4f6691fefb270383003ff1482b3dd8fa2cf72c6d706644dae48dca4e6f572d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cacdude #1",
+      "url": "https://img.avatardecoration.com/avatars/cacdude_1.png",
+      "path": "avatares/cacdude_1.png",
+      "bytes": 24122,
+      "sha256": "eac3edcd7925e986459399f9d4f1d944dd73ba24901de8df6bd00066c4561c6c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cambrella #1",
+      "url": "https://img.avatardecoration.com/avatars/cambrella_1.png",
+      "path": "avatares/cambrella_1.png",
+      "bytes": 5517,
+      "sha256": "ec2454abf57004047dedf65063234ead1f268f338a546285a71e8b6cb9ce4668"
+    },
+    {
+      "kind": "avatar",
+      "name": "Camie #1",
+      "url": "https://img.avatardecoration.com/avatars/camie_1.png",
+      "path": "avatares/camie_1.png",
+      "bytes": 12503,
+      "sha256": "6e67b62f14156b6f3101e0fa757cdcfda8a22e72346d297b9b5e93774b1b0bd5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #1",
+      "url": "https://img.avatardecoration.com/avatars/cap_1.png",
+      "path": "avatares/cap_1.png",
+      "bytes": 22567,
+      "sha256": "c71604b7554b85071cac6c36231676c3e5284265ab31724dfa6f90364f9ed801"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #2",
+      "url": "https://img.avatardecoration.com/avatars/cap_2.png",
+      "path": "avatares/cap_2.png",
+      "bytes": 14161,
+      "sha256": "f35db9a68facac0ee6ab1e2e07032a50aaa46bcbc5c95f87ab64ccccc566c7c2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #3",
+      "url": "https://img.avatardecoration.com/avatars/cap_3.png",
+      "path": "avatares/cap_3.png",
+      "bytes": 21829,
+      "sha256": "1c226f1c4adaae51c49172214f637acd8f1a79ef8444b6445bc2f52319d52685"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #4",
+      "url": "https://img.avatardecoration.com/avatars/cap_4.png",
+      "path": "avatares/cap_4.png",
+      "bytes": 27950,
+      "sha256": "820c9550be8cc669de1614b539e093e94437d7453897a2a521188766fcf95d57"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #5",
+      "url": "https://img.avatardecoration.com/avatars/cap_5.png",
+      "path": "avatares/cap_5.png",
+      "bytes": 16022,
+      "sha256": "47cc29230ec6248277d4c85aa8a5be576f737e576e153c82a2baa76800f58dfa"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #6",
+      "url": "https://img.avatardecoration.com/avatars/cap_6.png",
+      "path": "avatares/cap_6.png",
+      "bytes": 24872,
+      "sha256": "8d9643e06c761699d4c71f06ded8b2d594ef1881065c8520f47f5efac7b6a194"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #7",
+      "url": "https://img.avatardecoration.com/avatars/cap_7.png",
+      "path": "avatares/cap_7.png",
+      "bytes": 28299,
+      "sha256": "9c9f96851550b9703da527a283c2ab6068ca2713bd8c455cca6d284da9814bff"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap #8",
+      "url": "https://img.avatardecoration.com/avatars/cap_8.png",
+      "path": "avatares/cap_8.png",
+      "bytes": 6058,
+      "sha256": "aea382d7baa67f6b7f3682631343b8622649df7c5533c91a616650d9888c7ba7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Capper #1",
+      "url": "https://img.avatardecoration.com/avatars/capper_1.png",
+      "path": "avatares/capper_1.png",
+      "bytes": 9633,
+      "sha256": "1b2e04ffb2d2b76e00af704ebd4e387df7cee05163ac13ed10cc85b1314168b4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Capper #2",
+      "url": "https://img.avatardecoration.com/avatars/capper_2.png",
+      "path": "avatares/capper_2.png",
+      "bytes": 9510,
+      "sha256": "b41d4decc1a3456eb4ef23731fe1ca3aec238a3fe6943b4225c54535e83c00a1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cat #1",
+      "url": "https://img.avatardecoration.com/avatars/cat_1.png",
+      "path": "avatares/cat_1.png",
+      "bytes": 11137,
+      "sha256": "dbb67dcff379c67eb9491a33a22c7b406b485f86e26eb143326b17bccc651cd0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Chance #1",
+      "url": "https://img.avatardecoration.com/avatars/chance_1.png",
+      "path": "avatares/chance_1.png",
+      "bytes": 10214,
+      "sha256": "5213af998d4081c159e3b180a1e2fd5170f35ad01407492032ac915f0acfb246"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cherry #1",
+      "url": "https://img.avatardecoration.com/avatars/cherry_1.png",
+      "path": "avatares/cherry_1.png",
+      "bytes": 12170,
+      "sha256": "2cbc54181e8cf2f810a8e649c2b709b1f81659c496f6cc1ed4ceab494f3aca21"
+    },
+    {
+      "kind": "avatar",
+      "name": "Chief #1",
+      "url": "https://img.avatardecoration.com/avatars/chief_1.png",
+      "path": "avatares/chief_1.png",
+      "bytes": 8855,
+      "sha256": "45d3189cb41a3d379d3bd51efc621b1763acf1fa9f55c6f8ac11268092b897fd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Chiller #1",
+      "url": "https://img.avatardecoration.com/avatars/chiller_1.png",
+      "path": "avatares/chiller_1.png",
+      "bytes": 15569,
+      "sha256": "e6c871420997ef72f46e86bbc9787f21ec6155a10abe631d1475bf3cfabe031b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #1",
+      "url": "https://img.avatardecoration.com/avatars/clyde_1.png",
+      "path": "avatares/clyde_1.png",
+      "bytes": 17381,
+      "sha256": "d483ea4e8ada4d148102c89e93a6f7e4b8cbc445a44d52f78e14b29c2be709b1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #2",
+      "url": "https://img.avatardecoration.com/avatars/clyde_2.png",
+      "path": "avatares/clyde_2.png",
+      "bytes": 15539,
+      "sha256": "ce7cc7e9d6161d670f70fa557984ac6bd553ad6eb250e3f93fe5c5eb08901473"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #3",
+      "url": "https://img.avatardecoration.com/avatars/clyde_3.png",
+      "path": "avatares/clyde_3.png",
+      "bytes": 21132,
+      "sha256": "0aec0df6aac9a64150f88dee5f6b69e3b0095f4c83ee210bbc2020f6a6503d6d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #4",
+      "url": "https://img.avatardecoration.com/avatars/clyde_4.png",
+      "path": "avatares/clyde_4.png",
+      "bytes": 12221,
+      "sha256": "574f766950220004039151d35fb82c558968d3026df3ee4d84cd7288e1729b91"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #6",
+      "url": "https://img.avatardecoration.com/avatars/clyde_6.png",
+      "path": "avatares/clyde_6.png",
+      "bytes": 13230,
+      "sha256": "74fd736c19851fa0e6024818f1258089c2b0aff2dd697e0bfdf92b24ec83e5f3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #7",
+      "url": "https://img.avatardecoration.com/avatars/clyde_7.png",
+      "path": "avatares/clyde_7.png",
+      "bytes": 14327,
+      "sha256": "1215766c893a2c3db93e39a647e8575fd5354a33197fc8fca0548f8a921602b4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #8",
+      "url": "https://img.avatardecoration.com/avatars/clyde_8.png",
+      "path": "avatares/clyde_8.png",
+      "bytes": 6483,
+      "sha256": "c9e12f961b09c21fa468b7739485181be3c111122b554f53da9e2ce26234a943"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #9",
+      "url": "https://img.avatardecoration.com/avatars/clyde_9.png",
+      "path": "avatares/clyde_9.png",
+      "bytes": 23352,
+      "sha256": "8bb14953e70222546d5609d2054b0e3bb10e5e7e97f175fb523d45cb35b6fde8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #10",
+      "url": "https://img.avatardecoration.com/avatars/clyde_10.png",
+      "path": "avatares/clyde_10.png",
+      "bytes": 13099,
+      "sha256": "d56cbb033e8600e1525fc2bd5e2ea15d0c24b659251425d3615a52e2ce19c475"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clyde #11",
+      "url": "https://img.avatardecoration.com/avatars/clyde_11.png",
+      "path": "avatares/clyde_11.png",
+      "bytes": 19470,
+      "sha256": "c20708ca45fcd78538a1006933fc290c2121bfce2e11502ad76e3b5b0542c1ac"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dee #1",
+      "url": "https://img.avatardecoration.com/avatars/dee_1.png",
+      "path": "avatares/dee_1.png",
+      "bytes": 12823,
+      "sha256": "1d144c9e1501da168b212faee518c87899a6146676df68ce55502ef5816a3f38"
+    },
+    {
+      "kind": "avatar",
+      "name": "Doodie #1",
+      "url": "https://img.avatardecoration.com/avatars/doodie_1.png",
+      "path": "avatares/doodie_1.png",
+      "bytes": 12166,
+      "sha256": "242d7db167a14de3e7d28b8034904c5196a7ca38f1bf8c44d5a34e9cef55191c"
+    },
+    {
+      "kind": "avatar",
+      "name": "D–20 #1",
+      "url": "https://img.avatardecoration.com/avatars/d20_1.png",
+      "path": "avatares/d20_1.png",
+      "bytes": 11736,
+      "sha256": "4adf9533280a3950912a5fbbe444298c38bea5acc51cc775abb1db040d6738fb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Elmer #1",
+      "url": "https://img.avatardecoration.com/avatars/elmer_1.png",
+      "path": "avatares/elmer_1.png",
+      "bytes": 15805,
+      "sha256": "ef386faef5ec640cf7e16594fae3d3841993c2d0543e87efcab02e324da8b1ad"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fairy #1",
+      "url": "https://img.avatardecoration.com/avatars/fairy_1.png",
+      "path": "avatares/fairy_1.png",
+      "bytes": 8825,
+      "sha256": "0679233514fa18e35d23a346e8725d0011c620c060b810f3ee997571679e4f60"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fang #1",
+      "url": "https://img.avatardecoration.com/avatars/fang_1.png",
+      "path": "avatares/fang_1.png",
+      "bytes": 14676,
+      "sha256": "01e7b0faf946899ec91a2dc6b3d089b4b8c35a713990a75a2a762be11b230b52"
+    },
+    {
+      "kind": "avatar",
+      "name": "Felippe #1",
+      "url": "https://img.avatardecoration.com/avatars/felippe_1.png",
+      "path": "avatares/felippe_1.png",
+      "bytes": 12958,
+      "sha256": "6278fbf13e54eee98f8ba348141fd2d8806d360e08ba44f18125fb12ae42fa8e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fighter #1",
+      "url": "https://img.avatardecoration.com/avatars/fighter_1.png",
+      "path": "avatares/fighter_1.png",
+      "bytes": 23766,
+      "sha256": "fc403505ff0f171c1693b0c75855c951c2e9d3dd82e0121b341649666222dca5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Flipper #1",
+      "url": "https://img.avatardecoration.com/avatars/flipper_1.png",
+      "path": "avatares/flipper_1.png",
+      "bytes": 7094,
+      "sha256": "6ea4990288fbd91ce7d44a4a1bb29232e0e27ee266b8df0308dc3863f423fa26"
+    },
+    {
+      "kind": "avatar",
+      "name": "Floop #1",
+      "url": "https://img.avatardecoration.com/avatars/floop_1.png",
+      "path": "avatares/floop_1.png",
+      "bytes": 7466,
+      "sha256": "a3bbe3a1bdf7877e03c4c42f7ae7fd74ffbdf8cdffafd2b2f52f3abb715c7efb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Floop #2",
+      "url": "https://img.avatardecoration.com/avatars/floop_2.png",
+      "path": "avatares/floop_2.png",
+      "bytes": 6530,
+      "sha256": "cef1dcaadb02f50f721e30f260990f67f549f54ff4fe5b9598592f1905756703"
+    },
+    {
+      "kind": "avatar",
+      "name": "Floop #3",
+      "url": "https://img.avatardecoration.com/avatars/floop_3.png",
+      "path": "avatares/floop_3.png",
+      "bytes": 21559,
+      "sha256": "2df4f1ca2be085a681d3bf75b1279e1d737ff100f8c68c169c3e6230448205a9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Flynn #1",
+      "url": "https://img.avatardecoration.com/avatars/flynn_1.png",
+      "path": "avatares/flynn_1.png",
+      "bytes": 13771,
+      "sha256": "76ae339444bb37003c4f68ccb3b614cdd40a7d8df2ca50d9f7ca1cbf3189a55d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Frog Stranger #1",
+      "url": "https://img.avatardecoration.com/avatars/frog_stranger_1.png",
+      "path": "avatares/frog_stranger_1.png",
+      "bytes": 11398,
+      "sha256": "871c272d175db39b3d13c27c9920146eb0adead84ca9c1676ff33d8315d9a628"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #1",
+      "url": "https://img.avatardecoration.com/avatars/froge_1.png",
+      "path": "avatares/froge_1.png",
+      "bytes": 18356,
+      "sha256": "0903cc6759f17b84468daed6a733a5b21bec2ecef43371aa322dd30b46784827"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #2",
+      "url": "https://img.avatardecoration.com/avatars/froge_2.png",
+      "path": "avatares/froge_2.png",
+      "bytes": 15212,
+      "sha256": "abcf2e7561997a5570467281d12d700ae8169ca71038c5b3bddb5a6fa41912c6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #3",
+      "url": "https://img.avatardecoration.com/avatars/froge_3.png",
+      "path": "avatares/froge_3.png",
+      "bytes": 22432,
+      "sha256": "bc136b88090b92c7ba8b6ed08cbbe1acf467645e50ceaeea7b41d7ebda85d9db"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #4",
+      "url": "https://img.avatardecoration.com/avatars/froge_4.png",
+      "path": "avatares/froge_4.png",
+      "bytes": 10705,
+      "sha256": "03d98f774798ea4abaa0dadc33cab106abc44afc62eb1fa5de3c8cccd53f4c46"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #5",
+      "url": "https://img.avatardecoration.com/avatars/froge_5.png",
+      "path": "avatares/froge_5.png",
+      "bytes": 7614,
+      "sha256": "6d3e297b18ddc30b0d7b035b18c92f1613597214f759780b7874c8c95d5b39e5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #6",
+      "url": "https://img.avatardecoration.com/avatars/froge_6.png",
+      "path": "avatares/froge_6.png",
+      "bytes": 9187,
+      "sha256": "246ee20d4e5a479e82240408b5032f8937f120d30a9743bb423a684211bd5fd5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #7",
+      "url": "https://img.avatardecoration.com/avatars/froge_7.png",
+      "path": "avatares/froge_7.png",
+      "bytes": 8671,
+      "sha256": "b23f6fe7f2c18b7b52a5cf6041b4eef93dcce1522c519251551bde7f11495287"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #8",
+      "url": "https://img.avatardecoration.com/avatars/froge_8.png",
+      "path": "avatares/froge_8.png",
+      "bytes": 15305,
+      "sha256": "4cb1b10fc3787b80f7281f42a9df2629c96ab5b6399e1544f54630185ff43b47"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #9",
+      "url": "https://img.avatardecoration.com/avatars/froge_9.png",
+      "path": "avatares/froge_9.png",
+      "bytes": 17825,
+      "sha256": "dbcd98e9452463755c0c4fa091d207e4b88de35cadd5293c30a2b889eb475173"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #10",
+      "url": "https://img.avatardecoration.com/avatars/froge_10.png",
+      "path": "avatares/froge_10.png",
+      "bytes": 5291,
+      "sha256": "424ca67e76d794e07b966e8515e41dc814f4334998626b73beb0f6769eab0cc1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Froge #11",
+      "url": "https://img.avatardecoration.com/avatars/froge_11.png",
+      "path": "avatares/froge_11.png",
+      "bytes": 17123,
+      "sha256": "70e63669972b6acdcf81d04287cf76168e5b62617c0cf613172bb9c05c4d7680"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gero #1",
+      "url": "https://img.avatardecoration.com/avatars/gero_1.png",
+      "path": "avatares/gero_1.png",
+      "bytes": 13164,
+      "sha256": "c2707a041d08146383cc1affeb8150061c1eae8877a7b2589bba93f3f97362fa"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gill #1",
+      "url": "https://img.avatardecoration.com/avatars/gill_1.png",
+      "path": "avatares/gill_1.png",
+      "bytes": 13411,
+      "sha256": "afba199af8bf296f3fa2cb24c46b740d4e580d73e448b2a12710e7018ef3e55b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gnarf #1",
+      "url": "https://img.avatardecoration.com/avatars/gnarf_1.png",
+      "path": "avatares/gnarf_1.png",
+      "bytes": 15855,
+      "sha256": "862d63928a59faff4c7961a9c61a2665f72a466eb7c6efe0790df47808c6a293"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gobbi #1",
+      "url": "https://img.avatardecoration.com/avatars/gobbi_1.png",
+      "path": "avatares/gobbi_1.png",
+      "bytes": 11900,
+      "sha256": "7836602f5984d44c730a9ce5be51b9ebc79d2fc8852bbc3a1efc48776b4b9618"
+    },
+    {
+      "kind": "avatar",
+      "name": "Graggle #1",
+      "url": "https://img.avatardecoration.com/avatars/graggle_1.png",
+      "path": "avatares/graggle_1.png",
+      "bytes": 11346,
+      "sha256": "8feb4925ab46b1158043fa34205a97bb989041622866f0ba8951b21989bceaad"
+    },
+    {
+      "kind": "avatar",
+      "name": "Graggle #2",
+      "url": "https://img.avatardecoration.com/avatars/graggle_2.png",
+      "path": "avatares/graggle_2.png",
+      "bytes": 15287,
+      "sha256": "fc51db7a2eef482ac637763d020f05d742c4fc53ed8b101c0963a5e70aa8f36d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Graggle #3",
+      "url": "https://img.avatardecoration.com/avatars/graggle_3.png",
+      "path": "avatares/graggle_3.png",
+      "bytes": 11278,
+      "sha256": "71ae5534f349604d2892d9ba838f109df8c614ac1af37c746535ccf5cd4a6457"
+    },
+    {
+      "kind": "avatar",
+      "name": "Graggle #4",
+      "url": "https://img.avatardecoration.com/avatars/graggle_4.png",
+      "path": "avatares/graggle_4.png",
+      "bytes": 15840,
+      "sha256": "dc0cadbf36b75f522ff299ef067cccdfb9985baade12c539e13f1461b4b5d72d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Graggle #5",
+      "url": "https://img.avatardecoration.com/avatars/graggle_5.png",
+      "path": "avatares/graggle_5.png",
+      "bytes": 25323,
+      "sha256": "9d2a01df8cf9252f471110b221daed68fed9383cbf371d0f5883da07f4293d2f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Graggle #6",
+      "url": "https://img.avatardecoration.com/avatars/graggle_6.png",
+      "path": "avatares/graggle_6.png",
+      "bytes": 6220,
+      "sha256": "bf452e986f3677ddb25bc836dff9f03e0b450b843e4af1eae8940d43f97b055d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Graggle #7",
+      "url": "https://img.avatardecoration.com/avatars/graggle_7.png",
+      "path": "avatares/graggle_7.png",
+      "bytes": 20378,
+      "sha256": "0a335c6baad60f648d379d3f088270760f593ac123897261002df1c006ece1c8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Grimma #1",
+      "url": "https://img.avatardecoration.com/avatars/grimma_1.png",
+      "path": "avatares/grimma_1.png",
+      "bytes": 20371,
+      "sha256": "cbfbd582b8db29ab1bb929054c93ed9d1d76140287ecaf6034021757b96e6827"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hand #1",
+      "url": "https://img.avatardecoration.com/avatars/hand_1.png",
+      "path": "avatares/hand_1.png",
+      "bytes": 7359,
+      "sha256": "a56408122d6bb954ea7ad9353f7571370adf625294018869fab9eefb5e7d68af"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hark #1",
+      "url": "https://img.avatardecoration.com/avatars/hark_1.png",
+      "path": "avatares/hark_1.png",
+      "bytes": 9956,
+      "sha256": "645a3a0145bf64751107991c3dd6b19517e338d63c1e312ed5fb21be2d572b3c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hello #1",
+      "url": "https://img.avatardecoration.com/avatars/hello_1.png",
+      "path": "avatares/hello_1.png",
+      "bytes": 10415,
+      "sha256": "753f29713c4f9ae341e285cc1c3df7739720bcfc3f9a1edfbe65d815bd6744c1"
+    },
+    {
+      "kind": "avatar",
+      "name": "House #1",
+      "url": "https://img.avatardecoration.com/avatars/house_1.png",
+      "path": "avatares/house_1.png",
+      "bytes": 12868,
+      "sha256": "e50c8d1fe81758f0953160133c2010c9e9eeebd95229d0124a9c1365431437a6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Klayden #1",
+      "url": "https://img.avatardecoration.com/avatars/klayden_1.png",
+      "path": "avatares/klayden_1.png",
+      "bytes": 13445,
+      "sha256": "e2f7a961d1371e7e3d44278f827b80b974f44333820afb925b33383a9e7cfe2c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lady #1",
+      "url": "https://img.avatardecoration.com/avatars/lady_1.png",
+      "path": "avatares/lady_1.png",
+      "bytes": 10750,
+      "sha256": "dfe67a945707578c86f38406293f757ec251b0cf2e56f37d04d543a672032d81"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lady #2",
+      "url": "https://img.avatardecoration.com/avatars/lady_2.png",
+      "path": "avatares/lady_2.png",
+      "bytes": 18141,
+      "sha256": "27669b8e1eba411dc9d914798d91604f18051680802c507674bbe9d92275c4a2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lemon #1",
+      "url": "https://img.avatardecoration.com/avatars/lemon_1.png",
+      "path": "avatares/lemon_1.png",
+      "bytes": 10687,
+      "sha256": "b425cadf832101d390f86f83c9689e26f503e176ddeb9abb72e11ac7b3892a6a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Leon #1",
+      "url": "https://img.avatardecoration.com/avatars/leon_1.png",
+      "path": "avatares/leon_1.png",
+      "bytes": 20549,
+      "sha256": "df06e7e382efebd9aa5490941bac6aa901c4870cfc3cce7d7b5810cdc2c95abb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Leon #2",
+      "url": "https://img.avatardecoration.com/avatars/leon_2.png",
+      "path": "avatares/leon_2.png",
+      "bytes": 8688,
+      "sha256": "2206ceb0c80a9d678043c255d562e4e64447f028c71c233e29ff6943841731f0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lime #1",
+      "url": "https://img.avatardecoration.com/avatars/lime_1.png",
+      "path": "avatares/lime_1.png",
+      "bytes": 8567,
+      "sha256": "ddb3f256cfcc547b4f6247cef9dc6f4b07e7df929451f0b05b34d027b17a19e9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Linda #1",
+      "url": "https://img.avatardecoration.com/avatars/linda_1.png",
+      "path": "avatares/linda_1.png",
+      "bytes": 11580,
+      "sha256": "888e5eaaf02923cc4a6210dfc4c5dfde96b9e69513c61629977c59196f95ca46"
+    },
+    {
+      "kind": "avatar",
+      "name": "Locke #1",
+      "url": "https://img.avatardecoration.com/avatars/locke_1.png",
+      "path": "avatares/locke_1.png",
+      "bytes": 12710,
+      "sha256": "d9b5fc1f9f1972a628779ac07e9d5158a3641f11b30db2834aca28cd3773323f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Locke #2",
+      "url": "https://img.avatardecoration.com/avatars/locke_2.png",
+      "path": "avatares/locke_2.png",
+      "bytes": 14975,
+      "sha256": "bee2ec8f1123260ec8c89d07ce658838ba1db741a79de83fc8bb2fabb5115115"
+    },
+    {
+      "kind": "avatar",
+      "name": "Locke #3",
+      "url": "https://img.avatardecoration.com/avatars/locke_3.png",
+      "path": "avatares/locke_3.png",
+      "bytes": 10405,
+      "sha256": "3c65fb5e533c906994b460c5399d2a0db4a7af199d3a803eef235603e9cb94b8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lukid #1",
+      "url": "https://img.avatardecoration.com/avatars/lukid_1.png",
+      "path": "avatares/lukid_1.png",
+      "bytes": 16043,
+      "sha256": "159a5caf1aaac21fc1708a49ebed2f783b11e8748eb316025e716ac7a1fd2a36"
+    },
+    {
+      "kind": "avatar",
+      "name": "Mason #1",
+      "url": "https://img.avatardecoration.com/avatars/mason_1.png",
+      "path": "avatares/mason_1.png",
+      "bytes": 7374,
+      "sha256": "9bf217808d57cefe0f8276e99ad156e6368e9941e83885be5ce98d7f8e856c0d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Megatron #1",
+      "url": "https://img.avatardecoration.com/avatars/megatron_1.png",
+      "path": "avatares/megatron_1.png",
+      "bytes": 33566,
+      "sha256": "de4bdf77d3c3a2476571338aa8ecbcf1d2e41be9ce807d48dc7ec3fba2173ec4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Milo #1",
+      "url": "https://img.avatardecoration.com/avatars/milo_1.png",
+      "path": "avatares/milo_1.png",
+      "bytes": 9991,
+      "sha256": "a31b818d99302de5aaba6c986ef0f23846ddefe13883db21f3f4aa21eea4f250"
+    },
+    {
+      "kind": "avatar",
+      "name": "Milo #2",
+      "url": "https://img.avatardecoration.com/avatars/milo_2.png",
+      "path": "avatares/milo_2.png",
+      "bytes": 9951,
+      "sha256": "b7c05a15e74abc3546a5db90d5e54f24f59d3ea6562d231a7f54c8f3b2117bc3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Moe #1",
+      "url": "https://img.avatardecoration.com/avatars/moe_1.png",
+      "path": "avatares/moe_1.png",
+      "bytes": 20518,
+      "sha256": "01e7bf640d8c07c84db6615b69c040f954e9a2a8628c6abc8e1371201091a9da"
+    },
+    {
+      "kind": "avatar",
+      "name": "Morf #1",
+      "url": "https://img.avatardecoration.com/avatars/morf_1.png",
+      "path": "avatares/morf_1.png",
+      "bytes": 5277,
+      "sha256": "baedcfc515a79250535abb21974bb7e38bd3d63aaa12394eb5d0d0cbc5860b40"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nelly #1",
+      "url": "https://img.avatardecoration.com/avatars/nelly_1.png",
+      "path": "avatares/nelly_1.png",
+      "bytes": 10223,
+      "sha256": "2faa81fcf533ffedaa5e2fcce94188406a9c10de9ec0706d271560cd08e7ffca"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nelly #2",
+      "url": "https://img.avatardecoration.com/avatars/nelly_2.png",
+      "path": "avatares/nelly_2.png",
+      "bytes": 16136,
+      "sha256": "29e9fc0b0030dd5568ee608d7a484632e2344663e4415da2673d41bc5b3bf352"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nelly #3",
+      "url": "https://img.avatardecoration.com/avatars/nelly_3.png",
+      "path": "avatares/nelly_3.png",
+      "bytes": 6956,
+      "sha256": "7e8b98c697c55f5d2a416f868700e2bf9bacfc0c57d438b242c32b6f73765b9e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nelly #4",
+      "url": "https://img.avatardecoration.com/avatars/nelly_4.png",
+      "path": "avatares/nelly_4.png",
+      "bytes": 9423,
+      "sha256": "f14f35bb414646f03ce7bd370e7eefb24f2456fe84a97d1b121e7213a8c32f7a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nelly #5",
+      "url": "https://img.avatardecoration.com/avatars/nelly_5.png",
+      "path": "avatares/nelly_5.png",
+      "bytes": 40196,
+      "sha256": "b9369a23b50c2118c108be867110f38508f1cd0afd4f9014babb2dfe9bfeda39"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nelly #6",
+      "url": "https://img.avatardecoration.com/avatars/nelly_6.png",
+      "path": "avatares/nelly_6.png",
+      "bytes": 11572,
+      "sha256": "8dea9633765c3c878e4c02e68695647a3679a29c8b3a3ca51553f6fd13e823b6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nerm #1",
+      "url": "https://img.avatardecoration.com/avatars/nerm_1.png",
+      "path": "avatares/nerm_1.png",
+      "bytes": 12525,
+      "sha256": "a3aa7ad6618c12eab2e9c35060515f6c0ffaf5bba4156145fcfdb4c5fd5c4c68"
+    },
+    {
+      "kind": "avatar",
+      "name": "Noah #1",
+      "url": "https://img.avatardecoration.com/avatars/noah_1.png",
+      "path": "avatares/noah_1.png",
+      "bytes": 10724,
+      "sha256": "f4fb7a0785d2d7469a7eb16c89e0f9ab8ea86f91d62a6b5f124aefae1b625419"
+    },
+    {
+      "kind": "avatar",
+      "name": "Noodle #1",
+      "url": "https://img.avatardecoration.com/avatars/noodle_1.png",
+      "path": "avatares/noodle_1.png",
+      "bytes": 14132,
+      "sha256": "3399044adf53c39e296f1a4032f2091c20fa767f6d472d3c662d9e4742e6307d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Noodle #2",
+      "url": "https://img.avatardecoration.com/avatars/noodle_2.png",
+      "path": "avatares/noodle_2.png",
+      "bytes": 10247,
+      "sha256": "447354a8d1951807f9be53196397f6fdf06b678efc3a29f20c63c5ed62e7f96e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Oiseau #1",
+      "url": "https://img.avatardecoration.com/avatars/oiseau_1.png",
+      "path": "avatares/oiseau_1.png",
+      "bytes": 10518,
+      "sha256": "9bd90771b3569af49a9cbd34a3e3d7824ff01bbb12f496686f0ec627f60c32a2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ono #1",
+      "url": "https://img.avatardecoration.com/avatars/ono_1.png",
+      "path": "avatares/ono_1.png",
+      "bytes": 10588,
+      "sha256": "980fd605fbcd3b8e3e1ee3da43ce5ff4c18b024ba168021dbb77d71ca5cd0de2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ono #2",
+      "url": "https://img.avatardecoration.com/avatars/ono_2.png",
+      "path": "avatares/ono_2.png",
+      "bytes": 4888,
+      "sha256": "fc60ed651c3517a4521e0c26d82a8f3267b48ec4947393081142f1e1d4c1ae77"
+    },
+    {
+      "kind": "avatar",
+      "name": "Oslow #1",
+      "url": "https://img.avatardecoration.com/avatars/oslow_1.png",
+      "path": "avatares/oslow_1.png",
+      "bytes": 8697,
+      "sha256": "0e66ad9649a289adfb4aedffb11d8d3ff5e4bc39b8a0c6d1260e1a3a67cc3412"
+    },
+    {
+      "kind": "avatar",
+      "name": "Painter #1",
+      "url": "https://img.avatardecoration.com/avatars/painter_1.png",
+      "path": "avatares/painter_1.png",
+      "bytes": 9846,
+      "sha256": "a5dd902bb7089f27615288a7284d23d86cfce11c414342f47800366564386fbf"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pawn #1",
+      "url": "https://img.avatardecoration.com/avatars/pawn_1.png",
+      "path": "avatares/pawn_1.png",
+      "bytes": 8023,
+      "sha256": "9665da09c9daaa886c986df2ab0aa683d144d29662ce678fa0facc78f4722f72"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pea #1",
+      "url": "https://img.avatardecoration.com/avatars/pea_1.png",
+      "path": "avatares/pea_1.png",
+      "bytes": 15098,
+      "sha256": "df451ae1e48e8f8a8f95cb722cbdfae009f1baa660e48daf8242aa0d47138548"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peachy #1",
+      "url": "https://img.avatardecoration.com/avatars/peachy_1.png",
+      "path": "avatares/peachy_1.png",
+      "bytes": 9877,
+      "sha256": "8618375c24eaa27ffcdb3a3d7dc94a680a61023cf74363d73fd6f874d627da7b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peeper #1",
+      "url": "https://img.avatardecoration.com/avatars/peeper_1.png",
+      "path": "avatares/peeper_1.png",
+      "bytes": 14145,
+      "sha256": "5797148d6ccd6402b212bc1a9f23f21d7df86f79e56252ef1f8bcda071b44878"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #1",
+      "url": "https://img.avatardecoration.com/avatars/peppe_1.png",
+      "path": "avatares/peppe_1.png",
+      "bytes": 8275,
+      "sha256": "d14e01a6f16a0a8115d0fd385d35afe354b04f32a8fa2234f1f71f493f655cd4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #2",
+      "url": "https://img.avatardecoration.com/avatars/peppe_2.png",
+      "path": "avatares/peppe_2.png",
+      "bytes": 13338,
+      "sha256": "a57999a72db38cd4d895b5fce3c2fec98c2fbc16f05f9fc40a0e67e782b6bdf2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #3",
+      "url": "https://img.avatardecoration.com/avatars/peppe_3.png",
+      "path": "avatares/peppe_3.png",
+      "bytes": 6732,
+      "sha256": "c448a3dbee9ae7501c8a668a5e940806e30c40c2d73d64cfd8dc989236efab73"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #4",
+      "url": "https://img.avatardecoration.com/avatars/peppe_4.png",
+      "path": "avatares/peppe_4.png",
+      "bytes": 8064,
+      "sha256": "046796b43f60f863c47cc8d47141404fe2f5a8c3a87763c95d890b66b01eda79"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #5",
+      "url": "https://img.avatardecoration.com/avatars/peppe_5.png",
+      "path": "avatares/peppe_5.png",
+      "bytes": 6959,
+      "sha256": "6c6380990fc6eb03ca525254df001ebd3152f7be4e8cd4164d1887b92cabffd8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #6",
+      "url": "https://img.avatardecoration.com/avatars/peppe_6.png",
+      "path": "avatares/peppe_6.png",
+      "bytes": 41606,
+      "sha256": "f6e65668fa0f4e3d85fc73e2175686c797d0be328520a0ae0b82d78a375f5ee2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #7",
+      "url": "https://img.avatardecoration.com/avatars/peppe_7.png",
+      "path": "avatares/peppe_7.png",
+      "bytes": 10223,
+      "sha256": "08e4d559b5a3c84440eaa4afc95b84f34ebddeecc589fea40601da616808bb7d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #8",
+      "url": "https://img.avatardecoration.com/avatars/peppe_8.png",
+      "path": "avatares/peppe_8.png",
+      "bytes": 10860,
+      "sha256": "6745f0129a15a4c7e40da35e2eb3f7fd4a03e4605451a2fb38f9fff64d3d38bb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #9",
+      "url": "https://img.avatardecoration.com/avatars/peppe_9.png",
+      "path": "avatares/peppe_9.png",
+      "bytes": 4938,
+      "sha256": "fe46919d9a37987ea7afa44311fea1959cc2e7da8b6ebdc88aa3d5691fc45b89"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peppe #10",
+      "url": "https://img.avatardecoration.com/avatars/peppe_10.png",
+      "path": "avatares/peppe_10.png",
+      "bytes": 14350,
+      "sha256": "84b216855942a48e2938dd46b0e37cc36b7e92f0c88462aa573578f5f0eab872"
+    },
+    {
+      "kind": "avatar",
+      "name": "Petal #1",
+      "url": "https://img.avatardecoration.com/avatars/petal_1.png",
+      "path": "avatares/petal_1.png",
+      "bytes": 4000,
+      "sha256": "1740bababcb575842dd3f4ad5fe2542e15f1f5ca1f8985aad5ec8a8f8da30529"
+    },
+    {
+      "kind": "avatar",
+      "name": "Phibi #1",
+      "url": "https://img.avatardecoration.com/avatars/phibi_1.png",
+      "path": "avatares/phibi_1.png",
+      "bytes": 13638,
+      "sha256": "5e7f9c515f90a2b9bc3a7f93022aaddcebf3b70cfe4368d0785fbe634f4cfa03"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pinky #1",
+      "url": "https://img.avatardecoration.com/avatars/pinky_1.png",
+      "path": "avatares/pinky_1.png",
+      "bytes": 5720,
+      "sha256": "8994bc6268ad65165790566a4ae883a0846039639ef1d4d1a0dcf7a47c854a76"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pinky #2",
+      "url": "https://img.avatardecoration.com/avatars/pinky_2.png",
+      "path": "avatares/pinky_2.png",
+      "bytes": 7096,
+      "sha256": "5a9da0d79b81efa48c900f237a7ba6fce29d7aac401c604f9c7740aacca8627c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Quirk #1",
+      "url": "https://img.avatardecoration.com/avatars/quirk_1.png",
+      "path": "avatares/quirk_1.png",
+      "bytes": 10182,
+      "sha256": "ece996878eefb51a45b67a21008015597929ed9e378d141adb9974ea17395a80"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rezzy #1",
+      "url": "https://img.avatardecoration.com/avatars/rezzy_1.png",
+      "path": "avatares/rezzy_1.png",
+      "bytes": 9034,
+      "sha256": "d936ea98117735c1ca85e02cfaad79ffc2831c163e6cc2d89e409677ba0df3dc"
+    },
+    {
+      "kind": "avatar",
+      "name": "River #1",
+      "url": "https://img.avatardecoration.com/avatars/river_1.png",
+      "path": "avatares/river_1.png",
+      "bytes": 10577,
+      "sha256": "dfc072f4d04cb96ef30bd241f2e78c7f7c9f9b42c32241c05b94057f5dae9c67"
+    },
+    {
+      "kind": "avatar",
+      "name": "Roach #1",
+      "url": "https://img.avatardecoration.com/avatars/roach_1.png",
+      "path": "avatares/roach_1.png",
+      "bytes": 5978,
+      "sha256": "28944f3b280ca040cf75d6e363174b2592fede00e6028db3fcc39622a2add921"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #1",
+      "url": "https://img.avatardecoration.com/avatars/robot_1.png",
+      "path": "avatares/robot_1.png",
+      "bytes": 10356,
+      "sha256": "6309f58b823f46d96676f8c9c5d5f8c18600a044ca9330c436b1eceecfe35422"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #2",
+      "url": "https://img.avatardecoration.com/avatars/robot_2.png",
+      "path": "avatares/robot_2.png",
+      "bytes": 12162,
+      "sha256": "99ed10dd56d355f67fd5f1a94a7d08804f9906e8c92cae2a183e460bf42b4ac2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #3",
+      "url": "https://img.avatardecoration.com/avatars/robot_3.png",
+      "path": "avatares/robot_3.png",
+      "bytes": 11572,
+      "sha256": "1a9dd2c0454975cae07ed442017318dc8f6f06493946bbed7ecaffda68cdbffc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #4",
+      "url": "https://img.avatardecoration.com/avatars/robot_4.png",
+      "path": "avatares/robot_4.png",
+      "bytes": 9935,
+      "sha256": "0e9cd05f3e734c5e2dd71fdaf81b7989d302b3a6b110af74bc4f75f6d6cba058"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #5",
+      "url": "https://img.avatardecoration.com/avatars/robot_5.png",
+      "path": "avatares/robot_5.png",
+      "bytes": 17465,
+      "sha256": "9af33f1bee4dc3b04d6ed1c7cb872bba4853285f6e50c84e3094888c9c57fd13"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #6",
+      "url": "https://img.avatardecoration.com/avatars/robot_6.png",
+      "path": "avatares/robot_6.png",
+      "bytes": 11112,
+      "sha256": "df238ac4d140acfc670452face8590020a3f4f0d9403eb929be4c885d4bf01bb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #7",
+      "url": "https://img.avatardecoration.com/avatars/robot_7.png",
+      "path": "avatares/robot_7.png",
+      "bytes": 25613,
+      "sha256": "6f3c96a9b54503efb452e365ba3a4fde829425e76fd209ec63f26c0a1577aee9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robot #8",
+      "url": "https://img.avatardecoration.com/avatars/robot_8.png",
+      "path": "avatares/robot_8.png",
+      "bytes": 9527,
+      "sha256": "82c81721aadd9e3e918b0d8ce7a733df1a3276c4fb903a6a12253556ecab153f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Roka #1",
+      "url": "https://img.avatardecoration.com/avatars/roka_1.png",
+      "path": "avatares/roka_1.png",
+      "bytes": 9980,
+      "sha256": "e0828ff1154349875b22f7da1670abe980f5808257d9241a4b2249e5d6c3d700"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rumi #1",
+      "url": "https://img.avatardecoration.com/avatars/rumi_1.png",
+      "path": "avatares/rumi_1.png",
+      "bytes": 11169,
+      "sha256": "1a3c7628ecaf7ca02b29fc556269b712050373a27583c8c61d0a1b9795bdf605"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sandmich #1",
+      "url": "https://img.avatardecoration.com/avatars/sandmich_1.png",
+      "path": "avatares/sandmich_1.png",
+      "bytes": 6038,
+      "sha256": "33f9c79fc18ce259f38e2209ca629a07e5a2ddb6b2f3db9612821adc4661466d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Scena #1",
+      "url": "https://img.avatardecoration.com/avatars/scena_1.png",
+      "path": "avatares/scena_1.png",
+      "bytes": 22947,
+      "sha256": "29d298146b552f7c43eadcb3b360268e4ce88041be8dcb2690b2b1b326f60867"
+    },
+    {
+      "kind": "avatar",
+      "name": "Scotty #1",
+      "url": "https://img.avatardecoration.com/avatars/scotty_1.png",
+      "path": "avatares/scotty_1.png",
+      "bytes": 10832,
+      "sha256": "7799dc44d445ba339ae2c5cf4eb33eb99574b2390070ca301d390596f415e8d4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Skull #1",
+      "url": "https://img.avatardecoration.com/avatars/skull_1.png",
+      "path": "avatares/skull_1.png",
+      "bytes": 5796,
+      "sha256": "784f6300be98cf09dd1cacc3f610a60c3aa663fbe93e7163cc1f6bd97572be16"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sleepy Dragon #1",
+      "url": "https://img.avatardecoration.com/avatars/sleepy_dragon_1.png",
+      "path": "avatares/sleepy_dragon_1.png",
+      "bytes": 5321,
+      "sha256": "0ae08f717b89bfb78850e695c61f61f766720e6ad70f876e15bc1e660e23c937"
+    },
+    {
+      "kind": "avatar",
+      "name": "Slormp #1",
+      "url": "https://img.avatardecoration.com/avatars/slormp_1.png",
+      "path": "avatares/slormp_1.png",
+      "bytes": 16197,
+      "sha256": "fe0f98d84d1c3cec2b54d402c9f64204f41199450e5ec6249a68c1fa1660df65"
+    },
+    {
+      "kind": "avatar",
+      "name": "Smandwitch #1",
+      "url": "https://img.avatardecoration.com/avatars/smandwitch_1.png",
+      "path": "avatares/smandwitch_1.png",
+      "bytes": 8022,
+      "sha256": "79cd609db242e6e900e3508572922b0666f5eda721387cfcf202623cb32706b9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Smeed #1",
+      "url": "https://img.avatardecoration.com/avatars/smeed_1.png",
+      "path": "avatares/smeed_1.png",
+      "bytes": 16067,
+      "sha256": "9967a6d5f01428fe4f6dadbc598c86c33e9ce7028a17b21c614fe2b439c65f5c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Smeed #2",
+      "url": "https://img.avatardecoration.com/avatars/smeed_2.png",
+      "path": "avatares/smeed_2.png",
+      "bytes": 12176,
+      "sha256": "9cf1c66705342fe49c88ebf5a7c8794b7de31e4e7102a8d69127b7daec57044f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snail #1",
+      "url": "https://img.avatardecoration.com/avatars/snail_1.png",
+      "path": "avatares/snail_1.png",
+      "bytes": 21998,
+      "sha256": "318493135286a1567db6327a5d9a62575996439098f9f0994c0d6541e9ad3541"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snap #1",
+      "url": "https://img.avatardecoration.com/avatars/snap_1.png",
+      "path": "avatares/snap_1.png",
+      "bytes": 8283,
+      "sha256": "197ab6e673bec36a4023a0940929aa7e1b3b87b03a687428cb33cefdc480b321"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snek #1",
+      "url": "https://img.avatardecoration.com/avatars/snek_1.png",
+      "path": "avatares/snek_1.png",
+      "bytes": 4781,
+      "sha256": "06460d419cedc136b4b5ef34be77d72dfc5ffa6625ecae01e15e03a43ddb4b0a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snumpus #1",
+      "url": "https://img.avatardecoration.com/avatars/snumpus_1.png",
+      "path": "avatares/snumpus_1.png",
+      "bytes": 12650,
+      "sha256": "3b558b5f746dfe011e011b05e99323b7219682bd3472799df7df1d6aba90e803"
+    },
+    {
+      "kind": "avatar",
+      "name": "Space Brain #1",
+      "url": "https://img.avatardecoration.com/avatars/space_brain_1.png",
+      "path": "avatares/space_brain_1.png",
+      "bytes": 16438,
+      "sha256": "36ba000f2a3bc8b91508b5734fc726fda1625675f332b2bf561ac2fca03720cc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Speece #1",
+      "url": "https://img.avatardecoration.com/avatars/speece_1.png",
+      "path": "avatares/speece_1.png",
+      "bytes": 4905,
+      "sha256": "6cfe1c9c6c3c296603c23f7e7093495f42824de5bec8817fcdb056c319c1890d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Speek #1",
+      "url": "https://img.avatardecoration.com/avatars/speek_1.png",
+      "path": "avatares/speek_1.png",
+      "bytes": 11424,
+      "sha256": "7a3788ac09f4581460b75b263fb822463dff8eeecfc5b9df3cfa803f6ec83f8d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Spime #1",
+      "url": "https://img.avatardecoration.com/avatars/spime_1.png",
+      "path": "avatares/spime_1.png",
+      "bytes": 12145,
+      "sha256": "d972a9f903a7f8e6398e2417949c5da5c27744d093bc14d473579e68321b90ef"
+    },
+    {
+      "kind": "avatar",
+      "name": "Steve #1",
+      "url": "https://img.avatardecoration.com/avatars/steve_1.png",
+      "path": "avatares/steve_1.png",
+      "bytes": 7138,
+      "sha256": "ebbc86c9fd85fd27e91327c0def7310d12ee7fa2f5ed041ff9317d6c67e378e2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Stork #2",
+      "url": "https://img.avatardecoration.com/avatars/stork_2.png",
+      "path": "avatares/stork_2.png",
+      "bytes": 8013,
+      "sha256": "73fa2bdcf8231f6d90761ff4a63fb263f445fc244f7f641456ce53d9e6f069a5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Stork #1",
+      "url": "https://img.avatardecoration.com/avatars/stork_1.png",
+      "path": "avatares/stork_1.png",
+      "bytes": 11497,
+      "sha256": "e803b87a7ec62e1686d8d6df1b72f05c49bbaffc95ec75f71cef7fd441570d50"
+    },
+    {
+      "kind": "avatar",
+      "name": "Strech #1",
+      "url": "https://img.avatardecoration.com/avatars/strech_1.png",
+      "path": "avatares/strech_1.png",
+      "bytes": 13433,
+      "sha256": "bb0531ff3dbc13bfe20279c0f3a90208cb9b666f58fd4bf1d042fcd6a174020c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Swirl #1",
+      "url": "https://img.avatardecoration.com/avatars/swirl_1.png",
+      "path": "avatares/swirl_1.png",
+      "bytes": 30012,
+      "sha256": "5aae317ce07589b5baa2077e92de873b764ab6652e3cb5fd210362f6c509e630"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tan #1",
+      "url": "https://img.avatardecoration.com/avatars/tan_1.png",
+      "path": "avatares/tan_1.png",
+      "bytes": 5511,
+      "sha256": "9000bc0a0de811deb387439e49e0b875dc236cf68816cf9e2b00b77494202968"
+    },
+    {
+      "kind": "avatar",
+      "name": "Thawne #1",
+      "url": "https://img.avatardecoration.com/avatars/thawne_1.png",
+      "path": "avatares/thawne_1.png",
+      "bytes": 11279,
+      "sha256": "770ede4b402eb5fcf1c87f7a00398d45b2a0c285bb0e77d95f3029e3f84c6a91"
+    },
+    {
+      "kind": "avatar",
+      "name": "Thonk #1",
+      "url": "https://img.avatardecoration.com/avatars/thonk_1.png",
+      "path": "avatares/thonk_1.png",
+      "bytes": 8371,
+      "sha256": "357336515da5c21519b436daeffbab91ab36e8a4cbacaa8cea211995c924609d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tipp #1",
+      "url": "https://img.avatardecoration.com/avatars/tipp_1.png",
+      "path": "avatares/tipp_1.png",
+      "bytes": 11195,
+      "sha256": "6136d64e5def23e7052d306232eda8503703782c00c3ab71de6eee87bc56f154"
+    },
+    {
+      "kind": "avatar",
+      "name": "Toad #1",
+      "url": "https://img.avatardecoration.com/avatars/toad_1.png",
+      "path": "avatares/toad_1.png",
+      "bytes": 34367,
+      "sha256": "70db8bbca561a4216dd601c9633b08bdb52061cc698801d12bb957553cfdf548"
+    },
+    {
+      "kind": "avatar",
+      "name": "Trom #1",
+      "url": "https://img.avatardecoration.com/avatars/trom_1.png",
+      "path": "avatares/trom_1.png",
+      "bytes": 11128,
+      "sha256": "ab6e3d733a41b60c0d5a53cd46d286eccd949cd1e13a79b8f8b11e3627880aa3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Twoot #1",
+      "url": "https://img.avatardecoration.com/avatars/twoot_1.png",
+      "path": "avatares/twoot_1.png",
+      "bytes": 9919,
+      "sha256": "26850761886374a13f1715d827232366230978e4e642ba46f499090f6b4145b0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Val #1",
+      "url": "https://img.avatardecoration.com/avatars/val_1.png",
+      "path": "avatares/val_1.png",
+      "bytes": 21470,
+      "sha256": "bf9f9c949ed0949a230ed1fab97659ca92f1cf89430b08e44eb872ece3f32298"
+    },
+    {
+      "kind": "avatar",
+      "name": "Vroom #1",
+      "url": "https://img.avatardecoration.com/avatars/vroom_1.png",
+      "path": "avatares/vroom_1.png",
+      "bytes": 14791,
+      "sha256": "5b5918038999ac1fda8ac504d97c8c7e0e53ba0625721be4c4c1137cca862b26"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wallp #1",
+      "url": "https://img.avatardecoration.com/avatars/wallp_1.png",
+      "path": "avatares/wallp_1.png",
+      "bytes": 17043,
+      "sha256": "dddc4a7f8c2e55019fe3adb633cc5113fa5e8ec1637738dea88635c0725c1c21"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wanderer #1",
+      "url": "https://img.avatardecoration.com/avatars/wanderer_1.png",
+      "path": "avatares/wanderer_1.png",
+      "bytes": 9492,
+      "sha256": "2c13449815f4b2040f174d5b1b94e4fef185feaac7821e0367567c642e0138dc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Willow #1",
+      "url": "https://img.avatardecoration.com/avatars/willow_1.png",
+      "path": "avatares/willow_1.png",
+      "bytes": 23670,
+      "sha256": "104d7a3b26a14d3bb4331dac5f40d1cee7aab8dec425ae58e3ce10a341d9c936"
+    },
+    {
+      "kind": "avatar",
+      "name": "Winston #1",
+      "url": "https://img.avatardecoration.com/avatars/winston_1.png",
+      "path": "avatares/winston_1.png",
+      "bytes": 30484,
+      "sha256": "be21b2c6102684ccca4ea3470c46b474718645560cde38e03dd72a8d1a475141"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wizzy #1",
+      "url": "https://img.avatardecoration.com/avatars/wizzy_1.png",
+      "path": "avatares/wizzy_1.png",
+      "bytes": 16468,
+      "sha256": "241d7b6a813dd81d0ec9c8ee8ce2e3fbfe6db17aab2b22f82585d42c92cfdaed"
+    },
+    {
+      "kind": "avatar",
+      "name": "Worf #1",
+      "url": "https://img.avatardecoration.com/avatars/worf_1.png",
+      "path": "avatares/worf_1.png",
+      "bytes": 7186,
+      "sha256": "102dcb0714fbd274221af693818a132aec8d38b57ad456c282e686572d65453f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Worm #1",
+      "url": "https://img.avatardecoration.com/avatars/worm_1.png",
+      "path": "avatares/worm_1.png",
+      "bytes": 7675,
+      "sha256": "f09460f118c6b469ccffd718621aeae5f164c43bc8bb8ef95f53a9a3a3893908"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wump Bot #1",
+      "url": "https://img.avatardecoration.com/avatars/wump_bot_1.png",
+      "path": "avatares/wump_bot_1.png",
+      "bytes": 10524,
+      "sha256": "9854b496bcdaa8fd5f538762a72c797534cd261e14827a85fd78092eed8004fd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #1",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_1.png",
+      "path": "avatares/wumpus_1.png",
+      "bytes": 9892,
+      "sha256": "b74424bfd7e2254a3ad1abd167202206dd43cbdd606ef5cf79cb937e6f1a55a8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #2",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_2.png",
+      "path": "avatares/wumpus_2.png",
+      "bytes": 12263,
+      "sha256": "ca1e799cf022dc52bd46525c5474727885b99804c1512198f5138f1078cf135d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #3",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_3.png",
+      "path": "avatares/wumpus_3.png",
+      "bytes": 11594,
+      "sha256": "ef43746bbc591afaa07fafa789f66d7b60cb1e4e9a6266d09a83d44486a11fc0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #4",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_4.png",
+      "path": "avatares/wumpus_4.png",
+      "bytes": 10121,
+      "sha256": "4f65186c878e773b7e31fd19ab2ddc8ab26ea25f5389ef12b0084e81dcd637c8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #5",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_5.png",
+      "path": "avatares/wumpus_5.png",
+      "bytes": 13857,
+      "sha256": "fe897492068ed0480604b07e9d8290fb554647633bd7cc97a0fd277c27ecec62"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #6",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_6.png",
+      "path": "avatares/wumpus_6.png",
+      "bytes": 6209,
+      "sha256": "e7c3b8877e38794e2e0acd4c36eb138544811b97cc317174e57d799c2a2e8fce"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #7",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_7.png",
+      "path": "avatares/wumpus_7.png",
+      "bytes": 6182,
+      "sha256": "14dae77bc90dd747636926af6667a45937d092315ebf4fc11082e584677db0a7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #8",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_8.png",
+      "path": "avatares/wumpus_8.png",
+      "bytes": 6970,
+      "sha256": "5b6cc8a9183fb12a1dbc7a21c0ef5abe2978e8e4bdc589236267c558cf7fc693"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #9",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_9.png",
+      "path": "avatares/wumpus_9.png",
+      "bytes": 6227,
+      "sha256": "c4018f242993aac003b0c775348efe3ce3ab109eb68eba01c35b12111e7963e8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #10",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_10.png",
+      "path": "avatares/wumpus_10.png",
+      "bytes": 6059,
+      "sha256": "c6525a16ad7ca4139b20de06cd5446cf288e40ba3ba55e0de0bd037c97de1587"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #11",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_11.png",
+      "path": "avatares/wumpus_11.png",
+      "bytes": 6185,
+      "sha256": "e3c8ef4ff48de6436b0123215ad712733e0d4083146f4878527def970da67cc0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #12",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_12.png",
+      "path": "avatares/wumpus_12.png",
+      "bytes": 12218,
+      "sha256": "e2b5e056a307ac8a75dc16bb1423ea1d2123b2f6bc30300a86b335ad1577f85c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #13",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_13.png",
+      "path": "avatares/wumpus_13.png",
+      "bytes": 6113,
+      "sha256": "4f2f690456d3e661d1b4d775db932a6a9d03fdc28df6d1fc7b457f1c743a6fe1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #14",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_14.png",
+      "path": "avatares/wumpus_14.png",
+      "bytes": 7518,
+      "sha256": "61d77a7245daa1970e0889b6cf2f25f99333c58158332f2fbd41c8f88a71dd3b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #15",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_15.png",
+      "path": "avatares/wumpus_15.png",
+      "bytes": 8816,
+      "sha256": "eb79abe250f81a5a82258625ea6649afdb96701a030eb4172c87fac0f403bb4d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #16",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_16.png",
+      "path": "avatares/wumpus_16.png",
+      "bytes": 10824,
+      "sha256": "ded1ff2e0777ac59710ff483b0efa8f4ba310e2ca47e0fa8cf913a26b0b58286"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #17",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_17.png",
+      "path": "avatares/wumpus_17.png",
+      "bytes": 3840,
+      "sha256": "7519f35dea0aab584b89413e76e4ac91dcece124945ea151b5e0002baba4a099"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #18",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_18.png",
+      "path": "avatares/wumpus_18.png",
+      "bytes": 10438,
+      "sha256": "3738c391b4044fd95d287e46f996db0f1ced8f57b4fa1df78f4f059a8e8d6ac7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #19",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_19.png",
+      "path": "avatares/wumpus_19.png",
+      "bytes": 13731,
+      "sha256": "81b183df15d0cc181f8f8959b7baa84a90f270f73506fa574704e0c9155ad758"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #20",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_20.png",
+      "path": "avatares/wumpus_20.png",
+      "bytes": 9511,
+      "sha256": "602a0c21565943693ce819ff97ab7e5c96d36f1e7d941c4cdf68affd90e54174"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #21",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_21.png",
+      "path": "avatares/wumpus_21.png",
+      "bytes": 6684,
+      "sha256": "6bff43e691e5a1569aaf16b3ccacfd6c0ab07c8d979b7fe8dbbd251d785d1d5b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #22",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_22.png",
+      "path": "avatares/wumpus_22.png",
+      "bytes": 7127,
+      "sha256": "e94a5fd982fed0a14f1e95b901b84f1d3f37fced216a7adf1fce88be13adb86a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #23",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_23.png",
+      "path": "avatares/wumpus_23.png",
+      "bytes": 4903,
+      "sha256": "24081e0a541d36076fb27a5518975c57dfc81e354623a2b090750900340e14a0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #24",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_24.png",
+      "path": "avatares/wumpus_24.png",
+      "bytes": 12709,
+      "sha256": "9799cb5221bc23a084ebf9845695fb6383a78067031a4e53b90b8b155bdb59dc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #25",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_25.png",
+      "path": "avatares/wumpus_25.png",
+      "bytes": 16667,
+      "sha256": "cf6a80736e0115e1e68143f52fe7225926fd6115f09308468f27c5d1343a9a2d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #26",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_26.png",
+      "path": "avatares/wumpus_26.png",
+      "bytes": 13256,
+      "sha256": "c1b199668c74b9d9bbc120a461b8599add3988cba12517640c5a66a0e9bef49c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #27",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_27.png",
+      "path": "avatares/wumpus_27.png",
+      "bytes": 4561,
+      "sha256": "8b28f8782a8cd5320932711afce4019a878946ab7c3ba1fb39a860520bbab161"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #28",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_28.png",
+      "path": "avatares/wumpus_28.png",
+      "bytes": 9413,
+      "sha256": "81bffbb61b057fff30c4727e57fd3e465f18fe6260343bf984d1e82b5c9e08d4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #29",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_29.png",
+      "path": "avatares/wumpus_29.png",
+      "bytes": 12532,
+      "sha256": "fa3efa8f13651ef6f496ad41bb2f18698a237ee52306090a5b5d36e8828b0b61"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #30",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_30.png",
+      "path": "avatares/wumpus_30.png",
+      "bytes": 12739,
+      "sha256": "f661596a1a0816ef44b061446599818635300153305ddf1670b20e8d127455d2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #31",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_31.png",
+      "path": "avatares/wumpus_31.png",
+      "bytes": 5126,
+      "sha256": "80b04095e7094c01288e91d196fe328534657c087d18a33355651e054bb8a341"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #32",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_32.png",
+      "path": "avatares/wumpus_32.png",
+      "bytes": 2462,
+      "sha256": "fc7912aa71fcba02731d5316a11fc0ab05e25e493857bdfddfed788e3f757886"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #33",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_33.png",
+      "path": "avatares/wumpus_33.png",
+      "bytes": 2944,
+      "sha256": "6a64d26cfa8e250a7064e7dc90188dc2ebe1be5239977abed0bf932741e1c785"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #34",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_34.png",
+      "path": "avatares/wumpus_34.png",
+      "bytes": 4105,
+      "sha256": "2c9b924703ccf3872422025a04ed2dabd23318e307ec038d6b8712f7c20a8900"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #35",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_35.png",
+      "path": "avatares/wumpus_35.png",
+      "bytes": 4742,
+      "sha256": "b337314ccb4491e1fd917273a008dfc256855127c6935f2020d66147fc5bbd31"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #36",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_36.png",
+      "path": "avatares/wumpus_36.png",
+      "bytes": 6641,
+      "sha256": "1f488a49e6fff81a4c8886ea816d53bdf907f0feb331b95e32181dd92b0ba9ad"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #37",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_37.png",
+      "path": "avatares/wumpus_37.png",
+      "bytes": 5189,
+      "sha256": "02406d8bcdc5e0cb0d0d4bfdbb1919ee7a9a322313925cb616b7f033f3ce32e0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #38",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_38.png",
+      "path": "avatares/wumpus_38.png",
+      "bytes": 5422,
+      "sha256": "b13edef1eee898f1e41dbebcb6fdf8cb42c57791023a9db807a20479edf45102"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #39",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_39.png",
+      "path": "avatares/wumpus_39.png",
+      "bytes": 4482,
+      "sha256": "ed59faee0bb76d386c4ccfcf20cb57413735f4009dfe01de61097fedb4457479"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #40",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_40.png",
+      "path": "avatares/wumpus_40.png",
+      "bytes": 11529,
+      "sha256": "bd3b69932a99043b390ac5b3732d7dff7bc85e551338a7af82d4fef07f6a379f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #41",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_41.png",
+      "path": "avatares/wumpus_41.png",
+      "bytes": 25656,
+      "sha256": "8558bdd4ebc54aa045e9d1d34cf4ff652b0782e07f7d7ac08e02a0cab0d18f56"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #42",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_42.png",
+      "path": "avatares/wumpus_42.png",
+      "bytes": 20556,
+      "sha256": "bf1304aebf4cfe4052e98fb1c5959e0a8ea32fe766fca7ae4506ccd28823dc50"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #43",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_43.png",
+      "path": "avatares/wumpus_43.png",
+      "bytes": 7403,
+      "sha256": "08b1fb08a02697e62ada2050fcb9caff6f17514e604f241a5c6c0164eb2661b0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #44",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_44.png",
+      "path": "avatares/wumpus_44.png",
+      "bytes": 20382,
+      "sha256": "50395f6d0f327c0c2f341c159c67415d982b9b7a4670572f05e23bbdd152cc39"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wumpus #45",
+      "url": "https://img.avatardecoration.com/avatars/wumpus_45.png",
+      "path": "avatares/wumpus_45.png",
+      "bytes": 62119,
+      "sha256": "01f995e7294c43198a866cda2496fe857beb328b05e969966e61f3747a32aabf"
+    }
+  ]
+}
