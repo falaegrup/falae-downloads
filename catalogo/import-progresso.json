@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T19:54:53.788Z",
-  "completed": 250,
-  "pending": 2496,
+  "updatedAt": "2026-11-13T19:55:58.452Z",
+  "completed": 500,
+  "pending": 2246,
   "failures": [],
   "items": [
     {
@@ -2496,6 +2496,16 @@
     },
     {
       "kind": "avatar",
+      "name": "Skull Headset",
+      "source": "https://discordpfp.gg/pfp/cartoon-skull-headphones-blue-hoodie-2",
+      "url": "https://discordpfp.gg/images/pfp/skull/skull-pfp-skull-headset--cartoon-skull-headphones-blue-hoodie-2.webp?d=full",
+      "path": "icones/cartoon-skull-headphones-blue-hoodie-2.png",
+      "bytes": 319819,
+      "sha256": "037935a65e035e7c2a51abd946067ad6ad6337d868c8425a7f7b1e092d4bad78",
+      "gitSha": "e21551fda06be109ae4c383b3b84faa601ad1fd7"
+    },
+    {
+      "kind": "avatar",
       "name": "Purple Fedora",
       "source": "https://discordpfp.gg/pfp/purple-humanoid-fedora-vest",
       "url": "https://discordpfp.gg/images/pfp/purple-humanoid/purple-humanoid-pfp-purple-fedora--purple-humanoid-fedora-vest.webp?d=full",
@@ -2503,6 +2513,2496 @@
       "bytes": 193114,
       "sha256": "dbee8c189dc414c1ca8b53b742fda8ca0c1177c69973242016192f80bc5fc88d",
       "gitSha": "4a3c04992fb890bf070158d5d9046d82719c9e46"
+    },
+    {
+      "kind": "avatar",
+      "name": "Glitch Knight",
+      "source": "https://discordpfp.gg/pfp/glitch-knight-helmet-dark-grunge",
+      "url": "https://discordpfp.gg/images/pfp/knight/knight-pfp-glitch-knight--glitch-knight-helmet-dark-grunge.webp?d=full",
+      "path": "icones/glitch-knight-helmet-dark-grunge.png",
+      "bytes": 675555,
+      "sha256": "fda7525d79b9a33cc784a024f4df2e4e37e583133325ab61616136ac60658afb",
+      "gitSha": "85a3221ff7eaa3813a1999c5ac6853636413270d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Green Flame",
+      "source": "https://discordpfp.gg/pfp/black-silhouette-green-flames-hoodie",
+      "url": "https://discordpfp.gg/images/pfp/black-silhouette/black-silhouette-pfp-green-flame--black-silhouette-green-flames-hoodie.webp?d=full",
+      "path": "icones/black-silhouette-green-flames-hoodie.png",
+      "bytes": 616040,
+      "sha256": "6c5ef9ca19541e878138f4704dfdb37311f19c8df66d41d78c66dde5f85d4d2c",
+      "gitSha": "e09e2388bedcfe0d2951882cabdb22cf6f78978e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tired LEGO",
+      "source": "https://discordpfp.gg/pfp/tired-lego-minifigure-black-and-white",
+      "url": "https://discordpfp.gg/images/pfp/lego/lego-pfp-tired-lego--tired-lego-minifigure-black-and-white.webp?d=full",
+      "path": "icones/tired-lego-minifigure-black-and-white.png",
+      "bytes": 337211,
+      "sha256": "a4476b717f53826cf2ed70f9c8a3fc54128f6dac196d327c5bc4f039de0db4c0",
+      "gitSha": "87084f208115ab12e602b4136222213fab32255a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Knight",
+      "source": "https://discordpfp.gg/pfp/dark-knight-armor-sword-profile",
+      "url": "https://discordpfp.gg/images/pfp/dark-knight/dark-knight-pfp-dark-knight--dark-knight-armor-sword-profile.webp?d=full",
+      "path": "icones/dark-knight-armor-sword-profile.png",
+      "bytes": 452817,
+      "sha256": "9db69eddaa06541f81b2067bc755c5a3048211c6ceb54a7ccf243ba69ca7e857",
+      "gitSha": "724f447f8b89d9beaa02bf9982b325b376afd399"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dino Bones",
+      "source": "https://discordpfp.gg/pfp/pixel-dinosaur-skeleton-starry-night",
+      "url": "https://discordpfp.gg/images/pfp/pixel-art/pixel-art-pfp-dino-bones--pixel-dinosaur-skeleton-starry-night.webp?d=full",
+      "path": "icones/pixel-dinosaur-skeleton-starry-night.png",
+      "bytes": 572185,
+      "sha256": "8e0f1ebdf9f02aada8e701cf41d728abd5925382bba0f174d5712ee8e7b1da56",
+      "gitSha": "328da676195b4784470b41a20e1aa6082e2891ef"
+    },
+    {
+      "kind": "avatar",
+      "name": "Skeleton",
+      "source": "https://discordpfp.gg/pfp/skeleton-minifigure-halftone",
+      "url": "https://discordpfp.gg/images/pfp/skeleton/skeleton-pfp-skeleton--skeleton-minifigure-halftone.webp?d=full",
+      "path": "icones/skeleton-minifigure-halftone.png",
+      "bytes": 571785,
+      "sha256": "858702531563a0f96d3a81d790ceae2d3a36cd7e1a4fe045ae844737389c2141",
+      "gitSha": "d30724b796594e438635cfe78c14b728dd4e7934"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black Suit",
+      "source": "https://discordpfp.gg/pfp/black-suit-baseball-cap-mask",
+      "url": "https://discordpfp.gg/images/pfp/masked-figure/masked-figure-pfp-black-suit--black-suit-baseball-cap-mask.webp?d=full",
+      "path": "icones/black-suit-baseball-cap-mask.png",
+      "bytes": 350401,
+      "sha256": "3e8b4e6b4c7eb81415ff9b271bfe2d34117a1310f994ade99ba11d733a3d4fbf",
+      "gitSha": "8e0cd77d672c903a91aabea5986875ce6b4eec4a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hooded Skull",
+      "source": "https://discordpfp.gg/pfp/hooded-skull-sunglasses-blue",
+      "url": "https://discordpfp.gg/images/pfp/skeleton/skeleton-pfp-hooded-skull--hooded-skull-sunglasses-blue.webp?d=full",
+      "path": "icones/hooded-skull-sunglasses-blue.png",
+      "bytes": 284868,
+      "sha256": "e76e7855d0b4829544be8ea1557890178292f4c20d2a8ba9cbb56a1c3c05db04",
+      "gitSha": "f96f7ecb263799d7105a54f4f3115f9f87b181ab"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shadow Witch",
+      "source": "https://discordpfp.gg/pfp/shadow-witch-silhouette",
+      "url": "https://discordpfp.gg/images/pfp/witch-hat/witch-hat-pfp-shadow-witch--shadow-witch-silhouette.webp?d=full",
+      "path": "icones/shadow-witch-silhouette.png",
+      "bytes": 245547,
+      "sha256": "215eb863a5b029a82e919a911257b768b4c38f8dbe07d9f9a9a6e0f3d2611b6c",
+      "gitSha": "9d0140538b41a72a82dac8941c6499c27a85d485"
+    },
+    {
+      "kind": "avatar",
+      "name": "Masked Ninja",
+      "source": "https://discordpfp.gg/pfp/masked-ninja-cartoon-black-mask",
+      "url": "https://discordpfp.gg/images/pfp/ninja/ninja-pfp-masked-ninja--masked-ninja-cartoon-black-mask.webp?d=full",
+      "path": "icones/masked-ninja-cartoon-black-mask.png",
+      "bytes": 246234,
+      "sha256": "dc0bace0372831f835bbc82de6a9760def5ea49f563cf7ab4f27bbf51124af68",
+      "gitSha": "b853ca02ccc33178884560bac2c165dd22eedc0a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bag Head",
+      "source": "https://discordpfp.gg/pfp/paper-bag-head-sketch",
+      "url": "https://discordpfp.gg/images/pfp/paper-bag-mask/paper-bag-mask-pfp-bag-head--paper-bag-head-sketch.webp?d=full",
+      "path": "icones/paper-bag-head-sketch.png",
+      "bytes": 382512,
+      "sha256": "d3347cc7586b89ee901d20dfe508aa0df9d2839dda8d834feb8f6912488970cb",
+      "gitSha": "0562501fc60e281fa1356e608d0c54b81138549e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hooded Shadow",
+      "source": "https://discordpfp.gg/pfp/hooded-shadow-figure-grayscale",
+      "url": "https://discordpfp.gg/images/pfp/hooded-figure/hooded-figure-pfp-hooded-shadow--hooded-shadow-figure-grayscale.webp?d=full",
+      "path": "icones/hooded-shadow-figure-grayscale.png",
+      "bytes": 634457,
+      "sha256": "8ac01317bec389c24ef867d0cc9c0a96f95c60fdc726cb91679768b9ae59ad00",
+      "gitSha": "214fdec1071444b5a65e6607f1ca483b1fcffb95"
+    },
+    {
+      "kind": "avatar",
+      "name": "Masked Flex",
+      "source": "https://discordpfp.gg/pfp/white-masked-figure-money-eyes-phone",
+      "url": "https://discordpfp.gg/images/pfp/masked-figure/masked-figure-pfp-masked-flex--white-masked-figure-money-eyes-phone.webp?d=full",
+      "path": "icones/white-masked-figure-money-eyes-phone.png",
+      "bytes": 474633,
+      "sha256": "1f3b6033cc2f1749a8fe8b770677176230f593489b1b29bf36393e29f9cb1c25",
+      "gitSha": "90f67b59c7c9cd07f7fec4b2645491404424b5e6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gengar Usha",
+      "source": "https://discordpfp.gg/pfp/gengar-ushanka-anime-art",
+      "url": "https://discordpfp.gg/images/pfp/gengar/gengar-pfp-gengar-usha--gengar-ushanka-anime-art.webp?d=full",
+      "path": "icones/gengar-ushanka-anime-art.png",
+      "bytes": 540878,
+      "sha256": "3efde9f833d1dcca8c5ef5e89bee6bfc6907b12d45301d2f0da3bfaad24a574d",
+      "gitSha": "40a18c7c1040119927cd2a70514284ff1506cf7b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Halo Mask",
+      "source": "https://discordpfp.gg/pfp/halo-horned-mask-figure",
+      "url": "https://discordpfp.gg/images/pfp/masked-figure/masked-figure-pfp-halo-mask--halo-horned-mask-figure.webp?d=full",
+      "path": "icones/halo-horned-mask-figure.png",
+      "bytes": 188788,
+      "sha256": "13d585c6b1687f172a67f4851a3c141a87a7f59d7c323861107a32d38559c3a4",
+      "gitSha": "0f6f5e750f7fa4b3212cf70ef6270916c052c6d4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Thorn Knight",
+      "source": "https://discordpfp.gg/pfp/thorn-knight-armor-roses",
+      "url": "https://discordpfp.gg/images/pfp/dark-fantasy/dark-fantasy-pfp-thorn-knight--thorn-knight-armor-roses.webp?d=full",
+      "path": "icones/thorn-knight-armor-roses.png",
+      "bytes": 641250,
+      "sha256": "585ae78f9d9f2137cb06fd735f87e7386f5e98bf2e5ae3b19b33174f847ca7e8",
+      "gitSha": "805442112eef65689ce628ad2c9610923f08f926"
+    },
+    {
+      "kind": "avatar",
+      "name": "Horned Shade",
+      "source": "https://discordpfp.gg/pfp/horned-shadow-red-eyes-dark-fantasy",
+      "url": "https://discordpfp.gg/images/pfp/horned-figure/horned-figure-pfp-horned-shade--horned-shadow-red-eyes-dark-fantasy.webp?d=full",
+      "path": "icones/horned-shadow-red-eyes-dark-fantasy.png",
+      "bytes": 838910,
+      "sha256": "ec1a497666d0a48071234c924adbb0b8472464738d99e1ff77c0015dec44b6c0",
+      "gitSha": "1f2afdb3c1dcb60c152325eff981857efda5f23f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wifi Dino",
+      "source": "https://discordpfp.gg/pfp/pixel-dino-wifi-comet",
+      "url": "https://discordpfp.gg/images/pfp/pixel-dinosaur/pixel-dinosaur-pfp-wifi-dino--pixel-dino-wifi-comet.webp?d=full",
+      "path": "icones/pixel-dino-wifi-comet.png",
+      "bytes": 99400,
+      "sha256": "c22c94e43bc5409b279c115c8d30e65c36dd5f2197d02fc773907f9fc231e7c3",
+      "gitSha": "08957f9410bad489c0d06ad800515f6b06a67c3f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wet Soda Can",
+      "source": "https://discordpfp.gg/pfp/wet-soda-can-monochrome",
+      "url": "https://discordpfp.gg/images/pfp/soda-can/soda-can-pfp-wet-soda-can--wet-soda-can-monochrome.webp?d=full",
+      "path": "icones/wet-soda-can-monochrome.png",
+      "bytes": 339482,
+      "sha256": "8286ba05d54a1c9da5aa0eb12729a42a32ebc34344550bcdbd815eddb307dacc",
+      "gitSha": "92e14f6b43d0e2a168275ed3bd635217d7c6c0f9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Crowned Lizar",
+      "source": "https://discordpfp.gg/pfp/pixel-crowned-lizard-creature",
+      "url": "https://discordpfp.gg/images/pfp/pixel-art/pixel-art-pfp-crowned-lizar--pixel-crowned-lizard-creature.webp?d=full",
+      "path": "icones/pixel-crowned-lizard-creature.png",
+      "bytes": 307445,
+      "sha256": "9aa1b5c5bf9eefb67c55123cb499a461510fc76659e6f8b5f75a40f94955a1cf",
+      "gitSha": "b96a9d6ee6ef3e63b7977fad500e315553abefe7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Jordan Dunk",
+      "source": "https://discordpfp.gg/pfp/michael-jordan-bulls-dunk-black-and-white",
+      "url": "https://discordpfp.gg/images/pfp/chicago-bulls-nba/chicago-bulls-nba-pfp-jordan-dunk--michael-jordan-bulls-dunk-black-and-white.webp?d=full",
+      "path": "icones/michael-jordan-bulls-dunk-black-and-white.png",
+      "bytes": 416349,
+      "sha256": "d83c98c40382b21325c12adf2e93d6ae04b137e8bdde90ceac9b5276cbec7043",
+      "gitSha": "8b646138c49145a6ce2a540a6f72b41262342391"
+    },
+    {
+      "kind": "avatar",
+      "name": "Braids Back",
+      "source": "https://discordpfp.gg/pfp/braids-back-black-white-crowd",
+      "url": "https://discordpfp.gg/images/pfp/braids/braids-pfp-braids-back--braids-back-black-white-crowd.webp?d=full",
+      "path": "icones/braids-back-black-white-crowd.png",
+      "bytes": 420581,
+      "sha256": "3cb6f3134da018e0e12cf5dffeac926b203440f0b3c38fc8cde1c201a98ae9c3",
+      "gitSha": "32f4b9327354f3a87fbf9b95edbae63140837714"
+    },
+    {
+      "kind": "avatar",
+      "name": "Mango Splash",
+      "source": "https://discordpfp.gg/pfp/monster-juice-can-orange-splash-sky",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-mango-splash--monster-juice-can-orange-splash-sky.webp?d=full",
+      "path": "icones/monster-juice-can-orange-splash-sky.png",
+      "bytes": 2030617,
+      "sha256": "559a1746e13180a691e02772e1302da6a74994b72789f48a12eb9a8a3733eb4e",
+      "gitSha": "009c7dfabdc53332138471d8145cd7f146696680"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black Kit Toy",
+      "source": "https://discordpfp.gg/pfp/black-toy-figure-real-madrid-kit",
+      "url": "https://discordpfp.gg/images/pfp/toy-figure/toy-figure-pfp-black-kit-toy--black-toy-figure-real-madrid-kit.webp?d=full",
+      "path": "icones/black-toy-figure-real-madrid-kit.png",
+      "bytes": 526433,
+      "sha256": "d5b30c648a5c9c2a8d62f121036830fcdd0ad9cfad3b901d2c8d950568bda8c6",
+      "gitSha": "57cec667c7580bc301906de690ef44c23c485458"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pilot Visor",
+      "source": "https://discordpfp.gg/pfp/pilot-helmet-reflective-visor-oxygen-mask",
+      "url": "https://discordpfp.gg/images/pfp/pilot/pilot-pfp-pilot-visor--pilot-helmet-reflective-visor-oxygen-mask.webp?d=full",
+      "path": "icones/pilot-helmet-reflective-visor-oxygen-mask.png",
+      "bytes": 1398786,
+      "sha256": "31158e62a4ae47926e78fb88d07a48271ee493fb5880ec72408f83dae5774a57",
+      "gitSha": "420cacbe6797249424b12c0b8d2f07d36ed83d36"
+    },
+    {
+      "kind": "avatar",
+      "name": "Purple Energy",
+      "source": "https://discordpfp.gg/pfp/purple-monster-energy-skull-art",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-purple-energy--purple-monster-energy-skull-art.webp?d=full",
+      "path": "icones/purple-monster-energy-skull-art.png",
+      "bytes": 1236325,
+      "sha256": "b12d6f2b82afcd1c40a50948178601cb5cead324bbc15707ea8f60daf8c6bd15",
+      "gitSha": "d97ba590aaed326b5b9e8f008b4c352c62fa01a9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Horned Wraith",
+      "source": "https://discordpfp.gg/pfp/horned-wraith-pixel-silhouette",
+      "url": "https://discordpfp.gg/images/pfp/dark-fantasy/dark-fantasy-pfp-horned-wraith--horned-wraith-pixel-silhouette.webp?d=full",
+      "path": "icones/horned-wraith-pixel-silhouette.png",
+      "bytes": 158547,
+      "sha256": "a923d876f6d5e85a37daf57ec2a58808e1e95e223746a86199b70928bba9e93d",
+      "gitSha": "0538b340f579fc08a20132ece2e14bbb55934284"
+    },
+    {
+      "kind": "avatar",
+      "name": "Esc Key",
+      "source": "https://discordpfp.gg/pfp/black-esc-key-minimalist",
+      "url": "https://discordpfp.gg/images/pfp/esc-key/esc-key-pfp-esc-key--black-esc-key-minimalist.webp?d=full",
+      "path": "icones/black-esc-key-minimalist.png",
+      "bytes": 122915,
+      "sha256": "9e44433355eeef2cd2016eca8498dfd889ffa1c6c584d66dc5fe272bf8360fce",
+      "gitSha": "a212f8a9f6079120841e0ebafa5fec27cf1b1315"
+    },
+    {
+      "kind": "avatar",
+      "name": "Skull Goggles",
+      "source": "https://discordpfp.gg/pfp/cartoon-skull-goggles-green-hoodie",
+      "url": "https://discordpfp.gg/images/pfp/cartoon-skull/cartoon-skull-pfp-skull-goggles--cartoon-skull-goggles-green-hoodie.webp?d=full",
+      "path": "icones/cartoon-skull-goggles-green-hoodie.png",
+      "bytes": 510480,
+      "sha256": "961c45edc04483aaeef8e3e4661b69e7e4449b243bfe611aa6404e89bb1c6cee",
+      "gitSha": "a4983f1ff619add85bf2aae4e7f9ef85b0da0eb8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Crowned Skull",
+      "source": "https://discordpfp.gg/pfp/crowned-skull-orange-hoodie",
+      "url": "https://discordpfp.gg/images/pfp/skull/skull-pfp-crowned-skull--crowned-skull-orange-hoodie.webp?d=full",
+      "path": "icones/crowned-skull-orange-hoodie.png",
+      "bytes": 370405,
+      "sha256": "fa925882667330ba8f506584585eadeebefa30667a774ceeecb14d3495cc678a",
+      "gitSha": "b21ebc0d8c42a968faf469d285e320b04c68cccf"
+    },
+    {
+      "kind": "avatar",
+      "name": "Jordan 23",
+      "source": "https://discordpfp.gg/pfp/michael-jordan-chicago-bulls-23-motion-blur",
+      "url": "https://discordpfp.gg/images/pfp/chicago-bulls/chicago-bulls-pfp-jordan-23--michael-jordan-chicago-bulls-23-motion-blur.webp?d=full",
+      "path": "icones/michael-jordan-chicago-bulls-23-motion-blur.png",
+      "bytes": 1331077,
+      "sha256": "2bb0e831c021ddef10224ae4e98eba2f291f05d0a7cb507b945a9f57a5cfa6cc",
+      "gitSha": "5db470669e6a25c1c60f0268d5ac43f802ea0a6c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snow Rider",
+      "source": "https://discordpfp.gg/pfp/black-snow-rider-goggles-mask",
+      "url": "https://discordpfp.gg/images/pfp/snowboarding/snowboarding-pfp-snow-rider--black-snow-rider-goggles-mask.webp?d=full",
+      "path": "icones/black-snow-rider-goggles-mask.png",
+      "bytes": 323461,
+      "sha256": "036b1af721f6e2720653567bdbc30b48634634aa3a79569cef0510cde6216a4c",
+      "gitSha": "f2355d764b9914c411a1d9363f0fbd9927dfc08e"
+    },
+    {
+      "kind": "avatar",
+      "name": "SCP Trooper",
+      "source": "https://discordpfp.gg/pfp/scp-tactical-trooper-helmet-visor",
+      "url": "https://discordpfp.gg/images/pfp/tactical-trooper/tactical-trooper-pfp-scp-trooper--scp-tactical-trooper-helmet-visor.webp?d=full",
+      "path": "icones/scp-tactical-trooper-helmet-visor.png",
+      "bytes": 403310,
+      "sha256": "c62efc87125931b5d52eea719fe4c9ff9bc9826a6f06bf3be91e4db8d6342cee",
+      "gitSha": "03da2006bd100734fd2afcc0210c003c3e4a3fa0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Jordan Blur",
+      "source": "https://discordpfp.gg/pfp/michael-jordan-bulls-23-motion-blur",
+      "url": "https://discordpfp.gg/images/pfp/chicago-bulls/chicago-bulls-pfp-jordan-blur--michael-jordan-bulls-23-motion-blur.webp?d=full",
+      "path": "icones/michael-jordan-bulls-23-motion-blur.png",
+      "bytes": 1122410,
+      "sha256": "8d8ea7afab31f85ae07d763e89b434b85405fceb2886646833284ef45da65a37",
+      "gitSha": "d42e06ab6c49444224ed7e0947fa7aab88478668"
+    },
+    {
+      "kind": "avatar",
+      "name": "Kobe Trophy",
+      "source": "https://discordpfp.gg/pfp/kobe-bryant-lakers-championship-trophy",
+      "url": "https://discordpfp.gg/images/pfp/los-angeles-lakers/los-angeles-lakers-pfp-kobe-trophy--kobe-bryant-lakers-championship-trophy.webp?d=full",
+      "path": "icones/kobe-bryant-lakers-championship-trophy.png",
+      "bytes": 927608,
+      "sha256": "ff6e078541a307057de86fc0a588daec0d0014b7b2cc8bedd88e583617afee4b",
+      "gitSha": "3bdc7bd7f80099b517cde514f1ffef76b62fb936"
+    },
+    {
+      "kind": "avatar",
+      "name": "Worried",
+      "source": "https://discordpfp.gg/pfp/worried-minifigure-suit",
+      "url": "https://discordpfp.gg/images/pfp/minifigure/minifigure-pfp-worried--worried-minifigure-suit.webp?d=full",
+      "path": "icones/worried-minifigure-suit.png",
+      "bytes": 284877,
+      "sha256": "7edcf6c298ecdef1672f77078d0c2031b33fdacb35904ea181d5e3f21a8d36ec",
+      "gitSha": "ce5aeda82ab2049485a8ded134471c6097fbb9f2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Green Top Hat",
+      "source": "https://discordpfp.gg/pfp/green-glowing-top-hat-suit-cartoon",
+      "url": "https://discordpfp.gg/images/pfp/green-top-hat/green-top-hat-pfp-green-top-hat--green-glowing-top-hat-suit-cartoon.webp?d=full",
+      "path": "icones/green-glowing-top-hat-suit-cartoon.png",
+      "bytes": 883911,
+      "sha256": "611f86255935ae8a1dd794061a46d4fc955994d1d14246c12458c1edc3f49406",
+      "gitSha": "cc77fc0c4bfc67604e6c3548d41c498f89ee94b7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Spatula Bob",
+      "source": "https://discordpfp.gg/pfp/spongebob-squarepants-holding-spatula",
+      "url": "https://discordpfp.gg/images/pfp/spongebob-squarepants/spongebob-squarepants-pfp-spatula-bob--spongebob-squarepants-holding-spatula.webp?d=full",
+      "path": "icones/spongebob-squarepants-holding-spatula.png",
+      "bytes": 909848,
+      "sha256": "455cdffcf558851badf94df378383b953c992c4f7746e5937fdb868fca3c2a66",
+      "gitSha": "3863b691a227c8061e615da92d04ea4a4ae27db9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Monster Can",
+      "source": "https://discordpfp.gg/pfp/monster-energy-can-purple-glow",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-monster-can--monster-energy-can-purple-glow.webp?d=full",
+      "path": "icones/monster-energy-can-purple-glow.png",
+      "bytes": 902611,
+      "sha256": "748c74f28858dac52864a9e44128392fe0d006b2a3374338a4e8ba1a28dfe848",
+      "gitSha": "c07e91b9a0843a658cad0d04cb2b4eb4cbd378aa"
+    },
+    {
+      "kind": "avatar",
+      "name": "Skull Bucket",
+      "source": "https://discordpfp.gg/pfp/cartoon-skull-bucket-hat-hoodie",
+      "url": "https://discordpfp.gg/images/pfp/cartoon-skull/cartoon-skull-pfp-skull-bucket--cartoon-skull-bucket-hat-hoodie.webp?d=full",
+      "path": "icones/cartoon-skull-bucket-hat-hoodie.png",
+      "bytes": 252614,
+      "sha256": "1d4b4f60840574cf1448652074af2c029f1c11e17d92b557c4d25ea7c8f28577",
+      "gitSha": "47348bde0802b474e593d7984684579b56c3b620"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dripping Jack",
+      "source": "https://discordpfp.gg/pfp/dripping-jack-o-lantern-black-white",
+      "url": "https://discordpfp.gg/images/pfp/jack-o-lantern/jack-o-lantern-pfp-dripping-jack--dripping-jack-o-lantern-black-white.webp?d=full",
+      "path": "icones/dripping-jack-o-lantern-black-white.png",
+      "bytes": 309777,
+      "sha256": "4cacc143fd1d05d49eea7bd805bf18693ff2418be94fcd12d9174cf6ba1e8e8d",
+      "gitSha": "b8e5da47d9643a3f0f09ef32c69a4f61738dde4b"
+    },
+    {
+      "kind": "avatar",
+      "name": "MJ Threepeat",
+      "source": "https://discordpfp.gg/pfp/michael-jordan-bulls-threepeat-black-and-white",
+      "url": "https://discordpfp.gg/images/pfp/chicago-bulls/chicago-bulls-pfp-mj-threepeat--michael-jordan-bulls-threepeat-black-and-white.webp?d=full",
+      "path": "icones/michael-jordan-bulls-threepeat-black-and-white.png",
+      "bytes": 868618,
+      "sha256": "676570e7de144bf7a0973de40c47fff3edbbeda71e2d37f5925a55226fed7033",
+      "gitSha": "97674c816daf4237a1b8e1467693adf3616c8ee6"
+    },
+    {
+      "kind": "avatar",
+      "name": "White Robes",
+      "source": "https://discordpfp.gg/pfp/anime-male-white-head-wrap-robes",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-white-robes--anime-male-white-head-wrap-robes.webp?d=full",
+      "path": "icones/anime-male-white-head-wrap-robes.png",
+      "bytes": 410337,
+      "sha256": "128d332bd24b4cd31b075d177e4cde67d95aa3d08e4fc6e00d5a1426fabb7d3c",
+      "gitSha": "b68a8bf3f6a3752c0cef9b6fb11fea845fdf2e87"
+    },
+    {
+      "kind": "avatar",
+      "name": "Church Shadow",
+      "source": "https://discordpfp.gg/pfp/blurred-silhouette-church-aisle-cross",
+      "url": "https://discordpfp.gg/images/pfp/church/church-pfp-church-shadow--blurred-silhouette-church-aisle-cross.webp?d=full",
+      "path": "icones/blurred-silhouette-church-aisle-cross.png",
+      "bytes": 976262,
+      "sha256": "8565bb55788fc4f494f670152147d7622b3be0ea545797f9740d7a3c553ad940",
+      "gitSha": "ad102364d9f631ed4eccd3c6205a8dd03b19bd15"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shadow Gaze",
+      "source": "https://discordpfp.gg/pfp/shadow-gaze-monochrome-face",
+      "url": "https://discordpfp.gg/images/pfp/monochrome/monochrome-pfp-shadow-gaze--shadow-gaze-monochrome-face.webp?d=full",
+      "path": "icones/shadow-gaze-monochrome-face.png",
+      "bytes": 722014,
+      "sha256": "cd0638640f9932074ded1474454ec247082ce6d21aaa935765a48725ea22af79",
+      "gitSha": "5d3034abc41cc86c751ad4e304e8c5fefa0536d6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snow Ops",
+      "source": "https://discordpfp.gg/pfp/snow-tactical-soldier-crosshair",
+      "url": "https://discordpfp.gg/images/pfp/tactical-soldier/tactical-soldier-pfp-snow-ops--snow-tactical-soldier-crosshair.webp?d=full",
+      "path": "icones/snow-tactical-soldier-crosshair.png",
+      "bytes": 681694,
+      "sha256": "cc47df88988cd36d09b0fed1fd5e3ea2eefcf20a3c118315aa25971c9f979c46",
+      "gitSha": "e13048af669e522bc2d8e9fc7f6445f24791f48e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shadow Flame",
+      "source": "https://discordpfp.gg/pfp/shadow-flame-silhouette-glowing-eyes",
+      "url": "https://discordpfp.gg/images/pfp/silhouette/silhouette-pfp-shadow-flame--shadow-flame-silhouette-glowing-eyes.webp?d=full",
+      "path": "icones/shadow-flame-silhouette-glowing-eyes.png",
+      "bytes": 108879,
+      "sha256": "415ae5cc59e88060fe3234a5cbeadebd929292e60eb466c3470a5f37e7f3cd90",
+      "gitSha": "9c981307db4b66ef8a1ccefb3dfbf4b003df3914"
+    },
+    {
+      "kind": "avatar",
+      "name": "Skull Silhou",
+      "source": "https://discordpfp.gg/pfp/skull-behind-user-silhouette",
+      "url": "https://discordpfp.gg/images/pfp/skull/skull-pfp-skull-silhou--skull-behind-user-silhouette.webp?d=full",
+      "path": "icones/skull-behind-user-silhouette.png",
+      "bytes": 302607,
+      "sha256": "73a878f7ba74d8ee8fa9be204a6fc8e579d86ae25fd70d34ecd94ad8efee7be2",
+      "gitSha": "e048700f40408248a26a9c4285a84187f43c4050"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Half",
+      "source": "https://discordpfp.gg/pfp/black-white-manga-dark-half-face",
+      "url": "https://discordpfp.gg/images/pfp/manga/manga-pfp-dark-half--black-white-manga-dark-half-face.gif?d=full",
+      "path": "icones/black-white-manga-dark-half-face.gif",
+      "bytes": 108655,
+      "sha256": "e9794a703c3eeaff3af36a148ad970bd484a4a33b1adf4b9c267e8198c16f2b3",
+      "gitSha": "97747dd41b823a2e07474fae9673cc41ba01cd5e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Deadpool Noir",
+      "source": "https://discordpfp.gg/pfp/deadpool-noir-mask-katanas-marvel",
+      "url": "https://discordpfp.gg/images/pfp/deadpool/deadpool-pfp-deadpool-noir--deadpool-noir-mask-katanas-marvel.webp?d=full",
+      "path": "icones/deadpool-noir-mask-katanas-marvel.png",
+      "bytes": 170693,
+      "sha256": "d8151ffa9184f746d1574b3c182b577397329c1efc78e3c0e815c6965532bb22",
+      "gitSha": "69b968f605102cbe5516ff92daa19eefb5d97eb9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Red User Mark",
+      "source": "https://discordpfp.gg/pfp/red-user-symbol-black-background",
+      "url": "https://discordpfp.gg/images/pfp/user-symbol/user-symbol-pfp-red-user-mark--red-user-symbol-black-background.webp?d=full",
+      "path": "icones/red-user-symbol-black-background.png",
+      "bytes": 523744,
+      "sha256": "83a198cb6a452fa07a29d1ed2b218bce5199296dd6ef287a514788a7ca6c6225",
+      "gitSha": "32e2225dd73e9abaa42d961db0b8fe593d48acd5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hooded Wisp",
+      "source": "https://discordpfp.gg/pfp/pixel-hooded-wisp-robe",
+      "url": "https://discordpfp.gg/images/pfp/pixel-art/pixel-art-pfp-hooded-wisp--pixel-hooded-wisp-robe.webp?d=full",
+      "path": "icones/pixel-hooded-wisp-robe.png",
+      "bytes": 737869,
+      "sha256": "2b15ad82aa1e279f8e61165b4d9564545696cbdb84956a74d3d8c8cb1a91ef07",
+      "gitSha": "169003ae5f9703a3e6ae6c76f21644a0b73d862b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black Hair",
+      "source": "https://discordpfp.gg/pfp/anime-girl-larp-shirt-bear-ears",
+      "url": "https://discordpfp.gg/images/pfp/black-hair/black-hair-pfp-black-hair--anime-girl-larp-shirt-bear-ears.webp?d=full",
+      "path": "icones/anime-girl-larp-shirt-bear-ears.png",
+      "bytes": 874073,
+      "sha256": "807a7bad552a96200050762c9d84336fd1f8abe513090fc1b0f744b9c6a3331f",
+      "gitSha": "a6b779feb172a359ffd00eaeb495183b61f0b71c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Thorn Veins",
+      "source": "https://discordpfp.gg/pfp/black-thorn-abstract-pattern",
+      "url": "https://discordpfp.gg/images/pfp/abstract/abstract-pfp-thorn-veins--black-thorn-abstract-pattern.webp?d=full",
+      "path": "icones/black-thorn-abstract-pattern.png",
+      "bytes": 287739,
+      "sha256": "28b4c899eaa3a6e4cd01194a96671b9c302db10d87339e60acbda5d65bbd1c32",
+      "gitSha": "936c4c16e5a18c354ddba7e0df375c8756794868"
+    },
+    {
+      "kind": "avatar",
+      "name": "Purple Eyes",
+      "source": "https://discordpfp.gg/pfp/glowing-purple-eyes-dark-background",
+      "url": "https://discordpfp.gg/images/pfp/glowing-eyes/glowing-eyes-pfp-purple-eyes--glowing-purple-eyes-dark-background.gif?d=full",
+      "path": "icones/glowing-purple-eyes-dark-background.webp",
+      "bytes": 222838,
+      "sha256": "981f0c4041a149b15cb680a12582bb5ede967c154ebfea3f9d624ecf79c9a54c",
+      "gitSha": "c2b2b7fd906e0bbb72af50190fef9fa9295662c7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Purple Guitar",
+      "source": "https://discordpfp.gg/pfp/purple-electric-guitar-hands-anime-art",
+      "url": "https://discordpfp.gg/images/pfp/electric-guitar/electric-guitar-pfp-purple-guitar--purple-electric-guitar-hands-anime-art.webp?d=full",
+      "path": "icones/purple-electric-guitar-hands-anime-art.png",
+      "bytes": 985493,
+      "sha256": "5b040d1cc455e1392a0bddc57b4df3e25664435d288c1ab8be4c269484fc8540",
+      "gitSha": "67b133cc02661199f855fb2b4cb0123dc940c8ef"
+    },
+    {
+      "kind": "avatar",
+      "name": "Purple Shadow",
+      "source": "https://discordpfp.gg/pfp/purple-shadow-person-neon-light",
+      "url": "https://discordpfp.gg/images/pfp/purple-lighting/purple-lighting-pfp-purple-shadow--purple-shadow-person-neon-light.webp?d=full",
+      "path": "icones/purple-shadow-person-neon-light.png",
+      "bytes": 496164,
+      "sha256": "29ce7893159b9a613d87c5e6b7c695f8773420f87fefd142ea47dd80e0cf2b34",
+      "gitSha": "4ee888b514824cbf44f8b3aeeb109a92e1a63b94"
+    },
+    {
+      "kind": "avatar",
+      "name": "Purple Hood",
+      "source": "https://discordpfp.gg/pfp/purple-hooded-silhouette",
+      "url": "https://discordpfp.gg/images/pfp/hoodie/hoodie-pfp-purple-hood--purple-hooded-silhouette.webp?d=full",
+      "path": "icones/purple-hooded-silhouette.png",
+      "bytes": 648030,
+      "sha256": "2b7360c9b48caa3821781ff55a893f7a3451b595ccdec1ef5364024458f05395",
+      "gitSha": "b70b50762309133021538da99a5b88f19df7563d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Horned Shadow",
+      "source": "https://discordpfp.gg/pfp/horned-shadow-silhouette-purple-glow",
+      "url": "https://discordpfp.gg/images/pfp/silhouette/silhouette-pfp-horned-shadow--horned-shadow-silhouette-purple-glow.webp?d=full",
+      "path": "icones/horned-shadow-silhouette-purple-glow.png",
+      "bytes": 1492212,
+      "sha256": "2b243bac33c45fc0df418bdfeb59f25b9027adb90a265e13131982d77320d5ad",
+      "gitSha": "ed1123c532d46be66727ceff8fba9da62d6fc086"
+    },
+    {
+      "kind": "avatar",
+      "name": "Grunge Side",
+      "source": "https://discordpfp.gg/pfp/grunge-anime-side-profile-monochrome",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-grunge-side--grunge-anime-side-profile-monochrome.webp?d=full",
+      "path": "icones/grunge-anime-side-profile-monochrome.png",
+      "bytes": 547850,
+      "sha256": "3372ee97ad2da4f3c18c1b0ed1a2ae9746ca1373e7c0ef69f5ad64dba5ede0c5",
+      "gitSha": "603a3d6f09e4ca2691701312da770f0a38437c9a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bored Student",
+      "source": "https://discordpfp.gg/pfp/bored-student-manga-boy-sweater-vest",
+      "url": "https://discordpfp.gg/images/pfp/monochrome/monochrome-pfp-bored-student--bored-student-manga-boy-sweater-vest.webp?d=full",
+      "path": "icones/bored-student-manga-boy-sweater-vest.png",
+      "bytes": 490357,
+      "sha256": "7548f29ef8c6225d5d954a9b3d8eb533ba9d6a4d8c0697aa15aeac52712454f5",
+      "gitSha": "d95cddc8cc0be13abf6b9f315a698ccaaecaf9ff"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tie Silhouet",
+      "source": "https://discordpfp.gg/pfp/white-tie-silhouette-on-black",
+      "url": "https://discordpfp.gg/images/pfp/silhouette/silhouette-pfp-tie-silhouet--white-tie-silhouette-on-black.webp?d=full",
+      "path": "icones/white-tie-silhouette-on-black.png",
+      "bytes": 79848,
+      "sha256": "ae76570f21d71eea9aeb30980728cf672b85c3e35fe8e41113163b32dd4f14f2",
+      "gitSha": "c0a3afa412e9913e4d15c6329b7c954e5311a342"
+    },
+    {
+      "kind": "avatar",
+      "name": "Side Silhout",
+      "source": "https://discordpfp.gg/pfp/black-side-profile-silhouette-2",
+      "url": "https://discordpfp.gg/images/pfp/silhouette/silhouette-pfp-side-silhout--black-side-profile-silhouette-2.webp?d=full",
+      "path": "icones/black-side-profile-silhouette-2.png",
+      "bytes": 89788,
+      "sha256": "44243d59a5424d4420c9fdd810b2126cb6070e5c223a9abc4d5b149df546b9de",
+      "gitSha": "6c7364ad6d1a6e1bcf616ea87ac8961827697443"
+    },
+    {
+      "kind": "avatar",
+      "name": "White Batman",
+      "source": "https://discordpfp.gg/pfp/white-batman-helmet-dc",
+      "url": "https://discordpfp.gg/images/pfp/batman/batman-pfp-white-batman--white-batman-helmet-dc.webp?d=full",
+      "path": "icones/white-batman-helmet-dc.png",
+      "bytes": 1086391,
+      "sha256": "6a5b47f4a179414f3a188348bd0a6c6f970b8af493ff1808b7d4fa34fb17ca21",
+      "gitSha": "960d573cda810cb5b88cab6bb72c0efa8ea14cb9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ken Kaneki",
+      "source": "https://discordpfp.gg/pfp/ken-kaneki-tokyo-ghoul-red-eye",
+      "url": "https://discordpfp.gg/images/pfp/ken-kaneki/ken-kaneki-pfp-ken-kaneki--ken-kaneki-tokyo-ghoul-red-eye.webp?d=full",
+      "path": "icones/ken-kaneki-tokyo-ghoul-red-eye.png",
+      "bytes": 517591,
+      "sha256": "ce745a528dd95ea1185c0d3db5b5d05c294e22e54413a08c64435ce4c08d8a64",
+      "gitSha": "78e94b5e00de0d95ff6bb876eb05484e7908dd58"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wrapped Gaze",
+      "source": "https://discordpfp.gg/pfp/wrapped-gaze-masked-figure-monochrome",
+      "url": "https://discordpfp.gg/images/pfp/masked-figure/masked-figure-pfp-wrapped-gaze--wrapped-gaze-masked-figure-monochrome.webp?d=full",
+      "path": "icones/wrapped-gaze-masked-figure-monochrome.png",
+      "bytes": 283925,
+      "sha256": "47d8635d64bd5e1ac9354f96c5aa3ee3d173469b3ae2980e1326adece544f076",
+      "gitSha": "f0e7f3b81e0f7b1816f6f935a44a17988950ed45"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gojo Sideeye",
+      "source": "https://discordpfp.gg/pfp/satoru-gojo-side-profile-high-collar-jujutsu-kai",
+      "url": "https://discordpfp.gg/images/pfp/jujutsu-kaisen/jujutsu-kaisen-pfp-gojo-sideeye--satoru-gojo-side-profile-high-collar-jujutsu-kai.webp?d=full",
+      "path": "icones/satoru-gojo-side-profile-high-collar-jujutsu-kai.png",
+      "bytes": 514057,
+      "sha256": "38d7c24fa600e1e5ac6b0349024aceaa505faee650dad985e54d3a08340a67a8",
+      "gitSha": "4db84f7a80f8d9eb38a66687a525e66ceab640f5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/orange-white-kitten-pink-bow-hearts",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-kitten--orange-white-kitten-pink-bow-hearts.webp?d=full",
+      "path": "icones/orange-white-kitten-pink-bow-hearts.png",
+      "bytes": 525399,
+      "sha256": "bb3ac137c57cf7c34c78481e4b1ec289524d09c5caba1c6d05c8ab46c596f14e",
+      "gitSha": "5f9cdbd2430aef2e3057267e3b8c4dc15b5fe8cc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Plush Stuffed",
+      "source": "https://discordpfp.gg/pfp/korilakkuma-plush-in-grass",
+      "url": "https://discordpfp.gg/images/pfp/korilakkuma/korilakkuma-pfp-plush-stuffed--korilakkuma-plush-in-grass.webp?d=full",
+      "path": "icones/korilakkuma-plush-in-grass.png",
+      "bytes": 1246249,
+      "sha256": "24fe4d45a2d34af35aabbaaf6f18d20b5d658391c99c516e756677581a1f5de8",
+      "gitSha": "2cf42face99f32649176b3d1cce35d79766f4b69"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pink Paw Pads",
+      "source": "https://discordpfp.gg/pfp/pink-paw-pads-white-fur",
+      "url": "https://discordpfp.gg/images/pfp/cat-paws/cat-paws-pfp-pink-paw-pads--pink-paw-pads-white-fur.webp?d=full",
+      "path": "icones/pink-paw-pads-white-fur.png",
+      "bytes": 377805,
+      "sha256": "c87f77d72cd5dc8cc1740e0e921fe17a6b7e602c9dcb8b0dcbd34cbb1c4c0f12",
+      "gitSha": "ab5553f72e2913f506c550c51e332877ce09cee0"
+    },
+    {
+      "kind": "avatar",
+      "name": "San X Bear",
+      "source": "https://discordpfp.gg/pfp/rilakkuma-white-hood-plush",
+      "url": "https://discordpfp.gg/images/pfp/rilakkuma/rilakkuma-pfp-san-x-bear--rilakkuma-white-hood-plush.webp?d=full",
+      "path": "icones/rilakkuma-white-hood-plush.png",
+      "bytes": 420111,
+      "sha256": "3b7520bdfdb527f418fbe9316a275a346494822c017f597185ab130c79f58ee6",
+      "gitSha": "c69208dc645308b789f460f4cae92a8d51f89053"
+    },
+    {
+      "kind": "avatar",
+      "name": "Swag Sign",
+      "source": "https://discordpfp.gg/pfp/person-sunglasses-hair-rollers-swag-sign",
+      "url": "https://discordpfp.gg/images/pfp/sunglasses/sunglasses-pfp-swag-sign--person-sunglasses-hair-rollers-swag-sign.webp?d=full",
+      "path": "icones/person-sunglasses-hair-rollers-swag-sign.png",
+      "bytes": 1008010,
+      "sha256": "f593629326a4473679287b3855b415a99fa2677d0542b40c911158f3a8b6990b",
+      "gitSha": "d9e94f36144af3502e2d9c8bcb373e9c817bdd8f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Unicorn Edit",
+      "source": "https://discordpfp.gg/pfp/pink-unicorn-collage-aesthetic",
+      "url": "https://discordpfp.gg/images/pfp/unicorn/unicorn-pfp-unicorn-edit--pink-unicorn-collage-aesthetic.webp?d=full",
+      "path": "icones/pink-unicorn-collage-aesthetic.png",
+      "bytes": 540630,
+      "sha256": "182d1387157db6ed3e3f65e3fcc8116040127679f4d40d0c1fa9a3bea9366bd2",
+      "gitSha": "b063c4cceb849b33eacdc842d2f89673fab1cd82"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pastel Neko",
+      "source": "https://discordpfp.gg/pfp/pastel-neko-unicorn-girl-rainbow-clouds",
+      "url": "https://discordpfp.gg/images/pfp/cat-ears/cat-ears-pfp-pastel-neko--pastel-neko-unicorn-girl-rainbow-clouds.webp?d=full",
+      "path": "icones/pastel-neko-unicorn-girl-rainbow-clouds.png",
+      "bytes": 542387,
+      "sha256": "ec4ea0b6baf82cd38e0b969f7f61f0653483f3bd53f2756df000ccd0e5cda64e",
+      "gitSha": "7b086e3de3c5568469d17e27042a89cbffa9f699"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cat Shadow",
+      "source": "https://discordpfp.gg/pfp/girl-crouching-with-cat-shadow",
+      "url": "https://discordpfp.gg/images/pfp/cat-shadow/cat-shadow-pfp-cat-shadow--girl-crouching-with-cat-shadow.webp?d=full",
+      "path": "icones/girl-crouching-with-cat-shadow.png",
+      "bytes": 1211762,
+      "sha256": "6b36618de5e96034113edb3e87bc8949464a739177b05214bb509651df0e6ab1",
+      "gitSha": "17df1b80c81d295ed00378fd6e4de836f1513fc3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pastel Fairy",
+      "source": "https://discordpfp.gg/pfp/pastel-rainbow-hair-tiara-fairy",
+      "url": "https://discordpfp.gg/images/pfp/rainbow-hair/rainbow-hair-pfp-pastel-fairy--pastel-rainbow-hair-tiara-fairy.webp?d=full",
+      "path": "icones/pastel-rainbow-hair-tiara-fairy.png",
+      "bytes": 458362,
+      "sha256": "e2af3a7bf93fcda81431090ec9bc11cc0d5948393913680e063229d91b6a9db2",
+      "gitSha": "82a2e94f3b0a9eec03f9bbc8faa5c8d4275f42db"
+    },
+    {
+      "kind": "avatar",
+      "name": "Costumed Kitt",
+      "source": "https://discordpfp.gg/pfp/two-kittens-bat-costume-hello-kitty-hat",
+      "url": "https://discordpfp.gg/images/pfp/kittens/kittens-pfp-costumed-kitt--two-kittens-bat-costume-hello-kitty-hat.webp?d=full",
+      "path": "icones/two-kittens-bat-costume-hello-kitty-hat.png",
+      "bytes": 831106,
+      "sha256": "fa51dd6627176e34f45dda2b574c8b6afdc3634128f453914f85e8e5c87c2a0a",
+      "gitSha": "f477c0f6c099af5be7cd3592df5b92356a8ee465"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shadow Figure",
+      "source": "https://discordpfp.gg/pfp/shadowy-long-hair-seated-figure",
+      "url": "https://discordpfp.gg/images/pfp/horror/horror-pfp-shadow-figure--shadowy-long-hair-seated-figure.webp?d=full",
+      "path": "icones/shadowy-long-hair-seated-figure.png",
+      "bytes": 196877,
+      "sha256": "22d0520809928f91f0076321146746c73230b571b13538e2b499145a9385c559",
+      "gitSha": "ae769a7bc1fedfc73aeec3ad2b6dee09d56ba768"
+    },
+    {
+      "kind": "avatar",
+      "name": "Forest Figure",
+      "source": "https://discordpfp.gg/pfp/dark-figure-on-log-in-forest",
+      "url": "https://discordpfp.gg/images/pfp/dark-figure/dark-figure-pfp-forest-figure--dark-figure-on-log-in-forest.webp?d=full",
+      "path": "icones/dark-figure-on-log-in-forest.png",
+      "bytes": 1347739,
+      "sha256": "c0b1ae032849f893f7ee47a692e22cb44c4afb5c0d8082b69d354207f25188f1",
+      "gitSha": "63972b115233cb4889baef4ffc9817d07ae4d9da"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hooded Figure",
+      "source": "https://discordpfp.gg/pfp/black-white-hooded-figure-long-hair",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-hooded-figure--black-white-hooded-figure-long-hair.webp?d=full",
+      "path": "icones/black-white-hooded-figure-long-hair.png",
+      "bytes": 376111,
+      "sha256": "cfe066dc632296034ccfc4cff69de7eb21563995540921e231905d6fc04705fc",
+      "gitSha": "1ed130efff56dc42867dff63f078b4b1a7e36830"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gothic Angel",
+      "source": "https://discordpfp.gg/pfp/gothic-angel-girl-cross-wings",
+      "url": "https://discordpfp.gg/images/pfp/angel/angel-pfp-gothic-angel--gothic-angel-girl-cross-wings.webp?d=full",
+      "path": "icones/gothic-angel-girl-cross-wings.png",
+      "bytes": 427843,
+      "sha256": "dcd222998276e04b7dee9e4e4b84376ad8a5faf74dc744ec5ad95f52281a9d53",
+      "gitSha": "8d004bebbeab51ea25bfd1f30ee70bc5f973c308"
+    },
+    {
+      "kind": "avatar",
+      "name": "Eye Closeup",
+      "source": "https://discordpfp.gg/pfp/black-white-hidden-eye-closeup",
+      "url": "https://discordpfp.gg/images/pfp/eye-closeup/eye-closeup-pfp-eye-closeup--black-white-hidden-eye-closeup.webp?d=full",
+      "path": "icones/black-white-hidden-eye-closeup.png",
+      "bytes": 306311,
+      "sha256": "a8fb3d1aa08410f25a7dbc96568ee76305cc079fe1141d59ea43a0ec01988d88",
+      "gitSha": "2a7848f3a2403a751984bd33fa35a1589d19dca8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sleepy Cat",
+      "source": "https://discordpfp.gg/pfp/sleeping-cat-with-phone-earbuds",
+      "url": "https://discordpfp.gg/images/pfp/sleeping-cat/sleeping-cat-pfp-sleepy-cat--sleeping-cat-with-phone-earbuds.webp?d=full",
+      "path": "icones/sleeping-cat-with-phone-earbuds.png",
+      "bytes": 777406,
+      "sha256": "c85d4496c438c4cc4288968fd66e38471bdfb92118fa08e43447af90320d9f6b",
+      "gitSha": "a85a07fff91624d2fcc9e46be58136aa8788c677"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black And",
+      "source": "https://discordpfp.gg/pfp/black-white-long-hair-hidden-face-couch",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-black-and--black-white-long-hair-hidden-face-couch.webp?d=full",
+      "path": "icones/black-white-long-hair-hidden-face-couch.png",
+      "bytes": 422704,
+      "sha256": "1801a417d8df30c6da3daaa9ec760dfde6939bac8b001b34f959cc15b0b2e3b8",
+      "gitSha": "940ebdf21768da48e10a6253db8c979a1baf802a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pumpkin Hide",
+      "source": "https://discordpfp.gg/pfp/person-holding-jack-o-lantern-autumn",
+      "url": "https://discordpfp.gg/images/pfp/pumpkin/pumpkin-pfp-pumpkin-hide--person-holding-jack-o-lantern-autumn.webp?d=full",
+      "path": "icones/person-holding-jack-o-lantern-autumn.png",
+      "bytes": 905043,
+      "sha256": "ff5ec9906699a7196a35aa8dcc553788d03a0e5817f91b229c67800ed376dd57",
+      "gitSha": "8f07fecf2e40555fb2c033bb26477c02094493a2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shadow Figure",
+      "source": "https://discordpfp.gg/pfp/shadow-figure-teal-background",
+      "url": "https://discordpfp.gg/images/pfp/shadow-figure/shadow-figure-pfp-shadow-figure--shadow-figure-teal-background.gif?d=full",
+      "path": "icones/shadow-figure-teal-background.webp",
+      "bytes": 505482,
+      "sha256": "a05b332e907bce08a7906dda73b9761289fa6cde943e4061873c6fc59279aeb1",
+      "gitSha": "3b5193ff28db755875ae1174582c7f8ac5bf530b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Not Insane",
+      "source": "https://discordpfp.gg/pfp/not-insane-text-design",
+      "url": "https://discordpfp.gg/images/pfp/shatter-me/shatter-me-pfp-not-insane--not-insane-text-design.webp?d=full",
+      "path": "icones/not-insane-text-design.png",
+      "bytes": 251751,
+      "sha256": "4ed4ed8f821558fde8c398422cffee8760a715b200e2301e496795d700550b31",
+      "gitSha": "e7c68adc3a5b7966f68f4dd5b705fadcd6aa8cea"
+    },
+    {
+      "kind": "avatar",
+      "name": "Winged Fawns",
+      "source": "https://discordpfp.gg/pfp/winged-fawns-grass-sparkle",
+      "url": "https://discordpfp.gg/images/pfp/deer/deer-pfp-winged-fawns--winged-fawns-grass-sparkle.webp?d=full",
+      "path": "icones/winged-fawns-grass-sparkle.png",
+      "bytes": 1503825,
+      "sha256": "e5ab284b07c6c4f3e4c65fed9abb97e071ab7b60595ab5a31085d62d40586eeb",
+      "gitSha": "d13981b2b9b65486f6e1205a946a979ed5866d40"
+    },
+    {
+      "kind": "avatar",
+      "name": "Deer Pun",
+      "source": "https://discordpfp.gg/pfp/fawn-with-flowers-you-are-very-deer-to",
+      "url": "https://discordpfp.gg/images/pfp/fawn/fawn-pfp-deer-pun--fawn-with-flowers-you-are-very-deer-to.webp?d=full",
+      "path": "icones/fawn-with-flowers-you-are-very-deer-to.png",
+      "bytes": 2110804,
+      "sha256": "42cfade44c19fd254221e1612c8bec7d1a599882c0a8ee382ce1e1f55a7e4a36",
+      "gitSha": "e7e5910b57c9b697667d14781efd85a8e720c5c3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fawn in Water",
+      "source": "https://discordpfp.gg/pfp/fawn-standing-in-shallow-water",
+      "url": "https://discordpfp.gg/images/pfp/fawn/fawn-pfp-fawn-in-water--fawn-standing-in-shallow-water.webp?d=full",
+      "path": "icones/fawn-standing-in-shallow-water.png",
+      "bytes": 1352639,
+      "sha256": "da87f766ee433ba0b89e14eb72debb434149f0e47c332c85b09c0d8d7b6c8a27",
+      "gitSha": "5f83e6335d48bd7ad4c7fadbc8116b47fbe698b7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snow Deer",
+      "source": "https://discordpfp.gg/pfp/snowy-deer-group-path",
+      "url": "https://discordpfp.gg/images/pfp/deer/deer-pfp-snow-deer--snowy-deer-group-path.webp?d=full",
+      "path": "icones/snowy-deer-group-path.png",
+      "bytes": 662539,
+      "sha256": "a4209480af3a7f9ca15b32ae0291942cf171d8e8185196b34a92bd9656623f00",
+      "gitSha": "b77b3a46500e9aa046003144f75c474987f52b47"
+    },
+    {
+      "kind": "avatar",
+      "name": "Spotted Fawn",
+      "source": "https://discordpfp.gg/pfp/spotted-fawn-in-wildflowers",
+      "url": "https://discordpfp.gg/images/pfp/fawn/fawn-pfp-spotted-fawn--spotted-fawn-in-wildflowers.webp?d=full",
+      "path": "icones/spotted-fawn-in-wildflowers.png",
+      "bytes": 1531904,
+      "sha256": "b34dafd2d0a8dbb890ea98fcf0a865d4bac076bb36b78bc2a93af25ae626a0a3",
+      "gitSha": "ded24a74f68ca2a6a0d4c67002462c6e19e64747"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black Kurta",
+      "source": "https://discordpfp.gg/pfp/black-kurta-by-pickup-truck",
+      "url": "https://discordpfp.gg/images/pfp/black-kurta/black-kurta-pfp-black-kurta--black-kurta-by-pickup-truck.webp?d=full",
+      "path": "icones/black-kurta-by-pickup-truck.png",
+      "bytes": 961129,
+      "sha256": "0acbab395a81040560987a082307188f5b9ca72096cb702e8184361dd887c266",
+      "gitSha": "f21a9b9a6189f73b077fe9f85dac125fa4188328"
+    },
+    {
+      "kind": "avatar",
+      "name": "Aragorn Gear",
+      "source": "https://discordpfp.gg/pfp/aragorn-anduril-one-ring-map",
+      "url": "https://discordpfp.gg/images/pfp/aragorn/aragorn-pfp-aragorn-gear--aragorn-anduril-one-ring-map.webp?d=full",
+      "path": "icones/aragorn-anduril-one-ring-map.png",
+      "bytes": 823220,
+      "sha256": "93c1460140b76a06cfabfb99dc93ea1ffdc98f94decd20b6f1e24afa412e6dff",
+      "gitSha": "4ef7cbe94defec907345c1dbe0b042c4d8d2fed9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Mirror Selfie",
+      "source": "https://discordpfp.gg/pfp/mirror-selfie-dark-hair-phone-face",
+      "url": "https://discordpfp.gg/images/pfp/phone-covering-face/phone-covering-face-pfp-mirror-selfie--mirror-selfie-dark-hair-phone-face.webp?d=full",
+      "path": "icones/mirror-selfie-dark-hair-phone-face.png",
+      "bytes": 1035469,
+      "sha256": "371ebab03a10b91ed1b7407f5f3288c74ebd9c33010a25a367ba3d6a5674e37b",
+      "gitSha": "e3957172d559038385bd3f2705fee10961b197f0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Night Truck",
+      "source": "https://discordpfp.gg/pfp/black-pickup-truck-night-scene",
+      "url": "https://discordpfp.gg/images/pfp/black-pickup-truck/black-pickup-truck-pfp-night-truck--black-pickup-truck-night-scene.webp?d=full",
+      "path": "icones/black-pickup-truck-night-scene.png",
+      "bytes": 387048,
+      "sha256": "0e629853f0eef10d8276b3a52b93077bfea8253215a676dae250317b7ab1b355",
+      "gitSha": "901b0f9f7b2d0928b2a4f8a8fac532591869c79d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Peace Hoodie",
+      "source": "https://discordpfp.gg/pfp/black-white-hoodie-peace-sign-bed",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-peace-hoodie--black-white-hoodie-peace-sign-bed.webp?d=full",
+      "path": "icones/black-white-hoodie-peace-sign-bed.png",
+      "bytes": 360080,
+      "sha256": "34f83e74b7c544b8409752c9b8eaf2a724acdd03e22c6227aaa8cd0c4353de06",
+      "gitSha": "9deae0244efe7947af0504fbdc2015fe06cee075"
+    },
+    {
+      "kind": "avatar",
+      "name": "Mirror Selfie",
+      "source": "https://discordpfp.gg/pfp/shirtless-mirror-selfie-baggy-jeans",
+      "url": "https://discordpfp.gg/images/pfp/mirror-selfie/mirror-selfie-pfp-mirror-selfie--shirtless-mirror-selfie-baggy-jeans.webp?d=full",
+      "path": "icones/shirtless-mirror-selfie-baggy-jeans.png",
+      "bytes": 1070981,
+      "sha256": "b5cd438a3696f4be3f0137260f099e8ee451988a35515bb88172c2f3058a0a82",
+      "gitSha": "76b6cb1ba0594fe4e0b1e5ea96d50e09d37c7c7e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Car Backseat",
+      "source": "https://discordpfp.gg/pfp/woman-in-car-backseat-satin-dress",
+      "url": "https://discordpfp.gg/images/pfp/car-interior/car-interior-pfp-car-backseat--woman-in-car-backseat-satin-dress.webp?d=full",
+      "path": "icones/woman-in-car-backseat-satin-dress.png",
+      "bytes": 724687,
+      "sha256": "b3987c54e015b939d4e1d46cd9990261726911c10e48636ee8bb6d60933e65d5",
+      "gitSha": "fb80c2e243293b731ebbbad2d2ff953327feb0a5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Yellow Hoodie",
+      "source": "https://discordpfp.gg/pfp/yellow-hoodie-stairs-outfit",
+      "url": "https://discordpfp.gg/images/pfp/yellow-hoodie/yellow-hoodie-pfp-yellow-hoodie--yellow-hoodie-stairs-outfit.webp?d=full",
+      "path": "icones/yellow-hoodie-stairs-outfit.png",
+      "bytes": 1201411,
+      "sha256": "5c254ecdbc3eba55d7b4d431102b70f7e7658ae88fe06004360bd575d11d76ec",
+      "gitSha": "98fb5752982daf3d1ca51db06871a935c36bf092"
+    },
+    {
+      "kind": "avatar",
+      "name": "Buzz Cut Man",
+      "source": "https://discordpfp.gg/pfp/buzz-cut-man-smoking-dim-light",
+      "url": "https://discordpfp.gg/images/pfp/buzz-cut/buzz-cut-pfp-buzz-cut-man--buzz-cut-man-smoking-dim-light.gif?d=full",
+      "path": "icones/buzz-cut-man-smoking-dim-light.webp",
+      "bytes": 495080,
+      "sha256": "ff736b2f008dcd90be7442c66c07b78164d88a9ee6044f9710b2725315d9b5e8",
+      "gitSha": "48dc7e7037bbc2a76663f1fcda3524e7f94b99b2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Illumi",
+      "source": "https://discordpfp.gg/pfp/illumi-zoldyck-hunter-x-hunter-bandaged-anime",
+      "url": "https://discordpfp.gg/images/pfp/illumi-zoldyck/illumi-zoldyck-pfp-illumi--illumi-zoldyck-hunter-x-hunter-bandaged-anime.webp?d=full",
+      "path": "icones/illumi-zoldyck-hunter-x-hunter-bandaged-anime.png",
+      "bytes": 897051,
+      "sha256": "8b8b673e32b378d4c73f9eb55de65f420ba7c467b640c1ab528f2b1756d72131",
+      "gitSha": "38c195b36e2e3a743a256b3dc9e65befb6236b35"
+    },
+    {
+      "kind": "avatar",
+      "name": "Killua Tux",
+      "source": "https://discordpfp.gg/pfp/killua-zoldyck-hunter-x-hunter-tuxedo",
+      "url": "https://discordpfp.gg/images/pfp/killua-zoldyck/killua-zoldyck-pfp-killua-tux--killua-zoldyck-hunter-x-hunter-tuxedo.webp?d=full",
+      "path": "icones/killua-zoldyck-hunter-x-hunter-tuxedo.png",
+      "bytes": 533287,
+      "sha256": "2a59cff36e273176ed43a61f9b840e7531122386a6c50efcc2e6aa04f7e695ac",
+      "gitSha": "53a3df77fcafb799f883e49414980ea94fccb9da"
+    },
+    {
+      "kind": "avatar",
+      "name": "Zoro Smirk",
+      "source": "https://discordpfp.gg/pfp/roronoa-zoro-smirk-one-piece",
+      "url": "https://discordpfp.gg/images/pfp/roronoa-zoro/roronoa-zoro-pfp-zoro-smirk--roronoa-zoro-smirk-one-piece.webp?d=full",
+      "path": "icones/roronoa-zoro-smirk-one-piece.png",
+      "bytes": 656526,
+      "sha256": "8f84f6367990a43caa5f77be38d70daa5b6fbe3f7e44e44b1b337351104fb962",
+      "gitSha": "bfc2f364794c73eb614bb31c9c98504e55769868"
+    },
+    {
+      "kind": "avatar",
+      "name": "Luffy Grin",
+      "source": "https://discordpfp.gg/pfp/monkey-d-luffy-one-piece-straw-hat-grin",
+      "url": "https://discordpfp.gg/images/pfp/monkey-d-luffy/monkey-d-luffy-pfp-luffy-grin--monkey-d-luffy-one-piece-straw-hat-grin.webp?d=full",
+      "path": "icones/monkey-d-luffy-one-piece-straw-hat-grin.png",
+      "bytes": 937661,
+      "sha256": "54e46cd4bdb09c68c086a4be3e097d0273fbd07ff75c80ace6a1289e5d3bc1d5",
+      "gitSha": "3a35a3e0dcb2a16912021a6636093dc54deef62e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Starfish Clo",
+      "source": "https://discordpfp.gg/pfp/pink-starfish-akatsuki-cloak-parody",
+      "url": "https://discordpfp.gg/images/pfp/pink-starfish/pink-starfish-pfp-starfish-clo--pink-starfish-akatsuki-cloak-parody.webp?d=full",
+      "path": "icones/pink-starfish-akatsuki-cloak-parody.png",
+      "bytes": 571926,
+      "sha256": "fa00847631e74ebe45fd96ea3f18325de871383cac13032633c22bd240ae437e",
+      "gitSha": "65f5d832e7e3aa344a9aa0dc448f069c17f69118"
+    },
+    {
+      "kind": "avatar",
+      "name": "Santa IceBear",
+      "source": "https://discordpfp.gg/pfp/ice-bear-we-bare-bears-santa-hat",
+      "url": "https://discordpfp.gg/images/pfp/ice-bear/ice-bear-pfp-santa-icebear--ice-bear-we-bare-bears-santa-hat.webp?d=full",
+      "path": "icones/ice-bear-we-bare-bears-santa-hat.png",
+      "bytes": 580884,
+      "sha256": "20708e2b372330ef56b014cd368f39b9788c2a506c5fdbe5fe76e3490a35c03e",
+      "gitSha": "16e1dbbe54cf1158231aaf5ab2e61ffb5bae6055"
+    },
+    {
+      "kind": "avatar",
+      "name": "Penguin Drip",
+      "source": "https://discordpfp.gg/pfp/penguin-beanie-sunglasses-chain",
+      "url": "https://discordpfp.gg/images/pfp/penguin/penguin-pfp-penguin-drip--penguin-beanie-sunglasses-chain.webp?d=full",
+      "path": "icones/penguin-beanie-sunglasses-chain.png",
+      "bytes": 492205,
+      "sha256": "99617eab7b1936d26983a5e91c73e10733ad8d68e5a079bd4b91dbfed8661611",
+      "gitSha": "1c78bc823f73af0aa8425a13d444cb65252a18a3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sonic Headban",
+      "source": "https://discordpfp.gg/pfp/sonic-the-hedgehog-headband-surprised",
+      "url": "https://discordpfp.gg/images/pfp/sonic-the-hedgehog/sonic-the-hedgehog-pfp-sonic-headban--sonic-the-hedgehog-headband-surprised.webp?d=full",
+      "path": "icones/sonic-the-hedgehog-headband-surprised.png",
+      "bytes": 727445,
+      "sha256": "022fee61fbf3d348a0cbc6a7d729ba7e561a4dd889b5e6f9ad0bced343c5aa7e",
+      "gitSha": "a317987b92c8cd36f932e495d0a5e54a2e9e4f5f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Happy Tom",
+      "source": "https://discordpfp.gg/pfp/happy-tom-tom-and-jerry",
+      "url": "https://discordpfp.gg/images/pfp/tom/tom-pfp-happy-tom--happy-tom-tom-and-jerry.webp?d=full",
+      "path": "icones/happy-tom-tom-and-jerry.png",
+      "bytes": 515491,
+      "sha256": "4810957735a30a7d0e759a9be9a8a8e5d3df23c13a753d08bbe6151dd1ccee86",
+      "gitSha": "b1ce92f600a00047ee9102b9e78333f9ccf7ae4a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tupac Formal",
+      "source": "https://discordpfp.gg/pfp/tupac-shakur-formal-glasses-hand-sign",
+      "url": "https://discordpfp.gg/images/pfp/rapper/rapper-pfp-tupac-formal--tupac-shakur-formal-glasses-hand-sign.webp?d=full",
+      "path": "icones/tupac-shakur-formal-glasses-hand-sign.png",
+      "bytes": 525307,
+      "sha256": "5849490db2442f0faea21f4ba3b1025e51c2e988e6936f9e5c9282becfe5a3a2",
+      "gitSha": "97693cda223e10e83916678cc867570060686682"
+    },
+    {
+      "kind": "avatar",
+      "name": "Puss in Boots",
+      "source": "https://discordpfp.gg/pfp/puss-in-boots-holding-glass",
+      "url": "https://discordpfp.gg/images/pfp/puss-in-boots/puss-in-boots-pfp-puss-in-boots--puss-in-boots-holding-glass.webp?d=full",
+      "path": "icones/puss-in-boots-holding-glass.png",
+      "bytes": 921931,
+      "sha256": "3f1d86f308257cc73ab50bb126a8518aff1e4ecafa389fb9422a0ce67d306cfd",
+      "gitSha": "93da768667fc494f7e4ed486bad9be7ff79d86f6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Chrollo Suit",
+      "source": "https://discordpfp.gg/pfp/chrollo-lucilfer-dark-suit-hunter-x-hunter",
+      "url": "https://discordpfp.gg/images/pfp/chrollo-lucilfer/chrollo-lucilfer-pfp-chrollo-suit--chrollo-lucilfer-dark-suit-hunter-x-hunter.webp?d=full",
+      "path": "icones/chrollo-lucilfer-dark-suit-hunter-x-hunter.png",
+      "bytes": 538937,
+      "sha256": "a3952251d4f085ad1d8f579e18f04c92287c21c9cbc9d0072c80388e0fc6c2ed",
+      "gitSha": "623e7598d44d9cf62cfabc7c02c6751cb796f55d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Luffy Grin",
+      "source": "https://discordpfp.gg/pfp/monkey-d-luffy-straw-hat-grin",
+      "url": "https://discordpfp.gg/images/pfp/monkey-d-luffy/monkey-d-luffy-pfp-luffy-grin--monkey-d-luffy-straw-hat-grin.webp?d=full",
+      "path": "icones/monkey-d-luffy-straw-hat-grin.png",
+      "bytes": 966965,
+      "sha256": "4d335a284480044cd0e7b2f0e8281a7bf3f19933cc28e626cb284bcee587db97",
+      "gitSha": "bca73d57765e40d7ef0ff4e6d1eb8c05bab38ba8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Curly Smirk",
+      "source": "https://discordpfp.gg/pfp/young-woman-dark-curly-hair-vintage-dress",
+      "url": "https://discordpfp.gg/images/pfp/young-woman/young-woman-pfp-curly-smirk--young-woman-dark-curly-hair-vintage-dress.webp?d=full",
+      "path": "icones/young-woman-dark-curly-hair-vintage-dress.png",
+      "bytes": 661689,
+      "sha256": "32252615ed1e3177b81f4b159406d221b522679308fd00cf068085409fe52b90",
+      "gitSha": "66c005f3839f882794dc6713508078daeef3ac0b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Killua Tux",
+      "source": "https://discordpfp.gg/pfp/killua-zoldyck-tuxedo-hunter-x-hunter",
+      "url": "https://discordpfp.gg/images/pfp/hunter-x-hunter/hunter-x-hunter-pfp-killua-tux--killua-zoldyck-tuxedo-hunter-x-hunter.webp?d=full",
+      "path": "icones/killua-zoldyck-tuxedo-hunter-x-hunter.png",
+      "bytes": 792395,
+      "sha256": "b9ebf33d48a10e1f1a262eec65cd6b380fb859a68a6ab25549817a4a2a99f3e0",
+      "gitSha": "b2e5c30ecc4e1f2e344eb1c15a795aa8b8b38c0b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Wavy Hair",
+      "source": "https://discordpfp.gg/pfp/young-woman-wavy-dark-hair-indoor",
+      "url": "https://discordpfp.gg/images/pfp/young-woman/young-woman-pfp-wavy-hair--young-woman-wavy-dark-hair-indoor.webp?d=full",
+      "path": "icones/young-woman-wavy-dark-hair-indoor.png",
+      "bytes": 502705,
+      "sha256": "e3c94983e29cf72884f72d3496dc545ca0d824facb51ecd7bdcbccbd7a1c1c13",
+      "gitSha": "82d4a9b7996ca28dabc3f28a54d6fa841315c9cb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Gaze",
+      "source": "https://discordpfp.gg/pfp/dark-haired-man-dim-lighting",
+      "url": "https://discordpfp.gg/images/pfp/dark-hair/dark-hair-pfp-dark-gaze--dark-haired-man-dim-lighting.webp?d=full",
+      "path": "icones/dark-haired-man-dim-lighting.png",
+      "bytes": 622211,
+      "sha256": "6c7f22c863702e0b4d3ae7414df06cedf55cf80558028753496eaebd80f97e4b",
+      "gitSha": "95cb0cfe00bd1bb9ada436228f6f4f0c07278844"
+    },
+    {
+      "kind": "avatar",
+      "name": "How To Train",
+      "source": "https://discordpfp.gg/pfp/toothless-how-to-train-your-dragon-night-fury",
+      "url": "https://discordpfp.gg/images/pfp/toothless/toothless-pfp-how-to-train--toothless-how-to-train-your-dragon-night-fury.webp?d=full",
+      "path": "icones/toothless-how-to-train-your-dragon-night-fury.png",
+      "bytes": 746852,
+      "sha256": "feff2aef57a3099067041883c91e1b46d3a54d4c67a0bdb75c69471e756fd269",
+      "gitSha": "e54ff17ae68da7af017d3819ccbce78b26e71c4e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Nick Wilde",
+      "source": "https://discordpfp.gg/pfp/nick-wilde-zootopia-police-uniform-wink",
+      "url": "https://discordpfp.gg/images/pfp/nick-wilde/nick-wilde-pfp-nick-wilde--nick-wilde-zootopia-police-uniform-wink.webp?d=full",
+      "path": "icones/nick-wilde-zootopia-police-uniform-wink.png",
+      "bytes": 1123296,
+      "sha256": "2a749b494fd90a5b2733dccd26baaf324dbc4f6117ea89e51c698977b95537bc",
+      "gitSha": "35a8604fd8d7312cfb6ad840525574d07e5ccbc9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Sonic",
+      "source": "https://discordpfp.gg/pfp/sonic-the-hedgehog-sunglasses-finger-guns",
+      "url": "https://discordpfp.gg/images/pfp/sonic-the-hedgehog/sonic-the-hedgehog-pfp-cool-sonic--sonic-the-hedgehog-sunglasses-finger-guns.webp?d=full",
+      "path": "icones/sonic-the-hedgehog-sunglasses-finger-guns.png",
+      "bytes": 910422,
+      "sha256": "f10db3263d4293844eb473d322676940da5c0c05dce5c5db4c9f53b6b92d1e22",
+      "gitSha": "3331a10b9d6e1331f1bbefa26036aefa157d722e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sox Cap Shade",
+      "source": "https://discordpfp.gg/pfp/man-sox-cap-sunglasses-striped-polo",
+      "url": "https://discordpfp.gg/images/pfp/sunglasses/sunglasses-pfp-sox-cap-shade--man-sox-cap-sunglasses-striped-polo.webp?d=full",
+      "path": "icones/man-sox-cap-sunglasses-striped-polo.png",
+      "bytes": 1149196,
+      "sha256": "c7a0f245323ab880315cfdc38453465b11683f35595d6a3d7201daa664cf5342",
+      "gitSha": "02966e4d36a7bd754a77e5d5baf5fad8c8dab833"
+    },
+    {
+      "kind": "avatar",
+      "name": "Chrollo Book",
+      "source": "https://discordpfp.gg/pfp/chrollo-lucilfer-hunter-x-hunter-book-suit",
+      "url": "https://discordpfp.gg/images/pfp/hunter-x-hunter/hunter-x-hunter-pfp-chrollo-book--chrollo-lucilfer-hunter-x-hunter-book-suit.webp?d=full",
+      "path": "icones/chrollo-lucilfer-hunter-x-hunter-book-suit.png",
+      "bytes": 553363,
+      "sha256": "981c4d4d582b3f224f422703e72fbf2f2737ef4802bedfd01ffe6a0dfaa31c93",
+      "gitSha": "d8246341a865974a0453cbed2c2d6219c5ac877e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Eminem White",
+      "source": "https://discordpfp.gg/pfp/eminem-white-cap-hoodie",
+      "url": "https://discordpfp.gg/images/pfp/rapper/rapper-pfp-eminem-white--eminem-white-cap-hoodie.webp?d=full",
+      "path": "icones/eminem-white-cap-hoodie.png",
+      "bytes": 556380,
+      "sha256": "79efab408e4a1bee6e3cbea82cda282b256778a361bb0a7a759b2dcd75e25b9b",
+      "gitSha": "a94c0d133f3f2c8873516fdaf6c6eedb2e97ef8a"
+    },
+    {
+      "kind": "avatar",
+      "name": "How To Train",
+      "source": "https://discordpfp.gg/pfp/toothless-how-to-train-your-dragon-black-dragon",
+      "url": "https://discordpfp.gg/images/pfp/toothless/toothless-pfp-how-to-train--toothless-how-to-train-your-dragon-black-dragon.webp?d=full",
+      "path": "icones/toothless-how-to-train-your-dragon-black-dragon.png",
+      "bytes": 893438,
+      "sha256": "7684b78f77d4ca9682077c10c9f93f92327e2004babfd7e7f140c2a40638327e",
+      "gitSha": "105dbe0525db481d8bb5091cb657ed02d91383bc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Warm Blonde",
+      "source": "https://discordpfp.gg/pfp/warm-blonde-low-light-portrait",
+      "url": "https://discordpfp.gg/images/pfp/blonde-woman/blonde-woman-pfp-warm-blonde--warm-blonde-low-light-portrait.webp?d=full",
+      "path": "icones/warm-blonde-low-light-portrait.png",
+      "bytes": 737290,
+      "sha256": "d1c8da406ebbdacfdec89e27ccb775113a17eff81d95091e0774312e8b807c48",
+      "gitSha": "b1286fa091fa945719224f34fbc7eba386ee4c38"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Glam",
+      "source": "https://discordpfp.gg/pfp/dark-glam-woman-black-dress",
+      "url": "https://discordpfp.gg/images/pfp/young-woman/young-woman-pfp-dark-glam--dark-glam-woman-black-dress.webp?d=full",
+      "path": "icones/dark-glam-woman-black-dress.png",
+      "bytes": 772695,
+      "sha256": "c8e564c1fb48511c44fd803268b5d25b4c7372fbf8aa17baf35d7765d43d2e68",
+      "gitSha": "b5a16dea02c36d1eac0641fc7a7d9012b0025d64"
+    },
+    {
+      "kind": "avatar",
+      "name": "Killua Gaze",
+      "source": "https://discordpfp.gg/pfp/killua-zoldyck-shadowed-anime-closeup",
+      "url": "https://discordpfp.gg/images/pfp/hunter-x-hunter/hunter-x-hunter-pfp-killua-gaze--killua-zoldyck-shadowed-anime-closeup.webp?d=full",
+      "path": "icones/killua-zoldyck-shadowed-anime-closeup.png",
+      "bytes": 844223,
+      "sha256": "dccc877884b0fd638df71a9988374581f18abb48a5e5e4bd11fe5a09a21000c2",
+      "gitSha": "2f574595c37b3a34342778a4f5bcf99ea686a782"
+    },
+    {
+      "kind": "avatar",
+      "name": "White Suit",
+      "source": "https://discordpfp.gg/pfp/man-in-white-suit-sunglasses-cigarette",
+      "url": "https://discordpfp.gg/images/pfp/white-suit/white-suit-pfp-white-suit--man-in-white-suit-sunglasses-cigarette.webp?d=full",
+      "path": "icones/man-in-white-suit-sunglasses-cigarette.png",
+      "bytes": 908779,
+      "sha256": "5f2d47935b3f731f3f9047757d7e2202936b937ce76192347dd4fd07a537a026",
+      "gitSha": "78d9d03c8622b245f9c2e419775c901bf196dc66"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tengen Uzui",
+      "source": "https://discordpfp.gg/pfp/tengen-uzui-demon-slayer-blindfold-smile",
+      "url": "https://discordpfp.gg/images/pfp/tengen-uzui/tengen-uzui-pfp-tengen-uzui--tengen-uzui-demon-slayer-blindfold-smile.webp?d=full",
+      "path": "icones/tengen-uzui-demon-slayer-blindfold-smile.png",
+      "bytes": 831355,
+      "sha256": "26fc27d063ed5cf22bf4d1ee9384ae60380f3d6dbf6f5563ba7be1a27e2068db",
+      "gitSha": "e94aee16c0af4fde9dc954e5275dbbdafe6217f2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Luffy Grin",
+      "source": "https://discordpfp.gg/pfp/monkey-d-luffy-wide-grin-red-robe",
+      "url": "https://discordpfp.gg/images/pfp/one-piece/one-piece-pfp-luffy-grin--monkey-d-luffy-wide-grin-red-robe.webp?d=full",
+      "path": "icones/monkey-d-luffy-wide-grin-red-robe.png",
+      "bytes": 569249,
+      "sha256": "c8368b65ddba7e35a63f18c655cd8e901764a8a29489db765fe77065aa42c6b8",
+      "gitSha": "6f73e34b49a4a3c4a1dc5abe48a57ddb20b6fc99"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blue lit Man",
+      "source": "https://discordpfp.gg/pfp/blue-lit-man-necklaces",
+      "url": "https://discordpfp.gg/images/pfp/young-man/young-man-pfp-blue-lit-man--blue-lit-man-necklaces.webp?d=full",
+      "path": "icones/blue-lit-man-necklaces.png",
+      "bytes": 991032,
+      "sha256": "e7bbe70033ba6a73bc0232b94fa0d2514cd72a998fffb2736d6a142cf2da53da",
+      "gitSha": "6ece18c6e13d80d2764c1135ff2ba6db8045388b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Neon Gaze",
+      "source": "https://discordpfp.gg/pfp/woman-neon-sign-dark-portrait",
+      "url": "https://discordpfp.gg/images/pfp/dark-portrait/dark-portrait-pfp-neon-gaze--woman-neon-sign-dark-portrait.webp?d=full",
+      "path": "icones/woman-neon-sign-dark-portrait.png",
+      "bytes": 733024,
+      "sha256": "c0bd0ed35ad8efe61a198d71756722767e6c8459e6708bc361dbea860470b846",
+      "gitSha": "586f01993027bf837428144385d32ca174cb2da6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Suit",
+      "source": "https://discordpfp.gg/pfp/young-man-dark-suit-warm-lighting",
+      "url": "https://discordpfp.gg/images/pfp/young-man/young-man-pfp-dark-suit--young-man-dark-suit-warm-lighting.webp?d=full",
+      "path": "icones/young-man-dark-suit-warm-lighting.png",
+      "bytes": 377784,
+      "sha256": "b4d7b696c117319f77738e5271c84015ef8e42fa2c618b01eaa463c398da33db",
+      "gitSha": "828bbf19cea9293450e46bb89f559d65787a8d31"
+    },
+    {
+      "kind": "avatar",
+      "name": "Noir Suit",
+      "source": "https://discordpfp.gg/pfp/man-in-suit-under-umbrella-noir",
+      "url": "https://discordpfp.gg/images/pfp/black-suit/black-suit-pfp-noir-suit--man-in-suit-under-umbrella-noir.webp?d=full",
+      "path": "icones/man-in-suit-under-umbrella-noir.png",
+      "bytes": 687434,
+      "sha256": "f25891a884d5b3187b6ffea545110ac30e3ec3dfc7a59e7b51df2e1334a35b62",
+      "gitSha": "bf30419dde2311016e332bce3e9ac2e56263da32"
+    },
+    {
+      "kind": "avatar",
+      "name": "Eazy E Mono",
+      "source": "https://discordpfp.gg/pfp/eazy-e-compton-cap-monochrome",
+      "url": "https://discordpfp.gg/images/pfp/rapper/rapper-pfp-eazy-e-mono--eazy-e-compton-cap-monochrome.webp?d=full",
+      "path": "icones/eazy-e-compton-cap-monochrome.png",
+      "bytes": 311525,
+      "sha256": "429303df76febf7a922310bc0bfe0a259bb8b5add00490d8f4f85c97cae89df4",
+      "gitSha": "ff590ab313812830128c48148eeb708a1d6b33ef"
+    },
+    {
+      "kind": "avatar",
+      "name": "How To Train",
+      "source": "https://discordpfp.gg/pfp/toothless-how-to-train-your-dragon-flying-in",
+      "url": "https://discordpfp.gg/images/pfp/toothless/toothless-pfp-how-to-train--toothless-how-to-train-your-dragon-flying-in.webp?d=full",
+      "path": "icones/toothless-how-to-train-your-dragon-flying-in.png",
+      "bytes": 802329,
+      "sha256": "d0f7c3fbb7f12f7405df210465a08f7ba8cf744a60077ed72cd149a2af7c2df3",
+      "gitSha": "b253b27cb2565e69fcb0d62b13e9df7b07c0da76"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sonic Shades",
+      "source": "https://discordpfp.gg/pfp/sonic-the-hedgehog-with-sunglasses-thumbsup",
+      "url": "https://discordpfp.gg/images/pfp/sonic-the-hedgehog/sonic-the-hedgehog-pfp-sonic-shades--sonic-the-hedgehog-with-sunglasses-thumbsup.webp?d=full",
+      "path": "icones/sonic-the-hedgehog-with-sunglasses-thumbsup.png",
+      "bytes": 993973,
+      "sha256": "5dd1ace5ad20e3de92439aa2563531a23fda6b8251bb9ecc032bc41ad838b5ff",
+      "gitSha": "5b9c5c0ac049e82044275eb89b8069a24a2f46ff"
+    },
+    {
+      "kind": "avatar",
+      "name": "Monochrome Gl",
+      "source": "https://discordpfp.gg/pfp/black-and-white-glam-woman-with-fur",
+      "url": "https://discordpfp.gg/images/pfp/glamour/glamour-pfp-monochrome-gl--black-and-white-glam-woman-with-fur.webp?d=full",
+      "path": "icones/black-and-white-glam-woman-with-fur.png",
+      "bytes": 558404,
+      "sha256": "5ca20ef8d02e69b169c6036aee112142f9ed9012b10d6e9e0d24d992174f148c",
+      "gitSha": "9a302eeab3c92d8eee706d97f33dc1ea0ac41082"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Sonic",
+      "source": "https://discordpfp.gg/pfp/dark-sonic-electric-glow",
+      "url": "https://discordpfp.gg/images/pfp/sonic-the-hedgehog/sonic-the-hedgehog-pfp-dark-sonic--dark-sonic-electric-glow.webp?d=full",
+      "path": "icones/dark-sonic-electric-glow.png",
+      "bytes": 856475,
+      "sha256": "936164d183f5ba98db9e0a5be3ea2e9d90e4cad960c85df58d7fa2f2a27d11b1",
+      "gitSha": "59ea88762ace2908e1265e6f2d0b5f29d0de8838"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fanged Gaze",
+      "source": "https://discordpfp.gg/pfp/fanged-gaze-young-man",
+      "url": "https://discordpfp.gg/images/pfp/wavy-brown-hair/wavy-brown-hair-pfp-fanged-gaze--fanged-gaze-young-man.webp?d=full",
+      "path": "icones/fanged-gaze-young-man.png",
+      "bytes": 1097955,
+      "sha256": "91da1e36db4bf285687454ab191b6db8da36017dcf3f00c87d6978057f0b4e52",
+      "gitSha": "4b11e1f43438bb1b17eb529a266fbfc1de4080ea"
+    },
+    {
+      "kind": "avatar",
+      "name": "Charged Sonic",
+      "source": "https://discordpfp.gg/pfp/sonic-the-hedgehog-blue-lightning-fist",
+      "url": "https://discordpfp.gg/images/pfp/sonic-the-hedgehog/sonic-the-hedgehog-pfp-charged-sonic--sonic-the-hedgehog-blue-lightning-fist.webp?d=full",
+      "path": "icones/sonic-the-hedgehog-blue-lightning-fist.png",
+      "bytes": 1018586,
+      "sha256": "0191bf7bf38f66b6235f6c6514a16302abebebce7c05b0c9374a692e31c3cd20",
+      "gitSha": "453e3c85c4e40e5d425c9820565c38211dd457dd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Glam",
+      "source": "https://discordpfp.gg/pfp/dark-glam-woman-hoop-earrings",
+      "url": "https://discordpfp.gg/images/pfp/dark-glam/dark-glam-pfp-dark-glam--dark-glam-woman-hoop-earrings.webp?d=full",
+      "path": "icones/dark-glam-woman-hoop-earrings.png",
+      "bytes": 787258,
+      "sha256": "d032590b7e4237eb0ee912a56bb3798dff39bf225e8a9a7c317cd1b72d325c47",
+      "gitSha": "c40c0fa69125c1ed223b6ced417c499d918e34c8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fuzzy Cowgirl",
+      "source": "https://discordpfp.gg/pfp/fuzzy-cowgirl-wink",
+      "url": "https://discordpfp.gg/images/pfp/cowboy-hat/cowboy-hat-pfp-fuzzy-cowgirl--fuzzy-cowgirl-wink.webp?d=full",
+      "path": "icones/fuzzy-cowgirl-wink.png",
+      "bytes": 763219,
+      "sha256": "531b65dc46047155d3ff34c6d01b3f3dcc6562daf543e90a25b7335dc11e2fd9",
+      "gitSha": "163834e974c06f7f86c4331cfc4e336add7e0f16"
+    },
+    {
+      "kind": "avatar",
+      "name": "Neymar Suit",
+      "source": "https://discordpfp.gg/pfp/neymar-black-suit-red-carpet",
+      "url": "https://discordpfp.gg/images/pfp/celebrity/celebrity-pfp-neymar-suit--neymar-black-suit-red-carpet.webp?d=full",
+      "path": "icones/neymar-black-suit-red-carpet.png",
+      "bytes": 527010,
+      "sha256": "38e74fe812e9c0ff1403e3e7694b0f6a4e5d9bdf1c6002824b33e75be782d88d",
+      "gitSha": "ae9185fd8d57918084efceb6d84d21512db434e8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Madrid Boxer",
+      "source": "https://discordpfp.gg/pfp/real-madrid-player-boxing-pose",
+      "url": "https://discordpfp.gg/images/pfp/real-madrid/real-madrid-pfp-madrid-boxer--real-madrid-player-boxing-pose.webp?d=full",
+      "path": "icones/real-madrid-player-boxing-pose.png",
+      "bytes": 1131963,
+      "sha256": "7164f6af5001b9ef63bb3da057b11954d555dbb7307ef97fb1018876902305e2",
+      "gitSha": "52e208768de332464a880ea120024c59c6d2b846"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ronaldo 2017",
+      "source": "https://discordpfp.gg/pfp/cristiano-ronaldo-real-madrid-purple-jersey",
+      "url": "https://discordpfp.gg/images/pfp/cristiano-ronaldo/cristiano-ronaldo-pfp-ronaldo-2017--cristiano-ronaldo-real-madrid-purple-jersey.webp?d=full",
+      "path": "icones/cristiano-ronaldo-real-madrid-purple-jersey.png",
+      "bytes": 739096,
+      "sha256": "50ae467076b2ba54285e5650eb93288638a56e97f4be1086b8ae43c2b47d713a",
+      "gitSha": "587e3860a937775e117c2470d3b938e522f21b37"
+    },
+    {
+      "kind": "avatar",
+      "name": "Harry Potter",
+      "source": "https://discordpfp.gg/pfp/harry-potter-wand-glasses-robe",
+      "url": "https://discordpfp.gg/images/pfp/harry-potter/harry-potter-pfp-harry-potter--harry-potter-wand-glasses-robe.webp?d=full",
+      "path": "icones/harry-potter-wand-glasses-robe.png",
+      "bytes": 850176,
+      "sha256": "c5a10e4edc86614d128095a86a1106b5a14d4774cb0aefc431f90831151d5201",
+      "gitSha": "c35cfe9396e7b28f544f055c2c245e0d9b79ed92"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blue Mouse",
+      "source": "https://discordpfp.gg/pfp/blue-haired-mouse-ear-anime-girl",
+      "url": "https://discordpfp.gg/images/pfp/bear/bear-pfp-blue-mouse--blue-haired-mouse-ear-anime-girl.webp?d=full",
+      "path": "icones/blue-haired-mouse-ear-anime-girl.png",
+      "bytes": 669332,
+      "sha256": "12f693be25c8c8c4ffe1568d677ad8dc08f67949c119ffadcd2a3715456fdc4e",
+      "gitSha": "1fab486869acaf442272d0bccbf688a5e0263f71"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blue Bear Eri",
+      "source": "https://discordpfp.gg/pfp/blue-haired-bear-ears-anime-girl",
+      "url": "https://discordpfp.gg/images/pfp/bear/bear-pfp-blue-bear-eri--blue-haired-bear-ears-anime-girl.gif?d=full",
+      "path": "icones/blue-haired-bear-ears-anime-girl.webp",
+      "bytes": 499584,
+      "sha256": "3452e006824c8acf9f776b39fab8f770d0ebe42251a72173824ff78de05f53ef",
+      "gitSha": "8a5be24b2f304dbcab41d8f3199844325822d34a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fog Smoker",
+      "source": "https://discordpfp.gg/pfp/fog-smoker-side-profile-foggy-blue",
+      "url": "https://discordpfp.gg/images/pfp/side-profile/side-profile-pfp-fog-smoker--fog-smoker-side-profile-foggy-blue.webp?d=full",
+      "path": "icones/fog-smoker-side-profile-foggy-blue.png",
+      "bytes": 349159,
+      "sha256": "d434930d6d02c4362c339bdefc2b4a1003bbad1433ce6dc7efbb8fbd4a9d6fbc",
+      "gitSha": "b79c31f346594ced84583f36d2cea9f797977c75"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sorry Texts",
+      "source": "https://discordpfp.gg/pfp/sorry-text-message-meme",
+      "url": "https://discordpfp.gg/images/pfp/text-message/text-message-pfp-sorry-texts--sorry-text-message-meme.webp?d=full",
+      "path": "icones/sorry-text-message-meme.png",
+      "bytes": 994993,
+      "sha256": "2e12bc065afb865e2a39f723ea8ec08a79023cfb05e68e18c8007abb79585f28",
+      "gitSha": "f559fde9704036f9829c8f16ba24744fcb7898b9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Apology Chat",
+      "source": "https://discordpfp.gg/pfp/dark-theme-apology-text-chat",
+      "url": "https://discordpfp.gg/images/pfp/text-conversation/text-conversation-pfp-apology-chat--dark-theme-apology-text-chat.webp?d=full",
+      "path": "icones/dark-theme-apology-text-chat.png",
+      "bytes": 423841,
+      "sha256": "008846e0c613efd4b212c2550e0e5dbbc56a8aa6102a4de283ee41e97456d170",
+      "gitSha": "c4a17e642b15e563297e02b7dfdc33db60a6bbfa"
+    },
+    {
+      "kind": "avatar",
+      "name": "POV Sunset",
+      "source": "https://discordpfp.gg/pfp/pov-sunset-lake-text-meme",
+      "url": "https://discordpfp.gg/images/pfp/sunset/sunset-pfp-pov-sunset--pov-sunset-lake-text-meme.webp?d=full",
+      "path": "icones/pov-sunset-lake-text-meme.png",
+      "bytes": 957765,
+      "sha256": "d3e475fc15fc65f388738c187462896b0d3ffe2a0c28bc597f50711dd94f1de0",
+      "gitSha": "54642e9cc56e673d2121e664f1b6906c7ad072bd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Petal Gaze",
+      "source": "https://discordpfp.gg/pfp/anime-girl-side-profile-petals",
+      "url": "https://discordpfp.gg/images/pfp/anime-girl/anime-girl-pfp-petal-gaze--anime-girl-side-profile-petals.webp?d=full",
+      "path": "icones/anime-girl-side-profile-petals.png",
+      "bytes": 732360,
+      "sha256": "21ed23ad01d7f9a85d87b834adb6c399719d5535ca919c51bb507cbf6bd9806e",
+      "gitSha": "05a52c1b0959645c6424e48400ac85765625fc56"
+    },
+    {
+      "kind": "avatar",
+      "name": "Coquette Flat",
+      "source": "https://discordpfp.gg/pfp/coquette-flatlay-pink-books-pearls",
+      "url": "https://discordpfp.gg/images/pfp/coquette/coquette-pfp-coquette-flat--coquette-flatlay-pink-books-pearls.gif?d=full",
+      "path": "icones/coquette-flatlay-pink-books-pearls.webp",
+      "bytes": 339244,
+      "sha256": "3e87a99de346b46d6255d93358da158376499fc76c222b30c243b22d2865f7e8",
+      "gitSha": "293018952fcae40caffea52e66ccb79e7960064d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Anime Girl",
+      "source": "https://discordpfp.gg/pfp/anime-girl-white-scarf-monochrome",
+      "url": "https://discordpfp.gg/images/pfp/gif/gif-pfp-anime-girl--anime-girl-white-scarf-monochrome.gif?d=full",
+      "path": "icones/anime-girl-white-scarf-monochrome.webp",
+      "bytes": 344192,
+      "sha256": "774f9989f1f0397249bc76c8e40036eaa39c47ca06bcbaf603920077cc92176d",
+      "gitSha": "d56b49724571546464ebd175347506d75105a73d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pink Sideview",
+      "source": "https://discordpfp.gg/pfp/pink-anime-girl-side-profile",
+      "url": "https://discordpfp.gg/images/pfp/gif/gif-pfp-pink-sideview--pink-anime-girl-side-profile.gif?d=full",
+      "path": "icones/pink-anime-girl-side-profile.webp",
+      "bytes": 368750,
+      "sha256": "769cc996760bf2c6ced7ecbda4ad3e7b85c6348f853958229a9d6893c7b27183",
+      "gitSha": "6fcfd6df8daeec0a95e81d7819a82171d22e6516"
+    },
+    {
+      "kind": "avatar",
+      "name": "Megumi Bow",
+      "source": "https://discordpfp.gg/pfp/megumi-fushiguro-pink-bow-bandage",
+      "url": "https://discordpfp.gg/images/pfp/megumi/megumi-pfp-megumi-bow--megumi-fushiguro-pink-bow-bandage.webp?d=full",
+      "path": "icones/megumi-fushiguro-pink-bow-bandage.png",
+      "bytes": 759534,
+      "sha256": "d8152bda49ae649513937a6473b9606b49ea6978193f316ec9083969d67b09c6",
+      "gitSha": "717b79f510c0a8e339fdbda4af2fe66cfc23ea90"
+    },
+    {
+      "kind": "avatar",
+      "name": "Red Eyed Sman",
+      "source": "https://discordpfp.gg/pfp/red-eyed-swordsman-dark-anime",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-red-eyed-sman--red-eyed-swordsman-dark-anime.webp?d=full",
+      "path": "icones/red-eyed-swordsman-dark-anime.png",
+      "bytes": 1070831,
+      "sha256": "7e9c5228904c34d71b3e55adcce54f7a4357ea41dcc8213b257919965be5493f",
+      "gitSha": "9c79685370bbf61c10b33f496dbd174a5940f24d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Loki Lockscrn",
+      "source": "https://discordpfp.gg/pfp/loki-marvel-horned-helmet-lockscreen",
+      "url": "https://discordpfp.gg/images/pfp/loki-marvel/loki-marvel-pfp-loki-lockscrn--loki-marvel-horned-helmet-lockscreen.webp?d=full",
+      "path": "icones/loki-marvel-horned-helmet-lockscreen.png",
+      "bytes": 999012,
+      "sha256": "72dc4e5f17b93a2c08b573d6ce797fde24b4e5fe6d179b969d17582f29b49c14",
+      "gitSha": "0dbb6b65b90be9482eb01afb4d7276c79a5ccb67"
+    },
+    {
+      "kind": "avatar",
+      "name": "Chibi Gojo",
+      "source": "https://discordpfp.gg/pfp/satoru-gojo-chibi-blindfold-sticker",
+      "url": "https://discordpfp.gg/images/pfp/satoru-gojo/satoru-gojo-pfp-chibi-gojo--satoru-gojo-chibi-blindfold-sticker.webp?d=full",
+      "path": "icones/satoru-gojo-chibi-blindfold-sticker.png",
+      "bytes": 275616,
+      "sha256": "e2cce9898189ded00c05e1c6c27e34f306ce80c7fc14b7a1c13525d260f8a337",
+      "gitSha": "4f4f9650e7553ccf631a91aea4b5523ef37b1021"
+    },
+    {
+      "kind": "avatar",
+      "name": "Kitten at PC",
+      "source": "https://discordpfp.gg/pfp/kitten-at-computer-with-spider-pendant",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-kitten-at-pc--kitten-at-computer-with-spider-pendant.webp?d=full",
+      "path": "icones/kitten-at-computer-with-spider-pendant.png",
+      "bytes": 831205,
+      "sha256": "a193f73c23e749f49998b45640414b69a435b1297d89745dd5338064b284f751",
+      "gitSha": "f98c13a043de9b6fbace5872d634850588af6bd3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Guitar Mood",
+      "source": "https://discordpfp.gg/pfp/black-and-white-electric-guitar-mood",
+      "url": "https://discordpfp.gg/images/pfp/electric-guitar/electric-guitar-pfp-guitar-mood--black-and-white-electric-guitar-mood.webp?d=full",
+      "path": "icones/black-and-white-electric-guitar-mood.png",
+      "bytes": 487084,
+      "sha256": "29479add30ca82f0effb19c067c3523149fce29290c47055f45e0717142bc07b",
+      "gitSha": "7e2633ed905686bcd75eb64633b460ebbe1e6a59"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hoodie Silhou",
+      "source": "https://discordpfp.gg/pfp/hooded-silhouette-city-building-black-and-white",
+      "url": "https://discordpfp.gg/images/pfp/hooded-silhouette/hooded-silhouette-pfp-hoodie-silhou--hooded-silhouette-city-building-black-and-white.webp?d=full",
+      "path": "icones/hooded-silhouette-city-building-black-and-white.png",
+      "bytes": 538577,
+      "sha256": "483a333ada2fe2e6d1aa0cbf1b08f2f7aaa3429e9f46312a6d2d45cd3bafc896",
+      "gitSha": "dfd68b10013a565b59294e08b3489876c9710553"
+    },
+    {
+      "kind": "avatar",
+      "name": "Beanie Plush",
+      "source": "https://discordpfp.gg/pfp/white-plush-dog-knit-bear-ear-beanie",
+      "url": "https://discordpfp.gg/images/pfp/plush-toy/plush-toy-pfp-beanie-plush--white-plush-dog-knit-bear-ear-beanie.webp?d=full",
+      "path": "icones/white-plush-dog-knit-bear-ear-beanie.png",
+      "bytes": 514460,
+      "sha256": "6d4c0dc0a7931b8432d18d9a748c3af2c53edda66869b3757c720c805a8bb6b2",
+      "gitSha": "e53d8d112a16012a2d6df0da7992fd5c80000d39"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Turtlene",
+      "source": "https://discordpfp.gg/pfp/dark-anime-boy-turtleneck-monochrome",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-dark-turtlene--dark-anime-boy-turtleneck-monochrome.webp?d=full",
+      "path": "icones/dark-anime-boy-turtleneck-monochrome.png",
+      "bytes": 340973,
+      "sha256": "7d16796b1fc69facfbe412163a2674d09e0e2b24124ff1f14e105970102a5a89",
+      "gitSha": "2eac642a7b1d69f09cfb8907fdb2aed1ef9f465a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Death Life",
+      "source": "https://discordpfp.gg/pfp/death-life-sakura-black-white-design",
+      "url": "https://discordpfp.gg/images/pfp/death-life/death-life-pfp-death-life--death-life-sakura-black-white-design.webp?d=full",
+      "path": "icones/death-life-sakura-black-white-design.png",
+      "bytes": 483305,
+      "sha256": "71768a517e5322921361169e915b8d96ee08c03e754f1c512b442d8d4fedca6f",
+      "gitSha": "f1f566b4381088dd7fae8387e9da46e19aa7aef7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hooded Figure",
+      "source": "https://discordpfp.gg/pfp/hooded-bandaged-manga-figure",
+      "url": "https://discordpfp.gg/images/pfp/hooded-figure/hooded-figure-pfp-hooded-figure--hooded-bandaged-manga-figure.webp?d=full",
+      "path": "icones/hooded-bandaged-manga-figure.png",
+      "bytes": 915295,
+      "sha256": "771f9e81affec79ce560443f9bf80b2d414105205ed0c822b34609df778f117a",
+      "gitSha": "ab9c4dfee6ce93dd527d88ccdddd71f861cf0d7e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snowy Sidegl",
+      "source": "https://discordpfp.gg/pfp/anime-male-snowy-night-side-profile",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-snowy-sidegl--anime-male-snowy-night-side-profile.webp?d=full",
+      "path": "icones/anime-male-snowy-night-side-profile.png",
+      "bytes": 707768,
+      "sha256": "bdf101a99525fe3023afd338e84294cc22a9cec3ba8503a491d487cd529998db",
+      "gitSha": "79533084781966272a08aa829e41aabd4bd96435"
+    },
+    {
+      "kind": "avatar",
+      "name": "Night Rider",
+      "source": "https://discordpfp.gg/pfp/night-sportbike-rider",
+      "url": "https://discordpfp.gg/images/pfp/motorcycle/motorcycle-pfp-night-rider--night-sportbike-rider.webp?d=full",
+      "path": "icones/night-sportbike-rider.png",
+      "bytes": 557327,
+      "sha256": "db89562a428263409e3fb32a56a7602895fba226c14511f069a8ea80bddf63bd",
+      "gitSha": "09bc7357a6e550fedec1363f2ad8afb4ae0221d8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Anime Male",
+      "source": "https://discordpfp.gg/pfp/anime-male-glove-turtleneck-smile",
+      "url": "https://discordpfp.gg/images/pfp/anime-male/anime-male-pfp-anime-male--anime-male-glove-turtleneck-smile.webp?d=full",
+      "path": "icones/anime-male-glove-turtleneck-smile.png",
+      "bytes": 481185,
+      "sha256": "d3c0c3a9861794e4577595ed922672874415ecf074ee6627769edff61f9f338b",
+      "gitSha": "8020dc27b2f4bc2c45f6f3b20acaa5e1b1de894f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dog Filter",
+      "source": "https://discordpfp.gg/pfp/person-with-glasses-dog-filter-selfie",
+      "url": "https://discordpfp.gg/images/pfp/dog-filter/dog-filter-pfp-dog-filter--person-with-glasses-dog-filter-selfie.webp?d=full",
+      "path": "icones/person-with-glasses-dog-filter-selfie.png",
+      "bytes": 1485672,
+      "sha256": "76bfd3af4a6633977649aec3f1e45e70d88ff0858cd0a41d7ee6f929fa8e7b52",
+      "gitSha": "edfa2c70238deeea4d4785fc91dd4580a3d84e14"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shadow Figure",
+      "source": "https://discordpfp.gg/pfp/shadow-figure-question-mark-monochrome",
+      "url": "https://discordpfp.gg/images/pfp/shadow-figure/shadow-figure-pfp-shadow-figure--shadow-figure-question-mark-monochrome.webp?d=full",
+      "path": "icones/shadow-figure-question-mark-monochrome.png",
+      "bytes": 342481,
+      "sha256": "dd79de90b7884f1bfd21d7ece7934018b1ab4923e84dc9736a24c1a763ca43a8",
+      "gitSha": "658efa89869ef3095ef2e51e8460b50874ed9edb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Masked Ninja",
+      "source": "https://discordpfp.gg/pfp/masked-ninja-red-sun",
+      "url": "https://discordpfp.gg/images/pfp/ninja/ninja-pfp-masked-ninja--masked-ninja-red-sun.webp?d=full",
+      "path": "icones/masked-ninja-red-sun.png",
+      "bytes": 447919,
+      "sha256": "5e1e32a772ad0b42fde775f38394f0cee60d4eea2ccab7f5fd47758cde0054c6",
+      "gitSha": "599ae5563ee488ea7998b2bab7a86056851af71f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Jabbawockeez",
+      "source": "https://discordpfp.gg/pfp/jabbawockeez-masked-dancer-arena",
+      "url": "https://discordpfp.gg/images/pfp/jabbawockeez-dancer/jabbawockeez-dancer-pfp-jabbawockeez--jabbawockeez-masked-dancer-arena.webp?d=full",
+      "path": "icones/jabbawockeez-masked-dancer-arena.png",
+      "bytes": 855294,
+      "sha256": "653dc82d248e5537d307fe613d592a36eed515f7b9055de4a39d33c187979ef7",
+      "gitSha": "f5114f97e643359db6ca601145ca436c82afa3f3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Silver Suit",
+      "source": "https://discordpfp.gg/pfp/silver-haired-anime-male-white-suit-glasses",
+      "url": "https://discordpfp.gg/images/pfp/anime-male/anime-male-pfp-silver-suit--silver-haired-anime-male-white-suit-glasses.webp?d=full",
+      "path": "icones/silver-haired-anime-male-white-suit-glasses.png",
+      "bytes": 635175,
+      "sha256": "647a2429e153fe727a6e373521e81dd6172d36d9039843e84893ecdec2b359ab",
+      "gitSha": "cbc7046812e3b18701aeadb7f87fb80dceb9e9b2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blurred Pair",
+      "source": "https://discordpfp.gg/pfp/blurred-pair-black-white-hillside",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-blurred-pair--blurred-pair-black-white-hillside.webp?d=full",
+      "path": "icones/blurred-pair-black-white-hillside.png",
+      "bytes": 305462,
+      "sha256": "b1a4e7fa2b78b358217cdc2b013bdc43e1980f4b3bc0c185c11812cb39cb88f2",
+      "gitSha": "00ac796d7757d8f74c712ef6f75a6bf491a81fab"
+    },
+    {
+      "kind": "avatar",
+      "name": "Monochrome G",
+      "source": "https://discordpfp.gg/pfp/monochrome-anime-male-resting-on-hand",
+      "url": "https://discordpfp.gg/images/pfp/monochrome/monochrome-pfp-monochrome-g--monochrome-anime-male-resting-on-hand.webp?d=full",
+      "path": "icones/monochrome-anime-male-resting-on-hand.png",
+      "bytes": 816401,
+      "sha256": "4c4f51ef1856406925189545149e026f0d97f63cd5bd631c1a6d9e6f0c35ab5e",
+      "gitSha": "77bb12a0a6685c6de056cc6f1306559f10415fd2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Night BMW",
+      "source": "https://discordpfp.gg/pfp/black-bmw-sedan-night-tunnel",
+      "url": "https://discordpfp.gg/images/pfp/bmw/bmw-pfp-night-bmw--black-bmw-sedan-night-tunnel.webp?d=full",
+      "path": "icones/black-bmw-sedan-night-tunnel.png",
+      "bytes": 1101111,
+      "sha256": "5911b5a6ce2305a5722bde81b96556875eaeb3a6e391d5453fb3a9976b6a03d8",
+      "gitSha": "b831d93a48859bb096fe74161d90fcd6dc416464"
+    },
+    {
+      "kind": "avatar",
+      "name": "Spidey Kitty",
+      "source": "https://discordpfp.gg/pfp/spiderman-hello-kitty-plush-crossover",
+      "url": "https://discordpfp.gg/images/pfp/spider-man/spider-man-pfp-spidey-kitty--spiderman-hello-kitty-plush-crossover.webp?d=full",
+      "path": "icones/spiderman-hello-kitty-plush-crossover.png",
+      "bytes": 1267059,
+      "sha256": "340edb218b319178e1f21fe9cf1c4415e01d7cd47562a152237909130dc07d1b",
+      "gitSha": "26b518775ad83a6ae0315fc7086d90d61e3e43e4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Cat",
+      "source": "https://discordpfp.gg/pfp/cool-cat-with-sunglasses",
+      "url": "https://discordpfp.gg/images/pfp/white-cat/white-cat-pfp-cool-cat--cool-cat-with-sunglasses.webp?d=full",
+      "path": "icones/cool-cat-with-sunglasses.png",
+      "bytes": 304692,
+      "sha256": "dd55012a27fc9ba1abd301cc87aed9428dd4ee94397198068bad627c36792bbf",
+      "gitSha": "d65570ece900d12891df52741b09bd035504e8e9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shadow Warden",
+      "source": "https://discordpfp.gg/pfp/shadow-masked-officer-blue-industrial",
+      "url": "https://discordpfp.gg/images/pfp/masked-figure/masked-figure-pfp-shadow-warden--shadow-masked-officer-blue-industrial.webp?d=full",
+      "path": "icones/shadow-masked-officer-blue-industrial.png",
+      "bytes": 877174,
+      "sha256": "9a700642ebecaee6862e2fb8d1d4a78abde78277c8cf7320ff8c3e6cf03912ce",
+      "gitSha": "bba2b7da653550cb34899ff0251de7e96d71311f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Storm Swords",
+      "source": "https://discordpfp.gg/pfp/anime-swordsman-stormy-field",
+      "url": "https://discordpfp.gg/images/pfp/swordsman/swordsman-pfp-storm-swords--anime-swordsman-stormy-field.webp?d=full",
+      "path": "icones/anime-swordsman-stormy-field.png",
+      "bytes": 1432537,
+      "sha256": "1ba49e25dbd613edd962374905b124dcbeb29b3091b08dd28899242b788f1e7f",
+      "gitSha": "712b14e71c54782af1136fa4535f5a835da032f1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Beach Silhout",
+      "source": "https://discordpfp.gg/pfp/blurred-silhouette-beach-sunset",
+      "url": "https://discordpfp.gg/images/pfp/beach-sunset/beach-sunset-pfp-beach-silhout--blurred-silhouette-beach-sunset.webp?d=full",
+      "path": "icones/blurred-silhouette-beach-sunset.png",
+      "bytes": 978997,
+      "sha256": "d9d02d7bdaa540232d36f23d58b22a612ad39a313d14c5b4686bf311c7891528",
+      "gitSha": "65b35faabe63e68540105fda65c25d7295b30de3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Moonlit Sedan",
+      "source": "https://discordpfp.gg/pfp/moonlit-white-sedan-night",
+      "url": "https://discordpfp.gg/images/pfp/white-sedan/white-sedan-pfp-moonlit-sedan--moonlit-white-sedan-night.webp?d=full",
+      "path": "icones/moonlit-white-sedan-night.png",
+      "bytes": 607438,
+      "sha256": "3b34911767680dfe14b772b5335f9a93e518db5e1fbf8308d5b9d5062998f6ea",
+      "gitSha": "323d1a90d21a35f3ea3a66604d34bc84d4b5c670"
+    },
+    {
+      "kind": "avatar",
+      "name": "Brooding Side",
+      "source": "https://discordpfp.gg/pfp/brooding-anime-side-profile-sketch",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-brooding-side--brooding-anime-side-profile-sketch.webp?d=full",
+      "path": "icones/brooding-anime-side-profile-sketch.png",
+      "bytes": 272060,
+      "sha256": "bf3ed8cf64de08b559fa06118658dd3a5b4357fcb09c49f84d99bf85274e2259",
+      "gitSha": "5ca954ae6147fa41b3898c7bb2b23f90eaa5cda4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Beach Silhou",
+      "source": "https://discordpfp.gg/pfp/side-profile-silhouette-by-ocean",
+      "url": "https://discordpfp.gg/images/pfp/silhouette/silhouette-pfp-beach-silhou--side-profile-silhouette-by-ocean.webp?d=full",
+      "path": "icones/side-profile-silhouette-by-ocean.png",
+      "bytes": 571751,
+      "sha256": "ccd047d12edfc304f918595b5d53c8704c099fe0410878f09f2b5ae25aaf2a9a",
+      "gitSha": "9472c165f1e4ee20f28caee9a923788f93b8d8a3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Street Car Sp",
+      "source": "https://discordpfp.gg/pfp/streetwear-between-supercars-f1-art",
+      "url": "https://discordpfp.gg/images/pfp/streetwear/streetwear-pfp-street-car-sp--streetwear-between-supercars-f1-art.webp?d=full",
+      "path": "icones/streetwear-between-supercars-f1-art.png",
+      "bytes": 1843842,
+      "sha256": "1f893a41cf77a74fc53d01c42dd4a0f2477ca75fd4c97adc7bbf98ffbdebb318",
+      "gitSha": "d39c44b8f9cd9e26f34f040dd966023bd9456712"
+    },
+    {
+      "kind": "avatar",
+      "name": "Selfie Young",
+      "source": "https://discordpfp.gg/pfp/black-white-side-profile-selfie",
+      "url": "https://discordpfp.gg/images/pfp/selfie/selfie-pfp-selfie-young--black-white-side-profile-selfie.webp?d=full",
+      "path": "icones/black-white-side-profile-selfie.png",
+      "bytes": 373124,
+      "sha256": "6a0f2fb0b934d3bd6d101ff6de106cf7598b028013c63bb644a64d2a91b1c335",
+      "gitSha": "3ca3954b8cf626fae68103d9963c9c3968a315b4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Moody Monoch",
+      "source": "https://discordpfp.gg/pfp/moody-monochrome-young-man-dark-shirt",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-moody-monoch--moody-monochrome-young-man-dark-shirt.webp?d=full",
+      "path": "icones/moody-monochrome-young-man-dark-shirt.png",
+      "bytes": 957543,
+      "sha256": "4dd55545d2c87f15636a1aac07280931ad2c70d2e8c2c28fae92206530a7eb13",
+      "gitSha": "00e71f17a986fc5df24068fe606273869d0b9682"
+    },
+    {
+      "kind": "avatar",
+      "name": "Guitar Hero",
+      "source": "https://discordpfp.gg/pfp/guitar-hero-grunge-white-guitar-controller",
+      "url": "https://discordpfp.gg/images/pfp/guitar-hero/guitar-hero-pfp-guitar-hero--guitar-hero-grunge-white-guitar-controller.webp?d=full",
+      "path": "icones/guitar-hero-grunge-white-guitar-controller.png",
+      "bytes": 569479,
+      "sha256": "506fa78859a27718d29f8519f2fc97b50baba88e126f3de726172c0b877a1a0c",
+      "gitSha": "0bf02ed9d4764d63a83b2509a7e2e8ad72bb9c30"
+    },
+    {
+      "kind": "avatar",
+      "name": "Night Vette",
+      "source": "https://discordpfp.gg/pfp/night-vette-white-corvette-black-and-white",
+      "url": "https://discordpfp.gg/images/pfp/corvette/corvette-pfp-night-vette--night-vette-white-corvette-black-and-white.webp?d=full",
+      "path": "icones/night-vette-white-corvette-black-and-white.png",
+      "bytes": 754210,
+      "sha256": "81e708436cc0038645d2874d3e521bdfd9db128f7b87a2d6768d116811ebf5d4",
+      "gitSha": "78a13cbd7886dcb76ea2b75649b2c46a9598f8e6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Goggle Silhou",
+      "source": "https://discordpfp.gg/pfp/goggle-silhouette-grunge-sketch",
+      "url": "https://discordpfp.gg/images/pfp/silhouette/silhouette-pfp-goggle-silhou--goggle-silhouette-grunge-sketch.webp?d=full",
+      "path": "icones/goggle-silhouette-grunge-sketch.png",
+      "bytes": 934854,
+      "sha256": "2d7854becd076aed20daba7b7f32c602f51cfc0bd07d3bada1f437b32f4387ec",
+      "gitSha": "870ed6f02a267ce552297b5bb424ca4b990d4fc2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Stair Sneaker",
+      "source": "https://discordpfp.gg/pfp/black-white-stairs-star-sneaker",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-stair-sneaker--black-white-stairs-star-sneaker.webp?d=full",
+      "path": "icones/black-white-stairs-star-sneaker.png",
+      "bytes": 386796,
+      "sha256": "5767a1803b015f2a21f999b6ae634f2307026f4389582d9110fd650108f2f534",
+      "gitSha": "9b2ab1cb7772b017c30220f967716176b4c18568"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ponytail Smk",
+      "source": "https://discordpfp.gg/pfp/monochrome-anime-ponytail-cigarette-side-profile",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-ponytail-smk--monochrome-anime-ponytail-cigarette-side-profile.webp?d=full",
+      "path": "icones/monochrome-anime-ponytail-cigarette-side-profile.png",
+      "bytes": 571352,
+      "sha256": "8d8432ba715930bd7dad44bdaedfeebb3b7fe92804bc05c50f039950b209b994",
+      "gitSha": "1c09faecb363dda75b5bbea5eea358c4c6cf1da8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cat Cuddle",
+      "source": "https://discordpfp.gg/pfp/anime-boy-holding-white-cat",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-cat-cuddle--anime-boy-holding-white-cat.webp?d=full",
+      "path": "icones/anime-boy-holding-white-cat.png",
+      "bytes": 507711,
+      "sha256": "f95b180a9d2237a9e37c6ad2c489a2d91019997d26f32363310d59e14a19334d",
+      "gitSha": "738793bfd8fd991c2cb1fa370e446b9b4fa086c2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sleepy Catboy",
+      "source": "https://discordpfp.gg/pfp/sleepy-catboy-black-hoodie",
+      "url": "https://discordpfp.gg/images/pfp/chibi/chibi-pfp-sleepy-catboy--sleepy-catboy-black-hoodie.webp?d=full",
+      "path": "icones/sleepy-catboy-black-hoodie.png",
+      "bytes": 320382,
+      "sha256": "d84006868a7f507473eadb5ba7f7ca25cc8c9500d7f81123da84fb4e786c6d84",
+      "gitSha": "fd1b32cf428922beedd248716ea84d0eae149378"
+    },
+    {
+      "kind": "avatar",
+      "name": "Winking Cat",
+      "source": "https://discordpfp.gg/pfp/winking-cat-sideways-mlb-cap",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-winking-cat--winking-cat-sideways-mlb-cap.webp?d=full",
+      "path": "icones/winking-cat-sideways-mlb-cap.png",
+      "bytes": 498904,
+      "sha256": "7a1ccdb8a768a9eb16749917a6810c58471eb89a893aec80f00d0af05af847c8",
+      "gitSha": "a5600072383b2f1fccb6687e143284259b2378b9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Us Energy",
+      "source": "https://discordpfp.gg/pfp/two-monster-energy-cans-us-text",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-us-energy--two-monster-energy-cans-us-text.webp?d=full",
+      "path": "icones/two-monster-energy-cans-us-text.png",
+      "bytes": 1557520,
+      "sha256": "0e1e5ab228dfead301c8ca2d9f0a1fa3f9b77f7b4904089e09d94f4ba4031522",
+      "gitSha": "abd2281c1997ed489028544c7dedb523570f6f50"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rhinestone Cc",
+      "source": "https://discordpfp.gg/pfp/rhinestone-monster-energy-cans",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-rhinestone-cc--rhinestone-monster-energy-cans.webp?d=full",
+      "path": "icones/rhinestone-monster-energy-cans.png",
+      "bytes": 2036301,
+      "sha256": "d072aa09b62eb1cf353e11afd3d9d6ebbc388a49bf8face2d8255e60bf58bfa9",
+      "gitSha": "985b2163a7f2e016d2602559c5089ad84975bcfa"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pink Monster",
+      "source": "https://discordpfp.gg/pfp/pink-monster-energy-cans",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-pink-monster--pink-monster-energy-cans.webp?d=full",
+      "path": "icones/pink-monster-energy-cans.png",
+      "bytes": 1670674,
+      "sha256": "ba529c28377ad1ca4ea4d988ccb031f9bd2f4c5ad1e9e8f9a712a27311cf67e0",
+      "gitSha": "0044e0345e54eb79ef566ac89e3911909aab4cfb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Claw",
+      "source": "https://discordpfp.gg/pfp/claw-grunge-white",
+      "url": "https://discordpfp.gg/images/pfp/grunge/grunge-pfp-claw--claw-grunge-white.webp?d=full",
+      "path": "icones/claw-grunge-white.png",
+      "bytes": 1285243,
+      "sha256": "5edb72224fad14af8a6a310e075c0713abe516ee49867b734a3a68b0bb68a976",
+      "gitSha": "d80b6b73b1653d17074f6e2be5155299bfd434c6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Monster Shelf",
+      "source": "https://discordpfp.gg/pfp/monster-energy-cans-store-shelf",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-monster-shelf--monster-energy-cans-store-shelf.webp?d=full",
+      "path": "icones/monster-energy-cans-store-shelf.png",
+      "bytes": 2234500,
+      "sha256": "8cce80f79edbefa9b7bf913dd9f1f0bdb68d8b4ff8dd6d96716711581287f895",
+      "gitSha": "ed6791c7ba8d89a0c9c10c5cbc0e2aafe5718642"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gory Bunny",
+      "source": "https://discordpfp.gg/pfp/gory-bunny-shadow-figure-doorway-pink-room",
+      "url": "https://discordpfp.gg/images/pfp/shadow-figure/shadow-figure-pfp-gory-bunny--gory-bunny-shadow-figure-doorway-pink-room.webp?d=full",
+      "path": "icones/gory-bunny-shadow-figure-doorway-pink-room.png",
+      "bytes": 880800,
+      "sha256": "6f606ef8a4e4eaf9aeebeb155eb87034bf00120390878a241d8166ec3a301ad0",
+      "gitSha": "f31f39b2e6c9bd4314fd02c7e0ec69bdf738adb9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Monster cans",
+      "source": "https://discordpfp.gg/pfp/white-monster-energy-cans-dark-aesthetic",
+      "url": "https://discordpfp.gg/images/pfp/monster-energy/monster-energy-pfp-monster-cans--white-monster-energy-cans-dark-aesthetic.webp?d=full",
+      "path": "icones/white-monster-energy-cans-dark-aesthetic.png",
+      "bytes": 1415830,
+      "sha256": "937cef6fb6f09fc6074de5c2b295ec107ff7c63697fd17af799b1d65a377c71e",
+      "gitSha": "246017d79be9d95f16654a17a812fd10869cc3ac"
+    },
+    {
+      "kind": "avatar",
+      "name": "Love Quote",
+      "source": "https://discordpfp.gg/pfp/black-text-love-quote-white-background",
+      "url": "https://discordpfp.gg/images/pfp/text-quote/text-quote-pfp-love-quote--black-text-love-quote-white-background.webp?d=full",
+      "path": "icones/black-text-love-quote-white-background.png",
+      "bytes": 190066,
+      "sha256": "c81899ac2898993de2c6f556d046067ce42c9e5ea050787766efe5ef77a8cea8",
+      "gitSha": "af21b903e10a9dd6d80f93095af29f76d1b2980c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Do Not Dist",
+      "source": "https://discordpfp.gg/pfp/do-not-disturb-warped-text",
+      "url": "https://discordpfp.gg/images/pfp/do-not-disturb/do-not-disturb-pfp-do-not-dist--do-not-disturb-warped-text.webp?d=full",
+      "path": "icones/do-not-disturb-warped-text.png",
+      "bytes": 302995,
+      "sha256": "3f1184410efd1a0964ef15ca73713210fb2b65b444b6d3048dae1f1c6d53df1e",
+      "gitSha": "fb5e1051879c0f069483cc8c5db860e964ad6f8e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Miss My Boy",
+      "source": "https://discordpfp.gg/pfp/i-miss-my-pretty-boy-text-meme",
+      "url": "https://discordpfp.gg/images/pfp/text-meme/text-meme-pfp-miss-my-boy--i-miss-my-pretty-boy-text-meme.webp?d=full",
+      "path": "icones/i-miss-my-pretty-boy-text-meme.png",
+      "bytes": 153966,
+      "sha256": "22619f11f82f41b746a6053b60e92aa7e98602a23fa48555ea7f2de2d1deeb28",
+      "gitSha": "dca64bbcf45b9396d7111fecd5bc0bbed2a3da29"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark textface",
+      "source": "https://discordpfp.gg/pfp/dark-low-light-selfie-text-overlay",
+      "url": "https://discordpfp.gg/images/pfp/low-light-selfie/low-light-selfie-pfp-dark-textface--dark-low-light-selfie-text-overlay.webp?d=full",
+      "path": "icones/dark-low-light-selfie-text-overlay.png",
+      "bytes": 246941,
+      "sha256": "d11675a670890649d7cee0b8479d429a159b09a7cf5fca2e585f918c46b55754",
+      "gitSha": "6da094f1854528f4ef741218edd925156bd72180"
+    },
+    {
+      "kind": "avatar",
+      "name": "Miss Him Text",
+      "source": "https://discordpfp.gg/pfp/damn-i-miss-him-text",
+      "url": "https://discordpfp.gg/images/pfp/text-quote/text-quote-pfp-miss-him-text--damn-i-miss-him-text.webp?d=full",
+      "path": "icones/damn-i-miss-him-text.png",
+      "bytes": 17627,
+      "sha256": "c0d4c883bfefeb1654535d7be23359aebcbc79be0aa5513b22d5ffc963faf1d5",
+      "gitSha": "506ecd887191dcad6c938a7c4d50eea92ea4b1f2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pink Maid",
+      "source": "https://discordpfp.gg/pfp/pink-maid-anime-girl",
+      "url": "https://discordpfp.gg/images/pfp/pink-hair/pink-hair-pfp-pink-maid--pink-maid-anime-girl.webp?d=full",
+      "path": "icones/pink-maid-anime-girl.png",
+      "bytes": 907490,
+      "sha256": "b43110620b68e4f85b9e1616b563f683eb949440deedde271f294244208f46f9",
+      "gitSha": "49cf7073535a01470cfe30d83184a0e2d949d791"
+    },
+    {
+      "kind": "avatar",
+      "name": "Patchwork Cat",
+      "source": "https://discordpfp.gg/pfp/patchwork-neon-cartoon-cat",
+      "url": "https://discordpfp.gg/images/pfp/cartoon-cat/cartoon-cat-pfp-patchwork-cat--patchwork-neon-cartoon-cat.webp?d=full",
+      "path": "icones/patchwork-neon-cartoon-cat.png",
+      "bytes": 1294773,
+      "sha256": "1898f600b6ba35d1cb717bfcec76a2e7920ae770af360f7024cbca714faf5e1f",
+      "gitSha": "70f81dd54534b7624b05b8710ea5fdea9dfdf85d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Creepy Pink",
+      "source": "https://discordpfp.gg/pfp/creepy-pink-twintail-anime-girl",
+      "url": "https://discordpfp.gg/images/pfp/pink-hair/pink-hair-pfp-creepy-pink--creepy-pink-twintail-anime-girl.webp?d=full",
+      "path": "icones/creepy-pink-twintail-anime-girl.png",
+      "bytes": 1373397,
+      "sha256": "f7905fe4b48a02c2c68b8681260942f4984ed8fb276efb85c86e38782c0c36a0",
+      "gitSha": "8848d6c7e0140407f96e0723ecf5463676aaf59c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Manga",
+      "source": "https://discordpfp.gg/pfp/blindfolded-manga-boy-black-hair",
+      "url": "https://discordpfp.gg/images/pfp/manga/manga-pfp-manga--blindfolded-manga-boy-black-hair.webp?d=full",
+      "path": "icones/blindfolded-manga-boy-black-hair.png",
+      "bytes": 429720,
+      "sha256": "0b6d9bbf74e0a02d5ac1ba00830178d3e7d6c9ae2c4bfa1be5fbc2b8399ef33d",
+      "gitSha": "bcd2da2accdabfb0b442ba4b25f2508897e2fc80"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dark Silhout",
+      "source": "https://discordpfp.gg/pfp/dark-side-profile-silhouette",
+      "url": "https://discordpfp.gg/images/pfp/silhouette/silhouette-pfp-dark-silhout--dark-side-profile-silhouette.webp?d=full",
+      "path": "icones/dark-side-profile-silhouette.png",
+      "bytes": 170020,
+      "sha256": "4f863bef480d86cfc5ae414e1c665578c2be26a6e78c8130393de150942e097a",
+      "gitSha": "6003284b9e8662c6c8079ec998f7a600dd0574fb"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pink Nurse",
+      "source": "https://discordpfp.gg/pfp/pink-anime-nurse-glasses",
+      "url": "https://discordpfp.gg/images/pfp/moe/moe-pfp-pink-nurse--pink-anime-nurse-glasses.webp?d=full",
+      "path": "icones/pink-anime-nurse-glasses.png",
+      "bytes": 955499,
+      "sha256": "7673b6574ec6456fbf01f373fe345ec0dcb33841ac8d821d7e3a62d3907fcbd4",
+      "gitSha": "1a0312c4a6fd9f9d7002cb96ef0acea950335b6e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blue Hair Emo",
+      "source": "https://discordpfp.gg/pfp/blue-hair-glasses-emo-selfie",
+      "url": "https://discordpfp.gg/images/pfp/visual-kei/visual-kei-pfp-blue-hair-emo--blue-hair-glasses-emo-selfie.webp?d=full",
+      "path": "icones/blue-hair-glasses-emo-selfie.png",
+      "bytes": 1073423,
+      "sha256": "a7cd086d6d3a931c7809335711f703cd7e2709d45bae9c8ea31b9d1ba34853c0",
+      "gitSha": "c9400b2052965ac1c50a8d9f45741586aa08f97d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pastel Twin T",
+      "source": "https://discordpfp.gg/pfp/pastel-anime-girl-twintails-glasses",
+      "url": "https://discordpfp.gg/images/pfp/fairy-kei-pfp/fairy-kei-pfp-pfp-pastel-twin-t--pastel-anime-girl-twintails-glasses.webp?d=full",
+      "path": "icones/pastel-anime-girl-twintails-glasses.png",
+      "bytes": 1180118,
+      "sha256": "24505d1e2795550556b39ef8ad5ff27f3442e1597baaa74f8197e9ff1baf4052",
+      "gitSha": "94ba22926c8b0e108bd9b2d2002802cfe44d3278"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Kid",
+      "source": "https://discordpfp.gg/pfp/child-in-black-suit-sunglasses",
+      "url": "https://discordpfp.gg/images/pfp/sunglasses/sunglasses-pfp-cool-kid--child-in-black-suit-sunglasses.webp?d=full",
+      "path": "icones/child-in-black-suit-sunglasses.png",
+      "bytes": 1095431,
+      "sha256": "4565070fac94e318ece89639f00055e8abe0f95b12e6f216a9a5d3682656cdac",
+      "gitSha": "cb4022b473c11cd346e2a2035fa156dcbfd46350"
+    },
+    {
+      "kind": "avatar",
+      "name": "Perry Tuxedo",
+      "source": "https://discordpfp.gg/pfp/perry-the-platypus-tuxedo-poker",
+      "url": "https://discordpfp.gg/images/pfp/perry-the-platypus/perry-the-platypus-pfp-perry-tuxedo--perry-the-platypus-tuxedo-poker.webp?d=full",
+      "path": "icones/perry-the-platypus-tuxedo-poker.png",
+      "bytes": 749224,
+      "sha256": "24cd45f9c88afd1d1dce0d178804ed87b7d27d26a1e48fd24faadf806d30de08",
+      "gitSha": "8be85f82afc5889eb21b153a065864cbe79f7c0b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Scrooge Gold",
+      "source": "https://discordpfp.gg/pfp/scrooge-mcduck-gold-coins-sunglasses-2",
+      "url": "https://discordpfp.gg/images/pfp/scrooge-mcduck/scrooge-mcduck-pfp-scrooge-gold--scrooge-mcduck-gold-coins-sunglasses-2.webp?d=full",
+      "path": "icones/scrooge-mcduck-gold-coins-sunglasses-2.png",
+      "bytes": 1180150,
+      "sha256": "72e65afcc1b25cdf9a1a362fc581a90a7b25586724cff47a59a5e4aa13fa7ec2",
+      "gitSha": "becf8cde80669aa8373f1f5fecae5a0dfdbdbe60"
+    },
+    {
+      "kind": "avatar",
+      "name": "Red Shades",
+      "source": "https://discordpfp.gg/pfp/red-sunglasses-checkered-cap-boy",
+      "url": "https://discordpfp.gg/images/pfp/red-sunglasses/red-sunglasses-pfp-red-shades--red-sunglasses-checkered-cap-boy.webp?d=full",
+      "path": "icones/red-sunglasses-checkered-cap-boy.png",
+      "bytes": 1040094,
+      "sha256": "91d96e965500882c97de2c1aa83c1d29a73aea06e2cd8c85e7f85337cb18ed32",
+      "gitSha": "9034e7732d0510f7724cc4bbbc722c4dae8cb10f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Kid",
+      "source": "https://discordpfp.gg/pfp/child-in-sunglasses-drinking-from-glass",
+      "url": "https://discordpfp.gg/images/pfp/child/child-pfp-cool-kid--child-in-sunglasses-drinking-from-glass.webp?d=full",
+      "path": "icones/child-in-sunglasses-drinking-from-glass.png",
+      "bytes": 928345,
+      "sha256": "2dde717d43c6a0b39ecb7c078ca9e86091530d29f49a8e7b9890a6142858da86",
+      "gitSha": "99d29480f40c49700fa12f7909261b06a2a28718"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Kid",
+      "source": "https://discordpfp.gg/pfp/child-in-sunglasses-thumbs-up",
+      "url": "https://discordpfp.gg/images/pfp/child/child-pfp-cool-kid--child-in-sunglasses-thumbs-up.webp?d=full",
+      "path": "icones/child-in-sunglasses-thumbs-up.png",
+      "bytes": 1098817,
+      "sha256": "7090bf10de3cb4a74a1af893812dece925bef87785f36c629e3f9e73f7e8ec3c",
+      "gitSha": "0b5f67169be3bea832fcd09c01d835868165d025"
+    },
+    {
+      "kind": "avatar",
+      "name": "Polar Bear",
+      "source": "https://discordpfp.gg/pfp/polar-bear-holding-stick-in-snow",
+      "url": "https://discordpfp.gg/images/pfp/polar-bear/polar-bear-pfp-polar-bear--polar-bear-holding-stick-in-snow.webp?d=full",
+      "path": "icones/polar-bear-holding-stick-in-snow.png",
+      "bytes": 681086,
+      "sha256": "76e4303ff46e9fb48bb85c9ba015b656e5ade4b494b81d0f9b26264eae121e1d",
+      "gitSha": "7d6c7e8c446a1a51c77977cb7020d109eade3548"
+    },
+    {
+      "kind": "avatar",
+      "name": "Boat Monkey",
+      "source": "https://discordpfp.gg/pfp/plush-monkey-on-boat",
+      "url": "https://discordpfp.gg/images/pfp/plush-monkey/plush-monkey-pfp-boat-monkey--plush-monkey-on-boat.webp?d=full",
+      "path": "icones/plush-monkey-on-boat.png",
+      "bytes": 849612,
+      "sha256": "05cccf9542bdbc21b5a794e2673dd4ea99935739ced442ca78853b6714cf80dd",
+      "gitSha": "d03cb7041cb6a544347db0ab05792eff3af362c1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fishing Cat",
+      "source": "https://discordpfp.gg/pfp/fishing-cat-in-voxel-boat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-fishing-cat--fishing-cat-in-voxel-boat.webp?d=full",
+      "path": "icones/fishing-cat-in-voxel-boat.png",
+      "bytes": 1248297,
+      "sha256": "cf1b1f149ff62ed4888a86b93d5bdf9c54b57c51a437bdeaadd61e0716064058",
+      "gitSha": "d739d2ce21dfba429fab477feba51698173978b8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Desert Spidey",
+      "source": "https://discordpfp.gg/pfp/spider-man-desert-thobe-jeep",
+      "url": "https://discordpfp.gg/images/pfp/spider-man/spider-man-pfp-desert-spidey--spider-man-desert-thobe-jeep.webp?d=full",
+      "path": "icones/spider-man-desert-thobe-jeep.png",
+      "bytes": 1095061,
+      "sha256": "845d340a365e52c4ea959dbaaacbe74437546eec04e057bd542a3bcbfb2d4964",
+      "gitSha": "15debaa3634214bc0ef0bf8c81133350b44945d8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Diamond Cat",
+      "source": "https://discordpfp.gg/pfp/diamond-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-diamond-cat--diamond-cat.webp?d=full",
+      "path": "icones/diamond-cat.png",
+      "bytes": 1241146,
+      "sha256": "91171bc4b30d271ac6fcc61d854ac8d3821572d9b5df59728429865c9769f82f",
+      "gitSha": "d50385d0c267d0ddd1f14b5ec800f3efb0f84521"
+    },
+    {
+      "kind": "avatar",
+      "name": "Danny Fenton",
+      "source": "https://discordpfp.gg/pfp/danny-fenton-cartoon-reaction",
+      "url": "https://discordpfp.gg/images/pfp/danny-phantom/danny-phantom-pfp-danny-fenton--danny-fenton-cartoon-reaction.webp?d=full",
+      "path": "icones/danny-fenton-cartoon-reaction.png",
+      "bytes": 1093181,
+      "sha256": "0acd273e4bb86e8c100740431f08ced7c8b4bde42b017be729575895b3da1c06",
+      "gitSha": "b8a22f6ece7241bad16687077b1b828d12f51d56"
+    },
+    {
+      "kind": "avatar",
+      "name": "Agent P Point",
+      "source": "https://discordpfp.gg/pfp/perry-the-platypus-pointing-fedora",
+      "url": "https://discordpfp.gg/images/pfp/perry-the-platypus/perry-the-platypus-pfp-agent-p-point--perry-the-platypus-pointing-fedora.webp?d=full",
+      "path": "icones/perry-the-platypus-pointing-fedora.png",
+      "bytes": 861792,
+      "sha256": "93740987c1e93ce7d103000dfc6f8f4033913440224475da7aea8497bd603d75",
+      "gitSha": "02d7a32fbee96e920500980964b35aa9cdf13a76"
+    },
+    {
+      "kind": "avatar",
+      "name": "Milan Player",
+      "source": "https://discordpfp.gg/pfp/ac-milan-footballer-blurred-eyes",
+      "url": "https://discordpfp.gg/images/pfp/footballer/footballer-pfp-milan-player--ac-milan-footballer-blurred-eyes.webp?d=full",
+      "path": "icones/ac-milan-footballer-blurred-eyes.png",
+      "bytes": 694453,
+      "sha256": "4001fa849602fb2c92cb95e0797b0d974690568201f7f7045583f5022379e847",
+      "gitSha": "6551332d6256493af10c3602450f104e4d1643d2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Patrick Star",
+      "source": "https://discordpfp.gg/pfp/patrick-star-cowboy-spongebob-squarepants",
+      "url": "https://discordpfp.gg/images/pfp/patrick-star/patrick-star-pfp-patrick-star--patrick-star-cowboy-spongebob-squarepants.webp?d=full",
+      "path": "icones/patrick-star-cowboy-spongebob-squarepants.png",
+      "bytes": 1061638,
+      "sha256": "23622cd23d8e868a2fc3529bf27f8c683e3f28069569cdddae168633a6d48b9e",
+      "gitSha": "cb15b396f1a024490d99486899b028e1fd3033a8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Blue Call",
+      "source": "https://discordpfp.gg/pfp/blue-lit-man-on-phone",
+      "url": "https://discordpfp.gg/images/pfp/man/man-pfp-blue-call--blue-lit-man-on-phone.webp?d=full",
+      "path": "icones/blue-lit-man-on-phone.png",
+      "bytes": 753147,
+      "sha256": "d42a3a8a77518fa665b9b42d59e93ae58f3f89d28ed63ef927f37626e9cec85c",
+      "gitSha": "02d11696835a36d87ef43ec8d543971035e52406"
+    },
+    {
+      "kind": "avatar",
+      "name": "Jake on Roof",
+      "source": "https://discordpfp.gg/pfp/jake-the-dog-roof-headphones-adventure-time",
+      "url": "https://discordpfp.gg/images/pfp/jake-the-dog/jake-the-dog-pfp-jake-on-roof--jake-the-dog-roof-headphones-adventure-time.webp?d=full",
+      "path": "icones/jake-the-dog-roof-headphones-adventure-time.png",
+      "bytes": 605225,
+      "sha256": "acfdd2b76a359b65eda7db14c0ed1a57a3e063ed77f9228e5d9d1bb033fe5743",
+      "gitSha": "bf08e65cdf1b070418e14185a0f8feddd49d8913"
+    },
+    {
+      "kind": "avatar",
+      "name": "Finn Sky",
+      "source": "https://discordpfp.gg/pfp/finn-the-human-adventure-time-purple-sky",
+      "url": "https://discordpfp.gg/images/pfp/finn-the-human/finn-the-human-pfp-finn-sky--finn-the-human-adventure-time-purple-sky.webp?d=full",
+      "path": "icones/finn-the-human-adventure-time-purple-sky.png",
+      "bytes": 553601,
+      "sha256": "3d424d88dc56958938bd9614a5fe09b5f575a6d286703e568fa3676e46dfec10",
+      "gitSha": "c61dd85b1e571a7ffcaf29ffaec52a99e25e3e55"
+    },
+    {
+      "kind": "avatar",
+      "name": "Finn at Dusk",
+      "source": "https://discordpfp.gg/pfp/finn-the-human-adventure-time-dusk-field",
+      "url": "https://discordpfp.gg/images/pfp/adventure-time/adventure-time-pfp-finn-at-dusk--finn-the-human-adventure-time-dusk-field.webp?d=full",
+      "path": "icones/finn-the-human-adventure-time-dusk-field.png",
+      "bytes": 323203,
+      "sha256": "9c546f5426e1b765b8826281914b70f3e5167199b442398a2580d762df5ce50d",
+      "gitSha": "9ea85e9918e887b49dea44737a1ced49beb720e5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robin Tux",
+      "source": "https://discordpfp.gg/pfp/robin-tuxedo-teen-titans",
+      "url": "https://discordpfp.gg/images/pfp/robin/robin-pfp-robin-tux--robin-tuxedo-teen-titans.webp?d=full",
+      "path": "icones/robin-tuxedo-teen-titans.png",
+      "bytes": 626366,
+      "sha256": "5717009188c1265c2f18cc22c112a2df9c27bdadb1becddced5657e0726d878f",
+      "gitSha": "9cade3a5b3a38649560b7f07ae0c80efe90290da"
+    },
+    {
+      "kind": "avatar",
+      "name": "Scooby Shades",
+      "source": "https://discordpfp.gg/pfp/scooby-doo-sunglasses-drink",
+      "url": "https://discordpfp.gg/images/pfp/scooby-doo/scooby-doo-pfp-scooby-shades--scooby-doo-sunglasses-drink.webp?d=full",
+      "path": "icones/scooby-doo-sunglasses-drink.png",
+      "bytes": 573840,
+      "sha256": "c82768b1b23d7f38d6683bdd520368960239eecf10aee2401a498324016c834a",
+      "gitSha": "1abf72fc108809520d7140071b34706cc742285d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Masked Danny",
+      "source": "https://discordpfp.gg/pfp/danny-phantom-tuxedo-mask",
+      "url": "https://discordpfp.gg/images/pfp/danny-phantom/danny-phantom-pfp-masked-danny--danny-phantom-tuxedo-mask.webp?d=full",
+      "path": "icones/danny-phantom-tuxedo-mask.png",
+      "bytes": 789042,
+      "sha256": "4c65ea02827f1c764651246f62277e68f1c5e4fcba2aa3388a102b65a0eea849",
+      "gitSha": "5a57b196c4ac2468e746340b322862696be546d9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Brad Pitt",
+      "source": "https://discordpfp.gg/pfp/brad-pitt-sunglasses-leather-jacket",
+      "url": "https://discordpfp.gg/images/pfp/celebrity/celebrity-pfp-brad-pitt--brad-pitt-sunglasses-leather-jacket.webp?d=full",
+      "path": "icones/brad-pitt-sunglasses-leather-jacket.png",
+      "bytes": 1104466,
+      "sha256": "7d49a26b377b96c0c56e758ee2ee84887a71246489873f22d010c22cb35f3ae4",
+      "gitSha": "8cc1f072439f744b4c7140884d1915a3e5b47ded"
+    },
+    {
+      "kind": "avatar",
+      "name": "School Blazer",
+      "source": "https://discordpfp.gg/pfp/young-man-school-blazer-red-tie",
+      "url": "https://discordpfp.gg/images/pfp/young-man/young-man-pfp-school-blazer--young-man-school-blazer-red-tie.webp?d=full",
+      "path": "icones/young-man-school-blazer-red-tie.png",
+      "bytes": 775044,
+      "sha256": "d41b97e8cfa7781484dea53c5c6c0b28ab2d4c729ecd87c04439e781e553413a",
+      "gitSha": "e19b5c435a636907648abfddcf2f58cad614d8b1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Robin Tux",
+      "source": "https://discordpfp.gg/pfp/robin-teen-titans-tuxedo-mask-grimace",
+      "url": "https://discordpfp.gg/images/pfp/teen-titans/teen-titans-pfp-robin-tux--robin-teen-titans-tuxedo-mask-grimace.webp?d=full",
+      "path": "icones/robin-teen-titans-tuxedo-mask-grimace.png",
+      "bytes": 493359,
+      "sha256": "4198e01e52f5c59011938dbd519428ecc12d73d57e1d3ff0a0b7cbd69e2b08c4",
+      "gitSha": "2b2a6c79f5f7aa1a8dcc85f89c4674dc2a1653ae"
+    },
+    {
+      "kind": "avatar",
+      "name": "Moonlit Bob",
+      "source": "https://discordpfp.gg/pfp/spongebob-squarepants-moonlit-bench-headphones",
+      "url": "https://discordpfp.gg/images/pfp/spongebob-squarepants/spongebob-squarepants-pfp-moonlit-bob--spongebob-squarepants-moonlit-bench-headphones.webp?d=full",
+      "path": "icones/spongebob-squarepants-moonlit-bench-headphones.png",
+      "bytes": 693925,
+      "sha256": "ea81a63819636851f39379fe323e0a2f0f704010364b004663836ec76aecfa19",
+      "gitSha": "cad74615142baf1cd7bb8c0b4830fdfbf8793bf1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Safety Vest",
+      "source": "https://discordpfp.gg/pfp/safety-vest-man-by-motorcycle",
+      "url": "https://discordpfp.gg/images/pfp/video-game/video-game-pfp-safety-vest--safety-vest-man-by-motorcycle.webp?d=full",
+      "path": "icones/safety-vest-man-by-motorcycle.png",
+      "bytes": 725258,
+      "sha256": "d039816f9863975e3628d4a61be76fab50ad4169b243854bb7c2fbd24652ec72",
+      "gitSha": "642160fff4245ca430e57e4febd4333bb654b8d6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gym Mirror",
+      "source": "https://discordpfp.gg/pfp/shirtless-gym-mirror-selfie",
+      "url": "https://discordpfp.gg/images/pfp/mirror-selfie/mirror-selfie-pfp-gym-mirror--shirtless-gym-mirror-selfie.webp?d=full",
+      "path": "icones/shirtless-gym-mirror-selfie.png",
+      "bytes": 755974,
+      "sha256": "76cb333e8c716b85f65b6a839f85b61ac5463069cedae33d6700bdec5c222715",
+      "gitSha": "e380ff0e972fa492b11fb87846dec42717eb3c04"
+    },
+    {
+      "kind": "avatar",
+      "name": "Brown haired",
+      "source": "https://discordpfp.gg/pfp/brown-haired-anime-young-man-with-speech-bubble",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-brown-haired--brown-haired-anime-young-man-with-speech-bubble.webp?d=full",
+      "path": "icones/brown-haired-anime-young-man-with-speech-bubble.png",
+      "bytes": 989712,
+      "sha256": "95f0032bb338cc75c2ec9bc4adb4c7f455c9e62d5e3753fcfe8e071faad3a617",
+      "gitSha": "b7aae5032e4039c629f883ae7d40dd782fabfa87"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pigtails Can",
+      "source": "https://discordpfp.gg/pfp/black-white-pigtails-beverage-can",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-pigtails-can--black-white-pigtails-beverage-can.webp?d=full",
+      "path": "icones/black-white-pigtails-beverage-can.png",
+      "bytes": 436402,
+      "sha256": "169554fd86ce0aa5a550694969fba0a1762c7a292ee95c7e02d09179e41072f5",
+      "gitSha": "e0ba5d48d29911f4ce6727eb39d7139fe9c45d18"
     }
   ]
 }
