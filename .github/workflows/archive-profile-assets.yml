@@ -1,8 +1,8 @@
-name: Importar ícones e banners em lote
+name: Publicar coleção conferida
 on:
   push:
     branches: [main]
-    paths: [catalogo/importar.json, scripts/import-profile-assets.mjs, .github/workflows/archive-profile-assets.yml]
+    paths: [.github/workflows/archive-profile-assets.yml, scripts/finalize-profile-catalog.mjs]
   workflow_dispatch:
 permissions:
   contents: write
@@ -10,33 +10,29 @@ concurrency:
   group: archive-profile-assets
   cancel-in-progress: true
 jobs:
-  archive:
+  finalize:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /.github/workflows/archive-profile-assets.yml
+            /scripts/finalize-profile-catalog.mjs
+            /catalogo/*.json
+            /catalogo/README.md
       - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38
         with:
           node-version: '24'
-      - name: Preparar salvamento por lote
+      - name: Conferir identidades e publicar o catálogo
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-      - name: Verificar acesso à fonte antes do lote
-        run: |
-          node --input-type=module - <<'JS'
-          const start=Date.now(),r=await fetch('https://discordpfp.gg/api/assets/hooded-silhouette-in-rain/download',{signal:AbortSignal.timeout(45000)});
-          if(!r.ok)throw new Error('A fonte respondeu HTTP '+r.status);
-          const bytes=await r.arrayBuffer();console.log('Fonte acessível: '+bytes.byteLength+' bytes em '+(Date.now()-start)+'ms.');
-          JS
-      - name: Baixar e validar a coleção completa
-        run: node scripts/import-profile-assets.mjs
-      - name: Salvar todos os arquivos em um único commit
-        run: |
-          git add catalogo
+          node scripts/finalize-profile-catalog.mjs
+          git add catalogo/catalogo.json catalogo/colecao.json catalogo/importar.json catalogo/cancelados.json catalogo/importacao.json catalogo/README.md
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit --quiet -m 'Substituir 294 avatares por 2165 ícones e importar 581 banners; preservar 327 molduras'
+            git commit --quiet -m 'Ativar 2140 ícones e 580 banners; cancelar 26 indisponíveis e substituir avatares antigos'
             git push --quiet origin HEAD:main
           fi

@@ -6,10 +6,10 @@ import {execFileSync,spawnSync} from 'node:child_process';
 const root=path.resolve('catalogo');
 const input=JSON.parse(await readFile(path.join(root,'importar.json'),'utf8'));
 const frames=JSON.parse(await readFile(path.join(root,'molduras-preservadas.json'),'utf8'));
-assert.equal(input.items.length,2746);assert.equal(frames.length,327);
-assert.equal(input.items.filter(x=>x.kind==='avatar').length,2165);
-assert.equal(input.items.filter(x=>x.kind==='banner').length,581);
-assert.equal(new Set(input.items.map(x=>x.source)).size,2746);
+assert.equal(input.items.length,2720);assert.equal(frames.length,327);
+assert.equal(input.items.filter(x=>x.kind==='avatar').length,2140);
+assert.equal(input.items.filter(x=>x.kind==='banner').length,580);
+assert.equal(new Set(input.items.map(x=>x.source)).size,2720);
 const digest=(data,algorithm='sha256')=>createHash(algorithm).update(data).digest('hex');
 function extension(data){
  if(data.subarray(0,6).toString().startsWith('GIF8'))return 'gif';
@@ -33,7 +33,7 @@ function checkpoint(force=false){
    execFileSync('git',['add','--',...items.map(x=>'catalogo/'+x.path),'catalogo/import-progresso.json'],{stdio:'pipe'});
    if(spawnSync('git',['diff','--cached','--quiet']).status!==0){execFileSync('git',['commit','--quiet','-m','Preservar lote de '+items.length+' originais conferidos'],{stdio:'pipe'});execFileSync('git',['push','--quiet','origin','HEAD:main'],{stdio:'pipe'});}
   }
-  console.log('Lote preservado: '+items.length+' de 2746 originais.');
+  console.log('Lote preservado: '+items.length+' de 2720 originais.');
  });return checkpointChain;
 }
 
@@ -70,13 +70,13 @@ async function one(item){
  throw last;
 }
 async function worker(){while(cursor<input.items.length){const i=cursor++;try{results[i]=await one(input.items[i]);completed++;if(completed%250===0)await checkpoint();}catch(error){failures.push({source:input.items[i].source,name:input.items[i].name,error:error.message});}}}
-console.log('Importando e conferindo os 2.746 novos arquivos em um único lote.');
+console.log('Importando e conferindo os 2.720 novos arquivos em um único lote.');
 const progressTimer=setInterval(()=>checkpoint(true).catch(error=>console.error('Falha ao preservar lote: '+error.message)),120000);progressTimer.unref();
 await Promise.all(Array.from({length:16},worker));clearInterval(progressTimer);
 await checkpoint(true);
 if(failures.length){await writeFile('import-failures.json',JSON.stringify(failures,null,2));throw new Error(failures.length+' imagens não foram importadas; catálogo e avatares antigos foram preservados. '+JSON.stringify(failures.slice(0,8)));}
 for(const item of frames){assert.ok(item.path.startsWith('molduras/')&&!item.path.includes('..'));const data=await readFile(path.join(root,item.path));assert.equal(data.length,item.bytes);assert.equal(digest(data),item.sha256);}
-const items=[...results,...frames],counts={avatar:2165,banner:581,decoration:327};
+const items=[...results,...frames],counts={avatar:2140,banner:580,decoration:327};
 const manifest={source:input.source,collectedAt:new Date().toISOString(),counts,items};
 await writeFile(path.join(root,'catalogo.json'),JSON.stringify(manifest,null,2)+'\n');
 await writeFile(path.join(root,'colecao.json'),JSON.stringify({counts,items:items.map(({kind,name,path})=>({kind,name,path}))})+'\n');

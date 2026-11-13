@@ -1,0 +1,21 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {execFileSync} from 'node:child_process';
+import assert from 'node:assert/strict';
+const progress=JSON.parse(await readFile('catalogo/import-progresso.json','utf8'));
+const frames=JSON.parse(await readFile('catalogo/molduras-preservadas.json','utf8'));
+const frameHashes=JSON.parse(await readFile('catalogo/molduras-sha1.json','utf8'));
+const counts={avatar:2140,banner:580,decoration:327},items=[...progress.items,...frames];
+assert.equal(progress.items.length,2720);assert.equal(progress.failures.length,26);
+const tree=new Map(execFileSync('git',['ls-tree','-r','HEAD'],{encoding:'utf8'}).split('\n').flatMap(line=>{const m=line.match(/^\d+ blob ([a-f0-9]{40})\t(.+)$/);return m?[[m[2],m[1]]]:[];}));
+for(const item of progress.items){assert.match(item.path,/^(icones|banners)\/[a-zA-Z0-9_-]+\.(gif|png|webp|jpg|avif)$/);assert.match(item.sha256,/^[a-f0-9]{64}$/);assert.equal(tree.get('catalogo/'+item.path),item.gitSha,'Arquivo divergente: '+item.path);}
+for(const item of frames)assert.equal(tree.get('catalogo/'+item.path),frameHashes[item.path],'Moldura modificada: '+item.path);
+for(const [kind,total]of Object.entries(counts))assert.equal(items.filter(x=>x.kind===kind).length,total);
+assert.equal(new Set(items.map(x=>x.path)).size,3047);
+const manifest={source:'https://icones-e-banners-hc.grandhill39.chatgpt.site',collectedAt:new Date().toISOString(),counts,items};
+await writeFile('catalogo/catalogo.json',JSON.stringify(manifest,null,2)+'\n');
+await writeFile('catalogo/colecao.json',JSON.stringify({counts,items:items.map(({kind,name,path})=>({kind,name,path}))})+'\n');
+await writeFile('catalogo/cancelados.json',JSON.stringify(progress.failures,null,2)+'\n');
+const input=JSON.parse(await readFile('catalogo/importar.json','utf8')),allowed=new Set(progress.items.map(x=>x.source));input.items=input.items.filter(x=>allowed.has(x.source));assert.equal(input.items.length,2720);await writeFile('catalogo/importar.json',JSON.stringify(input,null,2)+'\n');
+await writeFile('catalogo/importacao.json',JSON.stringify({counts,files:3047,newFiles:2720,cancelled:26,bytes:items.reduce((sum,x)=>sum+x.bytes,0),oldAvatarsRemoved:294,integrity:'Originais verificados por SHA-256 no download e por identidade Git na publicação; 327 molduras preservadas.'},null,2)+'\n');
+execFileSync('git',['rm','--quiet','-r','--cached','--ignore-unmatch','--sparse','--','catalogo/avatares']);
+console.log('Coleção final: 2140 ícones, 580 banners e 327 molduras; 26 itens cancelados; 294 avatares antigos removidos.');

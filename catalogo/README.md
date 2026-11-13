@@ -1,5 +1,5 @@
 # Coleção do Falaê
 
-2.165 ícones e 581 banners listados em https://icones-e-banners-hc.grandhill39.chatgpt.site, baixados da fonte original DiscordPFP.gg, com nomes preservados. As 327 molduras existentes continuam disponíveis.
+2.140 ícones e 580 banners originais, com nomes e integridade preservados. As 327 molduras existentes continuam disponíveis. Os 294 avatares antigos foram substituídos. Os 26 links que falharam na fonte foram cancelados por solicitação do responsável e estão registrados em cancelados.json.
 
-Os arquivos originais são conferidos por tamanho e SHA-256. `catalogo.json` reúne nomes, caminhos, fonte e integridade. O banco do Falaê recebe apenas o identificador do item escolhido. A substituição dos 294 avatares antigos acontece somente após a validação integral da nova coleção.
+A seleção acontece no próprio Falaê. O banco guarda somente os identificadores dos itens escolhidos.
