@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T20:02:34.876Z",
-  "completed": 1999,
-  "pending": 747,
+  "updatedAt": "2026-11-13T20:03:37.642Z",
+  "completed": 2250,
+  "pending": 496,
   "failures": [
     {
       "source": "https://discordpfp.gg/pfp/gothic-reni-dark-aesthetic",
@@ -20062,6 +20062,16 @@
     },
     {
       "kind": "avatar",
+      "name": "Glasses Cat",
+      "source": "https://discordpfp.gg/pfp/glasses-cat-4",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-glasses-cat--glasses-cat-4.webp?d=full",
+      "path": "icones/glasses-cat-4.png",
+      "bytes": 850221,
+      "sha256": "e7a66acc2417a18e426ad8bf9c5cb4bb37fb562d0a735f837fa727873b04ffef",
+      "gitSha": "41782539b3cb763a2f16c6175ad110c872d2c457"
+    },
+    {
+      "kind": "avatar",
       "name": "Hoodie Cat",
       "source": "https://discordpfp.gg/pfp/hoodie-cat",
       "url": "https://discordpfp.gg/images/pfp/orange-tabby-cat/orange-tabby-cat-pfp-hoodie-cat--hoodie-cat.webp?d=full",
@@ -20112,6 +20122,36 @@
     },
     {
       "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/bow-kitten-7",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-kitten--bow-kitten-7.webp?d=full",
+      "path": "icones/bow-kitten-7.png",
+      "bytes": 997433,
+      "sha256": "609b855a4c82ace2c53752a129848ca1bd9a5b23e389dfeb895cd965ecc5564c",
+      "gitSha": "1a4ecc5db122b966eb61b10b7394fe49676f286f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Goggle Pup",
+      "source": "https://discordpfp.gg/pfp/goggle-pup",
+      "url": "https://discordpfp.gg/images/pfp/white-dog/white-dog-pfp-goggle-pup--goggle-pup.webp?d=full",
+      "path": "icones/goggle-pup.png",
+      "bytes": 1360050,
+      "sha256": "2b9f28572a02eab3ac3cf522e5e2deaae7293272fda5adf0d5dbbef9ae4034ad",
+      "gitSha": "89078f20e28cf6759a2951b42b582323e34e2686"
+    },
+    {
+      "kind": "avatar",
+      "name": "Melon Dog",
+      "source": "https://discordpfp.gg/pfp/melon-dog",
+      "url": "https://discordpfp.gg/images/pfp/white-dog/white-dog-pfp-melon-dog--melon-dog.webp?d=full",
+      "path": "icones/melon-dog.png",
+      "bytes": 1833435,
+      "sha256": "123ed5581d3d316926f371219446d9f93c0b8809c5c99f2189444c2d7b95bee6",
+      "gitSha": "f50948c1986fdf251386cb4f11ca1a72a6b69fb7"
+    },
+    {
+      "kind": "avatar",
       "name": "Flower Dog",
       "source": "https://discordpfp.gg/pfp/flower-dog",
       "url": "https://discordpfp.gg/images/pfp/white-dog/white-dog-pfp-flower-dog--flower-dog.webp?d=full",
@@ -20119,6 +20159,2476 @@
       "bytes": 1078676,
       "sha256": "f9c79600ade8bf9adbe514024d648fec7a760d78a3b2fbd3a7bcae3e9b358138",
       "gitSha": "8a80ac524bd08933102315505e26d94b4ecc9e22"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tongue Cat",
+      "source": "https://discordpfp.gg/pfp/tongue-cat-2",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-tongue-cat--tongue-cat-2.webp?d=full",
+      "path": "icones/tongue-cat-2.png",
+      "bytes": 837834,
+      "sha256": "de7d6fc5eca1492c2c30636bde37160b87727d052d7deae7188207df7713a116",
+      "gitSha": "b29676cecdb67465d8fa13bb6bdc3960486fa16f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cat Plush Bow",
+      "source": "https://discordpfp.gg/pfp/cat-plush-bow",
+      "url": "https://discordpfp.gg/images/pfp/cat-plush/cat-plush-pfp-cat-plush-bow--cat-plush-bow.webp?d=full",
+      "path": "icones/cat-plush-bow.png",
+      "bytes": 941884,
+      "sha256": "20fe3bde0bb154d13c5c9fc87bebe9383710c7bf3303324a0060a4c9ee405249",
+      "gitSha": "913adf9dfed8b840a78f197a01636bdc11f6f031"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sparkle Cat",
+      "source": "https://discordpfp.gg/pfp/sparkle-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-sparkle-cat--sparkle-cat.webp?d=full",
+      "path": "icones/sparkle-cat.png",
+      "bytes": 1168313,
+      "sha256": "9975180b34e0fbf9e217e19dcb6d995b0842fe86239835f964b974ec888e0b63",
+      "gitSha": "83486710cca8c412c543be304f1d15c96a36447a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Marie Kitten",
+      "source": "https://discordpfp.gg/pfp/marie-kitten",
+      "url": "https://discordpfp.gg/images/pfp/marie/marie-pfp-marie-kitten--marie-kitten.webp?d=full",
+      "path": "icones/marie-kitten.png",
+      "bytes": 644630,
+      "sha256": "9813f243c93c3c73a69236f9ec8ca3cf08afd7afc867830f41853e583462a26e",
+      "gitSha": "9e3ad68f320d8f0766e3c2c47097dde5d6109004"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cat with Boba",
+      "source": "https://discordpfp.gg/pfp/cat-with-boba",
+      "url": "https://discordpfp.gg/images/pfp/white-cat/white-cat-pfp-cat-with-boba--cat-with-boba.webp?d=full",
+      "path": "icones/cat-with-boba.png",
+      "bytes": 499300,
+      "sha256": "8000a455e93f7d3344fa33b9bcb29c8a32e464bf0143ceb5c4f4fbd16f1afd92",
+      "gitSha": "5fcc10fa00e4356b5a32efa13dce89256446dd1e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cat Blep",
+      "source": "https://discordpfp.gg/pfp/cat-blep",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-cat-blep--cat-blep.webp?d=full",
+      "path": "icones/cat-blep.png",
+      "bytes": 827157,
+      "sha256": "4e2f589597b49e0553400339c136c00d7cfd45102b947d3901c82f63d5654f73",
+      "gitSha": "2d6feec9d17530f5f4e81d8839dbeae39a857c89"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clover Cat",
+      "source": "https://discordpfp.gg/pfp/clover-cat",
+      "url": "https://discordpfp.gg/images/pfp/white-cat/white-cat-pfp-clover-cat--clover-cat.webp?d=full",
+      "path": "icones/clover-cat.png",
+      "bytes": 1180442,
+      "sha256": "125af0c3428b74153ce216b69769877a20632cd476953b3ca776bf37f4fae342",
+      "gitSha": "7a798443dae6f6d1c262970d71e63244780aa447"
+    },
+    {
+      "kind": "avatar",
+      "name": "Angry Cat",
+      "source": "https://discordpfp.gg/pfp/angry-cat-2",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-angry-cat--angry-cat-2.webp?d=full",
+      "path": "icones/angry-cat-2.png",
+      "bytes": 1401002,
+      "sha256": "5c61ef640fb4579acac00c24d8140056bee609b0d3473a77706c1ce5deb47433",
+      "gitSha": "d0cecf3c38a2a633a2bfe430887cd8defec80594"
+    },
+    {
+      "kind": "avatar",
+      "name": "Clover Pup",
+      "source": "https://discordpfp.gg/pfp/clover-pup",
+      "url": "https://discordpfp.gg/images/pfp/white-dog/white-dog-pfp-clover-pup--clover-pup.webp?d=full",
+      "path": "icones/clover-pup.png",
+      "bytes": 888625,
+      "sha256": "1415df9e9a60c0b07424595b9b8b4355704db2a0e9a9ee7ffd05772c31a6f327",
+      "gitSha": "62ec18c7b4ac9fe551dffa2ec641dc7b4e1c37a1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/bow-kitten-6",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-kitten--bow-kitten-6.webp?d=full",
+      "path": "icones/bow-kitten-6.png",
+      "bytes": 708305,
+      "sha256": "5fa4c251caccc1f38d804b7a99263f730e0060fbd502849b9babfaaedc86c5a0",
+      "gitSha": "eba5d7969c2baa2a2f38c2eea22c1c73e7383df8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/bow-kitten-5",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-kitten--bow-kitten-5.webp?d=full",
+      "path": "icones/bow-kitten-5.png",
+      "bytes": 722414,
+      "sha256": "0e8adaca91d30aa81ae40e99dcd37016d60c43b6b73cbcb37ca61d49dee64c70",
+      "gitSha": "9203ef13a3fc0827e75e7dcbe16896fc92af21d8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/bow-kitten-4",
+      "url": "https://discordpfp.gg/images/pfp/gray-kitten/gray-kitten-pfp-bow-kitten--bow-kitten-4.webp?d=full",
+      "path": "icones/bow-kitten-4.png",
+      "bytes": 789092,
+      "sha256": "9a3091d1562438b0b24a4244eebf61eaf17616a1ec351ed813bdaf61cfc3022c",
+      "gitSha": "5eeae05e28595bc2e9d089059e269ef3045fbcac"
+    },
+    {
+      "kind": "avatar",
+      "name": "Kitten Sunset",
+      "source": "https://discordpfp.gg/pfp/kitten-sunset-2",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-kitten-sunset--kitten-sunset-2.webp?d=full",
+      "path": "icones/kitten-sunset-2.png",
+      "bytes": 1351507,
+      "sha256": "0b1a2e955f475649338eead1b4aa5db7349156fd92cc480de16636a1091d864f",
+      "gitSha": "22562b4c833b3784a8a227b21df055f18284a339"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sepia Kitten",
+      "source": "https://discordpfp.gg/pfp/sepia-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-sepia-kitten--sepia-kitten.webp?d=full",
+      "path": "icones/sepia-kitten.png",
+      "bytes": 1389596,
+      "sha256": "6c71e3bb867888e5bdd14e771ac76f4a638a581dbca0d45c832aea2a2f1d8c93",
+      "gitSha": "4a19ee0deb215f0d306983898113b32cd4902e84"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rose Kitten",
+      "source": "https://discordpfp.gg/pfp/rose-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-rose-kitten--rose-kitten.webp?d=full",
+      "path": "icones/rose-kitten.png",
+      "bytes": 813703,
+      "sha256": "1ba11ea3c2988862ad6df1b063fbde28301412fdcb4400eebed845e5a52154ab",
+      "gitSha": "a97bc980bb9b0bfa4cffc3ce86d93488467182d1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sleepy Cat",
+      "source": "https://discordpfp.gg/pfp/sleepy-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-sleepy-cat--sleepy-cat.webp?d=full",
+      "path": "icones/sleepy-cat.png",
+      "bytes": 268358,
+      "sha256": "3b3f8fc4003103fad15358606f96617840382496637a5488e166d5aebb6437f7",
+      "gitSha": "41cd0b70d6ef9a25c2ecfefd9b921cb3917c386b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dog Glasses",
+      "source": "https://discordpfp.gg/pfp/dog-glasses",
+      "url": "https://discordpfp.gg/images/pfp/dog/dog-pfp-dog-glasses--dog-glasses.webp?d=full",
+      "path": "icones/dog-glasses.png",
+      "bytes": 1112479,
+      "sha256": "1e6c99572b346599521e14ccfa404a94f984dba5449e03d25260e90c65759188",
+      "gitSha": "4545bbf883fd76f73ec66f660e50b9c0274b93a5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Masked Dog",
+      "source": "https://discordpfp.gg/pfp/masked-dog",
+      "url": "https://discordpfp.gg/images/pfp/dog/dog-pfp-masked-dog--masked-dog.webp?d=full",
+      "path": "icones/masked-dog.png",
+      "bytes": 1611360,
+      "sha256": "9e7b2813cf629002bc10800fedcb2aa1b5fe40b94306be7aba9305e92059494e",
+      "gitSha": "4ca49badd2e83167553e58a64001abd2b6131879"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sloth Berry",
+      "source": "https://discordpfp.gg/pfp/sloth-berry",
+      "url": "https://discordpfp.gg/images/pfp/sloth/sloth-pfp-sloth-berry--sloth-berry.webp?d=full",
+      "path": "icones/sloth-berry.png",
+      "bytes": 1554553,
+      "sha256": "8afb2d489cbc631e6e773c0066216ddf2fed9fc97eb748dae20b6b5ad25bb205",
+      "gitSha": "3fb72c992d029d22f4178bb993406a97541da2b3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rose Puppy",
+      "source": "https://discordpfp.gg/pfp/rose-puppy",
+      "url": "https://discordpfp.gg/images/pfp/golden-puppy/golden-puppy-pfp-rose-puppy--rose-puppy.webp?d=full",
+      "path": "icones/rose-puppy.png",
+      "bytes": 1496614,
+      "sha256": "92bd3c529d8dbbc47a992d57f81caa49ee035760e441d6c0d8db35aacb28ffb5",
+      "gitSha": "e68e275702335731709ab6af070d7a30cc96d8a8"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ice Bear",
+      "source": "https://discordpfp.gg/pfp/ice-bear",
+      "url": "https://discordpfp.gg/images/pfp/ice-bear/ice-bear-pfp-ice-bear--ice-bear.webp?d=full",
+      "path": "icones/ice-bear.png",
+      "bytes": 780884,
+      "sha256": "a4fc8dab941594206ad274f24ad43425701d95402a3cb75ef47f8570fcb60d63",
+      "gitSha": "13a32a1cc64d98b3af3c16c5463cf362d2753801"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pikachu Love",
+      "source": "https://discordpfp.gg/pfp/pikachu-love",
+      "url": "https://discordpfp.gg/images/pfp/pikachu/pikachu-pfp-pikachu-love--pikachu-love.webp?d=full",
+      "path": "icones/pikachu-love.png",
+      "bytes": 1264373,
+      "sha256": "428802a3249c4704eb02c15b2234b697e68bfcce842e3065729f114270fbaa5e",
+      "gitSha": "54aa00edd077b6e2099924402ff72b67c03d71f6"
+    },
+    {
+      "kind": "avatar",
+      "name": "Knife Kirby",
+      "source": "https://discordpfp.gg/pfp/knife-kirby",
+      "url": "https://discordpfp.gg/images/pfp/kirby/kirby-pfp-knife-kirby--knife-kirby.webp?d=full",
+      "path": "icones/knife-kirby.png",
+      "bytes": 593502,
+      "sha256": "4ef14cb0017a5cf59a935f7b14adaa260ba35cf2cb3bc4fc54cfca8adb514b77",
+      "gitSha": "5ff7d1014208be2ece55d54b13b5d2b09ebc353d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Monkey",
+      "source": "https://discordpfp.gg/pfp/cool-monkey",
+      "url": "https://discordpfp.gg/images/pfp/monkey/monkey-pfp-cool-monkey--cool-monkey.webp?d=full",
+      "path": "icones/cool-monkey.png",
+      "bytes": 814961,
+      "sha256": "541a44ad799e2d9aff95d4428d8e426b006a890a35b2951210b76b996036e6b9",
+      "gitSha": "bba22a63daaee509745bcad0b930e1ef2873eae2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Mustache V",
+      "source": "https://discordpfp.gg/pfp/mustache-v",
+      "url": "https://discordpfp.gg/images/pfp/manga/manga-pfp-mustache-v--mustache-v.webp?d=full",
+      "path": "icones/mustache-v.png",
+      "bytes": 576708,
+      "sha256": "78945e767fb983d890f19db15e69021637f305b38e753aff1f4c8fc7105d0ea5",
+      "gitSha": "6f638837386e5b109af0035bbe7cae5d15a38839"
+    },
+    {
+      "kind": "avatar",
+      "name": "Distorted",
+      "source": "https://discordpfp.gg/pfp/distorted-2",
+      "url": "https://discordpfp.gg/images/pfp/distorted-face/distorted-face-pfp-distorted--distorted-2.webp?d=full",
+      "path": "icones/distorted-2.png",
+      "bytes": 977444,
+      "sha256": "3719e8bc2e74f7be9db4159c745cf370d2b0798d1d9a3f0182627cad6e3f478e",
+      "gitSha": "c5b9c4b45e3a9fdbf301928b8975191648ac7267"
+    },
+    {
+      "kind": "avatar",
+      "name": "Face Paint",
+      "source": "https://discordpfp.gg/pfp/face-paint",
+      "url": "https://discordpfp.gg/images/pfp/face-paint/face-paint-pfp-face-paint--face-paint.webp?d=full",
+      "path": "icones/face-paint.png",
+      "bytes": 874762,
+      "sha256": "1274f8f7bacb28ef1f1347e8be6eeafa2ed2e70c7265bc5aae0c5fee1e5cd449",
+      "gitSha": "af241836cd18717143ffa985256230f302a2d24b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Distorted",
+      "source": "https://discordpfp.gg/pfp/distorted",
+      "url": "https://discordpfp.gg/images/pfp/fisheye/fisheye-pfp-distorted--distorted.webp?d=full",
+      "path": "icones/distorted.png",
+      "bytes": 925250,
+      "sha256": "e0f01e3bb6c53680d2994ba1ddc2ea5104a78da1dad490dcfb37a5393efaeefb",
+      "gitSha": "5c63fc93215ab6ad9f9710001d5a92fc7d0277cd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bob Wig Edit",
+      "source": "https://discordpfp.gg/pfp/bob-wig-edit",
+      "url": "https://discordpfp.gg/images/pfp/wig/wig-pfp-bob-wig-edit--bob-wig-edit.webp?d=full",
+      "path": "icones/bob-wig-edit.png",
+      "bytes": 901120,
+      "sha256": "889682f73053282148edf127429eccb54ca995c380e44629b2866817242b0b24",
+      "gitSha": "35b8a98ef7acfb71a8d8fa40fbc799f6ed464133"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ronaldo Doll",
+      "source": "https://discordpfp.gg/pfp/ronaldo-doll",
+      "url": "https://discordpfp.gg/images/pfp/cristiano-ronaldo/cristiano-ronaldo-pfp-ronaldo-doll--ronaldo-doll.webp?d=full",
+      "path": "icones/ronaldo-doll.png",
+      "bytes": 1231973,
+      "sha256": "513960a4165bb0f9e6ed01155372a4d2cd3e258d8b3c6dfa7e417a9f25139ae4",
+      "gitSha": "93badb3ac3bab75650b0973a35b1d9ba87424029"
+    },
+    {
+      "kind": "avatar",
+      "name": "Plush Hug",
+      "source": "https://discordpfp.gg/pfp/plush-hug",
+      "url": "https://discordpfp.gg/images/pfp/plush-toy/plush-toy-pfp-plush-hug--plush-hug.webp?d=full",
+      "path": "icones/plush-hug.png",
+      "bytes": 754454,
+      "sha256": "380dbb98297ca5a7c9e7b24dd82400b878f268fab6d203854bbbfa30c7204abf",
+      "gitSha": "92dc3038e7658522a2f1cd03894eebbfbcd0df80"
+    },
+    {
+      "kind": "avatar",
+      "name": "Flex Kitten",
+      "source": "https://discordpfp.gg/pfp/flex-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-flex-kitten--flex-kitten.webp?d=full",
+      "path": "icones/flex-kitten.png",
+      "bytes": 1081594,
+      "sha256": "c419a2dd3685540f1ee7d15e86bc5ac90201aa5937dbcaf067bae4e888f673ca",
+      "gitSha": "9bdefd53a2c332bbfe8e5db4122a40803734b320"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/bow-kitten-3",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-kitten--bow-kitten-3.webp?d=full",
+      "path": "icones/bow-kitten-3.png",
+      "bytes": 1068921,
+      "sha256": "5d04e2d359409649439e2fc03344550257d4e89ab8305b0de430e9ed92937134",
+      "gitSha": "d9ff07627a10ed075a72800ccd323547003c0b2e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/bow-kitten-2",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-kitten--bow-kitten-2.webp?d=full",
+      "path": "icones/bow-kitten-2.png",
+      "bytes": 1046910,
+      "sha256": "cd8bcdd9ecf314908bba7cd9fbd9a1c444a7af9ca6b055d5129981b98573d5f3",
+      "gitSha": "bdf261fb36e3eee75a0a756f23634ba973c66429"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Kitten",
+      "source": "https://discordpfp.gg/pfp/bow-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-kitten--bow-kitten.webp?d=full",
+      "path": "icones/bow-kitten.png",
+      "bytes": 821679,
+      "sha256": "61980bb3be8401f2de61997ea73dc31fe481ab6a0bdcf621f716c3cc2377ef7f",
+      "gitSha": "e2fc1064d5bbb0266e43e08f514685a9261e7272"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sleepy Kitten",
+      "source": "https://discordpfp.gg/pfp/sleepy-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-sleepy-kitten--sleepy-kitten.webp?d=full",
+      "path": "icones/sleepy-kitten.png",
+      "bytes": 1069644,
+      "sha256": "e82285550468a64b1b9c7bca35537165f98a2f3e576949b4d12ddb09e9f695f9",
+      "gitSha": "98ecfc9778d6c94fde10ccb3d2c759c875d16a17"
+    },
+    {
+      "kind": "avatar",
+      "name": "Glasses Kit",
+      "source": "https://discordpfp.gg/pfp/glasses-kit",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-glasses-kit--glasses-kit.webp?d=full",
+      "path": "icones/glasses-kit.png",
+      "bytes": 823580,
+      "sha256": "9fcef5d6e4aa5ad24ac616649a4d8cb391a7d3c7a5f491135a45faf50f9d3e82",
+      "gitSha": "7bd55461fd1928164fa6b13cbdea537cddc15162"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gaming Kitten",
+      "source": "https://discordpfp.gg/pfp/gaming-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-gaming-kitten--gaming-kitten.webp?d=full",
+      "path": "icones/gaming-kitten.png",
+      "bytes": 869880,
+      "sha256": "08bdec397e00e169e582e609b312796e150c3c3475bf9f6adb5af395fcf2f686",
+      "gitSha": "f8ec55ab8ec18bfa06030ba30435ec5480cd2c01"
+    },
+    {
+      "kind": "avatar",
+      "name": "Puppy Filter",
+      "source": "https://discordpfp.gg/pfp/puppy-filter",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-puppy-filter--puppy-filter.webp?d=full",
+      "path": "icones/puppy-filter.png",
+      "bytes": 943712,
+      "sha256": "a2ea53bd6a7063b902654a6feb4406858bca1b172b766798795d2c6a16ca33b8",
+      "gitSha": "2abaf6a2dbab6c6811837f59a3d3a0909c307751"
+    },
+    {
+      "kind": "avatar",
+      "name": "Spidey Kitten",
+      "source": "https://discordpfp.gg/pfp/spidey-kitten",
+      "url": "https://discordpfp.gg/images/pfp/spider-man/spider-man-pfp-spidey-kitten--spidey-kitten.webp?d=full",
+      "path": "icones/spidey-kitten.png",
+      "bytes": 1044302,
+      "sha256": "92fa9138cbdae15397bd4c9b43674c5dee1daa48e61fb1c94474fe5c9e9adc54",
+      "gitSha": "3466ac8235e94b8f7297ccac8c37a9cb3fa544e9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Silly GrayCat",
+      "source": "https://discordpfp.gg/pfp/silly-graycat",
+      "url": "https://discordpfp.gg/images/pfp/gray-cat/gray-cat-pfp-silly-graycat--silly-graycat.webp?d=full",
+      "path": "icones/silly-graycat.png",
+      "bytes": 846845,
+      "sha256": "b4107cbf9d97aab859ed62b2eb1aed08ab6d21643cbcb0b32369894f298b3378",
+      "gitSha": "b251ee1e93523660c16b40a37a52d4f94b25cfcd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Marvel",
+      "source": "https://discordpfp.gg/pfp/marvel",
+      "url": "https://discordpfp.gg/images/pfp/spider-man/spider-man-pfp-marvel--marvel.webp?d=full",
+      "path": "icones/marvel.png",
+      "bytes": 1136902,
+      "sha256": "fc089e3b3a97ef0051a41f758accc17767e26e75d733b13cdff9aa393bb6ea16",
+      "gitSha": "68547205fb17e1107e220bcea5e707833ca849e0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Heart Cat",
+      "source": "https://discordpfp.gg/pfp/heart-cat",
+      "url": "https://discordpfp.gg/images/pfp/cartoon-cat/cartoon-cat-pfp-heart-cat--heart-cat.webp?d=full",
+      "path": "icones/heart-cat.png",
+      "bytes": 235093,
+      "sha256": "f16d71e3cd7744c39b00d853b20b39b8df3e58878d6b93363f9cc9eb30bac288",
+      "gitSha": "6e3aa7571454606000c77275bb4b1b6326e114a0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Chad Cat",
+      "source": "https://discordpfp.gg/pfp/chad-cat",
+      "url": "https://discordpfp.gg/images/pfp/white-cat/white-cat-pfp-chad-cat--chad-cat.webp?d=full",
+      "path": "icones/chad-cat.png",
+      "bytes": 647483,
+      "sha256": "c132665bd44104c24e1cc557924a255945fd9325f3593d1124e8d135e02ab527",
+      "gitSha": "3ec2e85472896c5e7a8e988d9c2577a96c458611"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pug Lollipop",
+      "source": "https://discordpfp.gg/pfp/pug-lollipop",
+      "url": "https://discordpfp.gg/images/pfp/pug/pug-pfp-pug-lollipop--pug-lollipop.webp?d=full",
+      "path": "icones/pug-lollipop.png",
+      "bytes": 988449,
+      "sha256": "1c3abdad64a227d4dc87ccb37b543f5e830d71ac5fe6a697dc5754280b7f4373",
+      "gitSha": "0ac67a5b6623d672f11c675451beb1e67a3c5037"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Cat",
+      "source": "https://discordpfp.gg/pfp/cool-cat-3",
+      "url": "https://discordpfp.gg/images/pfp/white-cat/white-cat-pfp-cool-cat--cool-cat-3.webp?d=full",
+      "path": "icones/cool-cat-3.png",
+      "bytes": 1087651,
+      "sha256": "d7b55671ccb9ce59983b21fe99f1a55b3102a2fb2900241e29790eabff01cdaa",
+      "gitSha": "fa31bcd85b283a8d507f7276e10a9c674a7afb5b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black Turtl",
+      "source": "https://discordpfp.gg/pfp/black-turtl",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-black-turtl--black-turtl.webp?d=full",
+      "path": "icones/black-turtl.png",
+      "bytes": 484129,
+      "sha256": "3ca97ef9b7b02dc85afb6df8e45639aa0e89bbb9aeb281b6dc4507c7089d91b3",
+      "gitSha": "955eea22eb500846f4a4a049d76d0ced4238b641"
+    },
+    {
+      "kind": "avatar",
+      "name": "Turtle Meme",
+      "source": "https://discordpfp.gg/pfp/turtle-meme",
+      "url": "https://discordpfp.gg/images/pfp/turtle/turtle-pfp-turtle-meme--turtle-meme.webp?d=full",
+      "path": "icones/turtle-meme.png",
+      "bytes": 1138054,
+      "sha256": "3a0923b80b1ee8694b436233949b6276c289d4bc6d24b74a4734f79ae73d34a6",
+      "gitSha": "93abb648e1fb297b66dd88dbaceb59c9633d4130"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rabbid Stare",
+      "source": "https://discordpfp.gg/pfp/rabbid-stare",
+      "url": "https://discordpfp.gg/images/pfp/rabbid/rabbid-pfp-rabbid-stare--rabbid-stare.webp?d=full",
+      "path": "icones/rabbid-stare.png",
+      "bytes": 858451,
+      "sha256": "a9055b29db0b5a5b2a482214aec4bdc997e6f483f7da85864c8cc0d19c9295ec",
+      "gitSha": "a7c352920c8aff20e0f7665b076b7caba3e2b689"
+    },
+    {
+      "kind": "avatar",
+      "name": "Flower Bear",
+      "source": "https://discordpfp.gg/pfp/flower-bear",
+      "url": "https://discordpfp.gg/images/pfp/cute-bear/cute-bear-pfp-flower-bear--flower-bear.webp?d=full",
+      "path": "icones/flower-bear.png",
+      "bytes": 723965,
+      "sha256": "db60e672e6cd14cfdb06de69aa054bf117c3cea37f5d37e6d3075a159ba1322b",
+      "gitSha": "09574f300fc6a9b78fe0fb1f60f07c23ba6b30fe"
+    },
+    {
+      "kind": "avatar",
+      "name": "Otter Shark",
+      "source": "https://discordpfp.gg/pfp/otter-shark",
+      "url": "https://discordpfp.gg/images/pfp/otter/otter-pfp-otter-shark--otter-shark.webp?d=full",
+      "path": "icones/otter-shark.png",
+      "bytes": 1086514,
+      "sha256": "376bb3503a2de683aef171973bf29224eef0a8710bc959b549f3c87441f53c8d",
+      "gitSha": "114a44ee88bc741e2067f99bd5ea37c7d2f9085b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lip Touch",
+      "source": "https://discordpfp.gg/pfp/lip-touch",
+      "url": "https://discordpfp.gg/images/pfp/young-woman/young-woman-pfp-lip-touch--lip-touch.webp?d=full",
+      "path": "icones/lip-touch.png",
+      "bytes": 1053325,
+      "sha256": "e69c7811bd73d326db5dcd942678e6d1e54ef4ef42ef690e27002f4e086fceea",
+      "gitSha": "cc0a7cc1d2131396bb5958e2be83f66b27125edd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Streetwear",
+      "source": "https://discordpfp.gg/pfp/streetwear",
+      "url": "https://discordpfp.gg/images/pfp/beanie/beanie-pfp-streetwear--streetwear.webp?d=full",
+      "path": "icones/streetwear.png",
+      "bytes": 1006014,
+      "sha256": "6664ec2968acef50dfebae928fe3f4ad01d84efe02a656cdb8ff8c92942eceda",
+      "gitSha": "8770b97004de98e8b92cf66da93de8b95d0c63fd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Glasses Teen",
+      "source": "https://discordpfp.gg/pfp/glasses-teen",
+      "url": "https://discordpfp.gg/images/pfp/glasses/glasses-pfp-glasses-teen--glasses-teen.webp?d=full",
+      "path": "icones/glasses-teen.png",
+      "bytes": 997367,
+      "sha256": "c1a880658f4f13608492bee1c2bbd49465115891fb5cd6fb0ab82918ca148914",
+      "gitSha": "25bd0ab2272f285b25fce4e925a6d219d03f6c7d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Underlit Mood",
+      "source": "https://discordpfp.gg/pfp/underlit-mood",
+      "url": "https://discordpfp.gg/images/pfp/moody/moody-pfp-underlit-mood--underlit-mood.webp?d=full",
+      "path": "icones/underlit-mood.png",
+      "bytes": 795820,
+      "sha256": "6410c9a2c3d4395de83f464a04610ce57b4ae1b290f54826c5030bf2eb4e0e13",
+      "gitSha": "a8155ce38b154fa1de6a59f80d517cd48b06fafe"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fake Mustache",
+      "source": "https://discordpfp.gg/pfp/fake-mustache",
+      "url": "https://discordpfp.gg/images/pfp/fake-mustache/fake-mustache-pfp-fake-mustache--fake-mustache.webp?d=full",
+      "path": "icones/fake-mustache.png",
+      "bytes": 969941,
+      "sha256": "720948d8c88cce3ac4c5b8b20d6b5f2c4db5307a418bbb0fa650819721c25725",
+      "gitSha": "36de6ce910d97ae2f3ac517b0896b4f328979a76"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black bangs",
+      "source": "https://discordpfp.gg/pfp/black-bangs",
+      "url": "https://discordpfp.gg/images/pfp/woman/woman-pfp-black-bangs--black-bangs.webp?d=full",
+      "path": "icones/black-bangs.png",
+      "bytes": 1188221,
+      "sha256": "9e312df583d6ddf48eb2ba16c0da3aaedce17f0ab3a4d2c78666ade2e019e2b1",
+      "gitSha": "ce5a312ed06538e1d13e90d343256ce004588511"
+    },
+    {
+      "kind": "avatar",
+      "name": "Curious Kit",
+      "source": "https://discordpfp.gg/pfp/curious-kit-2",
+      "url": "https://discordpfp.gg/images/pfp/white-kitten/white-kitten-pfp-curious-kit--curious-kit-2.webp?d=full",
+      "path": "icones/curious-kit-2.png",
+      "bytes": 1276127,
+      "sha256": "89306fba3f233529ab6b58f17d8a4a09d9bc58c1a5c10559d119b1faea4f8058",
+      "gitSha": "4be17fcc635ee298ff3f5b3a71eefbbca7063335"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bow Cat",
+      "source": "https://discordpfp.gg/pfp/bow-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-bow-cat--bow-cat.webp?d=full",
+      "path": "icones/bow-cat.png",
+      "bytes": 923674,
+      "sha256": "06ad3d46816d5cea413b84cc0571b0a67e180d5c06b67333d774ef950a2483bb",
+      "gitSha": "7d9f17db7e2e6a4449fa5816daca07a95b57f759"
+    },
+    {
+      "kind": "avatar",
+      "name": "Angry Cat",
+      "source": "https://discordpfp.gg/pfp/angry-cat",
+      "url": "https://discordpfp.gg/images/pfp/orange-white-cat/orange-white-cat-pfp-angry-cat--angry-cat.webp?d=full",
+      "path": "icones/angry-cat.png",
+      "bytes": 1046586,
+      "sha256": "7bbbba61a13e29e2cd4ea248603b197c3af6ac2674e48b8bc9a4261000a79355",
+      "gitSha": "518d1e3c1ed9995b7d3406b4fb31ecae8d8d243b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Cat",
+      "source": "https://discordpfp.gg/pfp/cool-cat-2",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-cool-cat--cool-cat-2.webp?d=full",
+      "path": "icones/cool-cat-2.png",
+      "bytes": 945152,
+      "sha256": "f7d7e52ac79f3a0e8b7da2e5ab1c9de8952fa62a4b7dfafd08d1a5b0a5ece27c",
+      "gitSha": "dbf469d01b10eea53f321421d7adff580f37c70d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Leaf Cat",
+      "source": "https://discordpfp.gg/pfp/leaf-cat",
+      "url": "https://discordpfp.gg/images/pfp/orange-tabby-cat/orange-tabby-cat-pfp-leaf-cat--leaf-cat.webp?d=full",
+      "path": "icones/leaf-cat.png",
+      "bytes": 777060,
+      "sha256": "a2342947b50baa268378350aab8073d93054a67b5fa9b9bf0db1b730c82d9bc1",
+      "gitSha": "e0265d169d356854bb5857685204228d266bf96d"
+    },
+    {
+      "kind": "avatar",
+      "name": "White Cat",
+      "source": "https://discordpfp.gg/pfp/white-cat-2",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-white-cat--white-cat-2.webp?d=full",
+      "path": "icones/white-cat-2.png",
+      "bytes": 872303,
+      "sha256": "d40612d08991bf135e7fbf3d14210a9894149757d56ee78029e75335eafe2094",
+      "gitSha": "55dffd62c438a072bcbdaf125a29c5cbdb723e72"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tongue Cat",
+      "source": "https://discordpfp.gg/pfp/tongue-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-tongue-cat--tongue-cat.webp?d=full",
+      "path": "icones/tongue-cat.png",
+      "bytes": 780142,
+      "sha256": "6fd4e265d7669fcd06742a43c3c287a4d5d3b5d4bef3c858511aecb475a229f7",
+      "gitSha": "c986f18bee460f1cb18fdfa3a7693d64f1a49294"
+    },
+    {
+      "kind": "avatar",
+      "name": "UwU Mustache",
+      "source": "https://discordpfp.gg/pfp/uwu-mustache",
+      "url": "https://discordpfp.gg/images/pfp/bald-man/bald-man-pfp-uwu-mustache--uwu-mustache.webp?d=full",
+      "path": "icones/uwu-mustache.png",
+      "bytes": 1154927,
+      "sha256": "1d8c49c4245df399f40db6b66bfe2d38948aa3a2f1c9c714e4e3de3dbd205be9",
+      "gitSha": "8ea82fcd0afad739df44ddf7c326c87a03504d65"
+    },
+    {
+      "kind": "avatar",
+      "name": "Angry Kitten",
+      "source": "https://discordpfp.gg/pfp/angry-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-angry-kitten--angry-kitten.webp?d=full",
+      "path": "icones/angry-kitten.png",
+      "bytes": 771098,
+      "sha256": "44cc3a82086b75b5e3e2acef17498640274f33b69967a1c80d3a6684dba0b3c0",
+      "gitSha": "583124908a15274a55f2e71d218776bf351ac02d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tabby Reach",
+      "source": "https://discordpfp.gg/pfp/tabby-reach",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-tabby-reach--tabby-reach.webp?d=full",
+      "path": "icones/tabby-reach.png",
+      "bytes": 1000509,
+      "sha256": "f030292aa773c1ac27eb1bdc40e6b5beb91e762536f4bf14a9fe2d8197491488",
+      "gitSha": "136cfbcfe1cf6cff150ac89a34e487f2e2251792"
+    },
+    {
+      "kind": "avatar",
+      "name": "Curious Kit",
+      "source": "https://discordpfp.gg/pfp/curious-kit",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-curious-kit--curious-kit.webp?d=full",
+      "path": "icones/curious-kit.png",
+      "bytes": 1125922,
+      "sha256": "1d9d693d834883a21339179d1c2e6c74c547887cd068f4514897fd54f5ada614",
+      "gitSha": "b957a00aba4bf9092dbd9527657e0e479c33939c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Scrooge Flex",
+      "source": "https://discordpfp.gg/pfp/scrooge-flex",
+      "url": "https://discordpfp.gg/images/pfp/scrooge-mcduck/scrooge-mcduck-pfp-scrooge-flex--scrooge-flex.webp?d=full",
+      "path": "icones/scrooge-flex.png",
+      "bytes": 1006520,
+      "sha256": "a4b561b705742682450ff6fd4ce298cd101908d6c30c2ed2efc05e25f03ca1b4",
+      "gitSha": "f95959e86079dd046c0b054d676f672bbad53194"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cats in Glass",
+      "source": "https://discordpfp.gg/pfp/cats-in-glass",
+      "url": "https://discordpfp.gg/images/pfp/cats/cats-pfp-cats-in-glass--cats-in-glass.webp?d=full",
+      "path": "icones/cats-in-glass.png",
+      "bytes": 996517,
+      "sha256": "0539faa4414e794b9d035b9148cdf82c49c9652caf2940cc5baea98ae66144f4",
+      "gitSha": "898f9c6ada55dce75182f3f7b3e2c54bf59c8081"
+    },
+    {
+      "kind": "avatar",
+      "name": "No PFP Text",
+      "source": "https://discordpfp.gg/pfp/no-pfp-text",
+      "url": "https://discordpfp.gg/images/pfp/text-graphic/text-graphic-pfp-no-pfp-text--no-pfp-text.webp?d=full",
+      "path": "icones/no-pfp-text.png",
+      "bytes": 115826,
+      "sha256": "3a3d72864173c2beab5263e8e4261d436eb70ac86445e5d456b36a8aefbf348b",
+      "gitSha": "751ebad1c7e85116d726632364227aa2cba6b85a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Emo Sponge",
+      "source": "https://discordpfp.gg/pfp/emo-sponge",
+      "url": "https://discordpfp.gg/images/pfp/emo/emo-pfp-emo-sponge--emo-sponge.webp?d=full",
+      "path": "icones/emo-sponge.png",
+      "bytes": 606403,
+      "sha256": "dfe00037388eb9e32e70d0f5aaf588ead16aa81d0a795ade3b1ba0abc7e5933d",
+      "gitSha": "6cbd925ab04a50b354a3bddaa8074cec590e28ba"
+    },
+    {
+      "kind": "avatar",
+      "name": "SpongeBob Hat",
+      "source": "https://discordpfp.gg/pfp/spongebob-hat",
+      "url": "https://discordpfp.gg/images/pfp/spongebob-squarepants/spongebob-squarepants-pfp-spongebob-hat--spongebob-hat.webp?d=full",
+      "path": "icones/spongebob-hat.png",
+      "bytes": 1267551,
+      "sha256": "927903c14b9b77130c04787f3ee15f4a0d275a57748968869f0f2133b51ed3b4",
+      "gitSha": "4e8aa31296b4ef62fdbe858d5ca7f1f394c7220c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Duck Meme",
+      "source": "https://discordpfp.gg/pfp/duck-meme",
+      "url": "https://discordpfp.gg/images/pfp/duck/duck-pfp-duck-meme--duck-meme.webp?d=full",
+      "path": "icones/duck-meme.png",
+      "bytes": 1135637,
+      "sha256": "9f591dc1619899ab9069ad024902b4ea1379b7e02a4dbf40be416fcc9ec0e2dd",
+      "gitSha": "9e96f4b0da87e84812ba065190ab2c240158aa3c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Car Kitten",
+      "source": "https://discordpfp.gg/pfp/car-kitten",
+      "url": "https://discordpfp.gg/images/pfp/orange-kitten/orange-kitten-pfp-car-kitten--car-kitten.webp?d=full",
+      "path": "icones/car-kitten.png",
+      "bytes": 1230203,
+      "sha256": "e45ac578057bd7877cde4d14ec97284af6b96dde4a0ac567302c107f66511032",
+      "gitSha": "e1f559d0bb9c3b89b0da4d96859905c3db415ae1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Scarf Cat",
+      "source": "https://discordpfp.gg/pfp/scarf-cat",
+      "url": "https://discordpfp.gg/images/pfp/orange-tabby-cat/orange-tabby-cat-pfp-scarf-cat--scarf-cat.webp?d=full",
+      "path": "icones/scarf-cat.png",
+      "bytes": 1155315,
+      "sha256": "f493b4c18bc7c153f5a2c522da29011ea6f1a5b2d08cd2c1ad0810fddf7524e5",
+      "gitSha": "4fb11a342ee74e88f6ec66e653570ec41b139350"
+    },
+    {
+      "kind": "avatar",
+      "name": "Lash Cat",
+      "source": "https://discordpfp.gg/pfp/lash-cat",
+      "url": "https://discordpfp.gg/images/pfp/orange-cat/orange-cat-pfp-lash-cat--lash-cat.webp?d=full",
+      "path": "icones/lash-cat.png",
+      "bytes": 913509,
+      "sha256": "7a6ad0fbf4cac506618073fda53e94af75b9cac8277964ba737cfe7bcec3d273",
+      "gitSha": "3a39b65ced0a75d5a944c461e4244d940d8a512c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Flower Kitten",
+      "source": "https://discordpfp.gg/pfp/flower-kitten",
+      "url": "https://discordpfp.gg/images/pfp/orange-kitten/orange-kitten-pfp-flower-kitten--flower-kitten.webp?d=full",
+      "path": "icones/flower-kitten.png",
+      "bytes": 980476,
+      "sha256": "7bdda45b3d6ba3c9eb14691fb10dc291f69c25944f3d2cf9de87720d2842af8b",
+      "gitSha": "649faaf32bf7b61ed89c51604fc6352e44fce1cd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Kitten Sunset",
+      "source": "https://discordpfp.gg/pfp/kitten-sunset",
+      "url": "https://discordpfp.gg/images/pfp/orange-kitten/orange-kitten-pfp-kitten-sunset--kitten-sunset.webp?d=full",
+      "path": "icones/kitten-sunset.png",
+      "bytes": 932007,
+      "sha256": "47c5ce9ff3f897d92fec76e109520997d4a6e25ddf7d1905419f3666d32f46b8",
+      "gitSha": "b653a9ed0652689886e6aaee8b652529343db5dc"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Tabby",
+      "source": "https://discordpfp.gg/pfp/cool-tabby",
+      "url": "https://discordpfp.gg/images/pfp/tabby-cat/tabby-cat-pfp-cool-tabby--cool-tabby.webp?d=full",
+      "path": "icones/cool-tabby.png",
+      "bytes": 742611,
+      "sha256": "a2280726f07278e6bf55a2c5f806b060b05853cefb7b5dae2eeed72393550c55",
+      "gitSha": "be9b06ce9f9686b147734f8fd9846fc2762878e5"
+    },
+    {
+      "kind": "avatar",
+      "name": "Kid Sunglass",
+      "source": "https://discordpfp.gg/pfp/kid-sunglass",
+      "url": "https://discordpfp.gg/images/pfp/child/child-pfp-kid-sunglass--kid-sunglass.webp?d=full",
+      "path": "icones/kid-sunglass.png",
+      "bytes": 1192980,
+      "sha256": "952f2de7f871f3699ab03ff262b90faf8e287f08b381c02679895331fcaa3a35",
+      "gitSha": "a9063022d3b2ae6ad29d7cf8b1a0207b07b96dda"
+    },
+    {
+      "kind": "avatar",
+      "name": "Galaxy Cat",
+      "source": "https://discordpfp.gg/pfp/galaxy-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-galaxy-cat--galaxy-cat.webp?d=full",
+      "path": "icones/galaxy-cat.png",
+      "bytes": 1152972,
+      "sha256": "abdd7ff9bbda5031d322354baf4da6221cf849b6cc8cbf1ced5aaad9f84e4494",
+      "gitSha": "e389190a201f04e2db3c96b74d1c38b153c2abef"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tony Cigar",
+      "source": "https://discordpfp.gg/pfp/tony-cigar",
+      "url": "https://discordpfp.gg/images/pfp/tony-montana/tony-montana-pfp-tony-cigar--tony-cigar.webp?d=full",
+      "path": "icones/tony-cigar.png",
+      "bytes": 855795,
+      "sha256": "e3bdbe53bb1bdac21fae1ee63373d2510df80adc73bb38de7c9968845f545c85",
+      "gitSha": "5b24d0a9b4a9460e37f4d4e85fa7e0a56cdf63a2"
+    },
+    {
+      "kind": "avatar",
+      "name": "Plush Dino",
+      "source": "https://discordpfp.gg/pfp/plush-dino",
+      "url": "https://discordpfp.gg/images/pfp/plush-dinosaur/plush-dinosaur-pfp-plush-dino--plush-dino.webp?d=full",
+      "path": "icones/plush-dino.png",
+      "bytes": 1255976,
+      "sha256": "84b096322eca24c8148e563ca478ea8b9fddfed297a3cc4fec945dfd7cc32e75",
+      "gitSha": "b6063d48296d1129dbbc8c97f2caf8548c7abb76"
+    },
+    {
+      "kind": "avatar",
+      "name": "Gloomy Sketch",
+      "source": "https://discordpfp.gg/pfp/gloomy-sketch",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-gloomy-sketch--gloomy-sketch.webp?d=full",
+      "path": "icones/gloomy-sketch.png",
+      "bytes": 584991,
+      "sha256": "57e25bd00cf95db8a86ea7c7a8e08d12ff11c5554f7c3abf65b67ac71f02d43e",
+      "gitSha": "9a6f40cfc9e97e869d1d5504005cf1f1387fb79d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Red Tie Man",
+      "source": "https://discordpfp.gg/pfp/red-tie-man",
+      "url": "https://discordpfp.gg/images/pfp/male/male-pfp-red-tie-man--red-tie-man.webp?d=full",
+      "path": "icones/red-tie-man.png",
+      "bytes": 810367,
+      "sha256": "82dac4e94b0729ba62cca4aef543d5a91f3cdf2368aa1f129c279c7966fd60f6",
+      "gitSha": "133358a738464c26944fc15062d4ee632d65410f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Despicable Me",
+      "source": "https://discordpfp.gg/pfp/despicable-me",
+      "url": "https://discordpfp.gg/images/pfp/minion/minion-pfp-despicable-me--despicable-me.webp?d=full",
+      "path": "icones/despicable-me.png",
+      "bytes": 874407,
+      "sha256": "f428539056d570cf1949f489915e2c98a87dcd96795bbe7b2f5ee26b63affeb0",
+      "gitSha": "1c5c2fec356bbf5b3ec85f8aec97831df491d836"
+    },
+    {
+      "kind": "avatar",
+      "name": "White Cat",
+      "source": "https://discordpfp.gg/pfp/white-cat",
+      "url": "https://discordpfp.gg/images/pfp/white-cat/white-cat-pfp-white-cat--white-cat.webp?d=full",
+      "path": "icones/white-cat.png",
+      "bytes": 1119547,
+      "sha256": "83dbf798a9c6dae298c3ca7e9034f125d55608fe6b6221c07b509cb46af51e66",
+      "gitSha": "8c2b1f11c3dc6448b8abd4e25b67d28911bffe30"
+    },
+    {
+      "kind": "avatar",
+      "name": "Heart Crown",
+      "source": "https://discordpfp.gg/pfp/heart-crown",
+      "url": "https://discordpfp.gg/images/pfp/default-profile/default-profile-pfp-heart-crown--heart-crown.webp?d=full",
+      "path": "icones/heart-crown.png",
+      "bytes": 149892,
+      "sha256": "ea20d4bfcf6dd40961c49c2817fc150cb96fb7125a3de14f86186f279869a9b8",
+      "gitSha": "5802635d6a64b6c890a780f1a56bd715d834bf9b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Messy Black",
+      "source": "https://discordpfp.gg/pfp/messy-black",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-messy-black--messy-black.webp?d=full",
+      "path": "icones/messy-black.png",
+      "bytes": 1002711,
+      "sha256": "b14e17336e1b72a23234b7cb757b06ac48e37795544c7864ac92475dd9630cfe",
+      "gitSha": "dc6f27a991a3463e216339b42194a475cc9ec878"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rainbow Kit",
+      "source": "https://discordpfp.gg/pfp/rainbow-kit",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-rainbow-kit--rainbow-kit.webp?d=full",
+      "path": "icones/rainbow-kit.png",
+      "bytes": 1153423,
+      "sha256": "f8b0f8a16b56c2df81658b9ae11c8e1823a4a1ed42e7d26d565d09a7dc4deb66",
+      "gitSha": "4317bfe02e5be7c713660f0c9e86f636e4825393"
+    },
+    {
+      "kind": "avatar",
+      "name": "Alien Cat",
+      "source": "https://discordpfp.gg/pfp/alien-cat",
+      "url": "https://discordpfp.gg/images/pfp/green-cat/green-cat-pfp-alien-cat--alien-cat.webp?d=full",
+      "path": "icones/alien-cat.png",
+      "bytes": 819946,
+      "sha256": "0fe2ee29fb8eba39b04e0aed95bf39140a7e1063f5d822cecfc47f963b583489",
+      "gitSha": "e7177bea6c9e7300ea11aee31a6e9ac99ebacc37"
+    },
+    {
+      "kind": "avatar",
+      "name": "Flat Cap Noir",
+      "source": "https://discordpfp.gg/pfp/flat-cap-noir",
+      "url": "https://discordpfp.gg/images/pfp/overcoat/overcoat-pfp-flat-cap-noir--flat-cap-noir.webp?d=full",
+      "path": "icones/flat-cap-noir.png",
+      "bytes": 1063609,
+      "sha256": "05cae96459902042889067c9d438bb72f0e478a2cc6d2b0013bee5686c4ceddf",
+      "gitSha": "22eaaa67b506ce48a96b0eb3fb66f563d46cbaed"
+    },
+    {
+      "kind": "avatar",
+      "name": "Bee Cat",
+      "source": "https://discordpfp.gg/pfp/bee-cat",
+      "url": "https://discordpfp.gg/images/pfp/tabby-kitten/tabby-kitten-pfp-bee-cat--bee-cat.webp?d=full",
+      "path": "icones/bee-cat.png",
+      "bytes": 1358348,
+      "sha256": "2d397e1d17a2cfe50568a5113346c42dc617ec6c8ac6ab57f520de561bfa0004",
+      "gitSha": "bb0b7f84c9e5ebbb2fed0a72c7fa481a9aa0f25c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sunglasses",
+      "source": "https://discordpfp.gg/pfp/sunglasses",
+      "url": "https://discordpfp.gg/images/pfp/sunglasses/sunglasses-pfp-sunglasses--sunglasses.webp?d=full",
+      "path": "icones/sunglasses.png",
+      "bytes": 679356,
+      "sha256": "312f212ff50b91fc2e1a950693126d96e2e9863161194ef61d980e60ee400991",
+      "gitSha": "cdaab7767cafb3f31350e6a630bc9a66c1bba210"
+    },
+    {
+      "kind": "avatar",
+      "name": "Tuxedo Cat",
+      "source": "https://discordpfp.gg/pfp/tuxedo-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-tuxedo-cat--tuxedo-cat.webp?d=full",
+      "path": "icones/tuxedo-cat.png",
+      "bytes": 654590,
+      "sha256": "1f358465d3206748016796c53d45141b8c234a70e405d134bb41547b3cd213fb",
+      "gitSha": "27e4718e4e71e337a6e99a66d13d6d7f2af3c902"
+    },
+    {
+      "kind": "avatar",
+      "name": "Shark Selfie",
+      "source": "https://discordpfp.gg/pfp/shark-selfie",
+      "url": "https://discordpfp.gg/images/pfp/selfie/selfie-pfp-shark-selfie--shark-selfie.webp?d=full",
+      "path": "icones/shark-selfie.png",
+      "bytes": 1371538,
+      "sha256": "8281b45477775ab789b93225d900eb95241c2edbbf8ac47e14a3ed6f040e4fad",
+      "gitSha": "e92400af1271fe582f9694f3ed3c194f3d1b648e"
+    },
+    {
+      "kind": "avatar",
+      "name": "Rainy Suit",
+      "source": "https://discordpfp.gg/pfp/rainy-suit",
+      "url": "https://discordpfp.gg/images/pfp/suited-man/suited-man-pfp-rainy-suit--rainy-suit.webp?d=full",
+      "path": "icones/rainy-suit.png",
+      "bytes": 446238,
+      "sha256": "21d35a8aa146085e7701da556e948e24d10fa20aa5286d20793ab10a264abed1",
+      "gitSha": "705403a3cb96b0c5d7d0cdf32191b1b370084c84"
+    },
+    {
+      "kind": "avatar",
+      "name": "Black And",
+      "source": "https://discordpfp.gg/pfp/black-and",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-black-and--black-and.webp?d=full",
+      "path": "icones/black-and.png",
+      "bytes": 524031,
+      "sha256": "c01578b7c9e0c1966b3395c36fc831ab75eece5386e2f388b0fe63ddd34f7aee",
+      "gitSha": "fe14e70c3cccfbebb0fadff924b5152617a59bf9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Grill Tiger",
+      "source": "https://discordpfp.gg/pfp/grill-tiger",
+      "url": "https://discordpfp.gg/images/pfp/tiger/tiger-pfp-grill-tiger--grill-tiger.webp?d=full",
+      "path": "icones/grill-tiger.png",
+      "bytes": 1045107,
+      "sha256": "c142f7cb32281b1b7774f2e72b7730a1b38ebccece446f79b78230d76161268d",
+      "gitSha": "5f1e23d2e15c5b0e5356b67ca8db088945cd120d"
+    },
+    {
+      "kind": "avatar",
+      "name": "LeBron Selfie",
+      "source": "https://discordpfp.gg/pfp/lebron-selfie",
+      "url": "https://discordpfp.gg/images/pfp/lebron-james/lebron-james-pfp-lebron-selfie--lebron-selfie.webp?d=full",
+      "path": "icones/lebron-selfie.png",
+      "bytes": 1312292,
+      "sha256": "a2004f12a7fd7361f1ee9df67948fe790c43e200e9dfacbf3d8b541755eb3eee",
+      "gitSha": "b2e9591081f83ce37c7e31d8186053f00ec56a95"
+    },
+    {
+      "kind": "avatar",
+      "name": "Winking Dog",
+      "source": "https://discordpfp.gg/pfp/winking-dog",
+      "url": "https://discordpfp.gg/images/pfp/dog/dog-pfp-winking-dog--winking-dog.webp?d=full",
+      "path": "icones/winking-dog.png",
+      "bytes": 561056,
+      "sha256": "95416fde754a398abb0ae1aa23254211a4d08f5a76df7d3a72e6430c460dfc59",
+      "gitSha": "4fa419c73e78151a8d9929c00f2f9b6a9b591e2d"
+    },
+    {
+      "kind": "avatar",
+      "name": "Glasses Cat",
+      "source": "https://discordpfp.gg/pfp/glasses-cat-3",
+      "url": "https://discordpfp.gg/images/pfp/cat-plush/cat-plush-pfp-glasses-cat--glasses-cat-3.webp?d=full",
+      "path": "icones/glasses-cat-3.png",
+      "bytes": 1277146,
+      "sha256": "91a20741cad5dd2294a538229cb34502658538cf864fc6ed6c50e16993c17b11",
+      "gitSha": "c119c33890d3b6dd855d724746fb4e2f057d78e9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ushanka Cat",
+      "source": "https://discordpfp.gg/pfp/ushanka-cat-3",
+      "url": "https://discordpfp.gg/images/pfp/orange-cat/orange-cat-pfp-ushanka-cat--ushanka-cat-3.webp?d=full",
+      "path": "icones/ushanka-cat-3.png",
+      "bytes": 788960,
+      "sha256": "662e5a8365544a306351c97d61ebd710cd3bc16e9a5ee93599ff8fbc0f03bb76",
+      "gitSha": "dc9f642196e38465b1676a3affb9f253cb92b617"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hello Kitty",
+      "source": "https://discordpfp.gg/pfp/hello-kitty",
+      "url": "https://discordpfp.gg/images/pfp/selfie/selfie-pfp-hello-kitty--hello-kitty.webp?d=full",
+      "path": "icones/hello-kitty.png",
+      "bytes": 962524,
+      "sha256": "9d502264894b4f7e85e02c3f09e72498479526b720b73914efd8beef70ff80d9",
+      "gitSha": "4b6f86ae62286d741d6ccc154ddbb1953e6f4d3a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Smoking Cat",
+      "source": "https://discordpfp.gg/pfp/smoking-cat-3",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-smoking-cat--smoking-cat-3.webp?d=full",
+      "path": "icones/smoking-cat-3.png",
+      "bytes": 645085,
+      "sha256": "6c9b78520bead7bfae3092d0ac23d273c04e4a7757d90b4982c3c30bb896427b",
+      "gitSha": "e271de36e9e00609f02426850e12a08bc8a36025"
+    },
+    {
+      "kind": "avatar",
+      "name": "Sunset Silhou",
+      "source": "https://discordpfp.gg/pfp/sunset-silhou",
+      "url": "https://discordpfp.gg/images/pfp/sunset/sunset-pfp-sunset-silhou--sunset-silhou.webp?d=full",
+      "path": "icones/sunset-silhou.png",
+      "bytes": 622838,
+      "sha256": "784f4a73952ef2e7bf99d175615f05c9e7c8ab570d5d3d96c9a3bb2b6b985b75",
+      "gitSha": "ed9ccd17d9ddc8df379d39d91820aa44446cfa7b"
+    },
+    {
+      "kind": "avatar",
+      "name": "Monochrome",
+      "source": "https://discordpfp.gg/pfp/monochrome",
+      "url": "https://discordpfp.gg/images/pfp/censored-face/censored-face-pfp-monochrome--monochrome.webp?d=full",
+      "path": "icones/monochrome.png",
+      "bytes": 1174153,
+      "sha256": "cebe7a5ef97bb9ccd6a558fe115ecbb8dd4b76de0cc6e2888980aa6a1f072487",
+      "gitSha": "c047fe9d11db5af563ff109e4e464876a95886d9"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dreadlock Sit",
+      "source": "https://discordpfp.gg/pfp/dreadlock-sit",
+      "url": "https://discordpfp.gg/images/pfp/black-t-shirt/black-t-shirt-pfp-dreadlock-sit--dreadlock-sit.webp?d=full",
+      "path": "icones/dreadlock-sit.png",
+      "bytes": 1221375,
+      "sha256": "20e81e34a8b9ef62461d446ed31782d9cec3a67c523f00d4a0054e0a6db7cadf",
+      "gitSha": "ed0acbd80fde41ed3b9297e38463ddde7c86ff2f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ushanka Cat",
+      "source": "https://discordpfp.gg/pfp/ushanka-cat-2",
+      "url": "https://discordpfp.gg/images/pfp/orange-tabby-cat/orange-tabby-cat-pfp-ushanka-cat--ushanka-cat-2.webp?d=full",
+      "path": "icones/ushanka-cat-2.png",
+      "bytes": 544439,
+      "sha256": "027be769e1f368333753da660c5114a3e6f0b1bf812f7a940c31407acf322cb5",
+      "gitSha": "703c1ff4ec8732f889e9a3b6517ba428c53d80ec"
+    },
+    {
+      "kind": "avatar",
+      "name": "Red Hood Glow",
+      "source": "https://discordpfp.gg/pfp/red-hood-glow",
+      "url": "https://discordpfp.gg/images/pfp/hooded-figure/hooded-figure-pfp-red-hood-glow--red-hood-glow.webp?d=full",
+      "path": "icones/red-hood-glow.png",
+      "bytes": 760146,
+      "sha256": "744c33a3786b8afa1f266ed82f37a5710cbe50b13590b3a7e5345a6e184e045a",
+      "gitSha": "d2532e7270e36a5dda9801b7dcb2e2581cfad3fe"
+    },
+    {
+      "kind": "avatar",
+      "name": "End Cat",
+      "source": "https://discordpfp.gg/pfp/end-cat",
+      "url": "https://discordpfp.gg/images/pfp/end-dimension/end-dimension-pfp-end-cat--end-cat.webp?d=full",
+      "path": "icones/end-cat.png",
+      "bytes": 620482,
+      "sha256": "9775716e413660ee9609e581a37a646bfdf5d6dae9bac2b8590e854bc345e909",
+      "gitSha": "d69a8fba9b48e800691ba204f559ab06fb74958a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Manga Sorcer",
+      "source": "https://discordpfp.gg/pfp/manga-sorcer",
+      "url": "https://discordpfp.gg/images/pfp/manga/manga-pfp-manga-sorcer--manga-sorcer.webp?d=full",
+      "path": "icones/manga-sorcer.png",
+      "bytes": 267246,
+      "sha256": "be5e88505310c23b7798e6659b39b01500193905cd690cb00bf43f756adadfdb",
+      "gitSha": "ff48257abac3c3506de4e8e7485aafe276a58eb3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Toro Phone",
+      "source": "https://discordpfp.gg/pfp/toro-phone",
+      "url": "https://discordpfp.gg/images/pfp/toro-inoue/toro-inoue-pfp-toro-phone--toro-phone.webp?d=full",
+      "path": "icones/toro-phone.png",
+      "bytes": 951695,
+      "sha256": "c40798a03449144916289790ef7800ea4abf1b1214530ba9fd12ba5ad0afee4d",
+      "gitSha": "d6ac1c1ba51618b719037e9a87f43c15a619a322"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Cat",
+      "source": "https://discordpfp.gg/pfp/cool-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-cool-cat--cool-cat.webp?d=full",
+      "path": "icones/cool-cat.png",
+      "bytes": 880596,
+      "sha256": "2f272fb4ee52c0454d0e69df1c57d937381c1c9d2a62923ce738de2b97e769de",
+      "gitSha": "18a0c1f0be8bcbd8494e0572e29475b9084f8a2f"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cool Kitten",
+      "source": "https://discordpfp.gg/pfp/cool-kitten",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-cool-kitten--cool-kitten.webp?d=full",
+      "path": "icones/cool-kitten.png",
+      "bytes": 723951,
+      "sha256": "838f07436cf7a0f8acbab8098a0e13f363a643809dc58252f84db62aba093278",
+      "gitSha": "cccc0f2d47d9a1ab3eb9b3dafe751015f33f42e7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Glasses Cat",
+      "source": "https://discordpfp.gg/pfp/glasses-cat-2",
+      "url": "https://discordpfp.gg/images/pfp/cat-plush/cat-plush-pfp-glasses-cat--glasses-cat-2.webp?d=full",
+      "path": "icones/glasses-cat-2.png",
+      "bytes": 1101152,
+      "sha256": "12c7b2afda86e9fda99a0c112dc24137fb9133b5a0d9f69e538f0e74f5ffed84",
+      "gitSha": "fdd74e91404daacfdd498e0ea493362dc4411f26"
+    },
+    {
+      "kind": "avatar",
+      "name": "Dusk Shore",
+      "source": "https://discordpfp.gg/pfp/dusk-shore",
+      "url": "https://discordpfp.gg/images/pfp/shoreline/shoreline-pfp-dusk-shore--dusk-shore.webp?d=full",
+      "path": "icones/dusk-shore.png",
+      "bytes": 569913,
+      "sha256": "86fc775f3160901e9e27e74cad86c0d75421aa6a61b8fe11f2a21dc39d19c7fd",
+      "gitSha": "a90bc8d4b04a2d048a18079185d497af2b7102b1"
+    },
+    {
+      "kind": "avatar",
+      "name": "Green Frog",
+      "source": "https://discordpfp.gg/pfp/green-frog",
+      "url": "https://discordpfp.gg/images/pfp/frog/frog-pfp-green-frog--green-frog.webp?d=full",
+      "path": "icones/green-frog.png",
+      "bytes": 562372,
+      "sha256": "bc04b731a2a00143e1fde68e36a6c574f42d333d328ce4b849851750be053ebf",
+      "gitSha": "fc6ef9785c454f5841ba036281872ec2b533cff7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Glasses Cat",
+      "source": "https://discordpfp.gg/pfp/glasses-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-glasses-cat--glasses-cat.webp?d=full",
+      "path": "icones/glasses-cat.png",
+      "bytes": 1308912,
+      "sha256": "c0e54aad659978884c81294b13a5a38c6cd734e23b5d5fc75167ccac4cb46333",
+      "gitSha": "54a390d0b31397830f9ef55f30a0aa9efcd48b33"
+    },
+    {
+      "kind": "avatar",
+      "name": "Pastel Selfie",
+      "source": "https://discordpfp.gg/pfp/pastel-selfie",
+      "url": "https://discordpfp.gg/images/pfp/pastel/pastel-pfp-pastel-selfie--pastel-selfie.webp?d=full",
+      "path": "icones/pastel-selfie.png",
+      "bytes": 992399,
+      "sha256": "422dd18e578f269ca554bc242b7f611ef1bcdfa16948f80052e4112c89a3f2b2",
+      "gitSha": "d21dbba600185013d2667f731073dc6b1d5777b3"
+    },
+    {
+      "kind": "avatar",
+      "name": "Ushanka Cat",
+      "source": "https://discordpfp.gg/pfp/ushanka-cat",
+      "url": "https://discordpfp.gg/images/pfp/orange-tabby-cat/orange-tabby-cat-pfp-ushanka-cat--ushanka-cat.webp?d=full",
+      "path": "icones/ushanka-cat.png",
+      "bytes": 903933,
+      "sha256": "9464090ca892f0326348ea08dcc393556295298cfdd60dcbe8af6e0b12a6ed1a",
+      "gitSha": "a4c6287edf1598fb5c850aa550487f09731cd6e0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Spidey Tux",
+      "source": "https://discordpfp.gg/pfp/spidey-tux",
+      "url": "https://discordpfp.gg/images/pfp/spider-man/spider-man-pfp-spidey-tux--spidey-tux.webp?d=full",
+      "path": "icones/spidey-tux.png",
+      "bytes": 1103005,
+      "sha256": "7401138ca8643fa936c6c963fc30511bca977e55ff9638a962e9f02a051f8ab9",
+      "gitSha": "c77df1220164f9053b25b8b9f9d369aab130edc4"
+    },
+    {
+      "kind": "avatar",
+      "name": "Yawning Tabby",
+      "source": "https://discordpfp.gg/pfp/yawning-tabby",
+      "url": "https://discordpfp.gg/images/pfp/tabby-cat/tabby-cat-pfp-yawning-tabby--yawning-tabby.webp?d=full",
+      "path": "icones/yawning-tabby.png",
+      "bytes": 1058262,
+      "sha256": "45f5186cf4214f23e694c8080a868e6c02c09cafe9cd429a918696d9aa491d8c",
+      "gitSha": "fd3e3eca487f0496aa6c00da0a9a27b2e141d00a"
+    },
+    {
+      "kind": "avatar",
+      "name": "Neon Mask",
+      "source": "https://discordpfp.gg/pfp/neon-mask",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-neon-mask--neon-mask.webp?d=full",
+      "path": "icones/neon-mask.png",
+      "bytes": 1065649,
+      "sha256": "ac50e0968a9723bdd4cf0eeb24bb68664449f4e17d2d49ec1f8c49bf9220cf6e",
+      "gitSha": "d4efbfaefe83106deec2508fffa35c262a2a6558"
+    },
+    {
+      "kind": "avatar",
+      "name": "Snoopy Beach",
+      "source": "https://discordpfp.gg/pfp/snoopy-beach",
+      "url": "https://discordpfp.gg/images/pfp/snoopy/snoopy-pfp-snoopy-beach--snoopy-beach.webp?d=full",
+      "path": "icones/snoopy-beach.png",
+      "bytes": 1031020,
+      "sha256": "5260ef8c25186b20103a37d647260a13281ebde9ef6b6336d480c9d5c10db42f",
+      "gitSha": "0a83479ceea0a9aaf8b64106ef37f0493bd0c786"
+    },
+    {
+      "kind": "avatar",
+      "name": "Fur Hood",
+      "source": "https://discordpfp.gg/pfp/fur-hood",
+      "url": "https://discordpfp.gg/images/pfp/anime/anime-pfp-fur-hood--fur-hood.webp?d=full",
+      "path": "icones/fur-hood.png",
+      "bytes": 504852,
+      "sha256": "cf2e70ebb62490954addcc978ab2c876c50acb25d371b4ed5c76bd58aa5771c9",
+      "gitSha": "35db939ac57c5b440a336f0a22ccbda8dfbb4750"
+    },
+    {
+      "kind": "avatar",
+      "name": "Smoking Cat",
+      "source": "https://discordpfp.gg/pfp/smoking-cat-2",
+      "url": "https://discordpfp.gg/images/pfp/orange-tabby-cat/orange-tabby-cat-pfp-smoking-cat--smoking-cat-2.webp?d=full",
+      "path": "icones/smoking-cat-2.png",
+      "bytes": 1437187,
+      "sha256": "0b00003f7bc34608ee9703466264b10ea80b08a583b1ad280bf10e8e95dd36d8",
+      "gitSha": "0976d0df1702e0cb09ee93439576b9241ff022f0"
+    },
+    {
+      "kind": "avatar",
+      "name": "Smoking Cat",
+      "source": "https://discordpfp.gg/pfp/smoking-cat",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-smoking-cat--smoking-cat.webp?d=full",
+      "path": "icones/smoking-cat.png",
+      "bytes": 1208100,
+      "sha256": "0c53dd0a4c4dbdf6a55f1d21119211aaef40cc373e7fac4a1513c5236125cb00",
+      "gitSha": "31ca2963e971d0de2e07194ac8cfdafa6c358416"
+    },
+    {
+      "kind": "avatar",
+      "name": "Beanie Cat",
+      "source": "https://discordpfp.gg/pfp/beanie-cat",
+      "url": "https://discordpfp.gg/images/pfp/white-cat/white-cat-pfp-beanie-cat--beanie-cat.webp?d=full",
+      "path": "icones/beanie-cat.png",
+      "bytes": 653663,
+      "sha256": "af62fa41029f197eff3dcffef96ed5feda8bbcecb4cf290eec0b15cd818a5d98",
+      "gitSha": "723b4b98f9d675609dd3ac15bf8127b87d3a3eb7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Beanie Pose",
+      "source": "https://discordpfp.gg/pfp/beanie-pose",
+      "url": "https://discordpfp.gg/images/pfp/black-and-white/black-and-white-pfp-beanie-pose--beanie-pose.webp?d=full",
+      "path": "icones/beanie-pose.png",
+      "bytes": 354426,
+      "sha256": "45b29fd1daa0ef54688d358b619d6c0139f124a9f8e11b06eae86792d4854883",
+      "gitSha": "36e43bacd5683f95cb6b984a02e29d2e7d589e63"
+    },
+    {
+      "kind": "avatar",
+      "name": "Duckling Meme",
+      "source": "https://discordpfp.gg/pfp/duckling-meme",
+      "url": "https://discordpfp.gg/images/pfp/duckling/duckling-pfp-duckling-meme--duckling-meme.webp?d=full",
+      "path": "icones/duckling-meme.png",
+      "bytes": 1417642,
+      "sha256": "4c592282d3669a38f91c74a9a40979dbd7076a6e997924d3597b32d37e5c0987",
+      "gitSha": "2dc5dce2b8a283761ca75790ae9b983c3c6474cd"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap Tabby",
+      "source": "https://discordpfp.gg/pfp/cap-tabby",
+      "url": "https://discordpfp.gg/images/pfp/tabby-cat/tabby-cat-pfp-cap-tabby--cap-tabby.webp?d=full",
+      "path": "icones/cap-tabby.png",
+      "bytes": 1482936,
+      "sha256": "be4033bade5277d702c488a8d0c70252472bfd5304410f5f8998f66f735727f2",
+      "gitSha": "85adb939d18c609bd25a337ca23e3833a46a35b7"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cap Doodle",
+      "source": "https://discordpfp.gg/pfp/cap-doodle",
+      "url": "https://discordpfp.gg/images/pfp/doodle/doodle-pfp-cap-doodle--cap-doodle.webp?d=full",
+      "path": "icones/cap-doodle.png",
+      "bytes": 181347,
+      "sha256": "5efdfc8fe464bc51e1c972bf34b2a08df82dde91797524b72791607784f87445",
+      "gitSha": "43dfb3a89d2c84b61cdf8ed09fdce83b9ce4bf0c"
+    },
+    {
+      "kind": "avatar",
+      "name": "Night Durag",
+      "source": "https://discordpfp.gg/pfp/night-durag",
+      "url": "https://discordpfp.gg/images/pfp/night-street/night-street-pfp-night-durag--night-durag.webp?d=full",
+      "path": "icones/night-durag.png",
+      "bytes": 663821,
+      "sha256": "29b8957fb36f5a1300c345e8493836c2d256d2634c8da1466455a6efe37007d4",
+      "gitSha": "cf389162534acf34d771e98167c8284ffff2e239"
+    },
+    {
+      "kind": "avatar",
+      "name": "Hamster Agent",
+      "source": "https://discordpfp.gg/pfp/hamster-agent",
+      "url": "https://discordpfp.gg/images/pfp/hamster/hamster-pfp-hamster-agent--hamster-agent.webp?d=full",
+      "path": "icones/hamster-agent.png",
+      "bytes": 887783,
+      "sha256": "0844cf997ed645bd06c3fa09debabeba631ed5366bc7e18ab74f3d3cd08bba50",
+      "gitSha": "f5194bc799347b1a47454766153c6391b801b856"
+    },
+    {
+      "kind": "avatar",
+      "name": "Cat in Cap",
+      "source": "https://discordpfp.gg/pfp/cat-in-cap",
+      "url": "https://discordpfp.gg/images/pfp/cat/cat-pfp-cat-in-cap--cat-in-cap.webp?d=full",
+      "path": "icones/cat-in-cap.png",
+      "bytes": 928051,
+      "sha256": "604b0ca40157d635d5af79a7cd1eb2958842466e4b86c3a10f89563c36950928",
+      "gitSha": "121859fc7555c613333202c78f500e844fe1977e"
+    },
+    {
+      "kind": "banner",
+      "name": "Wing Shadow",
+      "source": "https://discordpfp.gg/banner/wing-shadow",
+      "url": "https://discordpfp.gg/images/banner/silhouette/silhouette-banner-wing-shadow--wing-shadow.gif?d=full",
+      "path": "banners/wing-shadow.webp",
+      "bytes": 570566,
+      "sha256": "0facbba9f0ad82ce16ad955afedb9622b5e02267f20cf2c7e7e1c8c82ec237b5",
+      "gitSha": "e24eb12672865aecdb89fc5048b4e6655ac2d9c1"
+    },
+    {
+      "kind": "banner",
+      "name": "Blurred Sedan",
+      "source": "https://discordpfp.gg/banner/blurred-sedan",
+      "url": "https://discordpfp.gg/images/banner/sedan/sedan-banner-blurred-sedan--blurred-sedan.gif?d=full",
+      "path": "banners/blurred-sedan.webp",
+      "bytes": 227006,
+      "sha256": "7c476d50af8b23b70c35d6dd2415d01e5f53222cb5862c153f59e36a7ca1a932",
+      "gitSha": "92590a24903260bdc6b1026ab9417f46b6299986"
+    },
+    {
+      "kind": "banner",
+      "name": "Sakura Bridge",
+      "source": "https://discordpfp.gg/banner/sakura-bridge",
+      "url": "https://discordpfp.gg/images/banner/cherry-blossoms/cherry-blossoms-banner-sakura-bridge--sakura-bridge.gif?d=full",
+      "path": "banners/sakura-bridge.gif",
+      "bytes": 745060,
+      "sha256": "95a2850ae7fcd68c311dd4f12af4fcd4a69776e50932f9e5bba2e6a45e1ec199",
+      "gitSha": "3e0b33999832937387ffc1ed4226d67858859391"
+    },
+    {
+      "kind": "banner",
+      "name": "Dark Desk",
+      "source": "https://discordpfp.gg/banner/dark-desk",
+      "url": "https://discordpfp.gg/images/banner/dark-room/dark-room-banner-dark-desk--dark-desk.gif?d=full",
+      "path": "banners/dark-desk.webp",
+      "bytes": 694802,
+      "sha256": "719bdad06c1bb7717a3992b07acb8738bc899316f8cedfa214eb3fb64b8ca517",
+      "gitSha": "21137591b9625a61860d0a60ab26496699a069c0"
+    },
+    {
+      "kind": "banner",
+      "name": "Moonlit Sky",
+      "source": "https://discordpfp.gg/banner/moonlit-sky-6",
+      "url": "https://discordpfp.gg/images/banner/full-moon/full-moon-banner-moonlit-sky--moonlit-sky-6.gif?d=full",
+      "path": "banners/moonlit-sky-6.gif",
+      "bytes": 386608,
+      "sha256": "2640227d1ebfd40ff0cf697ae61a3c7535199a2088d862803f830895cc83b0e9",
+      "gitSha": "5c48c1292083d69e919df4386c3e781e2afaec05"
+    },
+    {
+      "kind": "banner",
+      "name": "Surreal",
+      "source": "https://discordpfp.gg/banner/surreal",
+      "url": "https://discordpfp.gg/images/banner/eyes/eyes-banner-surreal--surreal.gif?d=full",
+      "path": "banners/surreal.gif",
+      "bytes": 28460,
+      "sha256": "4e85a9f98ea2dde313d79a52d967864c773e8d59839a1b1f69e7a87a63040e5a",
+      "gitSha": "add06161f4bdf3945fc7555901e0368e9420636a"
+    },
+    {
+      "kind": "banner",
+      "name": "Car Cat",
+      "source": "https://discordpfp.gg/banner/car-cat",
+      "url": "https://discordpfp.gg/images/banner/cat/cat-banner-car-cat--car-cat.gif?d=full",
+      "path": "banners/car-cat.gif",
+      "bytes": 959946,
+      "sha256": "7c19c488c837d1a58e0d101390c69e751a9593bbbbc07ebdc94b4e6d2b914673",
+      "gitSha": "ac611636daf320c7395c7f9d9a02bace6d646124"
+    },
+    {
+      "kind": "banner",
+      "name": "Moon Blossoms",
+      "source": "https://discordpfp.gg/banner/moon-blossoms",
+      "url": "https://discordpfp.gg/images/banner/full-moon/full-moon-banner-moon-blossoms--moon-blossoms.gif?d=full",
+      "path": "banners/moon-blossoms.webp",
+      "bytes": 1039334,
+      "sha256": "9a8b3fe2b9fcb04b94e86655fcc2783e3ed49f25a343cf1cf137747a7a3614cd",
+      "gitSha": "2fa5a51761da7e4f5492eeee4483a3c61b0dc161"
+    },
+    {
+      "kind": "banner",
+      "name": "2B Monochrome",
+      "source": "https://discordpfp.gg/banner/2b-monochrome",
+      "url": "https://discordpfp.gg/images/banner/2b/2b-banner-2b-monochrome--2b-monochrome.gif?d=full",
+      "path": "banners/2b-monochrome.webp",
+      "bytes": 374454,
+      "sha256": "6e37f6a6930f5ca5f1f0cce864d229817958f6d1807ce0d18785df3b25be12f1",
+      "gitSha": "0805d97e7b53d58614ec90fb590f528eb946b4e6"
+    },
+    {
+      "kind": "banner",
+      "name": "Loves Money",
+      "source": "https://discordpfp.gg/banner/loves-money",
+      "url": "https://discordpfp.gg/images/banner/text-graphic/text-graphic-banner-loves-money--loves-money.webp?d=full",
+      "path": "banners/loves-money.png",
+      "bytes": 252750,
+      "sha256": "d035de330f1f7b3fe578aa4d3bd2545375219dc074e9ebe5d2b156ad6e2065e7",
+      "gitSha": "54280e8e24403044d2581d12898e94f67c266d6e"
+    },
+    {
+      "kind": "banner",
+      "name": "Scream Horror",
+      "source": "https://discordpfp.gg/banner/scream-horror",
+      "url": "https://discordpfp.gg/images/banner/ghostface/ghostface-banner-scream-horror--scream-horror.gif?d=full",
+      "path": "banners/scream-horror.webp",
+      "bytes": 578878,
+      "sha256": "bedf50423e3a54b61105632d85dab6a4eb4ff777acefd9737eb6cb1e8eebaf06",
+      "gitSha": "032d9bd8d0a5c7100b2f61928e9dfdfaecc5bfb0"
+    },
+    {
+      "kind": "banner",
+      "name": "Cash Counter",
+      "source": "https://discordpfp.gg/banner/cash-counter",
+      "url": "https://discordpfp.gg/images/banner/cash/cash-banner-cash-counter--cash-counter.gif?d=full",
+      "path": "banners/cash-counter.webp",
+      "bytes": 883466,
+      "sha256": "bba250aa930275191ccac876b628ec9a80c36ac43f0fc385a856c7b85131516a",
+      "gitSha": "de0722a9d6adbb627c4bcaf4630e73db163fdf1a"
+    },
+    {
+      "kind": "banner",
+      "name": "Silver Crown",
+      "source": "https://discordpfp.gg/banner/silver-crown",
+      "url": "https://discordpfp.gg/images/banner/silver-crown/silver-crown-banner-silver-crown--silver-crown.webp?d=full",
+      "path": "banners/silver-crown.png",
+      "bytes": 60867,
+      "sha256": "b7de823c51966147d0069c8f33a92df015c2f8fb4c271de3794891fc3cee7a54",
+      "gitSha": "195ec5b913225afc2affc19a123c185cd0238630"
+    },
+    {
+      "kind": "banner",
+      "name": "Smoking Hand",
+      "source": "https://discordpfp.gg/banner/smoking-hand",
+      "url": "https://discordpfp.gg/images/banner/cigarette/cigarette-banner-smoking-hand--smoking-hand.gif?d=full",
+      "path": "banners/smoking-hand.gif",
+      "bytes": 100133,
+      "sha256": "a1478c987e48ca69e461e8a133723a50c093e2c962e766915f5456c5e969166e",
+      "gitSha": "3f90065e0d777c154deeee7b9b6ec91788e256ff"
+    },
+    {
+      "kind": "banner",
+      "name": "Purple Moon",
+      "source": "https://discordpfp.gg/banner/purple-moon",
+      "url": "https://discordpfp.gg/images/banner/purple-moon/purple-moon-banner-purple-moon--purple-moon.gif?d=full",
+      "path": "banners/purple-moon.webp",
+      "bytes": 179542,
+      "sha256": "f13aa29bea61c047b36131d5e4e1ab04f5b1352d9ae57417d3f0e1c09b8b56aa",
+      "gitSha": "a19718972d1ea9e663ec94b7c7ae24065d80a219"
+    },
+    {
+      "kind": "banner",
+      "name": "Crimson Woods",
+      "source": "https://discordpfp.gg/banner/crimson-woods-2",
+      "url": "https://discordpfp.gg/images/banner/red-forest/red-forest-banner-crimson-woods--crimson-woods-2.gif?d=full",
+      "path": "banners/crimson-woods-2.webp",
+      "bytes": 378850,
+      "sha256": "49d007a74cfad56f4ac70dbc1d6b8883d6dde6f7c504a90d0edd710dcf26d399",
+      "gitSha": "52feaeb2fa8ae0ec9b7c2e9f0dfa91c2e8c896e9"
+    },
+    {
+      "kind": "banner",
+      "name": "Bare Tree",
+      "source": "https://discordpfp.gg/banner/bare-tree",
+      "url": "https://discordpfp.gg/images/banner/tree/tree-banner-bare-tree--bare-tree.gif?d=full",
+      "path": "banners/bare-tree.gif",
+      "bytes": 585535,
+      "sha256": "bcf854365d936cc92d534f4c0addc3d47cae7f7da54683a25ed73fbc4d992997",
+      "gitSha": "a36f75ae6dd42d2f4d66949c7eb687d20d009f4d"
+    },
+    {
+      "kind": "banner",
+      "name": "Projects Fold",
+      "source": "https://discordpfp.gg/banner/dotted-hands-projects-folder",
+      "url": "https://discordpfp.gg/images/banner/black-background/black-background-banner-projects-fold--dotted-hands-projects-folder.webp?d=full",
+      "path": "banners/dotted-hands-projects-folder.png",
+      "bytes": 377046,
+      "sha256": "54b560c00cd0330b23ec440c149b74831c0b0314fac73de914352be241337e89",
+      "gitSha": "8dcb95b2661ae8fab316ae3f3c31a0cd34307f31"
+    },
+    {
+      "kind": "banner",
+      "name": "Anime Eye Red",
+      "source": "https://discordpfp.gg/banner/crimson-anime-eye-closeup",
+      "url": "https://discordpfp.gg/images/banner/anime-eye/anime-eye-banner-anime-eye-red--crimson-anime-eye-closeup.webp?d=full",
+      "path": "banners/crimson-anime-eye-closeup.png",
+      "bytes": 1306499,
+      "sha256": "5ee3776025742260f44a3c861ca88698c33461d3bd8460906fbd74ec43e96adc",
+      "gitSha": "5c83a8eb1e1fe352accd31ae7c9373b1257e7be9"
+    },
+    {
+      "kind": "banner",
+      "name": "Hidden Gaze",
+      "source": "https://discordpfp.gg/banner/monochrome-manga-hidden-gaze",
+      "url": "https://discordpfp.gg/images/banner/monochrome/monochrome-banner-hidden-gaze--monochrome-manga-hidden-gaze.webp?d=full",
+      "path": "banners/monochrome-manga-hidden-gaze.png",
+      "bytes": 4718187,
+      "sha256": "65d67a9ea947edfd8d4acdb5dae917e1716e9aa970cc977d071c8075c24f8fdb",
+      "gitSha": "bdee5b1f77e130d7fd5d1560e62d013f0c6991d4"
+    },
+    {
+      "kind": "banner",
+      "name": "Noir Sip",
+      "source": "https://discordpfp.gg/banner/noir-sip-black-and-white-man-drinking-glass",
+      "url": "https://discordpfp.gg/images/banner/black-and-white/black-and-white-banner-noir-sip--noir-sip-black-and-white-man-drinking-glass.gif?d=full",
+      "path": "banners/noir-sip-black-and-white-man-drinking-glass.gif",
+      "bytes": 913164,
+      "sha256": "b904aba878cc66e236cfa9f003bbbbc0519d3a7c4ffcfefe79d1549fd1e671ac",
+      "gitSha": "55304dce53471f6afba4150756ae6ec642d2c3d0"
+    },
+    {
+      "kind": "banner",
+      "name": "Thomas Shelby",
+      "source": "https://discordpfp.gg/banner/thomas-shelby-peaky-blinders-smoking-bar-scene",
+      "url": "https://discordpfp.gg/images/banner/peaky-blinders/peaky-blinders-banner-thomas-shelby--thomas-shelby-peaky-blinders-smoking-bar-scene.gif?d=full",
+      "path": "banners/thomas-shelby-peaky-blinders-smoking-bar-scene.webp",
+      "bytes": 246164,
+      "sha256": "949bdaa88b153e77518ca4e017e910dba26f7b43e0f4063c424c65e4ee9d36fb",
+      "gitSha": "162e0ae35704d9fa8ae1dbffeebaf2bad21c00a9"
+    },
+    {
+      "kind": "banner",
+      "name": "Suit at Bar",
+      "source": "https://discordpfp.gg/banner/man-in-suit-drinking-at-bar-black-and",
+      "url": "https://discordpfp.gg/images/banner/man/man-banner-suit-at-bar--man-in-suit-drinking-at-bar-black-and.webp?d=full",
+      "path": "banners/man-in-suit-drinking-at-bar-black-and.png",
+      "bytes": 1106930,
+      "sha256": "22d2926d6c4735478e9f3e3dd5ffcbcaf4f5d2674c6f8ca075e3f488e871b678",
+      "gitSha": "675683053bd029ad21f993b5e6ee734704516565"
+    },
+    {
+      "kind": "banner",
+      "name": "SchemEZ Grid",
+      "source": "https://discordpfp.gg/banner/schemez-pop-culture-icon-grid",
+      "url": "https://discordpfp.gg/images/banner/schemez/schemez-banner-schemez-grid--schemez-pop-culture-icon-grid.webp?d=full",
+      "path": "banners/schemez-pop-culture-icon-grid.png",
+      "bytes": 1251359,
+      "sha256": "d90183c4edee36e84ed2acf1412abf41ffa8de146aa8581ce023ba8762dabe9c",
+      "gitSha": "f69df11e7bc2b7a6f9b52d9f8ee6b81697d5fc78"
+    },
+    {
+      "kind": "banner",
+      "name": "Atherian Tag",
+      "source": "https://discordpfp.gg/banner/hello-im-atherian-name-tag",
+      "url": "https://discordpfp.gg/images/banner/name-tag/name-tag-banner-atherian-tag--hello-im-atherian-name-tag.webp?d=full",
+      "path": "banners/hello-im-atherian-name-tag.png",
+      "bytes": 425168,
+      "sha256": "1e5ac24464ab881b21a5873638ec2d0f89471ffe9d04a8106feb94d917b181dd",
+      "gitSha": "124d8e49b4c8d522aea1566f98936c818642a061"
+    },
+    {
+      "kind": "banner",
+      "name": "Arrest Scene",
+      "source": "https://discordpfp.gg/banner/black-and-white-arrest-scene-man-with-police",
+      "url": "https://discordpfp.gg/images/banner/arrest/arrest-banner-arrest-scene--black-and-white-arrest-scene-man-with-police.webp?d=full",
+      "path": "banners/black-and-white-arrest-scene-man-with-police.png",
+      "bytes": 667326,
+      "sha256": "dcf470dae19bc9562d5cede0a13b1dc550bacc4579fb419aeca1c722a4d5adf0",
+      "gitSha": "134747bed5d6ef2dd824ea4a1ea114db2f99c31b"
+    },
+    {
+      "kind": "banner",
+      "name": "Katana Lyrics",
+      "source": "https://discordpfp.gg/banner/black-white-katana-lyrics-edit",
+      "url": "https://discordpfp.gg/images/banner/katana/katana-banner-katana-lyrics--black-white-katana-lyrics-edit.webp?d=full",
+      "path": "banners/black-white-katana-lyrics-edit.png",
+      "bytes": 332925,
+      "sha256": "43a8d8695fa602fbf098778bad4da7586d77c50ee6e593d42228895e0df3233f",
+      "gitSha": "051bd0994bcd76fb07b9aa1a00b69ba78a5bc1cf"
+    },
+    {
+      "kind": "banner",
+      "name": "Brooklyn Baby",
+      "source": "https://discordpfp.gg/banner/brooklyn-baby-music-collage",
+      "url": "https://discordpfp.gg/images/banner/lana-del-rey/lana-del-rey-banner-brooklyn-baby--brooklyn-baby-music-collage.webp?d=full",
+      "path": "banners/brooklyn-baby-music-collage.png",
+      "bytes": 811826,
+      "sha256": "3f8cbca8abe9ffcfe6379343552e48d3cd3d4e3816a4581cd47578dd6f89b540",
+      "gitSha": "8c09e964ad2071868fef72997665ee493d5f0dd7"
+    },
+    {
+      "kind": "banner",
+      "name": "Crescent Moon",
+      "source": "https://discordpfp.gg/banner/crescent-moon-japanese-quote",
+      "url": "https://discordpfp.gg/images/banner/crescent-moon/crescent-moon-banner-crescent-moon--crescent-moon-japanese-quote.webp?d=full",
+      "path": "banners/crescent-moon-japanese-quote.png",
+      "bytes": 208687,
+      "sha256": "f0e8f03289b28fe6618fab54e210cbc609a7ca4b5ca20b5a1281c8ff7df6fcb6",
+      "gitSha": "6f0278d3e7d1d829980569e591a73154c137cd61"
+    },
+    {
+      "kind": "banner",
+      "name": "Blue Eyed Gze",
+      "source": "https://discordpfp.gg/banner/anime-woman-blue-eyes-on-pillow",
+      "url": "https://discordpfp.gg/images/banner/anime-woman/anime-woman-banner-blue-eyed-gze--anime-woman-blue-eyes-on-pillow.webp?d=full",
+      "path": "banners/anime-woman-blue-eyes-on-pillow.png",
+      "bytes": 1079094,
+      "sha256": "55023d4a66b4752a83a7a25c501daac801bc969c6b5cb294a876af99beb4ca45",
+      "gitSha": "14de443711fe72cd3e3c3e287d3c56cecfc5bc04"
+    },
+    {
+      "kind": "banner",
+      "name": "Life Sucks",
+      "source": "https://discordpfp.gg/banner/life-sucks-dark-text",
+      "url": "https://discordpfp.gg/images/banner/my-life-sucks/my-life-sucks-banner-life-sucks--life-sucks-dark-text.webp?d=full",
+      "path": "banners/life-sucks-dark-text.png",
+      "bytes": 728848,
+      "sha256": "a7c8f63e1947c739eadb17f12faf8929f22c9e6375f321e45df93872a6f42e41",
+      "gitSha": "1db41cb691f4848266aa46a406c34661ce672b9c"
+    },
+    {
+      "kind": "banner",
+      "name": "Hand Kiss",
+      "source": "https://discordpfp.gg/banner/manga-hand-kiss-side-profile",
+      "url": "https://discordpfp.gg/images/banner/hand-kiss/hand-kiss-banner-hand-kiss--manga-hand-kiss-side-profile.webp?d=full",
+      "path": "banners/manga-hand-kiss-side-profile.png",
+      "bytes": 804517,
+      "sha256": "b218dcd2a25ff4f3667e9e437e6528e86372e9c8484ecbd462ee1c25646077fe",
+      "gitSha": "7554918e035eff55e2613c9a4425806d454d8512"
+    },
+    {
+      "kind": "banner",
+      "name": "Ghost Bench",
+      "source": "https://discordpfp.gg/banner/ghost-bench-waterfront-night",
+      "url": "https://discordpfp.gg/images/banner/bench/bench-banner-ghost-bench--ghost-bench-waterfront-night.webp?d=full",
+      "path": "banners/ghost-bench-waterfront-night.png",
+      "bytes": 533088,
+      "sha256": "685afe43e5b133854af631b3c4311ccbc113e95d7113a48a20e71055109af61c",
+      "gitSha": "f859af7389c93d178619b7331992c41bce92e8b2"
+    },
+    {
+      "kind": "banner",
+      "name": "Reaching Pair",
+      "source": "https://discordpfp.gg/banner/blurred-figures-reaching-in-dark-field",
+      "url": "https://discordpfp.gg/images/banner/black-and-white/black-and-white-banner-reaching-pair--blurred-figures-reaching-in-dark-field.webp?d=full",
+      "path": "banners/blurred-figures-reaching-in-dark-field.png",
+      "bytes": 2014181,
+      "sha256": "25db0d51400492dffcc11fc483156ae4b2e5178724ccb15fdd9ec842184c909f",
+      "gitSha": "115c45221668c5fb436e39b07d3b41e90187b747"
+    },
+    {
+      "kind": "banner",
+      "name": "Black And",
+      "source": "https://discordpfp.gg/banner/shadow-eyes-black-white-dark-aesthetic",
+      "url": "https://discordpfp.gg/images/banner/eyes/eyes-banner-black-and--shadow-eyes-black-white-dark-aesthetic.webp?d=full",
+      "path": "banners/shadow-eyes-black-white-dark-aesthetic.png",
+      "bytes": 593799,
+      "sha256": "d92ce1218e6d47c7d07240a8b1c7221cf9c7d3e3e2e4846ebae7eaa2a0896348",
+      "gitSha": "6d25ae35a9ce5d6aeca76ffa9514958131105afc"
+    },
+    {
+      "kind": "banner",
+      "name": "Manga Couple",
+      "source": "https://discordpfp.gg/banner/black-white-manga-couple-dialogue",
+      "url": "https://discordpfp.gg/images/banner/romance/romance-banner-manga-couple--black-white-manga-couple-dialogue.webp?d=full",
+      "path": "banners/black-white-manga-couple-dialogue.png",
+      "bytes": 265333,
+      "sha256": "2878c604752d1d07875a28149f6739c8f7b0c175f7d9149896e7206a9f958cc4",
+      "gitSha": "b51680c098c888cdcb0a87557744b226ea8070a8"
+    },
+    {
+      "kind": "banner",
+      "name": "Manga Pair",
+      "source": "https://discordpfp.gg/banner/black-white-manga-side-profile-pair",
+      "url": "https://discordpfp.gg/images/banner/black-and-white/black-and-white-banner-manga-pair--black-white-manga-side-profile-pair.webp?d=full",
+      "path": "banners/black-white-manga-side-profile-pair.png",
+      "bytes": 852508,
+      "sha256": "6a16b6a9c9797690746cf8239396e77817a52ce234aab2bc49fa096202309db1",
+      "gitSha": "8e310ce8677a43f20931624f9bc8e8ab9cc01063"
+    },
+    {
+      "kind": "banner",
+      "name": "Guitar Duo",
+      "source": "https://discordpfp.gg/banner/black-white-manga-guitar-duo",
+      "url": "https://discordpfp.gg/images/banner/guitar/guitar-banner-guitar-duo--black-white-manga-guitar-duo.webp?d=full",
+      "path": "banners/black-white-manga-guitar-duo.png",
+      "bytes": 1317991,
+      "sha256": "a0931020dc5e09955077a551da92e57b067edaecab060a7be508454d6b1d4253",
+      "gitSha": "d064197e26a52424832f833bd035b2e395ba019f"
+    },
+    {
+      "kind": "banner",
+      "name": "Tender Sketch",
+      "source": "https://discordpfp.gg/banner/black-white-anime-couple-sketch",
+      "url": "https://discordpfp.gg/images/banner/sketch/sketch-banner-tender-sketch--black-white-anime-couple-sketch.webp?d=full",
+      "path": "banners/black-white-anime-couple-sketch.png",
+      "bytes": 871019,
+      "sha256": "0814a814a3203ab0c26925337b6015ea6243d870d5fd95583e7c1d1abf9a2a96",
+      "gitSha": "ee05a1fcc6fff394bc398c72fa4fd5ccdf334f0a"
+    },
+    {
+      "kind": "banner",
+      "name": "Nose Boop",
+      "source": "https://discordpfp.gg/banner/manga-couple-nose-boop-cafe",
+      "url": "https://discordpfp.gg/images/banner/couple/couple-banner-nose-boop--manga-couple-nose-boop-cafe.webp?d=full",
+      "path": "banners/manga-couple-nose-boop-cafe.png",
+      "bytes": 1067225,
+      "sha256": "f483dec02951c915398fa6b3f4c4d00f6082f269b60cc117fb012b9c8e0dafde",
+      "gitSha": "61f75689ca84b1e3a03687fc47dc028fc12277f4"
+    },
+    {
+      "kind": "banner",
+      "name": "Bouquet Offer",
+      "source": "https://discordpfp.gg/banner/manga-couple-bouquet-offer",
+      "url": "https://discordpfp.gg/images/banner/romance/romance-banner-bouquet-offer--manga-couple-bouquet-offer.webp?d=full",
+      "path": "banners/manga-couple-bouquet-offer.png",
+      "bytes": 1884008,
+      "sha256": "395350b635e693f62159b98652ba58e22cf4685ff0ad5c987d8bc6928ae45931",
+      "gitSha": "433ef16a5c6b74408a12e618d65fc55ab5ae60ad"
+    },
+    {
+      "kind": "banner",
+      "name": "Pixel Touch",
+      "source": "https://discordpfp.gg/banner/pointing-hands-pixel-gold-black",
+      "url": "https://discordpfp.gg/images/banner/minecraft/minecraft-banner-pixel-touch--pointing-hands-pixel-gold-black.webp?d=full",
+      "path": "banners/pointing-hands-pixel-gold-black.png",
+      "bytes": 276300,
+      "sha256": "ab55fd217b8be0338dfa1373252794b2ff3bccc500fad225e336975ff7cad672",
+      "gitSha": "28c0de8d805a7843a0fbe989c5c1181c8f5a0e85"
+    },
+    {
+      "kind": "banner",
+      "name": "Trust No B",
+      "source": "https://discordpfp.gg/banner/trust-no-bitch-red-blackletter-text",
+      "url": "https://discordpfp.gg/images/banner/trust-no-bitch/trust-no-bitch-banner-trust-no-b--trust-no-bitch-red-blackletter-text.webp?d=full",
+      "path": "banners/trust-no-bitch-red-blackletter-text.png",
+      "bytes": 385632,
+      "sha256": "d0cef3038486fe0c2c018da78ee3e960e41241fd6c459d0504d564de44e468cf",
+      "gitSha": "0c110d8ef086e261b50406a55b0adf5ea38021f2"
+    },
+    {
+      "kind": "banner",
+      "name": "Paris GT3 RS",
+      "source": "https://discordpfp.gg/banner/gray-gt3-rs-in-paris-at-night",
+      "url": "https://discordpfp.gg/images/banner/porsche/porsche-banner-paris-gt3-rs--gray-gt3-rs-in-paris-at-night.webp?d=full",
+      "path": "banners/gray-gt3-rs-in-paris-at-night.png",
+      "bytes": 6262822,
+      "sha256": "70bc7267a78f03d9dbd1bfdc0aee4d78f0afb3f5bc732b86b490290824f97670",
+      "gitSha": "b0c3a28400c485d3e950d2c21708e0619f44ce81"
+    },
+    {
+      "kind": "banner",
+      "name": "Eye Makeup",
+      "source": "https://discordpfp.gg/banner/closed-eyes-line-art",
+      "url": "https://discordpfp.gg/images/banner/closed-eyes/closed-eyes-banner-eye-makeup--closed-eyes-line-art.gif?d=full",
+      "path": "banners/closed-eyes-line-art.gif",
+      "bytes": 47000,
+      "sha256": "9aae01e243aad665821eae2cfa7e850d5622a2ad21a53a7ee2e2403fd074bbeb",
+      "gitSha": "440863d44f01e93ea1bc3056968bf9e8496cacaf"
+    },
+    {
+      "kind": "banner",
+      "name": "Window Gaze",
+      "source": "https://discordpfp.gg/banner/monochrome-anime-boy-by-window",
+      "url": "https://discordpfp.gg/images/banner/anime/anime-banner-window-gaze--monochrome-anime-boy-by-window.gif?d=full",
+      "path": "banners/monochrome-anime-boy-by-window.gif",
+      "bytes": 396858,
+      "sha256": "0cb84be96d10d9afb5a8cd392141af71346c0a3a1f8b43381688e2bd471e7298",
+      "gitSha": "6aa1734dabbec6ce3b4b182041d2c2cc6579c71c"
+    },
+    {
+      "kind": "banner",
+      "name": "Rain Collapse",
+      "source": "https://discordpfp.gg/banner/rain-collapse-monochrome-melancholy-scene",
+      "url": "https://discordpfp.gg/images/banner/rain/rain-banner-rain-collapse--rain-collapse-monochrome-melancholy-scene.gif?d=full",
+      "path": "banners/rain-collapse-monochrome-melancholy-scene.webp",
+      "bytes": 185684,
+      "sha256": "17eec818576d6dc7dda423a8a0a7067bfc213090e868f6e4c123ef58ed6e45ba",
+      "gitSha": "9f9c83582da213af099b7bc0d4c69abdc60f2815"
+    },
+    {
+      "kind": "banner",
+      "name": "Sparkle Sky",
+      "source": "https://discordpfp.gg/banner/sparkling-blue-cloud-sky",
+      "url": "https://discordpfp.gg/images/banner/blue-sky/blue-sky-banner-sparkle-sky--sparkling-blue-cloud-sky.webp?d=full",
+      "path": "banners/sparkling-blue-cloud-sky.png",
+      "bytes": 4054346,
+      "sha256": "7caf11766d7d03a0fd69c87eb5ad15406d39038a3de2d8a0403440f0b6da07a4",
+      "gitSha": "b88700d06dd51fe3b019e7394249ba54960ba15f"
+    },
+    {
+      "kind": "banner",
+      "name": "Glowing Eyes",
+      "source": "https://discordpfp.gg/banner/glowing-purple-eyes-dark-shadow",
+      "url": "https://discordpfp.gg/images/banner/glowing-eyes/glowing-eyes-banner-glowing-eyes--glowing-purple-eyes-dark-shadow.gif?d=full",
+      "path": "banners/glowing-purple-eyes-dark-shadow.gif",
+      "bytes": 725327,
+      "sha256": "f6c8ba5cc4e693518b9836e6bc91b3c7cc19fb568304e6531d798b5818f71ee0",
+      "gitSha": "896a6a8c669d151f91b520eca6fa68bc4a43f6d3"
+    },
+    {
+      "kind": "banner",
+      "name": "Pink Manga",
+      "source": "https://discordpfp.gg/banner/pink-manga-anime-girl",
+      "url": "https://discordpfp.gg/images/banner/anime-girl/anime-girl-banner-pink-manga--pink-manga-anime-girl.webp?d=full",
+      "path": "banners/pink-manga-anime-girl.png",
+      "bytes": 1230488,
+      "sha256": "e4bdc18fda8fd4d115d5d9e8e5019ba46f3a4412d3a0b067491f1f3d2c3d27ab",
+      "gitSha": "8eaf27bb26026bb84127e0e130bbddb2af87c8a2"
+    },
+    {
+      "kind": "banner",
+      "name": "Fallen Angel",
+      "source": "https://discordpfp.gg/banner/fallen-angel-white-wings-pastel-aesthetic",
+      "url": "https://discordpfp.gg/images/banner/fallen-angel/fallen-angel-banner-fallen-angel--fallen-angel-white-wings-pastel-aesthetic.webp?d=full",
+      "path": "banners/fallen-angel-white-wings-pastel-aesthetic.png",
+      "bytes": 797662,
+      "sha256": "9256c9ca26c4cc058783e44b7c2df2090c7fbc56bd56e504f675c79a557e0e32",
+      "gitSha": "1dd28edf6e35dd39201c021d70f7edeffe632503"
+    },
+    {
+      "kind": "banner",
+      "name": "#SWAG Text",
+      "source": "https://discordpfp.gg/banner/swag-text-tribal-graphic",
+      "url": "https://discordpfp.gg/images/banner/swag/swag-banner-swag-text--swag-text-tribal-graphic.webp?d=full",
+      "path": "banners/swag-text-tribal-graphic.png",
+      "bytes": 1428499,
+      "sha256": "472e0306eeac59115712495a4dce2e1b2554a47b5f279b90ed8a5b873a1041a2",
+      "gitSha": "7fad0c85ac905cab48829cb8156ff2b9fe5226fa"
+    },
+    {
+      "kind": "banner",
+      "name": "#SWAG Text",
+      "source": "https://discordpfp.gg/banner/swag-text-collage-monochrome",
+      "url": "https://discordpfp.gg/images/banner/swag/swag-banner-swag-text--swag-text-collage-monochrome.webp?d=full",
+      "path": "banners/swag-text-collage-monochrome.png",
+      "bytes": 1213548,
+      "sha256": "65a96e9df014a754edb264436b1ec7310254656e5da9b21b4c4af0c50b1e9cfe",
+      "gitSha": "acd92b6e7825adac7d649b4a3c73f7264ea05be4"
+    },
+    {
+      "kind": "banner",
+      "name": "Catgirl Goth",
+      "source": "https://discordpfp.gg/banner/catgirl-goth-black-twintails",
+      "url": "https://discordpfp.gg/images/banner/cat-ears/cat-ears-banner-catgirl-goth--catgirl-goth-black-twintails.webp?d=full",
+      "path": "banners/catgirl-goth-black-twintails.png",
+      "bytes": 2032693,
+      "sha256": "1f27bcd2842ec6d13a2dbdd146f804ad9c922b001e0d62928c60bd76443439f1",
+      "gitSha": "0aad58734d69895de578a291ee8d022073796fb5"
+    },
+    {
+      "kind": "banner",
+      "name": "Projects File",
+      "source": "https://discordpfp.gg/banner/dotted-hands-projects-folder-2",
+      "url": "https://discordpfp.gg/images/banner/savrbusinessbot-tg-free/savrbusinessbot-tg-free-banner-projects-file--dotted-hands-projects-folder-2.gif?d=full",
+      "path": "banners/dotted-hands-projects-folder-2.webp",
+      "bytes": 743236,
+      "sha256": "9c348f30c920ea2aa11773c0e70c92ecedd1f1b1ef4a9f8be5eb98da746d785a",
+      "gitSha": "26596cfa3fe6afe21579ac8102da3e093037b21f"
+    },
+    {
+      "kind": "banner",
+      "name": "Cat Eye Match",
+      "source": "https://discordpfp.gg/banner/woman-eyes-behind-white-cat",
+      "url": "https://discordpfp.gg/images/banner/cat/cat-banner-cat-eye-match--woman-eyes-behind-white-cat.webp?d=full",
+      "path": "banners/woman-eyes-behind-white-cat.png",
+      "bytes": 1627634,
+      "sha256": "bd30ebf86f48fe5e029b1a490aa604b256a82e4b527b34f54c3f7ab69936d8c9",
+      "gitSha": "556087bcf59d366eaf18169b4d8d104ec6b11950"
+    },
+    {
+      "kind": "banner",
+      "name": "Spotted Fawns",
+      "source": "https://discordpfp.gg/banner/two-spotted-fawns-in-forest",
+      "url": "https://discordpfp.gg/images/banner/deer/deer-banner-spotted-fawns--two-spotted-fawns-in-forest.webp?d=full",
+      "path": "banners/two-spotted-fawns-in-forest.png",
+      "bytes": 2243091,
+      "sha256": "15493f15cf55d7e567e354922c425078c55b02854017f3a9faaaba60cb5d0b21",
+      "gitSha": "8aedc640e2f43c65151e1d36ceaf6a143724db36"
+    },
+    {
+      "kind": "banner",
+      "name": "Fawn in Bloom",
+      "source": "https://discordpfp.gg/banner/fawn-among-pink-flowers",
+      "url": "https://discordpfp.gg/images/banner/fawn/fawn-banner-fawn-in-bloom--fawn-among-pink-flowers.webp?d=full",
+      "path": "banners/fawn-among-pink-flowers.png",
+      "bytes": 2233435,
+      "sha256": "e9c79b949ba4869db7d0a66afbb1433b957c2fc3ee5c521fa4eaf34fe1509f8d",
+      "gitSha": "d1fec321dcc0f7ac90ab93ffe7ec5c032dfc616e"
+    },
+    {
+      "kind": "banner",
+      "name": "Tilted Screen",
+      "source": "https://discordpfp.gg/banner/tilted-camera-screen-interface",
+      "url": "https://discordpfp.gg/images/banner/camera-screen/camera-screen-banner-tilted-screen--tilted-camera-screen-interface.gif?d=full",
+      "path": "banners/tilted-camera-screen-interface.webp",
+      "bytes": 446506,
+      "sha256": "eca1658b6db1d58e3bad3a5853445e8d1e9cfebb411de9430bb8fc6e4b341217",
+      "gitSha": "e93d8a208d64d9769989afb669e876432d21f2d1"
+    },
+    {
+      "kind": "banner",
+      "name": "Night Hills",
+      "source": "https://discordpfp.gg/banner/night-hills-residential-street-city-lights",
+      "url": "https://discordpfp.gg/images/banner/night-street/night-street-banner-night-hills--night-hills-residential-street-city-lights.webp?d=full",
+      "path": "banners/night-hills-residential-street-city-lights.png",
+      "bytes": 858085,
+      "sha256": "e19d0260721f20d10ba84096ba4ce621ffdb8e67e512a1d6775300f99cd37df5",
+      "gitSha": "dcc1cd97d693f739e7f6f417dc998dd795b66837"
+    },
+    {
+      "kind": "banner",
+      "name": "Enderman Sky",
+      "source": "https://discordpfp.gg/banner/enderman-minecraft-end-city-purple-sky",
+      "url": "https://discordpfp.gg/images/banner/enderman/enderman-banner-enderman-sky--enderman-minecraft-end-city-purple-sky.webp?d=full",
+      "path": "banners/enderman-minecraft-end-city-purple-sky.png",
+      "bytes": 1320398,
+      "sha256": "a65fa6d6e8fd632402621b142389f2f2ab68e692719d3726cb4e9b632a1409f5",
+      "gitSha": "a4520e1ca0b67980e3c435a4a5ca4eb3822c77df"
+    },
+    {
+      "kind": "banner",
+      "name": "Fisheye Train",
+      "source": "https://discordpfp.gg/banner/fisheye-subway-train-platform-black-and-white",
+      "url": "https://discordpfp.gg/images/banner/subway/subway-banner-fisheye-train--fisheye-subway-train-platform-black-and-white.gif?d=full",
+      "path": "banners/fisheye-subway-train-platform-black-and-white.gif",
+      "bytes": 763103,
+      "sha256": "d8e5755e83ea99d3ee42474903e65e2abe8e855670645c25905f0c75fd973ba7",
+      "gitSha": "6bf29b7af3e3dcbc2de17379fa777c63735823b0"
+    },
+    {
+      "kind": "banner",
+      "name": "Blue Bunny",
+      "source": "https://discordpfp.gg/banner/blue-haired-anime-selfie-bunny-plush",
+      "url": "https://discordpfp.gg/images/banner/bear/bear-banner-blue-bunny--blue-haired-anime-selfie-bunny-plush.webp?d=full",
+      "path": "banners/blue-haired-anime-selfie-bunny-plush.png",
+      "bytes": 1851077,
+      "sha256": "708775c6dd0427db66780034c38804a8447b3fd6d78b30495f49dcee9035a19b",
+      "gitSha": "0ddff2347277c8744f2b446d0da4b346ec71f608"
+    },
+    {
+      "kind": "banner",
+      "name": "Window Silhou",
+      "source": "https://discordpfp.gg/banner/anime-male-silhouette-by-window-purple-sky",
+      "url": "https://discordpfp.gg/images/banner/anime/anime-banner-window-silhou--anime-male-silhouette-by-window-purple-sky.gif?d=full",
+      "path": "banners/anime-male-silhouette-by-window-purple-sky.webp",
+      "bytes": 483960,
+      "sha256": "cbd09d34dfc720a51bc0a96b8a5e13e60d386dacc4234257e075d5a37600fa4b",
+      "gitSha": "53a09d188c34051bf92d57fda6cfefdf014c0052"
+    },
+    {
+      "kind": "banner",
+      "name": "Cake Fork",
+      "source": "https://discordpfp.gg/banner/messy-black-haired-man-with-cake-fork",
+      "url": "https://discordpfp.gg/images/banner/messy-black-hair/messy-black-hair-banner-cake-fork--messy-black-haired-man-with-cake-fork.gif?d=full",
+      "path": "banners/messy-black-haired-man-with-cake-fork.gif",
+      "bytes": 673689,
+      "sha256": "6161c937ef0d94196dfb94ac21eaecfec2dba17f222a50fff4c8daa786996739",
+      "gitSha": "d444289018c880c419138955c33a42df682fd6fc"
+    },
+    {
+      "kind": "banner",
+      "name": "Fairy Cat",
+      "source": "https://discordpfp.gg/banner/white-cat-with-butterfly-wings-fairy-aesthetic",
+      "url": "https://discordpfp.gg/images/banner/white-cat/white-cat-banner-fairy-cat--white-cat-with-butterfly-wings-fairy-aesthetic.webp?d=full",
+      "path": "banners/white-cat-with-butterfly-wings-fairy-aesthetic.png",
+      "bytes": 3186578,
+      "sha256": "644e966d554d7a4d1da5234d1c8237b242e9570ba7d830a8d5f905ce78ad7937",
+      "gitSha": "9da3cd35c9eb11fd78419c60883585ec37e0c1da"
+    },
+    {
+      "kind": "banner",
+      "name": "Monochrome",
+      "source": "https://discordpfp.gg/banner/black-white-hidden-eye-hair",
+      "url": "https://discordpfp.gg/images/banner/monochrome/monochrome-banner-monochrome--black-white-hidden-eye-hair.gif?d=full",
+      "path": "banners/black-white-hidden-eye-hair.gif",
+      "bytes": 365339,
+      "sha256": "f10c662da0a1f98011fd7b7b7918a8fd185109249ac65e64a503488959778cda",
+      "gitSha": "8539d2a80e89bada762567cadd4a0018bc876367"
+    },
+    {
+      "kind": "banner",
+      "name": "Blue Aura",
+      "source": "https://discordpfp.gg/banner/anime-male-blue-flame-aura",
+      "url": "https://discordpfp.gg/images/banner/anime/anime-banner-blue-aura--anime-male-blue-flame-aura.webp?d=full",
+      "path": "banners/anime-male-blue-flame-aura.png",
+      "bytes": 1576060,
+      "sha256": "1485d6c1806f0e9cd21b0e9b9e31421041d647553ae71d2441dc2adc0058a723",
+      "gitSha": "b2ea8ce2f7efad35e091678c4764bd8d77a646fa"
+    },
+    {
+      "kind": "banner",
+      "name": "Gojo Aura",
+      "source": "https://discordpfp.gg/banner/satoru-gojo-purple-aura-jujutsu-kaisen",
+      "url": "https://discordpfp.gg/images/banner/satoru-gojo/satoru-gojo-banner-gojo-aura--satoru-gojo-purple-aura-jujutsu-kaisen.webp?d=full",
+      "path": "banners/satoru-gojo-purple-aura-jujutsu-kaisen.png",
+      "bytes": 183508,
+      "sha256": "604785fbc937c78a8978df61cbcbd9632a4103bce5c9fd83c33f7d7004dfaf83",
+      "gitSha": "cfcfc38135c2c7dba1d4b730e2e469bc61f16ae3"
+    },
+    {
+      "kind": "banner",
+      "name": "Tearful Live",
+      "source": "https://discordpfp.gg/banner/tearful-live-manga-profile",
+      "url": "https://discordpfp.gg/images/banner/black-and-white/black-and-white-banner-tearful-live--tearful-live-manga-profile.webp?d=full",
+      "path": "banners/tearful-live-manga-profile.png",
+      "bytes": 1260651,
+      "sha256": "8b560db3b4812e3ee317455f307460ed5b51f7e423ec3ce68f4db815c50f9035",
+      "gitSha": "931ed8724570ee9462976262a0a1339756816910"
+    },
+    {
+      "kind": "banner",
+      "name": "Spike Smoking",
+      "source": "https://discordpfp.gg/banner/spike-spiegel-smoking-cowboy-bebop",
+      "url": "https://discordpfp.gg/images/banner/spike-spiegel/spike-spiegel-banner-spike-smoking--spike-spiegel-smoking-cowboy-bebop.gif?d=full",
+      "path": "banners/spike-spiegel-smoking-cowboy-bebop.gif",
+      "bytes": 597296,
+      "sha256": "415e45bd211bfdbc45b0329b502b3431a7b4d8ff73dfddb510700e7174d5c6ad",
+      "gitSha": "0713268aa0fef53906ce4c31f0d8eb5b7d1a6534"
+    },
+    {
+      "kind": "banner",
+      "name": "Monochrome Xs",
+      "source": "https://discordpfp.gg/banner/monochrome-anime-male-suit-x-background",
+      "url": "https://discordpfp.gg/images/banner/anime/anime-banner-monochrome-xs--monochrome-anime-male-suit-x-background.gif?d=full",
+      "path": "banners/monochrome-anime-male-suit-x-background.webp",
+      "bytes": 446690,
+      "sha256": "3c28b0673f97bacd575e29fdab351076341622963db1ba613bcb1f51147df2c1",
+      "gitSha": "bd088be656b633eed210c39cab8d52bb9ba44dcb"
+    },
+    {
+      "kind": "banner",
+      "name": "Jersey 15",
+      "source": "https://discordpfp.gg/banner/anime-male-jersey-15-pink-background",
+      "url": "https://discordpfp.gg/images/banner/anime/anime-banner-jersey-15--anime-male-jersey-15-pink-background.gif?d=full",
+      "path": "banners/anime-male-jersey-15-pink-background.webp",
+      "bytes": 825842,
+      "sha256": "686b1ce9b9ea9c1d6034ccb4c98cccf35e89be014e082239d5262b01b701f93c",
+      "gitSha": "2829a4602bfbc2a4d9101af90e7e3e16f4e7de02"
+    },
+    {
+      "kind": "banner",
+      "name": "Holding Hands",
+      "source": "https://discordpfp.gg/banner/grayscale-holding-hands-anime",
+      "url": "https://discordpfp.gg/images/banner/holding-hands/holding-hands-banner-holding-hands--grayscale-holding-hands-anime.gif?d=full",
+      "path": "banners/grayscale-holding-hands-anime.gif",
+      "bytes": 429905,
+      "sha256": "705b57ab4468e3f84a59ef495218bc4d4bbc98f4824ee890d57c6a07a6e92e24",
+      "gitSha": "16860851522becb821ec281a1cfb4511551e9d31"
+    },
+    {
+      "kind": "banner",
+      "name": "Ornate Sword",
+      "source": "https://discordpfp.gg/banner/ornate-engraved-silver-sword-scabbard",
+      "url": "https://discordpfp.gg/images/banner/ornate-sword/ornate-sword-banner-ornate-sword--ornate-engraved-silver-sword-scabbard.webp?d=full",
+      "path": "banners/ornate-engraved-silver-sword-scabbard.png",
+      "bytes": 625581,
+      "sha256": "296b200617a8d2413c2a1b37c763309fa8b4867ade97d0d1bc5d44824f4db8a0",
+      "gitSha": "3954c55779028e6e23b0d57b36d3c9658c178ce2"
+    },
+    {
+      "kind": "banner",
+      "name": "White Blossom",
+      "source": "https://discordpfp.gg/banner/white-blossom-branch-black",
+      "url": "https://discordpfp.gg/images/banner/flower-branch/flower-branch-banner-white-blossom--white-blossom-branch-black.webp?d=full",
+      "path": "banners/white-blossom-branch-black.png",
+      "bytes": 386490,
+      "sha256": "a25651eee7778d6b01efb0af845b6ef8f2c774e5d6adad80b7857352a24f0fe5",
+      "gitSha": "61cae8de8a8db16bc234e6c90ee189f5c5b64558"
+    },
+    {
+      "kind": "banner",
+      "name": "Crescent Sky",
+      "source": "https://discordpfp.gg/banner/crescent-moon-dark-clouds-moody-sky",
+      "url": "https://discordpfp.gg/images/banner/crescent-moon/crescent-moon-banner-crescent-sky--crescent-moon-dark-clouds-moody-sky.webp?d=full",
+      "path": "banners/crescent-moon-dark-clouds-moody-sky.png",
+      "bytes": 742886,
+      "sha256": "fd6d0216240e5004f0ba9cb640bdb8be1d1ddf47112c069ede17acd0571b3d12",
+      "gitSha": "408d06a9b83f3d111d63daf67879de80ae8ea1e3"
+    },
+    {
+      "kind": "banner",
+      "name": "Shadow Team",
+      "source": "https://discordpfp.gg/banner/anime-basketball-team-silhouette",
+      "url": "https://discordpfp.gg/images/banner/anime/anime-banner-shadow-team--anime-basketball-team-silhouette.webp?d=full",
+      "path": "banners/anime-basketball-team-silhouette.png",
+      "bytes": 435569,
+      "sha256": "8cdc5f4df2820ab4d2e7195f016eff869a1a85dd603ac5455a2f6cd3df34a479",
+      "gitSha": "539477fab356d02977936001b597c6e63dcf4679"
+    },
+    {
+      "kind": "banner",
+      "name": "Bandaged Kat",
+      "source": "https://discordpfp.gg/banner/bandaged-hand-katana-manga-panel",
+      "url": "https://discordpfp.gg/images/banner/katana/katana-banner-bandaged-kat--bandaged-hand-katana-manga-panel.webp?d=full",
+      "path": "banners/bandaged-hand-katana-manga-panel.png",
+      "bytes": 861400,
+      "sha256": "451489491bbd392f97fe2bda86364e7b97d5a85e4770da88a4083f23a87b5e67",
+      "gitSha": "763e8b67ae0acb157c2ec14aa1155f417cfe7bb4"
+    },
+    {
+      "kind": "banner",
+      "name": "Riverside Duo",
+      "source": "https://discordpfp.gg/banner/black-white-manga-riverside-duo",
+      "url": "https://discordpfp.gg/images/banner/black-and-white/black-and-white-banner-riverside-duo--black-white-manga-riverside-duo.webp?d=full",
+      "path": "banners/black-white-manga-riverside-duo.png",
+      "bytes": 843722,
+      "sha256": "1ea250cb628954822695ded337f02149ef20f3ab835128d11dcebeac5e7757b9",
+      "gitSha": "ed1c91db03ae0e24d9c5c3072709f9ceddb709bb"
+    },
+    {
+      "kind": "banner",
+      "name": "Guitar & Text",
+      "source": "https://discordpfp.gg/banner/monochrome-guitar-phone-manga",
+      "url": "https://discordpfp.gg/images/banner/electric-guitar/electric-guitar-banner-guitar-and-text--monochrome-guitar-phone-manga.webp?d=full",
+      "path": "banners/monochrome-guitar-phone-manga.png",
+      "bytes": 1390479,
+      "sha256": "8ff5d6d2ad4ea6bea5f59e4849b444de095218f68fed58cbb8725acbb94881b8",
+      "gitSha": "9ed897fc52582ebb2e78a7841d36f958cc8b7285"
+    },
+    {
+      "kind": "banner",
+      "name": "Scoped Rifle",
+      "source": "https://discordpfp.gg/banner/scoped-rifle-in-snow",
+      "url": "https://discordpfp.gg/images/banner/rifle/rifle-banner-scoped-rifle--scoped-rifle-in-snow.webp?d=full",
+      "path": "banners/scoped-rifle-in-snow.png",
+      "bytes": 525814,
+      "sha256": "7948637268e4006d12c7e7f408559e6483bc369d511e242a96be14a03b7d1418",
+      "gitSha": "ed57465bbb904ebcdc7d1458946a020b5312a7b8"
+    },
+    {
+      "kind": "banner",
+      "name": "Shattered Tap",
+      "source": "https://discordpfp.gg/banner/hands-touching-cracked-glass-anime",
+      "url": "https://discordpfp.gg/images/banner/hands/hands-banner-shattered-tap--hands-touching-cracked-glass-anime.webp?d=full",
+      "path": "banners/hands-touching-cracked-glass-anime.png",
+      "bytes": 1034240,
+      "sha256": "023701b87889932fa54ea54c862ef2e4bb649f07612b24f9882de097b66b3f8c",
+      "gitSha": "80e41facbb393e665d389dee95984faaea1e4da3"
+    },
+    {
+      "kind": "banner",
+      "name": "Targeted Cat",
+      "source": "https://discordpfp.gg/banner/white-cat-red-crosshair-halftone",
+      "url": "https://discordpfp.gg/images/banner/white-cat/white-cat-banner-targeted-cat--white-cat-red-crosshair-halftone.webp?d=full",
+      "path": "banners/white-cat-red-crosshair-halftone.png",
+      "bytes": 2641328,
+      "sha256": "302dc8c2d44a1305b8a79d03a63cb782344264580a8e714e8a4e413799f37bb1",
+      "gitSha": "b994a132822127b398b9af70b4b3bf669b18c024"
+    },
+    {
+      "kind": "banner",
+      "name": "Mono Guitar",
+      "source": "https://discordpfp.gg/banner/black-white-electric-guitar",
+      "url": "https://discordpfp.gg/images/banner/visual-kei/visual-kei-banner-mono-guitar--black-white-electric-guitar.webp?d=full",
+      "path": "banners/black-white-electric-guitar.png",
+      "bytes": 585032,
+      "sha256": "21562690f690b1e48e8c34fdb1d0986a36388c3f6b05967d7280b98f48ad92c5",
+      "gitSha": "40641f21415889c48d971aae5c07b71efce2d40c"
+    },
+    {
+      "kind": "banner",
+      "name": "Pastel Horses",
+      "source": "https://discordpfp.gg/banner/pastel-carousel-horses-pattern",
+      "url": "https://discordpfp.gg/images/banner/fairy-kei-banner/fairy-kei-banner-banner-pastel-horses--pastel-carousel-horses-pattern.webp?d=full",
+      "path": "banners/pastel-carousel-horses-pattern.png",
+      "bytes": 1413038,
+      "sha256": "cfa95660f5db7999e4d216797430a0fcc78d973f3645144578a1aac5f9a71d8b",
+      "gitSha": "672d86aa5a6ac9308845f3b1412c27755b80972d"
+    },
+    {
+      "kind": "banner",
+      "name": "Rolling Hills",
+      "source": "https://discordpfp.gg/banner/rolling-hills-cloudy-sky",
+      "url": "https://discordpfp.gg/images/banner/rolling-hills/rolling-hills-banner-rolling-hills--rolling-hills-cloudy-sky.webp?d=full",
+      "path": "banners/rolling-hills-cloudy-sky.png",
+      "bytes": 1265514,
+      "sha256": "6a808a39877a5d5113264d74c21270cd18e2c5b33c0d1b219d9baf8022b19cc5",
+      "gitSha": "13409f778a46f245c74617c6106281d2e59322e9"
+    },
+    {
+      "kind": "banner",
+      "name": "Sunset Wing",
+      "source": "https://discordpfp.gg/banner/airplane-wing-sunset-above-clouds",
+      "url": "https://discordpfp.gg/images/banner/aeroplane/aeroplane-banner-sunset-wing--airplane-wing-sunset-above-clouds.webp?d=full",
+      "path": "banners/airplane-wing-sunset-above-clouds.png",
+      "bytes": 1751888,
+      "sha256": "c20ac8ea4d92739a5a0d1530afffb9a6ec8d1f875469a30214a8a064017056df",
+      "gitSha": "7235669f77a151ab1de6ea18165553a6c91f7016"
+    },
+    {
+      "kind": "banner",
+      "name": "Safety Rider",
+      "source": "https://discordpfp.gg/banner/safety-vest-rider-beside-sport-motorcycle",
+      "url": "https://discordpfp.gg/images/banner/sport-bike/sport-bike-banner-safety-rider--safety-vest-rider-beside-sport-motorcycle.webp?d=full",
+      "path": "banners/safety-vest-rider-beside-sport-motorcycle.png",
+      "bytes": 2977693,
+      "sha256": "5f6094bb540a53d0a155e580572d9c7f5ac6c07e62b289574dc9e7547758d6e2",
+      "gitSha": "76128ae975deb0af8d1035a07f36df7fd187255f"
+    },
+    {
+      "kind": "banner",
+      "name": "Gym Mirror",
+      "source": "https://discordpfp.gg/banner/shirtless-gym-mirror-selfie-2",
+      "url": "https://discordpfp.gg/images/banner/mirror-selfie/mirror-selfie-banner-gym-mirror--shirtless-gym-mirror-selfie-2.webp?d=full",
+      "path": "banners/shirtless-gym-mirror-selfie-2.png",
+      "bytes": 2896890,
+      "sha256": "363f85aa8d183b48f69cfb6d90b8af8234383a435af01661169ca90bd630c672",
+      "gitSha": "b75e9f7eda983e3d7e1ca7cd2dd627108c4b6813"
+    },
+    {
+      "kind": "banner",
+      "name": "Foggy Bridge",
+      "source": "https://discordpfp.gg/banner/foggy-suspension-bridge-night",
+      "url": "https://discordpfp.gg/images/banner/suspension-bridge/suspension-bridge-banner-foggy-bridge--foggy-suspension-bridge-night.webp?d=full",
+      "path": "banners/foggy-suspension-bridge-night.png",
+      "bytes": 1653107,
+      "sha256": "326601ca05a98f7a44311d4524696c9ad3d11bae8c8b90b54cb455af8e165454",
+      "gitSha": "0b9944fbb4bb0abf7ecd6cef5e661ed9af26b556"
+    },
+    {
+      "kind": "banner",
+      "name": "Dusk Skyline",
+      "source": "https://discordpfp.gg/banner/japanese-city-slope-at-dusk",
+      "url": "https://discordpfp.gg/images/banner/city-skyline/city-skyline-banner-dusk-skyline--japanese-city-slope-at-dusk.webp?d=full",
+      "path": "banners/japanese-city-slope-at-dusk.png",
+      "bytes": 3079876,
+      "sha256": "6657bb50229df818817ecf586faa4369f728a27ee019ae35b7bf69b09266b24b",
+      "gitSha": "1b14f68318b58c3ad0be38a11f75988f53a37784"
+    },
+    {
+      "kind": "banner",
+      "name": "Garden Cat",
+      "source": "https://discordpfp.gg/banner/white-cat-in-flower-garden",
+      "url": "https://discordpfp.gg/images/banner/white-cat/white-cat-banner-garden-cat--white-cat-in-flower-garden.webp?d=full",
+      "path": "banners/white-cat-in-flower-garden.png",
+      "bytes": 1543930,
+      "sha256": "779b7965f27dc8b278e1f25b7941f87d2fbcb0948f7f8951ae5981a98eb2f44a",
+      "gitSha": "2de37a014d4178c35206ae920509a91b0d452f4f"
+    },
+    {
+      "kind": "banner",
+      "name": "Snowy Night",
+      "source": "https://discordpfp.gg/banner/snowy-night-streetlights-road",
+      "url": "https://discordpfp.gg/images/banner/snowy-street/snowy-street-banner-snowy-night--snowy-night-streetlights-road.webp?d=full",
+      "path": "banners/snowy-night-streetlights-road.png",
+      "bytes": 1427950,
+      "sha256": "58680cbd270ddab78e517dfdca409516eb3b0ad77bb14de7b35bd18d0e2cc8a4",
+      "gitSha": "ecf669f3d87310a21a4a0b9f8bf0709ab73e0835"
+    },
+    {
+      "kind": "banner",
+      "name": "Neon Rain",
+      "source": "https://discordpfp.gg/banner/neon-rainy-city-street",
+      "url": "https://discordpfp.gg/images/banner/rainy-street/rainy-street-banner-neon-rain--neon-rainy-city-street.webp?d=full",
+      "path": "banners/neon-rainy-city-street.png",
+      "bytes": 3817607,
+      "sha256": "322ac899942f471f01fa8cc145dcd3c4df60aebb348b2e150e163580b05b749d",
+      "gitSha": "aa82966e4bf0a9721d59ba62e840fb7e241bdb79"
+    },
+    {
+      "kind": "banner",
+      "name": "Dusk Blocks",
+      "source": "https://discordpfp.gg/banner/apartment-blocks-at-dusk-purple-sky",
+      "url": "https://discordpfp.gg/images/banner/apartment-block/apartment-block-banner-dusk-blocks--apartment-blocks-at-dusk-purple-sky.webp?d=full",
+      "path": "banners/apartment-blocks-at-dusk-purple-sky.png",
+      "bytes": 2492687,
+      "sha256": "b73aee1dd623b19fbdfd9443c699d80d949f9ed2889b4108db49bf72b4d19f06",
+      "gitSha": "073045982a5c23180d4dce6a419ee25776cbc6ec"
+    },
+    {
+      "kind": "banner",
+      "name": "Cat at Dusk",
+      "source": "https://discordpfp.gg/banner/orange-tabby-cat-city-window-dusk",
+      "url": "https://discordpfp.gg/images/banner/orange-tabby-cat/orange-tabby-cat-banner-cat-at-dusk--orange-tabby-cat-city-window-dusk.webp?d=full",
+      "path": "banners/orange-tabby-cat-city-window-dusk.png",
+      "bytes": 2318100,
+      "sha256": "c27e52c800d6d2a358e1f60b528ffe53c8f58b2ee44f851b4d2580b88d038024",
+      "gitSha": "6a846da70257bb6e3f3e0afce989224c47460c76"
+    },
+    {
+      "kind": "banner",
+      "name": "Neon Rooftop",
+      "source": "https://discordpfp.gg/banner/neon-rooftop-apartment-building-dusk",
+      "url": "https://discordpfp.gg/images/banner/apartment-building/apartment-building-banner-neon-rooftop--neon-rooftop-apartment-building-dusk.webp?d=full",
+      "path": "banners/neon-rooftop-apartment-building-dusk.png",
+      "bytes": 2812026,
+      "sha256": "b01cdfdf52ef0db4fced00fdd10c3cf435233a4e090738e87b93890f38755589",
+      "gitSha": "454c323382e39f321458326fecfcc92bb65631c0"
+    },
+    {
+      "kind": "banner",
+      "name": "Fog Train",
+      "source": "https://discordpfp.gg/banner/fog-train-railway-night",
+      "url": "https://discordpfp.gg/images/banner/train/train-banner-fog-train--fog-train-railway-night.webp?d=full",
+      "path": "banners/fog-train-railway-night.png",
+      "bytes": 1585703,
+      "sha256": "0c903ae1ec260cf9740e50b57bfe0b01fb625f407ff317b3d745cfdef8121902",
+      "gitSha": "b0717b21efff9df968dd91357254af481f4cad65"
+    },
+    {
+      "kind": "banner",
+      "name": "Night Drift",
+      "source": "https://discordpfp.gg/banner/night-drift-cars-purple-smoke",
+      "url": "https://discordpfp.gg/images/banner/drift-cars/drift-cars-banner-night-drift--night-drift-cars-purple-smoke.webp?d=full",
+      "path": "banners/night-drift-cars-purple-smoke.png",
+      "bytes": 1427686,
+      "sha256": "1d56ce7fc5ac0e002690294cee66c360b8058dfd33ece8e32d5ad3b7c9e87c38",
+      "gitSha": "01ba2a9ec018354a5055d4351305f58c5e4c1c5b"
+    },
+    {
+      "kind": "banner",
+      "name": "Red Guitar",
+      "source": "https://discordpfp.gg/banner/red-electric-guitar-fender-amp",
+      "url": "https://discordpfp.gg/images/banner/electric-guitar/electric-guitar-banner-red-guitar--red-electric-guitar-fender-amp.webp?d=full",
+      "path": "banners/red-electric-guitar-fender-amp.png",
+      "bytes": 1229196,
+      "sha256": "865ba46377b2b711682da64f2fe55553d59e91e5dc1ec8575ad88b019f6270fa",
+      "gitSha": "028d69ae99f9a6a58119c2ac9b9d95e489f082b5"
+    },
+    {
+      "kind": "banner",
+      "name": "Radiohead CDs",
+      "source": "https://discordpfp.gg/banner/radiohead-best-of-cd-bin",
+      "url": "https://discordpfp.gg/images/banner/radiohead/radiohead-banner-radiohead-cds--radiohead-best-of-cd-bin.webp?d=full",
+      "path": "banners/radiohead-best-of-cd-bin.png",
+      "bytes": 1574946,
+      "sha256": "9068bd93a19740da63f29b291646451b2937cc8e1fcf8c552f0bf56fb91d4e23",
+      "gitSha": "1884f7875b69ef05542402120525496ca51c2121"
+    },
+    {
+      "kind": "banner",
+      "name": "Blue Nightlot",
+      "source": "https://discordpfp.gg/banner/blue-night-street-cars",
+      "url": "https://discordpfp.gg/images/banner/night-street/night-street-banner-blue-nightlot--blue-night-street-cars.webp?d=full",
+      "path": "banners/blue-night-street-cars.png",
+      "bytes": 1662117,
+      "sha256": "64f8be2166f1ebf252c73970d8965b99d5e587a7ed045cbe8f980d1d8a6a8d65",
+      "gitSha": "243402f7b01adc4c84fe7ee05bb96d5c4726d2ee"
+    },
+    {
+      "kind": "banner",
+      "name": "I Miss You",
+      "source": "https://discordpfp.gg/banner/blue-car-stereo-i-miss-you-display",
+      "url": "https://discordpfp.gg/images/banner/car-stereo/car-stereo-banner-i-miss-you--blue-car-stereo-i-miss-you-display.webp?d=full",
+      "path": "banners/blue-car-stereo-i-miss-you-display.png",
+      "bytes": 1031883,
+      "sha256": "e1174a8b9f774944704fa952232f48d77648f2a7c0c73d5e1f16f77189c934a3",
+      "gitSha": "715f7b217bbd4ae4b840f7ec72dc460cb0726726"
+    },
+    {
+      "kind": "banner",
+      "name": "LED Anime Ad",
+      "source": "https://discordpfp.gg/banner/led-anime-face-japanese-sign",
+      "url": "https://discordpfp.gg/images/banner/anime/anime-banner-led-anime-ad--led-anime-face-japanese-sign.webp?d=full",
+      "path": "banners/led-anime-face-japanese-sign.png",
+      "bytes": 1925689,
+      "sha256": "8f965e09b4e1e1e0c71808be88a1800e46bdf3567611e2011e4a4dc43623ebd7",
+      "gitSha": "d2efeccc8a1333d4a19210ae210e4b6ba8bf0d00"
+    },
+    {
+      "kind": "banner",
+      "name": "Police Car",
+      "source": "https://discordpfp.gg/banner/night-police-car-middle-finger",
+      "url": "https://discordpfp.gg/images/banner/police-car/police-car-banner-police-car--night-police-car-middle-finger.webp?d=full",
+      "path": "banners/night-police-car-middle-finger.png",
+      "bytes": 981928,
+      "sha256": "dffd3960fd0e95f5cfd6eddd9c6a16fe0d508e30c0b014ea5a0310423df3e430",
+      "gitSha": "d2f23822ccb7efeee8e0221d688692769abc0a12"
+    },
+    {
+      "kind": "banner",
+      "name": "Single Note",
+      "source": "https://discordpfp.gg/banner/single-text-heart-arrow",
+      "url": "https://discordpfp.gg/images/banner/single/single-banner-single-note--single-text-heart-arrow.webp?d=full",
+      "path": "banners/single-text-heart-arrow.png",
+      "bytes": 102077,
+      "sha256": "99e60ec276c711766e887e3f0a3a1f677e6b87cba4709690a3479e9796f234fb",
+      "gitSha": "74ff83de981377a96a3f9eafa5dcae25fbfb1af3"
+    },
+    {
+      "kind": "banner",
+      "name": "Hot Arrow",
+      "source": "https://discordpfp.gg/banner/hot-arrow-text-black-background",
+      "url": "https://discordpfp.gg/images/banner/black-background/black-background-banner-hot-arrow--hot-arrow-text-black-background.webp?d=full",
+      "path": "banners/hot-arrow-text-black-background.png",
+      "bytes": 142811,
+      "sha256": "48adbe4c4280408b7a3dd941a488a3961f8e434ac21aff9458a1db4d0cf52d07",
+      "gitSha": "9f085589949e041c6c2722ae9e650041a23228f8"
+    },
+    {
+      "kind": "banner",
+      "name": "Gay Arrow",
+      "source": "https://discordpfp.gg/banner/gay-arrow-black-background",
+      "url": "https://discordpfp.gg/images/banner/gay/gay-banner-gay-arrow--gay-arrow-black-background.webp?d=full",
+      "path": "banners/gay-arrow-black-background.png",
+      "bytes": 94395,
+      "sha256": "eed021456709256dd85d0f961ae8b81d5c5fb72f12599f39a1ad334fb4926608",
+      "gitSha": "bad4398a066e7c2cd80340213cb50112213b7e4a"
+    },
+    {
+      "kind": "banner",
+      "name": "Foggy Snow Rd",
+      "source": "https://discordpfp.gg/banner/foggy-snowy-road-at-night",
+      "url": "https://discordpfp.gg/images/banner/snowy-road/snowy-road-banner-foggy-snow-rd--foggy-snowy-road-at-night.webp?d=full",
+      "path": "banners/foggy-snowy-road-at-night.png",
+      "bytes": 1277607,
+      "sha256": "9c77ee6fdb67235888550e70982e95cfc9ff6760e7e327f177432f5481c70710",
+      "gitSha": "00cc1307b7c99cf4c4ab62d04669746c3da31011"
     }
   ]
 }
