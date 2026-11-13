@@ -2,6 +2,7 @@ import {readFile,writeFile,mkdir,rm,stat} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import assert from 'node:assert/strict';
 import path from 'node:path';
+import {execFileSync,spawnSync} from 'node:child_process';
 const root=path.resolve('catalogo');
 const input=JSON.parse(await readFile(path.join(root,'importar.json'),'utf8'));
 const frames=JSON.parse(await readFile(path.join(root,'molduras-preservadas.json'),'utf8'));
@@ -19,8 +20,23 @@ function extension(data){
  throw new Error('A resposta não contém uma imagem reconhecida.');
 }
 let previous=[];try{previous=JSON.parse(await readFile(path.join(root,'catalogo.json'),'utf8')).items;}catch{}
+try{previous.push(...JSON.parse(await readFile(path.join(root,'import-progresso.json'),'utf8')).items);}catch{}
 const known=new Map(previous.filter(x=>x.source).map(x=>[x.source,x]));
-let cursor=0;const results=new Array(input.items.length),failures=[];
+let cursor=0,completed=0,lastCheckpoint=0;let checkpointChain=Promise.resolve();const results=new Array(input.items.length),failures=[];
+
+function checkpoint(force=false){
+ const items=results.filter(Boolean);if(!force&&items.length-lastCheckpoint<250)return checkpointChain;lastCheckpoint=items.length;
+ const text=JSON.stringify({items},null,2)+'\n';
+ checkpointChain=checkpointChain.then(async()=>{
+  await writeFile(path.join(root,'import-progresso.json'),text);
+  if(process.env.GITHUB_ACTIONS==='true'&&items.length){
+   execFileSync('git',['add','--',...items.map(x=>'catalogo/'+x.path),'catalogo/import-progresso.json'],{stdio:'pipe'});
+   if(spawnSync('git',['diff','--cached','--quiet']).status!==0){execFileSync('git',['commit','--quiet','-m','Preservar lote de '+items.length+' originais conferidos'],{stdio:'pipe'});execFileSync('git',['push','--quiet','origin','HEAD:main'],{stdio:'pipe'});}
+  }
+  console.log('Lote preservado: '+items.length+' de 2746 originais.');
+ });return checkpointChain;
+}
+
 async function one(item){
  const source=new URL(item.source),prefix=item.kind==='avatar'?'/pfp/':'/banner/';
  assert.equal(source.origin,'https://discordpfp.gg');assert.ok(source.pathname.startsWith(prefix));
@@ -29,9 +45,10 @@ async function one(item){
  const old=known.get(item.source);
  if(old?.path.startsWith(folder+'/')){try{const bytes=await readFile(path.join(root,old.path));if(bytes.length===old.bytes&&digest(bytes)===old.sha256)return {...old,name:item.name};}catch{}}
  const url='https://discordpfp.gg/api/assets/'+slug+'/download';let last;
- for(let attempt=0;attempt<5;attempt++){
+ for(let attempt=0;attempt<4;attempt++){
   try{
-   const r=await fetch(url,{headers:{Accept:'image/*','User-Agent':'Falae-Catalog-Import/1.0'},signal:AbortSignal.timeout(90000)});
+   const r=await fetch(url,{headers:{Accept:'image/*','User-Agent':'Falae-Catalog-Import/1.0'},signal:AbortSignal.timeout(180000)});
+   if(r.status===404||r.status===410)throw Object.assign(new Error('Imagem indisponível na fonte (HTTP '+r.status+').'),{terminal:true});
    if(r.status===403)throw Object.assign(new Error('A fonte recusou o download (403).'),{terminal:true});
    if(r.status===429){const delay=Number(r.headers.get('retry-after'))||20;await new Promise(done=>setTimeout(done,Math.min(120,delay)*1000));throw new Error('Limite temporário da fonte (429).');}
    if(!r.ok)throw new Error('Download HTTP '+r.status);
@@ -41,18 +58,20 @@ async function one(item){
    const ext=extension(bytes),relative=folder+'/'+slug+'.'+ext;
    await mkdir(path.join(root,folder),{recursive:true});await writeFile(path.join(root,relative),bytes);
    return {kind:item.kind,name:item.name,source:item.source,url,path:relative,bytes:bytes.length,sha256:digest(bytes),gitSha:digest(Buffer.concat([Buffer.from('blob '+bytes.length+'\0'),bytes]),'sha1')};
-  }catch(error){last=error;if(error.terminal)throw error;if(attempt<4)await new Promise(done=>setTimeout(done,Math.min(30,2**attempt)*1000));}
+  }catch(error){last=error;if(error.terminal)throw error;if(attempt<3)await new Promise(done=>setTimeout(done,Math.min(30,2**attempt)*1000));}
  }
  throw last;
 }
-async function worker(){while(cursor<input.items.length){const i=cursor++;try{results[i]=await one(input.items[i]);}catch(error){failures.push({source:input.items[i].source,name:input.items[i].name,error:error.message});}}}
+async function worker(){while(cursor<input.items.length){const i=cursor++;try{results[i]=await one(input.items[i]);completed++;if(completed%250===0)await checkpoint();}catch(error){failures.push({source:input.items[i].source,name:input.items[i].name,error:error.message});}}}
 console.log('Importando e conferindo os 2.746 novos arquivos em um único lote.');
-await Promise.all(Array.from({length:6},worker));
+await Promise.all(Array.from({length:16},worker));
+await checkpoint(true);
 if(failures.length){await writeFile('import-failures.json',JSON.stringify(failures,null,2));throw new Error(failures.length+' imagens não foram importadas; catálogo e avatares antigos foram preservados. '+JSON.stringify(failures.slice(0,8)));}
 for(const item of frames){assert.ok(item.path.startsWith('molduras/')&&!item.path.includes('..'));const data=await readFile(path.join(root,item.path));assert.equal(data.length,item.bytes);assert.equal(digest(data),item.sha256);}
 const items=[...results,...frames],counts={avatar:2165,banner:581,decoration:327};
 const manifest={source:input.source,collectedAt:new Date().toISOString(),counts,items};
 await writeFile(path.join(root,'catalogo.json'),JSON.stringify(manifest,null,2)+'\n');
+await writeFile(path.join(root,'colecao.json'),JSON.stringify({counts,items:items.map(({kind,name,path})=>({kind,name,path}))})+'\n');
 // Only remove the replaced avatars after every new image and preserved frame has passed integrity checks.
 await rm(path.join(root,'avatares'),{recursive:true,force:true});
 const summary={counts,files:items.length,bytes:items.reduce((n,x)=>n+x.bytes,0),maxBytes:Math.max(...results.map(x=>x.bytes)),oldAvatarsRemoved:294,integrity:'All files checked by size and SHA-256; originals retained without conversion.'};
