@@ -8,7 +8,7 @@ permissions:
   contents: write
 concurrency:
   group: archive-profile-assets
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   archive:
     runs-on: ubuntu-latest

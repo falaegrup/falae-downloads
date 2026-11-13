@@ -26,10 +26,10 @@ let cursor=0,completed=0,lastCheckpoint=0;let checkpointChain=Promise.resolve();
 
 function checkpoint(force=false){
  const items=results.filter(Boolean);if(!force&&items.length-lastCheckpoint<250)return checkpointChain;lastCheckpoint=items.length;
- const text=JSON.stringify({items},null,2)+'\n';
+ const text=JSON.stringify({updatedAt:new Date().toISOString(),completed:items.length,pending:input.items.length-items.length,failures,items},null,2)+'\n';
  checkpointChain=checkpointChain.then(async()=>{
   await writeFile(path.join(root,'import-progresso.json'),text);
-  if(process.env.GITHUB_ACTIONS==='true'&&items.length){
+  if(process.env.GITHUB_ACTIONS==='true'){
    execFileSync('git',['add','--',...items.map(x=>'catalogo/'+x.path),'catalogo/import-progresso.json'],{stdio:'pipe'});
    if(spawnSync('git',['diff','--cached','--quiet']).status!==0){execFileSync('git',['commit','--quiet','-m','Preservar lote de '+items.length+' originais conferidos'],{stdio:'pipe'});execFileSync('git',['push','--quiet','origin','HEAD:main'],{stdio:'pipe'});}
   }
@@ -44,7 +44,14 @@ async function one(item){
  assert.ok(item.name.trim().length>0);const folder=item.kind==='avatar'?'icones':'banners';
  const old=known.get(item.source);
  if(old?.path.startsWith(folder+'/')){try{const bytes=await readFile(path.join(root,old.path));if(bytes.length===old.bytes&&digest(bytes)===old.sha256)return {...old,name:item.name};}catch{}}
- const url='https://discordpfp.gg/api/assets/'+slug+'/download';let last;
+ let url='https://discordpfp.gg/api/assets/'+slug+'/download';let last;
+ // Use the original image declared by the supplied public detail page. This avoids the download-counter API.
+ try{
+  const page=await fetch(item.source,{headers:{Accept:'text/html'},signal:AbortSignal.timeout(45000)});
+  if(page.status===403)throw Object.assign(new Error('A página da fonte recusou o acesso (403).'),{terminal:true});
+  if(page.ok){const html=await page.text(),match=html.match(/"contentUrl":"((?:[^"\\]|\\.)+)"/);if(match){const image=new URL(JSON.parse('"'+match[1]+'"'),item.source);if(image.origin===source.origin&&image.pathname.startsWith(item.kind==='avatar'?'/images/pfp/':'/images/banner/'))url=image.href;}}
+ }catch(error){if(error.terminal)throw error;}
+
  for(let attempt=0;attempt<4;attempt++){
   try{
    const r=await fetch(url,{headers:{Accept:'image/*','User-Agent':'Falae-Catalog-Import/1.0'},signal:AbortSignal.timeout(180000)});
@@ -64,7 +71,8 @@ async function one(item){
 }
 async function worker(){while(cursor<input.items.length){const i=cursor++;try{results[i]=await one(input.items[i]);completed++;if(completed%250===0)await checkpoint();}catch(error){failures.push({source:input.items[i].source,name:input.items[i].name,error:error.message});}}}
 console.log('Importando e conferindo os 2.746 novos arquivos em um único lote.');
-await Promise.all(Array.from({length:16},worker));
+const progressTimer=setInterval(()=>checkpoint(true).catch(error=>console.error('Falha ao preservar lote: '+error.message)),120000);progressTimer.unref();
+await Promise.all(Array.from({length:16},worker));clearInterval(progressTimer);
 await checkpoint(true);
 if(failures.length){await writeFile('import-failures.json',JSON.stringify(failures,null,2));throw new Error(failures.length+' imagens não foram importadas; catálogo e avatares antigos foram preservados. '+JSON.stringify(failures.slice(0,8)));}
 for(const item of frames){assert.ok(item.path.startsWith('molduras/')&&!item.path.includes('..'));const data=await readFile(path.join(root,item.path));assert.equal(data.length,item.bytes);assert.equal(digest(data),item.sha256);}
