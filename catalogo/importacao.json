@@ -1,0 +1,13 @@
+{
+  "counts": {
+    "avatar": 2140,
+    "banner": 580,
+    "decoration": 327
+  },
+  "files": 3047,
+  "newFiles": 2720,
+  "cancelled": 26,
+  "bytes": 2484181521,
+  "oldAvatarsRemoved": 294,
+  "integrity": "Originais verificados por SHA-256 no download e por identidade Git na publicação; 327 molduras preservadas."
+}
