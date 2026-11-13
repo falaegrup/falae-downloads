@@ -1,7 +1,5 @@
-# Imagens de perfil do Falaê
+# Coleção do Falaê
 
-294 avatares e 327 molduras originais, preservados com transparência e animação. O seletor e as prévias estão no próprio Falaê.
+2.165 ícones e 581 banners listados em https://icones-e-banners-hc.grandhill39.chatgpt.site, baixados da fonte original DiscordPFP.gg, com nomes preservados. As 327 molduras existentes continuam disponíveis.
 
-Origem: https://avatardecoration.com/pt#decoration
-
-O arquivo catalogo.json registra origem, caminho, tamanho e SHA-256 de cada imagem. Os direitos pertencem aos respectivos titulares.
+Os arquivos originais são conferidos por tamanho e SHA-256. `catalogo.json` reúne nomes, caminhos, fonte e integridade. O banco do Falaê recebe apenas o identificador do item escolhido. A substituição dos 294 avatares antigos acontece somente após a validação integral da nova coleção.

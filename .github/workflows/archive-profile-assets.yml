@@ -1,8 +1,8 @@
-name: Arquivar imagens de perfil
+name: Importar ícones e banners em lote
 on:
   push:
     branches: [main]
-    paths: [catalogo/catalogo.json, .github/workflows/archive-profile-assets.yml]
+    paths: [catalogo/importar.json, scripts/import-profile-assets.mjs, .github/workflows/archive-profile-assets.yml]
   workflow_dispatch:
 permissions:
   contents: write
@@ -12,51 +12,20 @@ concurrency:
 jobs:
   archive:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
-      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
-      - name: Recuperar e conferir os 621 originais
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38
+        with:
+          node-version: '24'
+      - name: Baixar e validar a coleção completa
+        run: node scripts/import-profile-assets.mjs
+      - name: Salvar todos os arquivos em um único commit
         run: |
-          python3 - <<'PY'
-          import concurrent.futures, hashlib, json, pathlib, time, urllib.parse, urllib.request
-          root = pathlib.Path('catalogo')
-          items = json.loads((root / 'catalogo.json').read_text())['items']
-          assert len(items) == 621
-          assert sum(x['kind'] == 'avatar' for x in items) == 294
-          assert sum(x['kind'] == 'decoration' for x in items) == 327
-          def archive(item):
-              url = urllib.parse.urlsplit(item['url'])
-              path = pathlib.PurePosixPath(item['path'])
-              folder = 'avatares' if item['kind'] == 'avatar' else 'molduras'
-              assert url.scheme == 'https' and url.hostname == 'img.avatardecoration.com'
-              assert len(path.parts) == 2 and path.parts[0] == folder and '..' not in path.parts
-              target = root / path
-              def valid(data):
-                  return len(data) == item['bytes'] and hashlib.sha256(data).hexdigest() == item['sha256']
-              if target.is_file() and valid(target.read_bytes()):
-                  return
-              for attempt in range(4):
-                  try:
-                      with urllib.request.urlopen(item['url'], timeout=90) as response:
-                          data = response.read(item['bytes'] + 1)
-                      assert valid(data), 'Tamanho ou SHA-256 divergente: ' + item['path']
-                      target.parent.mkdir(parents=True, exist_ok=True)
-                      target.write_bytes(data)
-                      return
-                  except Exception:
-                      if attempt == 3: raise
-                      time.sleep(2 ** attempt)
-          with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
-              list(pool.map(archive, items))
-          assert all((root / x['path']).is_file() for x in items)
-          print('Conferidos 294 avatares e 327 molduras; SHA-256 e tamanho de todos os originais validados.')
-          PY
-      - name: Salvar originais no repositório
-        run: |
-          git add catalogo/avatares catalogo/molduras
+          git add catalogo
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m 'assets: arquivar 294 avatares e 327 molduras originais'
+            git commit -m 'Substituir 294 avatares por 2165 ícones e importar 581 banners; preservar 327 molduras'
             git push origin HEAD:main
           fi
