@@ -28,7 +28,7 @@ jobs:
           out=pathlib.Path('installers');out.mkdir()
           def fetch(url):
             assert url.startswith('https://falae.pages.dev/app-transfer/') or url.startswith('https://sdmntpr') and '.oaiusercontent.com/' in url
-            with urllib.request.urlopen(url,timeout=120) as response:return response.read()
+            with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 FalaeRelease/3.0.0'}),timeout=120) as response:return response.read()
           def save(name,data,digest):
             assert pathlib.Path(name).name==name and name.startswith('Falae-3.0.0-')
             assert hashlib.sha256(data).hexdigest()==digest, name+' checksum mismatch'
