@@ -1,0 +1,29 @@
+{
+  "version": "3.1.0",
+  "android": {
+    "file": "Falae-3.1.0-android.apk",
+    "sha256": "a5d6dbbf2c9532f67b00f79acea8005d4c019485ff3be145522192cd934a7beb",
+    "parts": [
+      "https://falae.pages.dev/app-transfer/apps-310-a5d6dbbf2c95/android.part0.bin",
+      "https://falae.pages.dev/app-transfer/apps-310-a5d6dbbf2c95/android.part1.bin",
+      "https://falae.pages.dev/app-transfer/apps-310-a5d6dbbf2c95/android.part2.bin"
+    ]
+  },
+  "desktop": [
+    {
+      "kind": "macos",
+      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-e3ac-820e-a0d9-3bf105649cdc/raw?se=2026-11-14T02%3A48%3A55Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d7ec-3e69-7001-9340-bb68849fe51d&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A26%3A58Z&ske=2026-11-14T19%3A26%3A58Z&sks=b&skv=2026-06-06&sig=tP7wx7IaJ78uxSgeeu853RyfghL8rC2izZ677aBq1tI%3D",
+      "sha256": "7e020b800769a26c02e8abaaa2bb71c5a64233fa5a405dc69f467bf095081ae2"
+    },
+    {
+      "kind": "windows",
+      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-59a8-820e-9e8b-586122344214/raw?se=2026-11-14T02%3A48%3A48Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d7ec-3e69-7001-9340-bb68849fe51d&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A22%3A37Z&ske=2026-11-14T19%3A22%3A37Z&sks=b&skv=2026-06-06&sig=2aWqas/C91X91DYJL1Ekam2JLZX%2Bg5zRo6N3qtT792s%3D",
+      "sha256": "ae40abf336fcb4e74f3a4a653f6aaabef3abfc26c6eb4c0ae03f44f7e9424d4c"
+    },
+    {
+      "kind": "linux",
+      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-42c4-820e-8727-2ac4bb4cde98/raw?se=2026-11-14T02%3A48%3A49Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d7ec-3e69-7001-9340-bb68849fe51d&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T18%3A20%3A02Z&ske=2026-11-14T18%3A20%3A02Z&sks=b&skv=2026-06-06&sig=4rJDinKgiUSlfVg5l7tfPXj2287MpWz2w5JkANlsQ1c%3D",
+      "sha256": "61a10fddb61a84d05606e8f0cda85f09bba93ae8fbd9ad87fcb2e8017fefc6ed"
+    }
+  ]
+}
