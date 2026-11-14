@@ -2,7 +2,7 @@ import {readFile} from 'node:fs/promises';
 import {execFileSync} from 'node:child_process';
 import assert from 'node:assert/strict';
 import path from 'node:path';
-const tree=new Map(execFileSync('git',['ls-tree','-r','-z','HEAD'],{encoding:'utf8'}).split('\0').flatMap(line=>{const match=line.match(/^100644 blob ([a-f0-9]{40})\t(.+)$/s);return match?[[match[2],match[1]]]:[];}));
+const tree=new Map(execFileSync('git',['ls-tree','-r','-z','HEAD'],{encoding:'utf8',maxBuffer:64*1024*1024}).split('\0').flatMap(line=>{const match=line.match(/^100644 blob ([a-f0-9]{40})\t(.+)$/s);return match?[[match[2],match[1]]]:[];}));
 const entries=new Map();let categoryCount=0;
 for(const folder of ['icones','banners']){
  const {categories}=JSON.parse(await readFile('catalogo/'+folder+'/categorias.json','utf8'));
@@ -18,7 +18,7 @@ for(const folder of ['icones','banners']){
 // Reuse existing Git blobs. No originals are downloaded, changed or removed.
 const input=[...entries].map(([name,sha])=>'100644 '+sha+'\t'+name+'\0').join('');
 execFileSync('git',['update-index','-z','--index-info'],{input,encoding:'utf8'});
-const staged=new Map(execFileSync('git',['ls-files','--stage','-z'],{encoding:'utf8'}).split('\0').flatMap(line=>{const match=line.match(/^100644 ([a-f0-9]{40}) 0\t(.+)$/s);return match?[[match[2],match[1]]]:[];}));
+const staged=new Map(execFileSync('git',['ls-files','--stage','-z'],{encoding:'utf8',maxBuffer:64*1024*1024}).split('\0').flatMap(line=>{const match=line.match(/^100644 ([a-f0-9]{40}) 0\t(.+)$/s);return match?[[match[2],match[1]]]:[];}));
 for(const [name,sha] of entries)assert.equal(staged.get(name),sha);
 for(const [name,sha] of tree)if(/^catalogo\/(icones|banners)\/[^/]+\.(gif|png|webp|jpg|jpeg|avif)$/.test(name))assert.equal(staged.get(name),sha,'Um original foi alterado.');
 console.log('Organização conferida: '+categoryCount+' categorias, '+entries.size+' vínculos e todos os originais preservados.');
