@@ -6,6 +6,7 @@ const origin='https://falae.pages.dev',audience=origin+'/catalog-publisher';
 const git=(args,options={})=>execFileSync('git',args,{encoding:'utf8',maxBuffer:64*1024*1024,...options}).trim();
 async function identity(){const url=new URL(process.env.ACTIONS_ID_TOKEN_REQUEST_URL);url.searchParams.set('audience',audience);const r=await fetch(url,{headers:{Authorization:'Bearer '+process.env.ACTIONS_ID_TOKEN_REQUEST_TOKEN}});if(!r.ok)throw Error('Não foi possível autenticar o publicador.');return(await r.json()).value;}
 async function api(path,body){const token=await identity();const r=await fetch(origin+'/api/catalog-publisher/'+path,{method:body?'POST':'GET',headers:{Authorization:'Bearer '+token,...(body?{'Content-Type':'application/json'}:{})},body:body?JSON.stringify(body):undefined,signal:AbortSignal.timeout(60000)});if(!r.ok)throw Error('Publicação HTTP '+r.status+': '+(await r.text()).slice(0,150));return r;}
+console.log('Verificação da conexão:',JSON.stringify(await(await api('connection')).json()));
 const {items}=await(await api('pending')).json();if(!items.length){console.log('Nenhum arquivo aguardando publicação.');process.exit(0);}
 let manifest=[];try{manifest=JSON.parse(git(['show','HEAD:catalogo/uploads/manifest.json'],{stdio:['ignore','pipe','ignore']}));}catch{}
 const records=new Map(manifest.map(x=>[x.path,x])),staged=[],ready=[];
