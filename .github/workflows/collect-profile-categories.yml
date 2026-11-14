@@ -29,8 +29,8 @@ jobs:
         run: node scripts/collect-profile-categories.mjs
       - name: Preservar metadados e novos arquivos
         run: |
-          git add catalogo/categorias-perfis-fonte.json
-          node --input-type=module -e "import fs from 'node:fs';import cp from 'node:child_process';const j=JSON.parse(fs.readFileSync('catalogo/categorias-perfis-fonte.json'));for(const x of j.newFiles)cp.execFileSync('git',['add','--','catalogo/'+x.path]);"
+          git add --sparse catalogo/categorias-perfis-fonte.json
+          node --input-type=module -e "import fs from 'node:fs';import cp from 'node:child_process';const j=JSON.parse(fs.readFileSync('catalogo/categorias-perfis-fonte.json'));for(const x of j.newFiles)cp.execFileSync('git',['add','--sparse','--','catalogo/'+x.path]);"
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -38,6 +38,7 @@ jobs:
             git push --quiet origin HEAD:main
           fi
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
         with:
           name: categorias-perfis-fonte
           path: catalogo/categorias-perfis-fonte.json
