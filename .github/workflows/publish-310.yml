@@ -1,68 +1,56 @@
-name: Publicar aplicativos Falaê
+name: Verificar aplicativos publicados
 on:
   push:
     branches: [main]
     paths: ['releases/apps-v3.1.0.json', '.github/workflows/publish-310.yml']
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
 concurrency:
-  group: publish-apps-v310
-  cancel-in-progress: false
+  group: verify-apps-v310
+  cancel-in-progress: true
 jobs:
-  release:
+  verify:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
       GH_TOKEN: ${{ github.token }}
       GH_REPO: falaegrup/falae-downloads
     steps:
-      - name: Obter manifesto de instaladores
+      - name: Obter manifesto permanente
         run: gh api repos/falaegrup/falae-downloads/contents/releases/apps-v3.1.0.json --jq .content | base64 --decode > manifest.json
-      - name: Conferir e preparar instaladores
+      - name: Baixar os arquivos publicados
+        run: gh release download apps-v3.1.0 --dir installers
+      - name: Conferir integridade e links do site
         shell: python
         run: |
-          import json, urllib.request, hashlib, zipfile, io, pathlib
+          import json, hashlib, pathlib, urllib.request
           manifest=json.load(open('manifest.json'))
           assert manifest['version']=='3.1.0'
-          out=pathlib.Path('installers');out.mkdir()
-          def fetch(url):
-            assert url.startswith('https://falae.pages.dev/app-transfer/') or url.startswith('https://sdmntpr') and '.oaiusercontent.com/' in url
-            with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 FalaeRelease/3.1.0'}),timeout=120) as response:return response.read()
-          def save(name,data,digest):
-            assert pathlib.Path(name).name==name and name.startswith('Falae-3.1.0-')
-            assert hashlib.sha256(data).hexdigest()==digest, name+' checksum mismatch'
-            (out/name).write_bytes(data)
-            print(name,len(data),'bytes; SHA-256 OK')
-          android=manifest['android']
-          save(android['file'],b''.join(fetch(url) for url in android['parts']),android['sha256'])
-          names={'windows':'Falae-3.1.0-windows-x64.exe','linux':'Falae-3.1.0-linux-x64.AppImage','macos':'Falae-3.1.0-macos-universal.dmg'}
-          for artifact in manifest['desktop']:
-            data=fetch(artifact['url'])
-            assert hashlib.sha256(data).hexdigest()==artifact['sha256']
-            expected=names[artifact['kind']]
-            with zipfile.ZipFile(io.BytesIO(data)) as archive:
-              assert set(archive.namelist())=={expected,'SHA256SUMS.txt'}
-              digest,name=archive.read('SHA256SUMS.txt').decode().strip().split()
-              assert name==expected
-              save(name,archive.read(name),digest)
-          assert {p.name for p in out.iterdir()}==set(names.values())|{android['file']}
-          (out/'SHA256SUMS.txt').write_text(''.join(hashlib.sha256(p.read_bytes()).hexdigest()+'  '+p.name+'\n' for p in sorted(out.iterdir())))
-      - name: Salvar no GitHub Releases
-        shell: bash
-        run: |
-          cat > notes.md <<'EOF'
-          Aplicativos Falaê 3.1.0: Android, Windows x64, Linux x64 e macOS universal (Intel/Apple Silicon).\n\n          Recuperação do microfone, botões centralizados, versão unificada e aviso de atualização com download para o dispositivo. O aviso aparece apenas nos aplicativos.
-
-          A mesma interface do site https://falae.pages.dev/, em uma janela própria. Precisa de internet. O visual acompanha as atualizações do site; atualizações do instalador são manuais.
-
-          Android: APK assinado com a assinatura original do Falaê. Permita a instalação quando solicitado pelo aparelho.
-          Windows/macOS: instaladores sem certificação comercial de desenvolvedor; o sistema pode exibir um aviso de segurança. Linux: habilite a execução do AppImage.
-
-          SHA-256 de todos os arquivos em SHA256SUMS.txt. Código-fonte mantido no repositório privado do projeto; esta página contém somente os instaladores.
-          EOF
-          if ! gh release view apps-v3.1.0 >/dev/null 2>&1; then
-            gh release create apps-v3.1.0 --draft --title 'Falaê 3.1.0 — Android e desktop' --notes-file notes.md
-          fi
-          gh release upload apps-v3.1.0 installers/* --clobber
-          gh release edit apps-v3.1.0 --draft=false --latest --notes-file notes.md
+          root=pathlib.Path('installers')
+          assert {p.name for p in root.iterdir()}=={f['file'] for f in manifest['files']}|{'SHA256SUMS.txt'}
+          sums={}
+          for line in (root/'SHA256SUMS.txt').read_text().splitlines():
+            digest,name=line.split()
+            sums[name]=digest
+          assert set(sums)=={f['file'] for f in manifest['files']}
+          for f in manifest['files']:
+            assert pathlib.Path(f['file']).name==f['file']
+            data=(root/f['file']).read_bytes()
+            assert len(data)==f['size']
+            assert hashlib.sha256(data).hexdigest()==f['sha256']==sums[f['file']]
+            print(f['file'],len(data),'bytes; SHA-256 OK')
+          class NoRedirect(urllib.request.HTTPRedirectHandler):
+            def redirect_request(self,*args):return None
+          opener=urllib.request.build_opener(NoRedirect)
+          files={'android':'Falae-3.1.0-android.apk','windows':'Falae-3.1.0-windows-x64.exe','macos':'Falae-3.1.0-macos-universal.dmg','linux':'Falae-3.1.0-linux-x64.AppImage'}
+          for platform,name in files.items():
+            request=urllib.request.Request('https://falae.pages.dev/downloads/'+platform,headers={'User-Agent':'Mozilla/5.0 FalaeRelease/3.1.0'},method='HEAD')
+            try: response=opener.open(request,timeout=30)
+            except urllib.error.HTTPError as error: response=error
+            assert response.status==302
+            assert response.headers['Location']=='https://github.com/falaegrup/falae-downloads/releases/download/apps-v3.1.0/'+name
+          with urllib.request.urlopen(urllib.request.Request('https://falae.pages.dev/',headers={'User-Agent':'Mozilla/5.0 FalaeRelease/3.1.0'}),timeout=30) as response:
+            html=response.read().decode()
+          for platform in files: assert 'href="/downloads/'+platform+'"' in html
+          print('OK: quatro instaladores íntegros e downloads publicados no site.')
