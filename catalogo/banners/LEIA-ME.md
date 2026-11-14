@@ -1,0 +1,548 @@
+# Banners por categoria
+
+Os arquivos originais continuam na pasta principal, com os mesmos endereços. As subpastas usam os títulos em português. Cada imagem pode aparecer em várias categorias; as referências Git reutilizam o mesmo conteúdo, sem refazer o download. `categorias.json` registra todos os vínculos.
+
+A fonte foi conferida em 14/11/2026. Os 26 itens anteriormente dispensados permanecem ignorados; não foram encontrados novos arquivos além do catálogo disponível.
+
+- Monocromático: 89 itens
+- Minimalista: 79 itens
+- Estética sombria: 78 itens
+- Preto e branco: 73 itens
+- Anime: 64 itens
+- Melancólico: 61 itens
+- Fundo preto: 57 itens
+- Close: 37 itens
+- Fofo: 37 itens
+- Silhuetas: 37 itens
+- Feminino: 35 itens
+- Céu noturno: 34 itens
+- Natureza: 31 itens
+- Escala de cinza: 27 itens
+- Gatos: 27 itens
+- Abstrato: 22 itens
+- Nuvens: 22 itens
+- Cabelo preto: 20 itens
+- Gótico: 20 itens
+- Fantasia sombria: 19 itens
+- Masculino: 19 itens
+- Noite: 18 itens
+- Pastel: 17 itens
+- Arte em pixels: 16 itens
+- Flores de cerejeira: 16 itens
+- Garota de anime: 15 itens
+- Rosto de perfil: 15 itens
+- Cinematográfico: 14 itens
+- Estrelas: 14 itens
+- Gato branco: 14 itens
+- Paisagem: 14 itens
+- Sombrio: 14 itens
+- Estilo anime: 13 itens
+- Fantasia: 13 itens
+- Alto contraste: 12 itens
+- Arte digital: 12 itens
+- Dinheiro: 12 itens
+- Gato preto: 12 itens
+- Céu azul: 11 itens
+- Céu roxo: 11 itens
+- Cidade à noite: 11 itens
+- Flores: 11 itens
+- Fundo escuro: 11 itens
+- Iluminação dramática: 11 itens
+- Arte com texto: 10 itens
+- Carros: 10 itens
+- Floresta: 10 itens
+- Grunge: 10 itens
+- Kawaii: 10 itens
+- Lua cheia: 10 itens
+- Mãos: 10 itens
+- Neon: 10 itens
+- Olhos vermelhos: 10 itens
+- Animal de estimação: 9 itens
+- Cabelo rosa: 9 itens
+- Carro esportivo: 9 itens
+- Cena noturna: 9 itens
+- Flores rosas: 9 itens
+- Lua crescente: 9 itens
+- Meme: 9 itens
+- Névoa: 9 itens
+- Brilho: 8 itens
+- Cabelo branco: 8 itens
+- Cabelo escuro: 8 itens
+- Cyberpunk: 8 itens
+- Desenhos animados: 8 itens
+- Estética suave: 8 itens
+- Horizonte da cidade: 8 itens
+- Iluminação vermelha: 8 itens
+- Katana: 8 itens
+- Olhos luminosos: 8 itens
+- Paisagem urbana: 8 itens
+- Silhueta de gato: 8 itens
+- Cabelo comprido: 7 itens
+- Espaço: 7 itens
+- Fumaça: 7 itens
+- JDM: 7 itens
+- Lua: 7 itens
+- Mangá: 7 itens
+- Pôr do sol: 7 itens
+- Pouca luz: 7 itens
+- Rua à noite: 7 itens
+- Terror: 7 itens
+- Ao ar livre: 6 itens
+- Assustador: 6 itens
+- Cabelo escuro comprido: 6 itens
+- Céu de fantasia: 6 itens
+- Céu estrelado: 6 itens
+- Espada: 6 itens
+- Estilo mangá: 6 itens
+- Frases: 6 itens
+- Fundo vermelho: 6 itens
+- Guitarra: 6 itens
+- Iluminação melancólica: 6 itens
+- Oceano: 6 itens
+- Romance: 6 itens
+- Surreal: 6 itens
+- Uniforme escolar: 6 itens
+- Violeta: 6 itens
+- Animais: 5 itens
+- Anjo: 5 itens
+- Anoitecer: 5 itens
+- Camisa branca: 5 itens
+- Casal: 5 itens
+- Cigarro: 5 itens
+- Falha digital: 5 itens
+- Floresta com névoa: 5 itens
+- Fumando: 5 itens
+- Iluminação roxa: 5 itens
+- Interior de carro: 5 itens
+- Inverno: 5 itens
+- Lua vermelha: 5 itens
+- Moda urbana: 5 itens
+- Moletom: 5 itens
+- Noite de inverno: 5 itens
+- Provocador: 5 itens
+- Rabiscos: 5 itens
+- Urbano: 5 itens
+- Aconchegante: 4 itens
+- Ambiente interno: 4 itens
+- Borboletas: 4 itens
+- Cabelo espetado: 4 itens
+- Carro preto: 4 itens
+- Caveiras: 4 itens
+- Cemitério: 4 itens
+- Dirigindo à noite: 4 itens
+- Esboço: 4 itens
+- Gato fofo: 4 itens
+- Gato tigrado: 4 itens
+- Iluminação azul: 4 itens
+- Jogos: 4 itens
+- Litoral: 4 itens
+- Mulher: 4 itens
+- Olhos de anime: 4 itens
+- Olhos fechados: 4 itens
+- Orelhas de gato: 4 itens
+- Palmeiras: 4 itens
+- Rifle: 4 itens
+- Teclado: 4 itens
+- Vestido preto: 4 itens
+- Animados: 3 itens
+- Arte de mangá: 3 itens
+- Árvore: 3 itens
+- Cabelo bagunçado: 3 itens
+- Cabelo castanho: 3 itens
+- Cabelo loiro: 3 itens
+- Cartas de baralho: 3 itens
+- Céu rosa: 3 itens
+- Céu vermelho: 3 itens
+- Chuva: 3 itens
+- Chuva de meteoros: 3 itens
+- Coroa: 3 itens
+- Dragão: 3 itens
+- Drift: 3 itens
+- Esqueletos: 3 itens
+- Estética: 3 itens
+- Expressão séria: 3 itens
+- Figura encapuzada: 3 itens
+- Floresta roxa: 3 itens
+- Floresta vermelha: 3 itens
+- Gato em pixels: 3 itens
+- Gato preto e branco: 3 itens
+- Gola alta: 3 itens
+- Gorro: 3 itens
+- Granulado: 3 itens
+- Halloween: 3 itens
+- Homem: 3 itens
+- Jujutsu Kaisen: 3 itens
+- Logo: 3 itens
+- Mãos dadas: 3 itens
+- Meme de texto: 3 itens
+- Monocromático rosa: 3 itens
+- Monocromático vermelho: 3 itens
+- Neve: 3 itens
+- Nuvens de tempestade: 3 itens
+- Olhos: 3 itens
+- One Piece: 3 itens
+- Orelhas de urso: 3 itens
+- Pétalas rosas: 3 itens
+- Presas: 3 itens
+- Samurai: 3 itens
+- Selfie: 3 itens
+- Synthwave: 3 itens
+- Texto: 3 itens
+- Túnel: 3 itens
+- Urso: 3 itens
+- Amigos: 2 itens
+- Anime sombrio: 2 itens
+- Aranha: 2 itens
+- Banguela: 2 itens
+- Bob Esponja: 2 itens
+- Buquê: 2 itens
+- Cabelo chanel preto: 2 itens
+- Cabelo preto bagunçado: 2 itens
+- Cabelo roxo: 2 itens
+- Call of Duty: 2 itens
+- Carro esportivo branco: 2 itens
+- Carro esportivo preto: 2 itens
+- Cervo: 2 itens
+- Céu ao pôr do sol: 2 itens
+- Chibi: 2 itens
+- Cidade neon: 2 itens
+- Close nos olhos: 2 itens
+- Colar de corrente: 2 itens
+- Colinas: 2 itens
+- Computador retrô: 2 itens
+- Coração: 2 itens
+- Debaixo d’água: 2 itens
+- Engraçado: 2 itens
+- Estudantes: 2 itens
+- Figura mascarada: 2 itens
+- Figura nas sombras: 2 itens
+- Figura sombria: 2 itens
+- Filhote de cervo: 2 itens
+- Flores luminosas: 2 itens
+- Flores roxas: 2 itens
+- Flores silvestres: 2 itens
+- Floresta de voxels: 2 itens
+- Fones de ouvido: 2 itens
+- Garoto de anime: 2 itens
+- Gato de smoking: 2 itens
+- Gumball Watterson: 2 itens
+- Hello Kitty: 2 itens
+- Homem de terno: 2 itens
+- Homem jovem: 2 itens
+- Keef: 2 itens
+- Kirby: 2 itens
+- Laço rosa: 2 itens
+- Leopardo: 2 itens
+- Lua rosa: 2 itens
+- Mascote: 2 itens
+- Mensagens de texto: 2 itens
+- Minecraft: 2 itens
+- Misterioso: 2 itens
+- Monkey D. Luffy: 2 itens
+- Monocromático azul: 2 itens
+- Moto esportiva: 2 itens
+- Mulher de anime: 2 itens
+- Mulher jovem: 2 itens
+- NieR: Automata: 2 itens
+- O fim: 2 itens
+- Óculos: 2 itens
+- Olhos grandes: 2 itens
+- Ossos: 2 itens
+- Paisagem de anime: 2 itens
+- Paisagem sombria: 2 itens
+- Paris: 2 itens
+- Parque nevado: 2 itens
+- Pássaros: 2 itens
+- Patrick Jane: 2 itens
+- Portal torii: 2 itens
+- Poste de luz: 2 itens
+- Roupa social: 2 itens
+- Rua chuvosa: 2 itens
+- Rua nevada: 2 itens
+- Sacada: 2 itens
+- Silhueta feminina: 2 itens
+- Silhueta masculina: 2 itens
+- Smoking: 2 itens
+- Spike Spiegel: 2 itens
+- Swag: 2 itens
+- Teia de aranha: 2 itens
+- Tela de carregamento: 2 itens
+- Terno: 2 itens
+- Terraço: 2 itens
+- Trem: 2 itens
+- Urso de pelúcia: 2 itens
+- Vermelho e preto: 2 itens
+- Via Láctea: 2 itens
+- 2b: 1 itens
+- À luz de velas: 1 itens
+- A vida é uma droga: 1 itens
+- Aa: 1 itens
+- Abstrato vermelho: 1 itens
+- Agachado: 1 itens
+- Água-viva: 1 itens
+- Animal fofo: 1 itens
+- Anjo caído: 1 itens
+- Armadura de fantasia: 1 itens
+- Árvore vermelha: 1 itens
+- Au-au: 1 itens
+- Avião: 1 itens
+- Bairro dos canais: 1 itens
+- Balanço na praia: 1 itens
+- Banco: 1 itens
+- Banner de anime: 1 itens
+- Banner de flores: 1 itens
+- Banner de garota sem edição: 1 itens
+- Banner Fairy Kei: 1 itens
+- Banner Falaê azul e preto: 1 itens
+- Banner GIF de Tobey sombrio: 1 itens
+- Banner My Little Pony: 1 itens
+- Banner Virex: 1 itens
+- Beijo: 1 itens
+- Beijo na mão: 1 itens
+- Beleza: 1 itens
+- Bloco de apartamentos: 1 itens
+- Bluebearvt: 1 itens
+- Bob Esponja e Patrick Estrela: 1 itens
+- Borboletas luminosas: 1 itens
+- Bosque de cerejeiras: 1 itens
+- Cabelo cacheado: 1 itens
+- Cabelo prateado: 1 itens
+- Cachorro branco: 1 itens
+- Camisa rosa: 1 itens
+- Camisa vermelha: 1 itens
+- Campo de girassóis: 1 itens
+- Capacete: 1 itens
+- Capacete de moto: 1 itens
+- Carregador portátil: 1 itens
+- Carro azul: 1 itens
+- Carro rosa: 1 itens
+- Carro verde: 1 itens
+- Carros de drift: 1 itens
+- Cartão Visa: 1 itens
+- Cartola: 1 itens
+- Cavaleiros a cavalo: 1 itens
+- Cena de balada: 1 itens
+- Cesta de basquete: 1 itens
+- Céu ao luar: 1 itens
+- Chapéu de palha: 1 itens
+- Chiclete: 1 itens
+- Cobra: 1 itens
+- Código: 1 itens
+- Come-Come: 1 itens
+- Corações neon: 1 itens
+- Coroa luminosa: 1 itens
+- Coroa prateada: 1 itens
+- Coroa vermelha: 1 itens
+- Crachá: 1 itens
+- Cupê branco: 1 itens
+- Cupê esportivo: 1 itens
+- De costas: 1 itens
+- Deaf Store: 1 itens
+- Dedsec: 1 itens
+- Dinossauro do Chrome: 1 itens
+- Dirigível: 1 itens
+- Dólar americano: 1 itens
+- Dragon Ball: 1 itens
+- Dreadlocks: 1 itens
+- ECG: 1 itens
+- Efeito sonoro de desenho: 1 itens
+- Encapuzado: 1 itens
+- Enclave: 1 itens
+- Enderman: 1 itens
+- Escuridão: 1 itens
+- Espada ornamentada: 1 itens
+- Espadachim: 1 itens
+- Esportes eletrônicos: 1 itens
+- Estátua de anjo: 1 itens
+- Estrada escura: 1 itens
+- Estrada nevada: 1 itens
+- Fantasma: 1 itens
+- Feiticeiro: 1 itens
+- Ferrari: 1 itens
+- Figuras encapuzadas: 1 itens
+- Filmadora: 1 itens
+- Fim da linha: 1 itens
+- Floral rosa: 1 itens
+- Flores vermelhas: 1 itens
+- Floresta de inverno: 1 itens
+- Floresta nevada: 1 itens
+- Floresta sombria: 1 itens
+- Foca: 1 itens
+- Fogo: 1 itens
+- Foice: 1 itens
+- Folhas de outono: 1 itens
+- Foto em grupo: 1 itens
+- Futebol: 1 itens
+- Galho com flores: 1 itens
+- Garota: 1 itens
+- Garota demônio: 1 itens
+- Garota gótica: 1 itens
+- Garoto: 1 itens
+- Gatinho cinza: 1 itens
+- Gato cinza: 1 itens
+- Gato de desenho: 1 itens
+- Gato dormindo: 1 itens
+- Gato laranja: 1 itens
+- Gato peludo: 1 itens
+- Gato tigrado laranja: 1 itens
+- Gay: 1 itens
+- Ghostface: 1 itens
+- GIF: 1 itens
+- Google: 1 itens
+- Grand Theft Auto: Vice City: 1 itens
+- Gravação: 1 itens
+- GTA: 1 itens
+- GTA Vice City: 1 itens
+- Homem de anime: 1 itens
+- Homem idoso: 1 itens
+- House Of Balloons: 1 itens
+- Hu Tao: 1 itens
+- Ilustração: 1 itens
+- iMessage: 1 itens
+- Interface de jogo: 1 itens
+- Interface futurista: 1 itens
+- Isqueiro: 1 itens
+- Itachi Uchiha: 1 itens
+- Jaqueta escura: 1 itens
+- Jogador de futebol: 1 itens
+- Jotaro Kujo: 1 itens
+- Ken Kaneki: 1 itens
+- Laço: 1 itens
+- Lagoa: 1 itens
+- Lana Del Rey: 1 itens
+- Lilo & Stitch: 1 itens
+- Língua de fora: 1 itens
+- Lírio-aranha: 1 itens
+- Lironiablo: 1 itens
+- Logo abstrata: 1 itens
+- Logo do Falaê: 1 itens
+- Logo gamer: 1 itens
+- Lua de coração: 1 itens
+- Lua roxa: 1 itens
+- Luffy: 1 itens
+- Luna Red: 1 itens
+- Madoka 3: 1 itens
+- Mão branca: 1 itens
+- Mãos em oração: 1 itens
+- Marshmallows: 1 itens
+- Máscara de caveira: 1 itens
+- Máscara de lobo: 1 itens
+- Máscara de raposa: 1 itens
+- Máscara oni: 1 itens
+- Megumi 3: 1 itens
+- Melhor que eu: 1 itens
+- Mentalist: 1 itens
+- Metin2: 1 itens
+- Metrô: 1 itens
+- Miau: 1 itens
+- Miffy: 1 itens
+- Minha vida é uma droga: 1 itens
+- Modelo: 1 itens
+- Moldura floral: 1 itens
+- Moletom amarelo: 1 itens
+- Motocicleta: 1 itens
+- Motocicleta vermelha: 1 itens
+- Motociclista: 1 itens
+- Muito rico: 1 itens
+- Mulher loira: 1 itens
+- My Little Pony: 1 itens
+- Não confie em vadias: 1 itens
+- Naruto: 1 itens
+- Nekopara Vanilla: 1 itens
+- Nenúfares: 1 itens
+- Ninja: 1 itens
+- Nissan Skyline R34: 1 itens
+- Nitro grátis: 1 itens
+- Nyan Cat: 1 itens
+- Óculos de visão noturna: 1 itens
+- Olho de peixe: 1 itens
+- Olhos amarelos: 1 itens
+- Os Pinguins de Madagascar: 1 itens
+- Padrão de olhos: 1 itens
+- Paisagem de montanha: 1 itens
+- Paisagem de outono: 1 itens
+- Paisagem de voxels: 1 itens
+- Paisagem em sépia: 1 itens
+- Palestina: 1 itens
+- Parede de tijolos: 1 itens
+- Pássaro branco: 1 itens
+- Pássaro de desenho: 1 itens
+- Pato: 1 itens
+- Pato de desenho: 1 itens
+- Patrick Estrela: 1 itens
+- Peaky Blinders: 1 itens
+- Pentagrama: 1 itens
+- Pétalas luminosas: 1 itens
+- Ponte suspensa: 1 itens
+- Porco: 1 itens
+- Porsche: 1 itens
+- Portão gótico: 1 itens
+- Pouca iluminação: 1 itens
+- Pradabag: 1 itens
+- Praia à noite: 1 itens
+- Praia com tempestade: 1 itens
+- Prédio de apartamentos: 1 itens
+- Prisão: 1 itens
+- Programação: 1 itens
+- Promessa de dedinho: 1 itens
+- Quarto escuro: 1 itens
+- Radiohead: 1 itens
+- Raio X: 1 itens
+- Rapper: 1 itens
+- Ready Or Not: 1 itens
+- Recinto do zoológico: 1 itens
+- Relógio quebrado: 1 itens
+- Retrato sombrio: 1 itens
+- Robô azul: 1 itens
+- Robô retrô: 1 itens
+- Ronin: 1 itens
+- Rosa branca: 1 itens
+- Rosa vermelha: 1 itens
+- Rosto de gato: 1 itens
+- Roupa preta: 1 itens
+- Roxo, preto e branco: 1 itens
+- Rua vitoriana: 1 itens
+- Samurai vermelho: 1 itens
+- Satoru Gojo: 1 itens
+- Savrbusinessbot TG grátis: 1 itens
+- Scarface: 1 itens
+- Schemez: 1 itens
+- Sedã: 1 itens
+- Selfie no espelho: 1 itens
+- Selva: 1 itens
+- Sephiroth: 1 itens
+- Silhueta de pássaro: 1 itens
+- Slasher: 1 itens
+- Sol vermelho: 1 itens
+- Solidão: 1 itens
+- Solteiro: 1 itens
+- Som automotivo: 1 itens
+- Spotify: 1 itens
+- SUV prateado: 1 itens
+- Tanjiro: 1 itens
+- Tático: 1 itens
+- Tela de câmera: 1 itens
+- Tela de erro: 1 itens
+- Televisão de tubo: 1 itens
+- Tempestade: 1 itens
+- Terno preto: 1 itens
+- Texto cirílico: 1 itens
+- Tigre: 1 itens
+- Tokyo Ghoul: 1 itens
+- Tony Montana: 1 itens
+- Top 250: 1 itens
+- Trem elétrico: 1 itens
+- Trem urbano: 1 itens
+- Tulipas rosas: 1 itens
+- TV Girl: 1 itens
+- Uma Musume Pretty Derby: 1 itens
+- Viatura policial: 1 itens
+- Videogame: 1 itens
+- Violão: 1 itens
+- Visual Kei: 1 itens
+- Vocaloid: 1 itens
+- Yakuza Remix: 1 itens
+- Yuji Itadori: 1 itens
+- Yumeko Jabami: 1 itens
+- Yuri verde: 1 itens
+- Z Ld: 1 itens

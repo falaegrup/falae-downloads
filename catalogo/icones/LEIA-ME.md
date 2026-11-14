@@ -1,0 +1,925 @@
+# Avatares por categoria
+
+Os arquivos originais continuam na pasta principal, com os mesmos endereços. As subpastas usam os títulos em português. Cada imagem pode aparecer em várias categorias; as referências Git reutilizam o mesmo conteúdo, sem refazer o download. `categorias.json` registra todos os vínculos.
+
+A fonte foi conferida em 14/11/2026. Os 26 itens anteriormente dispensados permanecem ignorados; não foram encontrados novos arquivos além do catálogo disponível.
+
+- Anime: 340 itens
+- Melancólico: 336 itens
+- Estética sombria: 322 itens
+- Monocromático: 294 itens
+- Preto e branco: 252 itens
+- Fofo: 226 itens
+- Masculino: 206 itens
+- Gatos: 177 itens
+- Cabelo preto: 144 itens
+- Close: 142 itens
+- Minimalista: 142 itens
+- Moda urbana: 142 itens
+- Silhuetas: 128 itens
+- Rosto de perfil: 125 itens
+- Gótico: 111 itens
+- Meme: 99 itens
+- Óculos de sol: 96 itens
+- Figura encapuzada: 90 itens
+- Mangá: 87 itens
+- Cabelo bagunçado: 82 itens
+- Moletom: 80 itens
+- Jujutsu Kaisen: 78 itens
+- Terror: 75 itens
+- Fantasia sombria: 74 itens
+- One Piece: 71 itens
+- Feminino: 69 itens
+- Sukuna: 69 itens
+- Cabelo escuro: 66 itens
+- Desenhos animados: 66 itens
+- Chapéu de palha: 65 itens
+- Animal de estimação: 62 itens
+- Cigarro: 61 itens
+- Cabelo branco: 59 itens
+- Monkey D. Luffy: 59 itens
+- Cabelo rosa: 57 itens
+- De costas: 57 itens
+- Óculos: 56 itens
+- Olhos luminosos: 56 itens
+- Olhos vermelhos: 56 itens
+- Assustador: 55 itens
+- Marcas faciais: 51 itens
+- Ambiente interno: 50 itens
+- Ao ar livre: 50 itens
+- Escala de cinza: 48 itens
+- Garota de anime: 47 itens
+- Gato branco: 46 itens
+- Fumando: 44 itens
+- Ryomen Sukuna: 43 itens
+- Fundo preto: 41 itens
+- Sombrio: 41 itens
+- Cabelo comprido: 40 itens
+- Fones de ouvido: 40 itens
+- Arte digital: 39 itens
+- Cabelo escuro comprido: 39 itens
+- Misterioso: 38 itens
+- Gato preto: 37 itens
+- Engraçado: 36 itens
+- Luffy: 36 itens
+- Gato tigrado: 35 itens
+- Marvel: 35 itens
+- Boné de beisebol: 34 itens
+- Gola alta: 34 itens
+- Estilo anime: 33 itens
+- Grunge: 33 itens
+- Camisa preta: 32 itens
+- Gato fofo: 32 itens
+- Natureza: 32 itens
+- Figura nas sombras: 31 itens
+- Homem jovem: 31 itens
+- Moletom preto: 31 itens
+- Colar de corrente: 30 itens
+- Cyberpunk: 30 itens
+- Iluminação melancólica: 30 itens
+- Kawaii: 30 itens
+- Laço rosa: 30 itens
+- Fundo escuro: 29 itens
+- Homem-Aranha: 29 itens
+- Urbano: 29 itens
+- Arte em pixels: 28 itens
+- Granulado: 28 itens
+- Halloween: 28 itens
+- Super-herói: 28 itens
+- Cabelo cacheado: 27 itens
+- Noite: 27 itens
+- Olhos grandes: 27 itens
+- Provocador: 27 itens
+- Aconchegante: 26 itens
+- Cinematográfico: 26 itens
+- Garota: 26 itens
+- Animais: 25 itens
+- Cabelo espetado: 25 itens
+- Dreadlocks: 25 itens
+- Expressão séria: 25 itens
+- Selfie: 25 itens
+- Surreal: 25 itens
+- Terno preto: 25 itens
+- Animal fofo: 24 itens
+- Cabelo preto bagunçado: 24 itens
+- Camisa branca: 24 itens
+- Chibi: 24 itens
+- Fundo vermelho: 24 itens
+- Gato engraçado: 24 itens
+- Neve: 24 itens
+- Selfie no espelho: 24 itens
+- Dinheiro: 23 itens
+- Figura mascarada: 23 itens
+- Gato tigrado laranja: 23 itens
+- Horizonte da cidade: 23 itens
+- Katana: 23 itens
+- Mulher: 23 itens
+- Pouca luz: 23 itens
+- Sorriso de canto: 23 itens
+- Capacete: 22 itens
+- Coroa: 22 itens
+- Estética suave: 22 itens
+- Herói mascarado: 22 itens
+- Inverno: 22 itens
+- Pastel: 22 itens
+- Cabelo castanho: 21 itens
+- Cabelo loiro: 21 itens
+- Gato de desenho: 21 itens
+- Terno: 21 itens
+- Arte sombria: 20 itens
+- Estilo mangá: 20 itens
+- Fantasia: 20 itens
+- Gato peludo: 20 itens
+- Jaqueta escura: 20 itens
+- Pôr do sol: 20 itens
+- Caveiras: 19 itens
+- Céu noturno: 19 itens
+- Estética: 19 itens
+- Fumaça: 19 itens
+- Língua de fora: 19 itens
+- Pouca iluminação: 19 itens
+- Uniforme escolar: 19 itens
+- Esboço: 18 itens
+- Homem: 18 itens
+- Iluminação azul: 18 itens
+- Pirata: 18 itens
+- Esqueletos: 17 itens
+- Iluminação roxa: 17 itens
+- Pessoa mascarada: 17 itens
+- Roupa preta: 17 itens
+- Alto contraste: 16 itens
+- Arte de mangá: 16 itens
+- Atores: 16 itens
+- Camisa vermelha: 16 itens
+- Oceano: 16 itens
+- Sem rosto: 16 itens
+- Cidade à noite: 15 itens
+- Floresta: 15 itens
+- Gato cinza: 15 itens
+- Mascote: 15 itens
+- Smoking: 15 itens
+- Futebol: 14 itens
+- Garoto: 14 itens
+- Homem de anime: 14 itens
+- Neon: 14 itens
+- Abstrato: 13 itens
+- Animados: 13 itens
+- Cachorros: 13 itens
+- Emo: 13 itens
+- Iluminação dramática: 13 itens
+- Mulher jovem: 13 itens
+- Nuvens: 13 itens
+- Óculos de esqui: 13 itens
+- Cena noturna: 12 itens
+- Céu azul: 12 itens
+- Estrelas: 12 itens
+- Halo: 12 itens
+- Ilustração digital: 12 itens
+- Máscara de caveira: 12 itens
+- Microfone: 12 itens
+- Olho de peixe: 12 itens
+- Roupa social: 12 itens
+- Samurai: 12 itens
+- Slasher: 12 itens
+- Anjo: 11 itens
+- Foto noturna: 11 itens
+- Furry: 11 itens
+- Gato preto e branco: 11 itens
+- Gorro: 11 itens
+- Guitarra: 11 itens
+- Iluminação vermelha: 11 itens
+- Praia: 11 itens
+- Rabiscos: 11 itens
+- Rosto de gato: 11 itens
+- Rua à noite: 11 itens
+- Bob Esponja: 10 itens
+- Brinquedo de pelúcia: 10 itens
+- Cabelo prateado: 10 itens
+- Carros: 10 itens
+- Garoto de anime: 10 itens
+- Jogos: 10 itens
+- Rapper: 10 itens
+- Carro esportivo: 9 itens
+- Criança: 9 itens
+- Filtro de cachorro: 9 itens
+- Flores: 9 itens
+- Interior de carro: 9 itens
+- Logo: 9 itens
+- Minifigura: 9 itens
+- Programação: 9 itens
+- Rifle: 9 itens
+- Sofá: 9 itens
+- Soldado tático: 9 itens
+- Teclado: 9 itens
+- Anime sombrio: 8 itens
+- Anoitecer: 8 itens
+- Boné preto: 8 itens
+- Ceifador: 8 itens
+- Céu ao pôr do sol: 8 itens
+- Céu roxo: 8 itens
+- Chifres: 8 itens
+- Chuva: 8 itens
+- Close nos olhos: 8 itens
+- Espada: 8 itens
+- Espadachim: 8 itens
+- Fantasma: 8 itens
+- Fogo: 8 itens
+- Gato dormindo: 8 itens
+- Ghostface: 8 itens
+- Hip Hop: 8 itens
+- Ilustração: 8 itens
+- Lua crescente: 8 itens
+- Lua vermelha: 8 itens
+- Máscara: 8 itens
+- Monster Energy: 8 itens
+- Orelhas de gato: 8 itens
+- Presas: 8 itens
+- Raposa: 8 itens
+- Rosto sorridente: 8 itens
+- Terraço: 8 itens
+- Vestido preto: 8 itens
+- À luz da lua: 7 itens
+- Antropomórficos: 7 itens
+- Balaclava: 7 itens
+- Borboletas: 7 itens
+- Cachorro branco: 7 itens
+- Celular cobrindo o rosto: 7 itens
+- Demônio: 7 itens
+- Espaço: 7 itens
+- Figura sombria: 7 itens
+- Gato laranja: 7 itens
+- Hunter x Hunter: 7 itens
+- Litoral: 7 itens
+- Orelhas de urso: 7 itens
+- Pessoa de capuz: 7 itens
+- Quarto escuro: 7 itens
+- Rosto desfocado: 7 itens
+- Rosto mascarado: 7 itens
+- Satoru Gojo: 7 itens
+- Silhueta de gato: 7 itens
+- Skate: 7 itens
+- Tranças: 7 itens
+- Urso: 7 itens
+- Urso de desenho: 7 itens
+- Vermelho e preto: 7 itens
+- Abóbora de Halloween: 6 itens
+- Árvore: 6 itens
+- Astronauta: 6 itens
+- BMW: 6 itens
+- Cervo: 6 itens
+- Coelho: 6 itens
+- Dragão: 6 itens
+- Encapuzado: 6 itens
+- Filhote de cachorro: 6 itens
+- Flores de cerejeira: 6 itens
+- Garota-gato: 6 itens
+- Gatinho laranja: 6 itens
+- Gatinho tigrado: 6 itens
+- Gato antropomórfico: 6 itens
+- Gato tigrado cinza: 6 itens
+- Guitarrista: 6 itens
+- Hamster: 6 itens
+- Homem barbudo: 6 itens
+- Homem de terno: 6 itens
+- Lua: 6 itens
+- Lua cheia: 6 itens
+- Máscara de demônio: 6 itens
+- Motocicleta: 6 itens
+- Névoa: 6 itens
+- Paisagem: 6 itens
+- Paisagem urbana: 6 itens
+- Pato de desenho: 6 itens
+- Raposa vermelha: 6 itens
+- Rosto de desenho: 6 itens
+- Rosto distorcido: 6 itens
+- Skatista: 6 itens
+- Sol vermelho: 6 itens
+- Tático: 6 itens
+- Tatuagens: 6 itens
+- Asas de anjo: 5 itens
+- Atletas: 5 itens
+- Beleza: 5 itens
+- Brilho: 5 itens
+- Camisa de futebol: 5 itens
+- Capuz Vermelho: 5 itens
+- Cartola: 5 itens
+- Celebridades: 5 itens
+- DC: 5 itens
+- Figura desfocada: 5 itens
+- Frases: 5 itens
+- GIF: 5 itens
+- Hello Kitty: 5 itens
+- Larp: 5 itens
+- Logo do Falaê: 5 itens
+- Máscara com chifres: 5 itens
+- Máscara de esqui: 5 itens
+- Máscara de LED: 5 itens
+- Máscara preta: 5 itens
+- Mulher loira: 5 itens
+- Naruto: 5 itens
+- Olhos amarelos: 5 itens
+- Palmeiras: 5 itens
+- Pessoa de costas: 5 itens
+- Pinguim: 5 itens
+- Pintura facial: 5 itens
+- Ronin: 5 itens
+- Sacada: 5 itens
+- Shonen: 5 itens
+- Sonic the Hedgehog: 5 itens
+- Tokyo Ghoul: 5 itens
+- Videogame: 5 itens
+- Agachado: 4 itens
+- Arte com texto: 4 itens
+- Banguela: 4 itens
+- Batman: 4 itens
+- Boné Nike: 4 itens
+- Cabelo de duas cores: 4 itens
+- Cabelo roxo: 4 itens
+- Cachorro de pelúcia: 4 itens
+- Capacete preto: 4 itens
+- Carinho de gato: 4 itens
+- Casal: 4 itens
+- Caveira de desenho: 4 itens
+- Céu estrelado: 4 itens
+- Chicago Bulls: 4 itens
+- Cidade neon: 4 itens
+- Coringa: 4 itens
+- Corvo: 4 itens
+- Cristiano Ronaldo: 4 itens
+- Cupê branco: 4 itens
+- Demon Slayer: Kimetsu no Yaiba: 4 itens
+- Estrela cadente: 4 itens
+- Falha digital: 4 itens
+- Figura sem rosto: 4 itens
+- Filhote de cervo: 4 itens
+- Galinha: 4 itens
+- Gato laranja e branco: 4 itens
+- Golden retriever: 4 itens
+- Holofote: 4 itens
+- Hora de Aventura: 4 itens
+- Jovens Titãs: 4 itens
+- Ken Kaneki: 4 itens
+- Laço: 4 itens
+- LEGO: 4 itens
+- Lobo: 4 itens
+- Máscara oni: 4 itens
+- Meme de texto: 4 itens
+- Mulher de desenho: 4 itens
+- Ninja: 4 itens
+- Noite com neve: 4 itens
+- Nuvens de tempestade: 4 itens
+- Olhos: 4 itens
+- Olhos fechados: 4 itens
+- Parede de tijolos: 4 itens
+- Pessoa jovem: 4 itens
+- Retrato sombrio: 4 itens
+- Romance: 4 itens
+- Rosa vermelha: 4 itens
+- Rosto de caveira: 4 itens
+- Sépia: 4 itens
+- Silhueta de usuário: 4 itens
+- Silhueta encapuzada: 4 itens
+- Silhueta nas sombras: 4 itens
+- Tio Patinhas: 4 itens
+- Vampiro: 4 itens
+- Vilão: 4 itens
+- Abóbora: 3 itens
+- Banco: 3 itens
+- Bebê: 3 itens
+- Beijo na bochecha: 3 itens
+- Bluebearvt: 3 itens
+- Boneco: 3 itens
+- Buquê: 3 itens
+- Caça a jato: 3 itens
+- Cachorro pequeno: 3 itens
+- Camiseta preta: 3 itens
+- Capacete de esqui: 3 itens
+- Capim alto: 3 itens
+- Carro preto: 3 itens
+- Cavaleiro sombrio: 3 itens
+- Céu vermelho: 3 itens
+- Chainsaw Man: 3 itens
+- Chiclete: 3 itens
+- Dar: 3 itens
+- Debaixo d’água: 3 itens
+- Durag: 3 itens
+- E-girl: 3 itens
+- Estátua de anjo: 3 itens
+- Flash de celular: 3 itens
+- Floresta nevada: 3 itens
+- Garoto de desenho: 3 itens
+- Gatinho branco: 3 itens
+- Gatinho cinza: 3 itens
+- Gatinho preto: 3 itens
+- Gato de pelúcia: 3 itens
+- Janela de trem: 3 itens
+- Jogador de futebol: 3 itens
+- Kickflip: 3 itens
+- Logo gamer: 3 itens
+- Máscara de gato: 3 itens
+- Máscara de lobo: 3 itens
+- Máscara de raposa: 3 itens
+- Mercedes: 3 itens
+- Metrô: 3 itens
+- Moletom laranja: 3 itens
+- Moto esportiva: 3 itens
+- Motociclista: 3 itens
+- Natal: 3 itens
+- Noite de inverno: 3 itens
+- Olho em espiral: 3 itens
+- Olhos de anime: 3 itens
+- Ossos: 3 itens
+- Pássaro branco: 3 itens
+- Patrick Estrela: 3 itens
+- Perfil padrão: 3 itens
+- Polar: 3 itens
+- Rosa preta: 3 itens
+- Rosto coberto de preto: 3 itens
+- Rua nevada: 3 itens
+- Sapo: 3 itens
+- Sedã branco: 3 itens
+- Sedã preto: 3 itens
+- Silhueta preta: 3 itens
+- Snowboard: 3 itens
+- Terno branco: 3 itens
+- Tom: 3 itens
+- Tranças nagô: 3 itens
+- Urso de pelúcia: 3 itens
+- Vera Farmiga: 3 itens
+- À beira da água: 2 itens
+- Adaga: 2 itens
+- Aranha: 2 itens
+- Arcane: 2 itens
+- Avatares combinando de casal: 2 itens
+- Baixa poligonagem: 2 itens
+- Beijo: 2 itens
+- BMX: 2 itens
+- Bobo da corte: 2 itens
+- Cabeça enfaixada: 2 itens
+- Cabelo raspado: 2 itens
+- Cachorro preto: 2 itens
+- Caco, o Sapo: 2 itens
+- Call of Duty: 2 itens
+- Camisa rosa: 2 itens
+- Cantor: 2 itens
+- Capuz: 2 itens
+- Cartas de baralho: 2 itens
+- Casais: 2 itens
+- Cavaleiro: 2 itens
+- Cemitério: 2 itens
+- Chapéu de bruxa: 2 itens
+- Chapéu de caubói: 2 itens
+- Ciclismo urbano: 2 itens
+- Clima sombrio: 2 itens
+- Código: 2 itens
+- Danny Phantom: 2 itens
+- Dinossauro em pixels: 2 itens
+- Dirigindo à noite: 2 itens
+- Doxbin: 2 itens
+- Ed Warren: 2 itens
+- Esportes eletrônicos: 2 itens
+- Estrada com névoa: 2 itens
+- Feiticeiro: 2 itens
+- Figura com chifres: 2 itens
+- Filmadora: 2 itens
+- Foice: 2 itens
+- Foto em preto e branco: 2 itens
+- Garota demônio: 2 itens
+- Garota gótica: 2 itens
+- Gatinho dormindo: 2 itens
+- Gatinhos: 2 itens
+- Gato de smoking: 2 itens
+- Gato tricolor: 2 itens
+- Gatos dormindo: 2 itens
+- Gengar: 2 itens
+- Glamour: 2 itens
+- Guaxinim: 2 itens
+- Hacker: 2 itens
+- Homem careca: 2 itens
+- Homem tatuado: 2 itens
+- Isqueiro: 2 itens
+- JDM: 2 itens
+- Juice WRLD: 2 itens
+- Kaiju: 2 itens
+- Killua Zoldyck: 2 itens
+- Lamine Yamal: 2 itens
+- Lince: 2 itens
+- Lobo cinza: 2 itens
+- Lobo preto: 2 itens
+- Loja de conveniência: 2 itens
+- Lula Molusco: 2 itens
+- Manobra no corrimão: 2 itens
+- Mãos: 2 itens
+- Maquiagem de palhaço: 2 itens
+- Máscara de coelho: 2 itens
+- Máscara de gás: 2 itens
+- Metin2tradecenter: 2 itens
+- Minecraft: 2 itens
+- Moletom amarelo: 2 itens
+- Monocromático azul: 2 itens
+- Monocromático rosa: 2 itens
+- Monocromático vermelho: 2 itens
+- Montanha nevada: 2 itens
+- Muro grafitado: 2 itens
+- NieR: Automata: 2 itens
+- O Poderoso Chefão: 2 itens
+- Óculos de aviador: 2 itens
+- Olho cor de avelã: 2 itens
+- Orelhas de raposa: 2 itens
+- Paisagem de montanha: 2 itens
+- Pássaros: 2 itens
+- Patas de gato: 2 itens
+- Patinho: 2 itens
+- Pato: 2 itens
+- Peaky Blinders: 2 itens
+- Perry, o Ornitorrinco: 2 itens
+- Pikachu: 2 itens
+- Portal torii: 2 itens
+- Poste de luz: 2 itens
+- Posto de gasolina: 2 itens
+- Programador: 2 itens
+- Raposa-do-ártico: 2 itens
+- Real Madrid: 2 itens
+- Relaxante: 2 itens
+- Retrato granulado: 2 itens
+- Rilakkuma: 2 itens
+- Robin: 2 itens
+- Romance de fantasia: 2 itens
+- Rosa neon: 2 itens
+- Rosto assustador: 2 itens
+- Rua chuvosa: 2 itens
+- Scarface: 2 itens
+- Selfie com pouca luz: 2 itens
+- Selfie de máscara: 2 itens
+- Selfie melancólica: 2 itens
+- Selva: 2 itens
+- Silhueta masculina: 2 itens
+- Snoopy: 2 itens
+- Sobretudo: 2 itens
+- Squirtle: 2 itens
+- Tobi: 2 itens
+- Urso fofo: 2 itens
+- Urso-polar: 2 itens
+- Venom: 2 itens
+- 67 Sombrio: 1 itens
+- Adereço com chifres: 1 itens
+- Aeromodelo: 1 itens
+- Água-viva: 1 itens
+- Allen Iverson: 1 itens
+- Amigos: 1 itens
+- Anjo caído: 1 itens
+- Anjo sombrio: 1 itens
+- Anônimo: 1 itens
+- Antissocial: 1 itens
+- Aragorn: 1 itens
+- Armadura de fantasia: 1 itens
+- Avatar Fairy Kei: 1 itens
+- Avatar padrão: 1 itens
+- Balanços: 1 itens
+- Banana: 1 itens
+- Barco a vela: 1 itens
+- Bart Simpson: 1 itens
+- Bateria fraca: 1 itens
+- Ben Tennyson: 1 itens
+- Bicicleta: 1 itens
+- Bigode falso: 1 itens
+- Bitcoin: 1 itens
+- Bleach: 1 itens
+- BMW M3: 1 itens
+- BMW M4: 1 itens
+- Bola 8: 1 itens
+- Boneca assustadora: 1 itens
+- Boneca bebê: 1 itens
+- Boneca de pelúcia: 1 itens
+- Borboleta azul: 1 itens
+- Breaking Bad: 1 itens
+- Buquê de rosas: 1 itens
+- Burro: 1 itens
+- Busto de mármore: 1 itens
+- Cabeça em chamas: 1 itens
+- Cabeça envolta: 1 itens
+- Cabelo arco-íris: 1 itens
+- Cabelo castanho ondulado: 1 itens
+- Cabelo chanel preto: 1 itens
+- Cálice: 1 itens
+- Caminhada noturna: 1 itens
+- Camisa polo branca: 1 itens
+- Campo ao luar: 1 itens
+- Campo de girassóis: 1 itens
+- Capacete de moto: 1 itens
+- Capacete medieval: 1 itens
+- Capacete tático: 1 itens
+- Capacete vermelho: 1 itens
+- Carl “CJ” Johnson: 1 itens
+- Carro azul: 1 itens
+- Carro esportivo preto: 1 itens
+- Carro rosa: 1 itens
+- Carro verde: 1 itens
+- Carry Shop: 1 itens
+- Cartola verde: 1 itens
+- CBSE: 1 itens
+- Cereja: 1 itens
+- Cervo luminoso: 1 itens
+- Chanel escuro: 1 itens
+- Chanel loiro: 1 itens
+- Chapéu branco: 1 itens
+- Chefe: 1 itens
+- Chica: 1 itens
+- Chicago Bulls da NBA: 1 itens
+- Chika Fujiwara: 1 itens
+- Choso: 1 itens
+- Chrollo Lucilfer: 1 itens
+- Chucky: 1 itens
+- Cisne: 1 itens
+- Cobra: 1 itens
+- Coelho preto: 1 itens
+- Coelho rosa: 1 itens
+- Coiote: 1 itens
+- Colinas: 1 itens
+- Contrabaixo: 1 itens
+- Conversa por texto: 1 itens
+- Coquette: 1 itens
+- Coração: 1 itens
+- Coração rachado: 1 itens
+- Cordilheira: 1 itens
+- Corvette: 1 itens
+- Costas sem camisa: 1 itens
+- CR7: 1 itens
+- Criança de capa: 1 itens
+- Criatura de desenho: 1 itens
+- Cringe: 1 itens
+- Cromado: 1 itens
+- Crush: 1 itens
+- CS2: 1 itens
+- Cubone: 1 itens
+- Cupê esportivo: 1 itens
+- Dançarino Jabbawockeez: 1 itens
+- Deadpool: 1 itens
+- Dedsec: 1 itens
+- Degraus de pedra: 1 itens
+- Denji: 1 itens
+- Denverc: 1 itens
+- Digimon: 1 itens
+- Dimensão do Fim: 1 itens
+- Dinossauro de pelúcia: 1 itens
+- Doberman: 1 itens
+- Dois homens: 1 itens
+- Domino: 1 itens
+- Domo Kun: 1 itens
+- Dora, a Aventureira: 1 itens
+- Drift: 1 itens
+- Ducati: 1 itens
+- E-girl rosa 3: 1 itens
+- Emblema azul: 1 itens
+- Enclave: 1 itens
+- Enderman: 1 itens
+- Escuridão: 1 itens
+- Estátua de deus: 1 itens
+- Estátua de mármore: 1 itens
+- Estrela-do-mar rosa: 1 itens
+- Estudantes: 1 itens
+- Estudos: 1 itens
+- Eu me odeio: 1 itens
+- Fairy Tail: 1 itens
+- Felino de desenho: 1 itens
+- Ferrari: 1 itens
+- Festa: 1 itens
+- Figura ajoelhada: 1 itens
+- Figura cósmica: 1 itens
+- Figura de desenho: 1 itens
+- Figura enfaixada: 1 itens
+- Filhote de pinguim: 1 itens
+- Filhote dourado: 1 itens
+- Finn, o Humano: 1 itens
+- Floral abstrato: 1 itens
+- Flores roxas: 1 itens
+- Flores silvestres: 1 itens
+- Floresta com névoa: 1 itens
+- Floresta sombria: 1 itens
+- Foca: 1 itens
+- Folhas de outono: 1 itens
+- Freddy Fazbear: 1 itens
+- Garota de desenho: 1 itens
+- Garota SSFW: 1 itens
+- Garoto de capuz: 1 itens
+- Garrafa de refrigerante: 1 itens
+- Gato de Botas: 1 itens
+- Gato samurai: 1 itens
+- Gato verde: 1 itens
+- Gdk: 1 itens
+- Glamour sombrio: 1 itens
+- God of War: 1 itens
+- Gojo: 1 itens
+- Google: 1 itens
+- Gorila: 1 itens
+- Gorro roxo: 1 itens
+- Gorro vermelho: 1 itens
+- Gravity Falls: 1 itens
+- GTA sem excessos: 1 itens
+- Guaxinim de desenho: 1 itens
+- Guitar Hero: 1 itens
+- Harry Potter: 1 itens
+- Hidra: 1 itens
+- Hijab: 1 itens
+- Homem de cabelo escuro: 1 itens
+- Homem de capuz: 1 itens
+- Homem idoso: 1 itens
+- Homem loiro: 1 itens
+- Homem-Aranha com traje simbionte preto: 1 itens
+- Homem-Aranha de traje preto: 1 itens
+- Homem-Aranha Miles Morales: 1 itens
+- Humanoide de desenho: 1 itens
+- Humanoide roxo: 1 itens
+- Hunt Clan: 1 itens
+- Husky: 1 itens
+- iCarly: 1 itens
+- Igreja: 1 itens
+- Illumi Zoldyck: 1 itens
+- Jake, o Cão: 1 itens
+- Jerry: 1 itens
+- Jinx: 1 itens
+- Joe Goldberg: 1 itens
+- Kirby: 1 itens
+- Kodak Black: 1 itens
+- Konosuba: 1 itens
+- Korilakkuma: 1 itens
+- Kuromi: 1 itens
+- Kurta preta: 1 itens
+- Lábios brilhantes: 1 itens
+- Lagoa: 1 itens
+- Laid Back Camp: 1 itens
+- Lata de refrigerante: 1 itens
+- LeBron James: 1 itens
+- Legião sombria: 1 itens
+- Leon S. Kennedy: 1 itens
+- Leque de dinheiro: 1 itens
+- Levi Ackerman: 1 itens
+- Lil Jeff: 1 itens
+- Lobo antropomórfico: 1 itens
+- Logo de coroa: 1 itens
+- Logo financeira: 1 itens
+- Loki da Marvel: 1 itens
+- Lollipop Chainsaw: 1 itens
+- Lontra: 1 itens
+- Los Angeles Lakers: 1 itens
+- Love, Chunibyo & Other Delusions: 1 itens
+- Lt Whitewall: 1 itens
+- Lucky Star: 1 itens
+- Maçã: 1 itens
+- Macaco: 1 itens
+- Macaco de pelúcia: 1 itens
+- Madoka 3: 1 itens
+- Manjiro Sano Mikey: 1 itens
+- Marcas de beijo: 1 itens
+- Marie: 1 itens
+- Mario: 1 itens
+- Mario Balotelli: 1 itens
+- Mariposa branca: 1 itens
+- Máscara de bobo da corte: 1 itens
+- Máscara de gato verde: 1 itens
+- Máscara de saco de papel: 1 itens
+- Máscara de visor preto: 1 itens
+- Máscara quebrada: 1 itens
+- Mascote com chifres: 1 itens
+- Megumi: 1 itens
+- Megumi 3: 1 itens
+- Mensagens de texto: 1 itens
+- Mestres: 1 itens
+- Michael Corleone: 1 itens
+- Michael Jackson: 1 itens
+- Miles Morales: 1 itens
+- Minecraft Supermj: 1 itens
+- Minion: 1 itens
+- Miraculous: As Aventuras de Ladybug: 1 itens
+- Moe: 1 itens
+- Moletom Brooklyn Nets: 1 itens
+- Moletom de urso: 1 itens
+- Monograma gótico: 1 itens
+- Morte e vida: 1 itens
+- Motoqueiro Fantasma: 1 itens
+- Mulher de anime: 1 itens
+- Mulher estilizada: 1 itens
+- Mulher gótica: 1 itens
+- My Little Pony: 1 itens
+- My Melody: 1 itens
+- Não perturbe: 1 itens
+- Navio a vela: 1 itens
+- Neon Genesis Evangelion: 1 itens
+- Nezuko Kamado: 1 itens
+- Nick Wilde: 1 itens
+- Noite de eleição: 1 itens
+- O Verão em que Hikaru Morreu: 1 itens
+- Oceano ao luar: 1 itens
+- Óculos de sol vermelhos: 1 itens
+- Ônibus noturno: 1 itens
+- Orbe vermelha: 1 itens
+- Orla ao luar: 1 itens
+- Paisagem urbana neon: 1 itens
+- Panda: 1 itens
+- Pantera: 1 itens
+- Paris: 1 itens
+- Parque nevado: 1 itens
+- Pássaro de desenho: 1 itens
+- Pateta: 1 itens
+- Patolino: 1 itens
+- Per Geras: 1 itens
+- Peruca: 1 itens
+- Pessoa sentada: 1 itens
+- Pessoas: 1 itens
+- Pétalas luminosas: 1 itens
+- Peter Griffin: 1 itens
+- Picape preta: 1 itens
+- Picles: 1 itens
+- Piloto: 1 itens
+- Piloto de Fórmula 1: 1 itens
+- Pombo branco: 1 itens
+- Pompompurin: 1 itens
+- Pôr do sol na praia: 1 itens
+- Porco: 1 itens
+- Pradabagshawty: 1 itens
+- Praia à noite: 1 itens
+- Praia ao luar: 1 itens
+- Prédio de apartamentos: 1 itens
+- Preguiça: 1 itens
+- Privado: 1 itens
+- Público de show: 1 itens
+- Pug: 1 itens
+- Quero uma mulher gótica grande, gorda e sexy: 1 itens
+- Rabbid: 1 itens
+- Rap: 1 itens
+- Raposa de desenho: 1 itens
+- Raposa original: 1 itens
+- Rato: 1 itens
+- Reflexo no espelho: 1 itens
+- Relógio cravejado: 1 itens
+- Rick and Morty: 1 itens
+- Riley Freeman: 1 itens
+- Robô retrô: 1 itens
+- Roda-gigante: 1 itens
+- Roronoa Zoro: 1 itens
+- Rosto censurado: 1 itens
+- Rosto minimalista: 1 itens
+- Sauron: 1 itens
+- Scooby-Doo: 1 itens
+- Sedã: 1 itens
+- Sekiro: Shadows Die Twice: 1 itens
+- Seleção portuguesa de futebol: 1 itens
+- Selfie nas sombras: 1 itens
+- Selfie no quarto: 1 itens
+- Seraph of the End: 1 itens
+- Servidor de interpretação de papéis: 1 itens
+- Shatter Me: 1 itens
+- Shrek: 1 itens
+- Silhueta com chifres: 1 itens
+- Silhueta de anime: 1 itens
+- Silhueta de pássaro: 1 itens
+- Silhueta feminina: 1 itens
+- Silhueta sem rosto: 1 itens
+- Símbolo de usuário: 1 itens
+- Smurk: 1 itens
+- Snoop Dogg: 1 itens
+- Soldado caveira: 1 itens
+- Sombra de gato: 1 itens
+- Sosa: 1 itens
+- Spiekermann: 1 itens
+- Spotify: 1 itens
+- Spy x Family: 1 itens
+- Starboy: 1 itens
+- Stewie Griffin: 1 itens
+- Stussy: 1 itens
+- SUV preto: 1 itens
+- Synthwave: 1 itens
+- Tartaruga: 1 itens
+- Tatuagem no lábio: 1 itens
+- Tecla Esc: 1 itens
+- Teclado MIDI: 1 itens
+- Ted: 1 itens
+- Teia de aranha: 1 itens
+- Tempestade: 1 itens
+- Tempestade de neve: 1 itens
+- Tengen Uzui: 1 itens
+- Texto: 1 itens
+- Texto cirílico: 1 itens
+- Therian: 1 itens
+- Thomas Shelby: 1 itens
+- Tigre: 1 itens
+- Tony Montana: 1 itens
+- Top 250: 1 itens
+- Toro Inoue: 1 itens
+- Tóxico: 1 itens
+- Treinamento policial: 1 itens
+- Trem: 1 itens
+- Tubarão de pelúcia: 1 itens
+- Túnel: 1 itens
+- Unicórnio: 1 itens
+- Vergil: 1 itens
+- Violão: 1 itens
+- Violeta: 1 itens
+- Visual Kei: 1 itens
+- Você odeia sua vida: 1 itens
+- Vulpix de Pokémon: 1 itens
+- Yakuza: 1 itens
+- Yeezy: 1 itens
+- Yuji: 1 itens
+- Yuji Itadori: 1 itens
+- Zenitsu Agatsuma: 1 itens

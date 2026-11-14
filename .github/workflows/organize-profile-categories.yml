@@ -1,0 +1,36 @@
+name: Organizar categorias de perfis
+on:
+  push:
+    branches: [main]
+    paths: [scripts/organize-profile-categories.mjs, .github/workflows/organize-profile-categories.yml, catalogo/icones/categorias.json, catalogo/banners/categorias.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: organize-profile-categories
+  cancel-in-progress: false
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/organize-profile-categories.mjs
+            /catalogo/icones/categorias.json
+            /catalogo/banners/categorias.json
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38
+        with:
+          node-version: '24'
+      - name: Organizar referências sem modificar os arquivos originais
+        run: |
+          node scripts/organize-profile-categories.mjs
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit --quiet -m 'Organizar avatares e banners em pastas por categoria com vínculos múltiplos'
+            git push --quiet origin HEAD:main
+          fi
