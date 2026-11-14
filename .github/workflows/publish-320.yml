@@ -1,0 +1,71 @@
+name: Publicar aplicativos Falaê
+on:
+  push:
+    branches: [main]
+    paths: ['releases/apps-v3.2.0.json', '.github/workflows/publish-320.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish-apps-v3
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: falaegrup/falae-downloads
+    steps:
+      - name: Obter manifesto de instaladores
+        run: gh api repos/falaegrup/falae-downloads/contents/releases/apps-v3.2.0.json --jq .content | base64 --decode > manifest.json
+      - name: Conferir e preparar instaladores
+        shell: python
+        run: |
+          import json, urllib.request, hashlib, zipfile, io, pathlib
+          manifest=json.load(open('manifest.json'))
+          assert manifest['version']=='3.2.0'
+          out=pathlib.Path('installers');out.mkdir()
+          def fetch(url):
+            assert url.startswith('https://falae.pages.dev/app-transfer/') or url.startswith('https://sdmntpr') and '.oaiusercontent.com/' in url
+            request=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 FalaeRelease/3.2.0'})
+            with urllib.request.urlopen(request,timeout=120) as response:return response.read()
+          def save(name,data,digest):
+            assert pathlib.Path(name).name==name and name.startswith('Falae-3.2.0-')
+            assert hashlib.sha256(data).hexdigest()==digest, name+' checksum mismatch'
+            (out/name).write_bytes(data)
+            print(name,len(data),'bytes; SHA-256 OK')
+          android=manifest['android']
+          save(android['file'],b''.join(fetch(url) for url in android['parts']),android['sha256'])
+          names={'windows':'Falae-3.2.0-windows-x64.exe','linux':'Falae-3.2.0-linux-x64.AppImage','macos':'Falae-3.2.0-macos-universal.dmg'}
+          for artifact in manifest['desktop']:
+            data=fetch(artifact['url'])
+            assert hashlib.sha256(data).hexdigest()==artifact['sha256']
+            expected=names[artifact['kind']]
+            with zipfile.ZipFile(io.BytesIO(data)) as archive:
+              assert set(archive.namelist())=={expected,'SHA256SUMS.txt'}
+              digest,name=archive.read('SHA256SUMS.txt').decode().strip().split()
+              assert name==expected
+              save(name,archive.read(name),digest)
+          assert {p.name for p in out.iterdir()}==set(names.values())|{android['file']}
+          (out/'SHA256SUMS.txt').write_text(''.join(hashlib.sha256(p.read_bytes()).hexdigest()+'  '+p.name+'\n' for p in sorted(out.iterdir())))
+      - name: Salvar no GitHub Releases
+        shell: bash
+        run: |
+          cat > notes.md <<'EOF'
+          Aplicativos Falaê 3.2.0: Android, Windows x64, Linux x64 e macOS universal (Intel/Apple Silicon).
+
+          Android: modo imersivo com barras pretas, ocultação das barras após 5 segundos na horizontal e vídeo flutuante nativo (PiP) em aparelhos compatíveis. Volume individual de voz de 0% a 300%, padrão 100%, salvo por perfil neste aparelho. O áudio da transmissão e o microfone enviado não são alterados.
+
+          A mesma interface do site https://falae.pages.dev/, em uma janela própria. Precisa de internet. O visual acompanha as atualizações do site; atualizações do instalador são manuais.
+
+          Android: APK assinado com a assinatura original do Falaê. Permita a instalação quando solicitado pelo aparelho.
+          Windows/macOS: instaladores sem certificação comercial de desenvolvedor; o sistema pode exibir um aviso de segurança. Linux: habilite a execução do AppImage.
+
+          SHA-256 de todos os arquivos em SHA256SUMS.txt. Código-fonte mantido no repositório privado do projeto; esta página contém somente os instaladores.
+          EOF
+          if ! gh release view apps-v3.2.0 >/dev/null 2>&1; then
+            gh release create apps-v3.2.0 --draft --title 'Falaê 3.2.0 — Android e desktop' --notes-file notes.md
+          fi
+          gh release upload apps-v3.2.0 installers/* --clobber
+          gh release edit apps-v3.2.0 --draft=false --latest --notes-file notes.md
