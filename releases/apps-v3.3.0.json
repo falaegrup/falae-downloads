@@ -1,30 +1,29 @@
 {
   "version": "3.3.0",
+  "release": "https://github.com/falaegrup/falae-downloads/releases/tag/apps-v3.3.0",
   "source_commit": "4fbef0e32ead270dd47825d55d89de21b757966c",
-  "android": {
-    "file": "Falae-3.3.0-android.apk",
-    "sha256": "745106d9b2458b24405ac4f02901bf6677f0cd400965887244387b2add9b51e4",
-    "parts": [
-      "https://falae.pages.dev/app-transfer/apps-330-745106d9b245/android.part0.bin",
-      "https://falae.pages.dev/app-transfer/apps-330-745106d9b245/android.part1.bin",
-      "https://falae.pages.dev/app-transfer/apps-330-745106d9b245/android.part2.bin"
-    ]
-  },
-  "desktop": [
+  "activation_commit": "f672bc94cac08ed4b2bd6f7ab48a6c2ebf7d77be",
+  "android_signer_sha256": "0799ac9bcf020ae4b6a624bb23eaf43a69c9d5a797d225e0fb50826f70a0d13c",
+  "files": [
     {
-      "kind": "linux",
-      "sha256": "df0f5a77ffc393164cec626ced373eedbf03d26225406b88f5468b5c5cfbfb40",
-      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-569c-820e-a0f8-e0e99d40fe88/raw?se=2026-11-14T04%3A58%3A48Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d856-3595-76d5-bcb7-cb1acab5214a&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A20%3A10Z&ske=2026-11-14T19%3A20%3A10Z&sks=b&skv=2026-06-06&sig=p4SXZJoVCmMIk60RXjKVbBAlV8pf6v6FM8E7utfNMEg%3D"
+      "file": "Falae-3.3.0-android.apk",
+      "size": 48420956,
+      "sha256": "745106d9b2458b24405ac4f02901bf6677f0cd400965887244387b2add9b51e4"
     },
     {
-      "kind": "macos",
-      "sha256": "7436e14f61affd2024db46f2aae3ace3e5ad1caa9f2a0b2419ff4d6d0aeff5f0",
-      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-4418-820e-807e-3adc341a49df/raw?se=2026-11-14T04%3A58%3A56Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d856-3595-76d5-bcb7-cb1acab5214a&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A22%3A36Z&ske=2026-11-14T19%3A22%3A36Z&sks=b&skv=2026-06-06&sig=xRUa2DYA8teHn8jvfswfgQ4deYSVKtAtu2r4EmoSC2U%3D"
+      "file": "Falae-3.3.0-linux-x64.AppImage",
+      "size": 125638579,
+      "sha256": "8147519a1931791d6397e3e1916aeb6dd2a875be9d77f633bbd156f3a8ed360c"
     },
     {
-      "kind": "windows",
-      "sha256": "de2b3c0a1349be9af4a68d3c2d75667cda65ca80d7539e4d8c0483a7655ddba7",
-      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-33bc-820e-8386-379215be4e0c/raw?se=2026-11-14T04%3A58%3A46Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d856-3595-76d5-bcb7-cb1acab5214a&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A20%3A10Z&ske=2026-11-14T19%3A20%3A10Z&sks=b&skv=2026-06-06&sig=G4Lj9KDL2mxV/68g5JQTbYE4etLwi/wBWLFS0MLm4dI%3D"
+      "file": "Falae-3.3.0-macos-universal.dmg",
+      "size": 222682250,
+      "sha256": "4c7c3bde8da04488e3d71b22a6fe94f5e1ecd141923098bf5caabdb81cb87977"
+    },
+    {
+      "file": "Falae-3.3.0-windows-x64.exe",
+      "size": 120410749,
+      "sha256": "d2c067c0c4cde506561e9125c0d9f3627569219a6248f2ab1e66a9fba3904d80"
     }
   ]
 }
