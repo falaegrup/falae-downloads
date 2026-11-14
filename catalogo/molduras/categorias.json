@@ -1,0 +1,570 @@
+[
+  {
+    "id": "falae",
+    "name": "Falaê",
+    "paths": [
+      "molduras/im_a_clown.png",
+      "molduras/mokoko.png",
+      "molduras/sakura_gyoiko.png",
+      "molduras/warp_helmet.png",
+      "molduras/victory_crown.png",
+      "molduras/freezer_bunny_lovebug.png",
+      "molduras/wingman_boba.png",
+      "molduras/los_santos.png",
+      "molduras/hailey.png",
+      "molduras/bunny.png",
+      "molduras/torgal_puppy.png",
+      "molduras/street_fighter_6_battle_field.png",
+      "molduras/wolf_morph.png",
+      "molduras/wallach_spaceport.png",
+      "molduras/batarang.png",
+      "molduras/rift_butterfly.png",
+      "molduras/bush_camper.png",
+      "molduras/shield_potion.png",
+      "molduras/tga_controller.png",
+      "molduras/shadow.png",
+      "molduras/new_year_2025.png",
+      "molduras/santa_cat_ears.png",
+      "molduras/snowfall.png",
+      "molduras/rec_room_lightning.png",
+      "molduras/wingmans_got_it.png",
+      "molduras/jeff_the_land_shark.png",
+      "molduras/fuchsia_agent.png",
+      "molduras/heart_to_heart.png"
+    ]
+  },
+  {
+    "id": "ano-novo-lunar",
+    "name": "Ano-Novo Lunar",
+    "paths": [
+      "molduras/snakes_hug.png",
+      "molduras/lotus_flower.png",
+      "molduras/red_lantern.png",
+      "molduras/fan_flourish.png",
+      "molduras/lunar_lanterns.png",
+      "molduras/firecrackers.png",
+      "molduras/dragons_smile.png",
+      "molduras/lucky_envelopes.png",
+      "molduras/koi_pond.png"
+    ]
+  },
+  {
+    "id": "steampunk",
+    "name": "Steampunk",
+    "paths": [
+      "molduras/steampunk_cat_ears.png",
+      "molduras/mech_flora.png",
+      "molduras/bowler_hat.png",
+      "molduras/brass_beats.png",
+      "molduras/timekeepers_clock.png",
+      "molduras/flux_alchemy.png"
+    ]
+  },
+  {
+    "id": "fantasia",
+    "name": "Fantasia",
+    "paths": [
+      "molduras/magic_portal_purple.png",
+      "molduras/magic_portal_blue.png",
+      "molduras/fairy_sprites_pink.png",
+      "molduras/fairy_sprites_blue.png",
+      "molduras/fairy_sprites.png",
+      "molduras/crystal_ball_purple.png",
+      "molduras/crystal_ball_blue.png",
+      "molduras/wizard_hat_purple.png",
+      "molduras/wizard_hat_blue.png",
+      "molduras/magical_wand_purple.png",
+      "molduras/magical_wand_green.png",
+      "molduras/mooncaps_pink.png",
+      "molduras/mooncaps_blue.png",
+      "molduras/cottage_home.png",
+      "molduras/flaming_sword.png",
+      "molduras/magical_potion.png",
+      "molduras/wizards_staff.png",
+      "molduras/glowing_runes.png",
+      "molduras/defensive_shield.png",
+      "molduras/skull_medallion.png",
+      "molduras/treasure_and_key.png"
+    ]
+  },
+  {
+    "id": "maravilhas-de-inverno",
+    "name": "Maravilhas de Inverno",
+    "paths": [
+      "molduras/aurora.png",
+      "molduras/polar_bear_hat.png",
+      "molduras/string_lights.png",
+      "molduras/string_lights_aurora.png",
+      "molduras/string_lights_ember.png",
+      "molduras/string_lights_dusk.png",
+      "molduras/string_lights_mix.png",
+      "molduras/snowglobe.png",
+      "molduras/snowglobe_wood.png",
+      "molduras/snowglobe_pink.png",
+      "molduras/snowglobe_blue.png",
+      "molduras/snowglobe_green.png",
+      "molduras/fresh_pine.png",
+      "molduras/fresh_pine_cinnamon.png",
+      "molduras/fresh_pine_ribbon.png",
+      "molduras/new_year_2024.png"
+    ]
+  },
+  {
+    "id": "garota-lo-fi",
+    "name": "Garota Lo-fi",
+    "paths": [
+      "molduras/lofi_girl_outfit.png",
+      "molduras/playful_lofi_cat.png",
+      "molduras/sleepy_chilledcow.png",
+      "molduras/study_session.png",
+      "molduras/group_hug.png",
+      "molduras/cozy_post_it.png",
+      "molduras/cozy_post_it_festive.png"
+    ]
+  },
+  {
+    "id": "modo-fofo",
+    "name": "Modo Fofo",
+    "paths": [
+      "molduras/cat_ear_headset.png",
+      "molduras/bubble_tea.png",
+      "molduras/bunny_zzzs.png",
+      "molduras/sproutling.png",
+      "molduras/bloomling.png",
+      "molduras/neon_nibbles.png",
+      "molduras/uwu_xp.png",
+      "molduras/hex_lights.png"
+    ]
+  },
+  {
+    "id": "arcane",
+    "name": "Arcane",
+    "paths": [
+      "molduras/the_anomaly.png",
+      "molduras/the_mark.png",
+      "molduras/the_monster_you_created.png",
+      "molduras/the_atlas_gauntlets.png",
+      "molduras/flame_chompers.png",
+      "molduras/fishbones.png",
+      "molduras/the_hexcore.png",
+      "molduras/powered_by_shimmer.png"
+    ]
+  },
+  {
+    "id": "criaturas-miticas",
+    "name": "Criaturas Míticas",
+    "paths": [
+      "molduras/kitsune.png",
+      "molduras/unicorn.png",
+      "molduras/phoenix.png",
+      "molduras/dancing_fairies.png",
+      "molduras/crystal_elk.png",
+      "molduras/mermaid_serenade.png"
+    ]
+  },
+  {
+    "id": "masmorras-e-dragoes",
+    "name": "Masmorras e Dragões",
+    "paths": [
+      "molduras/dice_violet.png",
+      "molduras/dice_azure.png",
+      "molduras/gelatinous_cube_green.png",
+      "molduras/gelatinous_cube_blue.png",
+      "molduras/owlbear_cub.png",
+      "molduras/owlbear_cub_snowy.png",
+      "molduras/baby_displacer_beast.png"
+    ]
+  },
+  {
+    "id": "noite-assustadora",
+    "name": "Noite Assustadora",
+    "paths": [
+      "molduras/spooky_cat_ears.png",
+      "molduras/spooky_cat_ears_midnight.png",
+      "molduras/candlelight.png",
+      "molduras/candlelight_crimson.png",
+      "molduras/candlelight_dark.png",
+      "molduras/hood_dark.png",
+      "molduras/hood_crimson.png",
+      "molduras/witch_hat_plum.png",
+      "molduras/witch_hat_midnight.png",
+      "molduras/zombie_food.png",
+      "molduras/zombie_food_purple.png",
+      "molduras/bloodthirsty.png",
+      "molduras/bloodthirsty_green.png",
+      "molduras/bloodthirsty_gold.png"
+    ]
+  },
+  {
+    "id": "lutadores-de-rua",
+    "name": "Lutadores de Rua",
+    "paths": [
+      "molduras/ryu.png",
+      "molduras/chun_li.png",
+      "molduras/ken.png",
+      "molduras/akuma.png",
+      "molduras/cammy.png",
+      "molduras/guile.png",
+      "molduras/juri.png",
+      "molduras/m_bison.png"
+    ]
+  },
+  {
+    "id": "equinocio-de-outono",
+    "name": "Equinócio de Outono",
+    "paths": [
+      "molduras/chrysanthemums_twilight.png",
+      "molduras/chrysanthemums_morning.png",
+      "molduras/dusk_and_dawn.png",
+      "molduras/floral_harmony.png",
+      "molduras/floral_harmony_sunburst.png",
+      "molduras/autumns_arbor.png",
+      "molduras/autumns_arbor_aurora.png",
+      "molduras/autumn_crown.png",
+      "molduras/faces_of_the_moon.png"
+    ]
+  },
+  {
+    "id": "outono",
+    "name": "Outono",
+    "paths": [
+      "molduras/fox_hat.png",
+      "molduras/fox_hat_chestnut.png",
+      "molduras/fox_hat_snow.png",
+      "molduras/fall_leaves.png",
+      "molduras/fall_leaves_scarlet.png",
+      "molduras/fall_leaves_woodland.png",
+      "molduras/pumpkin_spice.png",
+      "molduras/frog_hat.png"
+    ]
+  },
+  {
+    "id": "o-cofre",
+    "name": "O Cofre",
+    "paths": [
+      "molduras/sakura.png",
+      "molduras/sakura_pink.png",
+      "molduras/sakura_ukon.png",
+      "molduras/sakura_gyoiko.png",
+      "molduras/frog_angry.png",
+      "molduras/frog_derpy.png",
+      "molduras/fried_egg.png",
+      "molduras/green_fried_egg.png",
+      "molduras/morning_coffee.png",
+      "molduras/toast.png",
+      "molduras/burnt_toast.png",
+      "molduras/stinkums.png",
+      "molduras/goblin_stinkums.png"
+    ]
+  },
+  {
+    "id": "dojo",
+    "name": "Dojô",
+    "paths": [
+      "molduras/kabuto.png",
+      "molduras/oni_mask.png",
+      "molduras/straw_hat.png",
+      "molduras/sakura_ink.png",
+      "molduras/sakura_warrior.png",
+      "molduras/shurikens_mask.png"
+    ]
+  },
+  {
+    "id": "campeoes-de-valorant",
+    "name": "Campeões de Valorant",
+    "paths": [
+      "molduras/valorant_champions_2024.png",
+      "molduras/yoru_dimensional_drift.png",
+      "molduras/viper_poison_cloud.png",
+      "molduras/cypher_neural_theft.png",
+      "molduras/a_hint_of_clove.png",
+      "molduras/omens_cowl.png",
+      "molduras/reynas_leer.png",
+      "molduras/frag_out.png",
+      "molduras/blade_storm.png"
+    ]
+  },
+  {
+    "id": "bob-esponja",
+    "name": "Bob Esponja",
+    "paths": [
+      "molduras/spongebob.png",
+      "molduras/imagination.png",
+      "molduras/patrick_star.png",
+      "molduras/flower_clouds.png",
+      "molduras/gary_the_snail.png",
+      "molduras/sandy_cheeks.png",
+      "molduras/musclebob.png"
+    ]
+  },
+  {
+    "id": "fantasia-sombria",
+    "name": "Fantasia Sombria",
+    "paths": [
+      "molduras/midnight_sorceress.png",
+      "molduras/malefic_crown.png",
+      "molduras/deaths_edge.png",
+      "molduras/spirit_embers.png",
+      "molduras/eldritch_ring.png",
+      "molduras/arcane_sigil.png"
+    ]
+  },
+  {
+    "id": "palworld",
+    "name": "Palworld",
+    "paths": [
+      "molduras/chillet.png",
+      "molduras/pal_sphere.png",
+      "molduras/cattiva.png",
+      "molduras/lamball.png",
+      "molduras/depresso.png",
+      "molduras/selyne.png"
+    ]
+  },
+  {
+    "id": "fliperama",
+    "name": "Fliperama",
+    "paths": [
+      "molduras/joystick.png",
+      "molduras/clyde_invaders.png",
+      "molduras/pipedream.png",
+      "molduras/hot_shot.png",
+      "molduras/mallow_jump.png",
+      "molduras/slither_n_snack.png"
+    ]
+  },
+  {
+    "id": "clima-retro",
+    "name": "Clima Retrô",
+    "paths": [
+      "molduras/feelin_awe.png",
+      "molduras/feelin_panic.png",
+      "molduras/feelin_nervous.png",
+      "molduras/feelin_scrumptious.png"
+    ]
+  },
+  {
+    "id": "piratas",
+    "name": "Piratas",
+    "paths": [
+      "molduras/pirate_captain.png",
+      "molduras/scallywag.png",
+      "molduras/good_ol_pepper.png",
+      "molduras/crossbones.png",
+      "molduras/cannon_fire.png",
+      "molduras/helmsman.png"
+    ]
+  },
+  {
+    "id": "galaxia",
+    "name": "Galáxia",
+    "paths": [
+      "molduras/stardust.png",
+      "molduras/black_hole.png",
+      "molduras/constellations.png",
+      "molduras/solar_orbit.png",
+      "molduras/ufo.png",
+      "molduras/astronaut_helmet.png"
+    ]
+  },
+  {
+    "id": "vibracoes-lo-fi",
+    "name": "Vibrações Lo-fi",
+    "paths": [
+      "molduras/chromawave.png",
+      "molduras/cozy_cat.png",
+      "molduras/oasis.png",
+      "molduras/rainy_mood.png",
+      "molduras/cozy_headphones.png",
+      "molduras/doodling.png"
+    ]
+  },
+  {
+    "id": "valorant",
+    "name": "Valorant",
+    "paths": [
+      "molduras/a_hint_of_clove.png",
+      "molduras/omens_cowl.png",
+      "molduras/reynas_leer.png",
+      "molduras/frag_out.png",
+      "molduras/blade_storm.png"
+    ]
+  },
+  {
+    "id": "primavera-animada",
+    "name": "Primavera Animada",
+    "paths": [
+      "molduras/honeyblossom.png",
+      "molduras/dandelion_duo.png",
+      "molduras/hugh_the_rainbow.png",
+      "molduras/strawberry_vine.png",
+      "molduras/butterflies.png",
+      "molduras/the_petal_pack.png"
+    ]
+  },
+  {
+    "id": "anime",
+    "name": "Anime",
+    "paths": [
+      "molduras/cat_ears.png",
+      "molduras/ki_energy.png",
+      "molduras/heartbloom.png",
+      "molduras/dismay.png",
+      "molduras/rage.png",
+      "molduras/in_tears.png",
+      "molduras/radiating_energy.png",
+      "molduras/soul_leaving_body.png",
+      "molduras/sweat_drops.png",
+      "molduras/starry_eyed.png",
+      "molduras/in_love.png",
+      "molduras/shocked.png",
+      "molduras/angry.png"
+    ]
+  },
+  {
+    "id": "elementos",
+    "name": "Elementos",
+    "paths": [
+      "molduras/fire.png",
+      "molduras/water.png",
+      "molduras/air.png",
+      "molduras/earth.png",
+      "molduras/lightning.png",
+      "molduras/balance.png"
+    ]
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk",
+    "paths": [
+      "molduras/glitch.png",
+      "molduras/cybernetic.png",
+      "molduras/digital_sunrise.png",
+      "molduras/implant.png"
+    ]
+  },
+  {
+    "id": "monstros",
+    "name": "Monstros",
+    "paths": [
+      "molduras/beamchop.png",
+      "molduras/stinkums.png",
+      "molduras/chuck.png",
+      "molduras/winkle.png",
+      "molduras/chewbert.png",
+      "molduras/doodlezard.png",
+      "molduras/glop.png",
+      "molduras/gawblehop.png"
+    ]
+  },
+  {
+    "id": "halloween",
+    "name": "Halloween",
+    "paths": [
+      "molduras/graveyard_cat.png",
+      "molduras/ghosts.png",
+      "molduras/minions.png",
+      "molduras/jack_o_lantern.png"
+    ]
+  },
+  {
+    "id": "cafe-da-manha",
+    "name": "Café da Manhã",
+    "paths": [
+      "molduras/toast.png",
+      "molduras/morning_coffee.png",
+      "molduras/fried_egg.png",
+      "molduras/blueberry_jam.png",
+      "molduras/donut.png",
+      "molduras/pancakes.png"
+    ]
+  },
+  {
+    "id": "disxcore",
+    "name": "DISXCORE",
+    "paths": [
+      "molduras/disxcore_headset.png",
+      "molduras/pink_futuristic_ui.png",
+      "molduras/green_smoke.png"
+    ]
+  },
+  {
+    "id": "8-aniversario-do-falae",
+    "name": "8º Aniversário do Falaê",
+    "paths": [
+      "molduras/disxcore_headset.png",
+      "molduras/pink_headset.png",
+      "molduras/green_headset.png",
+      "molduras/blue_futuristic_ui.png",
+      "molduras/pink_futuristic_ui.png",
+      "molduras/green_futuristic_ui.png",
+      "molduras/blue_smoke.png",
+      "molduras/pink_smoke.png",
+      "molduras/green_smoke.png",
+      "molduras/blue_gyroscope.png",
+      "molduras/pink_gyroscope.png",
+      "molduras/green_gyroscope.png",
+      "molduras/blue_shine_helmet.png",
+      "molduras/pink_shine_helmet.png",
+      "molduras/green_shine_helmet.png",
+      "molduras/blue_hyper_helmet.png",
+      "molduras/pink_hyper_helmet.png",
+      "molduras/green_hyper_helmet.png",
+      "molduras/saw.png"
+    ]
+  },
+  {
+    "id": "primavera-de-2023",
+    "name": "Primavera de 2023",
+    "paths": [
+      "molduras/sakura.png",
+      "molduras/sakura_pink.png",
+      "molduras/sakura_ukon.png",
+      "molduras/sakura_gyoiko.png",
+      "molduras/mushroom_1.png",
+      "molduras/mushroom_2.png",
+      "molduras/mushroom_3.png",
+      "molduras/mushroom_4.png",
+      "molduras/forest.png",
+      "molduras/frog_1.png",
+      "molduras/frog_derpy.png",
+      "molduras/frog_3.png",
+      "molduras/frog_angry.png",
+      "molduras/cat_1.png",
+      "molduras/cat_2.png",
+      "molduras/cat_3.png",
+      "molduras/cat_4.png",
+      "molduras/dog_1.png",
+      "molduras/dog_2.png",
+      "molduras/dog_3.png"
+    ]
+  },
+  {
+    "id": "festa-da-neve",
+    "name": "Festa da Neve",
+    "paths": [
+      "molduras/blanket_green.png",
+      "molduras/blanket_orange.png",
+      "molduras/blanket_pink.png",
+      "molduras/blanket_purple.png",
+      "molduras/box_white_blue.png",
+      "molduras/box_blue_yellow.png",
+      "molduras/box_green_red.png",
+      "molduras/box_red_white.png",
+      "molduras/box_red_white_blue.png",
+      "molduras/confetti_festive.png",
+      "molduras/confetti_fire.png",
+      "molduras/confetti_ice.png",
+      "molduras/confetti_mint.png",
+      "molduras/confetti_star.png",
+      "molduras/confetti_vaporwave.png",
+      "molduras/ice_cube.png",
+      "molduras/icicle_gleaming.png",
+      "molduras/icicle_snowing.png",
+      "molduras/teacup_blue.png",
+      "molduras/teacup_orange.png",
+      "molduras/teacup_pink.png",
+      "molduras/teacup_red.png"
+    ]
+  }
+]
