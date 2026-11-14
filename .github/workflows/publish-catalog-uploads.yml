@@ -1,8 +1,5 @@
 name: Publicar envios do painel Falaê
 on:
-  push:
-    branches: [main]
-    paths: [scripts/publish-catalog-uploads.mjs, .github/workflows/publish-catalog-uploads.yml]
   workflow_dispatch:
 permissions:
   contents: write
