@@ -1,0 +1,29 @@
+{
+  "version": "3.0.0",
+  "android": {
+    "file": "Falae-3.0.0-android.apk",
+    "sha256": "011db64a6d541b184e7000910a1ce9df910e00b308d067693d8f32dfa057f444",
+    "parts": [
+      "https://falae.pages.dev/app-transfer/apps-3-011db64a6d54/android.part0.bin",
+      "https://falae.pages.dev/app-transfer/apps-3-011db64a6d54/android.part1.bin",
+      "https://falae.pages.dev/app-transfer/apps-3-011db64a6d54/android.part2.bin"
+    ]
+  },
+  "desktop": [
+    {
+      "kind": "windows",
+      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-e4ec-820e-97a9-bc755f4ab427/raw?se=2026-11-14T00%3A56%3A43Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d777-901a-768b-a3fe-68c43332786d&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A20%3A10Z&ske=2026-11-14T19%3A20%3A10Z&sks=b&skv=2026-06-06&sig=1452W3TcWZec9KLtLo8ktcp/9cKsmxvPWWA%2BWixl6Cg%3D",
+      "sha256": "91034d2fd0ea359f998c99a5fa8853a73d83505ea1b102d1870fa085625cbf8c"
+    },
+    {
+      "kind": "linux",
+      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-ce38-820e-b75c-bd4d0ad1df92/raw?se=2026-11-14T00%3A56%3A43Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d777-901a-768b-a3fe-68c43332786d&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A41%3A10Z&ske=2026-11-14T19%3A41%3A10Z&sks=b&skv=2026-06-06&sig=LaXTNBvBqSafAdSE/gRqMKWLFLLqUr6n8Hi7yYUv70s%3D",
+      "sha256": "a7fcc834c2736449efa0f334c347f9f71cd86dbacab9f09cca23b2d6100ec640"
+    },
+    {
+      "kind": "macos",
+      "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-65f0-820e-b132-327733a14ae6/raw?se=2026-11-14T00%3A57%3A06Z&sp=r&sv=2026-06-06&sr=b&scid=01a1d777-901a-768b-a3fe-68c43332786d&skoid=68f37fa7-4e08-478b-93f3-c72d563a0ab3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T19%3A22%3A26Z&ske=2026-11-14T19%3A22%3A26Z&sks=b&skv=2026-06-06&sig=l1wMkGCv/pN9iWsc5fJCfRiU60t4VbaoZ78ihSkiUzQ%3D",
+      "sha256": "fcd6dab88cc8a8214b1de8a8ac2ec46de0470097398108f9b8bd7e34511ffa6f"
+    }
+  ]
+}
