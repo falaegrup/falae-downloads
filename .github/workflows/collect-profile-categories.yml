@@ -1,0 +1,44 @@
+name: Coletar categorias de ícones e banners
+on:
+  push:
+    branches: [main]
+    paths: [scripts/collect-profile-categories.mjs, .github/workflows/collect-profile-categories.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: collect-profile-categories
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/collect-profile-categories.mjs
+            /catalogo/importar.json
+            /catalogo/cancelados.json
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38
+        with:
+          node-version: '24'
+      - name: Coletar categorias e novos originais disponíveis
+        run: node scripts/collect-profile-categories.mjs
+      - name: Preservar metadados e novos arquivos
+        run: |
+          git add catalogo/categorias-perfis-fonte.json
+          node --input-type=module -e "import fs from 'node:fs';import cp from 'node:child_process';const j=JSON.parse(fs.readFileSync('catalogo/categorias-perfis-fonte.json'));for(const x of j.newFiles)cp.execFileSync('git',['add','--','catalogo/'+x.path]);"
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit --quiet -m 'Preservar categorias oficiais e novos ícones e banners disponíveis'
+            git push --quiet origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: categorias-perfis-fonte
+          path: catalogo/categorias-perfis-fonte.json
+          retention-days: 3
